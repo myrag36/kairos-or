@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-30T14:45:00Z",
- "price": 3922,
- "change": -2.47,
- "priceTime": "30 oct. · vers 15h40 Paris",
+ "updatedAt": "2026-10-30T15:45:00Z",
+ "price": 3897,
+ "change": -3.09,
+ "priceTime": "30 oct. · vers 16h45 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or a cassé 3 975 puis 3 940 et recule d'environ 2,5 % vers 3 920, son plus bas depuis plusieurs mois. Une attaque contre un pétrolier dans le détroit d'Ormuz fait monter le pétrole (Brent vers 117 $), ce qui relance la peur d'inflation et les paris sur une hausse des taux en décembre (environ 83 %). L'ancien plus bas 3 975 devient une résistance : on vend un rebond vers 3 965–3 980, ou vers 4 032–4 044 si le rebond va plus loin. Ne pas vendre au plus bas après une telle chute. Un achat ne s'envisage que sur le support 3 830–3 850 avec un vrai signal de rejet. Ce soir, clôture mensuelle : volatilité possible.",
+ "summary": "L'or poursuit sa chute : environ -3 % vers 3 897, après un plus bas vers 3 890, son niveau le plus faible depuis l'été. L'attaque d'un pétrolier à Ormuz fait monter le pétrole, ce qui relance la peur d'inflation : les marchés voient environ 85 % de chances d'une hausse des taux en décembre. Le marché est très étiré (RSI horaire vers 17) : ne pas vendre ici, attendre un rebond vers 3 965–3 980, ou 4 032–4 044 s'il va plus loin. Un achat ne s'envisage que sur le support 3 830–3 850 avec un vrai signal de rejet. Ce soir, clôture de la semaine et du mois : mouvements brusques possibles.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal. Remplace la vente sur cassure de 3 975, dont l'objectif 3 940 a été atteint sans retour pour entrer.",
+   "note": "Plan principal, toujours valable : l'or n'est pas remonté dans la zone. Rien à faire tant que le prix reste sous 3 965.",
    "invalidAbove": 4005
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Remplace l'achat de retournement, annulé par la chute sous 3 960. Taille réduite : on achète contre la tendance.",
+   "note": "Plan gardé : l'or s'approche de la zone (vers 3 897). Taille réduite, on achète contre la tendance. Pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -88,7 +88,7 @@
   {
    "p": 3900,
    "kind": "pivot",
-   "label": "Seuil rond, objectif cité par Sucden et RoboForex"
+   "label": "Seuil rond, plus bas du jour vers 3 890"
   },
   {
    "p": 3840,
@@ -100,7 +100,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Environ 83 % de probabilité de hausse en décembre selon les contrats à terme."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Environ 85 % de probabilité de hausse en décembre selon les contrats à terme."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -130,7 +130,7 @@
   {
    "name": "Technique",
    "impact": -2,
-   "text": "L'or a cassé 3 975 puis 3 940 et touche son plus bas depuis plusieurs mois. Deuxième baisse mensuelle de suite (environ -4 % en octobre). Tendance vendeuse, mais le marché est étiré : un rebond technique est possible."
+   "text": "L'or a cassé 3 975, 3 940 puis 3 900 et touche son plus bas depuis l'été. Prix sous les moyennes 50 et 200 jours, deuxième baisse mensuelle de suite. RSI horaire vers 17 et RSI jour vers 30 : très survendu, un rebond technique est possible. Un retour au-dessus de 4 005 (moyenne 20 en 4 h) serait un premier signe de stabilisation."
   },
   {
    "name": "Achats des banques centrales",
@@ -149,7 +149,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas vendre au plus bas après une chute de plus de 100 $ dans la journée : attendre un rebond vers 3 965–3 980.",
+  "Ne pas vendre au plus bas après une chute de plus de 120 $ dans la journée : attendre un rebond vers 3 965–3 980.",
   "Ne pas acheter « parce que c'est bas » : seulement sur 3 830–3 850 avec un signal de rejet.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée.",
@@ -227,24 +227,28 @@
  ],
  "sources": [
   {
-   "title": "Kitco : l'or passe sous 4 000, attaque à Ormuz (30 oct.)",
-   "url": "https://www.kitco.com/news/article/2026-10-30/gold-drops-below-4000-silver-tumbles-hormuz-attack-lifts-oil-prices-kitco"
+   "title": "Rio Times : l'or perd 3,3 % à 3 890 $, RSI et moyennes (30 oct., 10h33 New York)",
+   "url": "https://www.riotimesonline.com/silver-drops-5-gold-3-as-rout-accelerates/"
+  },
+  {
+   "title": "Trading Economics : l'or vers 3 900 $, -3 %",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "USAGold : l'or chute de 3 % à 3 897 $ (30 oct.)",
+   "url": "https://www.usagold.com/daily-precious-metals-market-report-october-30-2026/"
+  },
+  {
+   "title": "Yahoo Finance : l'or sous 4 000, tensions au Moyen-Orient (30 oct.)",
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-october-30-2026-gold-slips-below-4000-as-mid-east-concerns-mount-111451238.html"
   },
   {
    "title": "Kitco / Reuters : plus bas de 3 mois et demi (30 oct.)",
    "url": "https://www.kitco.com/news/off-the-wire/2026-10-30/gold-hits-3-12-month-low-fed-hike-fears-set-monthly-loss"
   },
   {
-   "title": "Trading Economics : l'or au plus bas depuis un an",
-   "url": "https://tradingeconomics.com/commodity/gold"
-  },
-  {
-   "title": "Rallies : l'or perd 2 % à 3 939 $",
-   "url": "https://rallies.ai/news/spot-gold-falls-2-to-its-lowest-level-since-november-2025-27ff17221060da3b"
-  },
-  {
-   "title": "FinanceFeeds : niveaux du jour (30 oct.)",
-   "url": "https://financefeeds.com/gold-price-today-3987-friday-below-4000-second-monthly-decline-bull-4080-bear-3940/"
+   "title": "Kitco : l'or passe sous 4 000, attaque à Ormuz (30 oct.)",
+   "url": "https://www.kitco.com/news/article/2026-10-30/gold-drops-below-4000-silver-tumbles-hormuz-attack-lifts-oil-prices-kitco"
   },
   {
    "title": "RoboForex : prévision hebdo 2–6 nov.",
