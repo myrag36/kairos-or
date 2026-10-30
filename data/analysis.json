@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-30T18:05:00Z",
- "price": 3880,
- "change": -3.5,
- "priceTime": "30 oct. · 19h05 Paris",
+ "updatedAt": "2026-10-30T19:05:00Z",
+ "price": 3878,
+ "change": -3.55,
+ "priceTime": "30 oct. · 20h05 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or a encore glissé : environ -3,5 % vers 3 880, nouveau plus bas depuis un an, sans rebond pour l'instant. Le pétrole cher (Brent vers 117 $ après l'attaque d'un pétrolier à Ormuz) entretient la peur d'inflation : plus de 70 % de chances d'une hausse des taux en décembre, rendement à 10 ans vers 4,95 %. Des ventes pour récupérer du cash après la chute des valeurs tech amplifient la baisse (XTB, Commerzbank). Le marché est très survendu : ne pas vendre ici, attendre un rebond vers 3 965–3 980, et n'acheter que sur 3 830–3 850 avec un vrai signal de rejet. Ce soir, clôture de la semaine et du mois : mouvements brusques possibles.",
+ "summary": "L'or reste au plus bas : environ -3,5 % vers 3 878, plus bas du jour 3 875 selon Kitco, plus bas depuis un an. Le pétrole cher (Brent vers 117 $ après l'attaque d'un pétrolier à Ormuz) entretient la peur d'inflation : plus de 70 % de chances d'une hausse des taux en décembre, rendement à 10 ans vers 4,95 %. Des ventes pour récupérer du cash après la chute des valeurs tech amplifient la baisse (XTB, Commerzbank). Le marché est très survendu : ne pas vendre ici, attendre un rebond vers 3 965–3 980, et n'acheter que sur 3 830–3 850 avec un vrai signal de rejet. Clôture de la semaine et du mois dans moins d'une heure : mouvements brusques possibles.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : l'or est descendu vers 3 880 sans rebond vers la zone. Rien à faire tant que le prix reste sous 3 965.",
+   "note": "Plan principal, toujours valable : l'or tient vers 3 878 sans rebond vers la zone. Rien à faire tant que le prix reste sous 3 965.",
    "invalidAbove": 4005
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : l'or se rapproche, à 30–50 $ de la zone. XTB place aussi un support à 3 850–3 880. Taille réduite, on achète contre la tendance. Pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : l'or n'est plus qu'à 30–45 $ de la zone. XTB place aussi un support à 3 850–3 880. Taille réduite, on achète contre la tendance. Pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -88,7 +88,7 @@
   {
    "p": 3900,
    "kind": "pivot",
-   "label": "Seuil rond cassé, plus bas du jour vers 3 880"
+   "label": "Seuil rond cassé, plus bas du jour vers 3 875"
   },
   {
    "p": 3840,
@@ -227,7 +227,7 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : l'or vers 3 880 $, -3,5 %, plus bas depuis octobre 2025 (30 oct.)",
+   "title": "Trading Economics : l'or vers 3 877 $, -3,6 %, plus bas depuis octobre 2025 (30 oct.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
@@ -235,7 +235,7 @@
    "url": "https://www.xtb.com/cy/market-analysis/news-and-research/gold-prices-drop-sharply-at-the-end-of-october-the-collapse-of-the-safe-haven-myth-or-a-search-for-liquidity"
   },
   {
-   "title": "Kitco : cours spot 3 889,70 $, -3,25 % (30 oct., 13h10 New York)",
+   "title": "Kitco : cours spot 3 877,60 $, -3,55 %, plus bas 3 875,40 (30 oct., 14h51 New York)",
    "url": "http://www.kitco.com/charts/gold"
   },
   {
