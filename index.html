@@ -206,6 +206,9 @@ td.txt{font-family:var(--f-body);white-space:normal;min-width:160px;color:#C6CCD
 .tv-ta{height:420px;border-radius:8px;overflow:hidden;border:1px solid var(--line);background:var(--panel)}
 .tv-feed{height:520px;border-radius:8px;overflow:hidden;border:1px solid var(--line);background:var(--panel)}
 .three{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:14px}
+.plan.dead{opacity:.5}
+.plan .live{color:var(--gold);font-weight:500}
+.plan .live:empty{display:none}
 .copied{color:var(--up);font-size:12px}
 @media (max-width:1000px){.chartgrid,.three{grid-template-columns:minmax(0,1fr)}.tv{height:440px}}
 </style>
@@ -261,7 +264,7 @@ td.txt{font-family:var(--f-body);white-space:normal;min-width:160px;color:#C6CCD
   </section>
 
   <section class="panel" id="plans" aria-label="Plans de trade">
-    <div class="ph"><h2>Plans de trade</h2><small>Le plan le plus proche du prix en direct s'illumine</small></div>
+    <div class="ph"><h2>Plans de trade</h2><small>Suivi en direct : un plan franchi ou invalidé se met à jour tout seul</small></div>
     <div class="plans" id="plansList"><div class="skeleton">Chargement des plans…</div></div>
   </section>
 
@@ -391,7 +394,7 @@ function paintPrice(){
   const el=$("livePx"),p=cur();el.textContent=isFinite(p)?P2(p)+" $":"—";
   if(isFinite(live)&&isFinite(lastLive)&&live!==lastLive&&!isFinite(manual)){el.className=live>lastLive?"fu":"fd";setTimeout(()=>el.className="",700)}
   const c=$("liveChg");if(B&&isFinite(p)){const d=p-B.price;c.innerHTML=`<span class="${d>=0?"up":"down"}">${d>=0?"+":"−"}${P2(Math.abs(d))}</span> depuis l'analyse`}else c.textContent=isFinite(manual)?"prix manuel":"";
-  if(B){drawLadder();nearest()}
+  if(B){track(p);drawLadder();nearest()}
 }
 $("mypx").addEventListener("input",()=>{manual=num($("mypx").value);store.set("px",isFinite(manual)?String(manual):"");paintPrice()});
 if(isFinite(manual))$("mypx").value=String(manual).replace(".",",");
@@ -427,11 +430,11 @@ function render(){
     const mid=s.zone?(s.zone[0]+s.zone[1])/2:NaN,risk=Math.abs(mid-s.stop);
     const rr=(s.tps||[]).map(t=>nf(1).format(Math.abs(t-mid)/risk)).join(" / ");
     const st={active:["st","À l'affût"],watch:["watch","Surveillance"],off:["off","Invalidé"],done:["watch","Terminé"]}[s.status]||["watch",s.status||""];
-    return `<article class="plan ${s.side}" data-i="${i}"><header><span class="tag ${s.side}">${s.side==="sell"?"Vente":"Achat"}</span><span class="tag ${st[0]}">${esc(st[1])}</span></header>
+    return `<article class="plan ${s.side}" data-i="${i}"><header><span class="tag ${s.side}">${s.side==="sell"?"Vente":"Achat"}</span><span class="tag ${st[0]}" id="st-${i}">${esc(st[1])}</span></header>
     <h3>${esc(s.name)}</h3><p class="trig">${esc(s.trigger)}</p>
     <dl><dt>Entrée</dt><dd>${ent}</dd><dt>Stop</dt><dd class="down">${P(s.stop)}</dd>${(s.tps||[]).map((t,k)=>`<dt>Objectif ${k+1}</dt><dd class="up">${P(t)}</dd>`).join("")}</dl>
     <div class="rr"><span>Gain / risque <b>${rr||"—"}</b></span><button type="button" class="mini" data-calc="${i}">Calculer ma taille</button></div>
-    ${s.note?`<p class="note">${esc(s.note)}</p>`:""}</article>`}).join("");
+    ${s.note?`<p class="note">${esc(s.note)}</p>`:""}<p class="note live" id="lv-${i}"></p></article>`}).join("");
   $("factors").innerHTML=(B.factors||[]).map(f=>{const v=+f.impact||0;let m="";for(let k=-2;k<=2;k++){let c="";if(k===0)c=v===0?"z":"";else if(v<0&&k<0&&k>=v)c="n";else if(v>0&&k>0&&k<=v)c="p";m+=`<i class="${c}"></i>`}
     return `<div class="fac"><b>${esc(f.name)}</b><div class="meter" title="Impact ${v>0?"+":""}${v}">${m}</div><p>${esc(f.text)}</p></div>`}).join("");
   $("rules").innerHTML=(B.noTrade||[]).map(r=>`<li>${esc(r)}</li>`).join("");
@@ -459,10 +462,33 @@ function drawLadder(){
   if(isFinite(c)){const cy=y(c);s+=`<line x1="70" y1="${cy}" x2="${W}" y2="${cy}" stroke="#E9BE5F" stroke-width="2"/><rect x="${W-118}" y="${cy-11}" width="118" height="22" rx="4" fill="#E9BE5F"/><text x="${W-59}" y="${cy+4}" text-anchor="middle" fill="#1C1505" font-family="JetBrains Mono, monospace" font-size="12" font-weight="600">Prix ${P2(c)}</text><circle cx="70" cy="${cy}" r="5" fill="#E9BE5F"/>`}
   s+="</svg>";$("ladder").innerHTML=s;
 }
+/* live plan tracking: invalidation before entry, stop / targets after entry */
+const T={};
+function trk(i){const k="trk|"+B.updatedAt+"|"+i;if(!T[k]){let v=null;try{v=JSON.parse(store.get(k)||"null")}catch(e){}T[k]=v||{touched:false,state:""}}return [k,T[k]]}
+function track(p){
+  if(!B||!isFinite(p))return;
+  (B.setups||[]).forEach((s,i)=>{if(!s.zone)return;const [k,t]=trk(i),sell=s.side==="sell",lo=Math.min(...s.zone),hi=Math.max(...s.zone);let ch=false;
+    const up=(st)=>{if(t.state!==st){t.state=st;ch=true}};
+    if(!t.state||t.state==="zone"){
+      if(s.invalidAbove&&p>=s.invalidAbove&&!t.touched)up("invalid");
+      else if(s.invalidBelow&&p<=s.invalidBelow&&!t.touched)up("invalid");
+      else if(p>=lo&&p<=hi){if(!t.touched){t.touched=true;ch=true}up("zone")}
+      else if(t.touched){if(sell?p>=s.stop:p<=s.stop)up("stop");else if(s.tps&&s.tps[0]&&(sell?p<=s.tps[0]:p>=s.tps[0]))up("tp1");else up("zone")}
+    }else if(t.state==="tp1"){if(s.tps&&s.tps[1]&&(sell?p<=s.tps[1]:p>=s.tps[1]))up("tp2")}
+    if(ch){store.set(k,JSON.stringify(t));if(["stop","tp1","tp2","invalid"].includes(t.state))notify(s,t.state,p)}
+    paintStatus(i,s,t);});
+}
+const LBL={zone:["st","Dans la zone"],invalid:["off","Invalidé"],stop:["off","Stop touché"],tp1:["buy","Objectif 1 atteint"],tp2:["buy","Objectif 2 atteint"]};
+const MSG={zone:"Le prix est dans la zone : attendez la bougie de confirmation décrite.",invalid:"Le prix a franchi le niveau d'invalidation avant l'entrée : ce plan n'est plus valable. Un nouveau plan arrive à la prochaine mise à jour.",stop:"Le prix est revenu dans la zone puis a touché le stop : plan terminé.",tp1:"Objectif 1 atteint : pensez à remonter le stop au prix d'entrée.",tp2:"Objectif 2 atteint : plan terminé."};
+function paintStatus(i,s,t){const card=document.querySelector(`.plan[data-i="${i}"]`);if(!card)return;const tag=$("st-"+i),lv=$("lv-"+i);
+  if(t.state&&LBL[t.state]){tag.className="tag "+LBL[t.state][0];tag.textContent=LBL[t.state][1];lv.textContent=MSG[t.state]}
+  card.classList.toggle("dead",["invalid","stop","tp2"].includes(t.state));}
+const isDead=i=>{if(!B)return false;const t=T["trk|"+B.updatedAt+"|"+i];return !!t&&["invalid","stop","tp2"].includes(t.state)};
+function notify(s,st,p){beep();if("Notification" in window&&Notification.permission==="granted"){try{new Notification("Kairos Or : "+LBL[st][1],{body:s.name+" · prix "+P2(p)})}catch(e){}}}
 function nearest(){
   document.querySelectorAll(".plan").forEach(e=>e.classList.remove("hot"));
   const n=$("near"),p=cur();if(!B||!isFinite(p)){n.textContent="";return}
-  let best=null,bd=Infinity;(B.setups||[]).forEach((s,i)=>{if(!s.zone||s.status==="off")return;const lo=Math.min(...s.zone),hi=Math.max(...s.zone),d=p<lo?lo-p:p>hi?p-hi:0;if(d<bd){bd=d;best=i}});
+  let best=null,bd=Infinity;(B.setups||[]).forEach((s,i)=>{if(!s.zone||s.status==="off"||isDead(i))return;const lo=Math.min(...s.zone),hi=Math.max(...s.zone),d=p<lo?lo-p:p>hi?p-hi:0;if(d<bd){bd=d;best=i}});
   if(best===null){n.textContent="";$("alert").hidden=true;return}
   const s=B.setups[best];document.querySelector(`.plan[data-i="${best}"]`)?.classList.add("hot");
   if(bd===0){n.innerHTML=`<span class="gold">Le prix est dans la zone « ${esc(s.name)} ». Attendez le signal décrit avant d'entrer.</span>`;alertFor(best,s,p)}

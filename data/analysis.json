@@ -21,7 +21,8 @@
     3985,
     3950
    ],
-   "note": "Plan principal. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente."
+   "note": "Plan principal. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "invalidAbove": 4062
   },
   {
    "side": "sell",
@@ -37,7 +38,8 @@
     3940,
     3900
    ],
-   "note": "Extension possible vers 3 830–3 850 si 3 900 cède."
+   "note": "Extension possible vers 3 830–3 850 si 3 900 cède.",
+   "invalidAbove": 4062
   },
   {
    "side": "buy",
@@ -53,7 +55,8 @@
     4078,
     4110
    ],
-   "note": "À envisager seulement si le dollar recule nettement ou si un chiffre US déçoit."
+   "note": "À envisager seulement si le dollar recule nettement ou si un chiffre US déçoit.",
+   "invalidBelow": 3960
   }
  ],
  "levels": [
