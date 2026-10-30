@@ -1,16 +1,33 @@
 {
- "updatedAt": "2026-10-30T13:45:00Z",
- "price": 3998,
- "change": -0.56,
- "priceTime": "30 oct. · matinée",
+ "updatedAt": "2026-10-30T14:45:00Z",
+ "price": 3922,
+ "change": -2.47,
+ "priceTime": "30 oct. · vers 15h40 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or a cassé sa zone 4 035–4 060 et teste maintenant 4 000–3 975. Les chiffres américains d'hier (PIB 3,4 %, PCE au-dessus des attentes) et des inscriptions au chômage basses (194 000) poussent le marché à parier sur une hausse des taux en décembre : c'est négatif pour l'or. L'ancien support 4 032–4 044 devient une résistance. On vend un rebond vers cette zone, ou une cassure confirmée de 3 975. On n'achète que si l'or reprend 4 045.",
+ "summary": "L'or a cassé 3 975 puis 3 940 et recule d'environ 2,5 % vers 3 920, son plus bas depuis plusieurs mois. Une attaque contre un pétrolier dans le détroit d'Ormuz fait monter le pétrole (Brent vers 117 $), ce qui relance la peur d'inflation et les paris sur une hausse des taux en décembre (environ 83 %). L'ancien plus bas 3 975 devient une résistance : on vend un rebond vers 3 965–3 980, ou vers 4 032–4 044 si le rebond va plus loin. Ne pas vendre au plus bas après une telle chute. Un achat ne s'envisage que sur le support 3 830–3 850 avec un vrai signal de rejet. Ce soir, clôture mensuelle : volatilité possible.",
  "setups": [
   {
    "side": "sell",
-   "name": "Vente sur rebond",
+   "name": "Vente sur retour sous 3 975",
    "status": "active",
+   "zone": [
+    3965,
+    3980
+   ],
+   "trigger": "Attendre une remontée dans 3 965–3 980 (ancien plus bas du 23 oct. devenu résistance) puis une bougie de rejet en 15 min ou 1 h : longue mèche haute ou clôture baissière franche.",
+   "stop": 4005,
+   "tps": [
+    3905,
+    3850
+   ],
+   "note": "Plan principal. Remplace la vente sur cassure de 3 975, dont l'objectif 3 940 a été atteint sans retour pour entrer.",
+   "invalidAbove": 4005
+  },
+  {
+   "side": "sell",
+   "name": "Vente sur rebond",
+   "status": "watch",
    "zone": [
     4032,
     4044
@@ -21,84 +38,57 @@
     3985,
     3950
    ],
-   "note": "Plan principal. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
-   "invalidAbove": 4062
-  },
-  {
-   "side": "sell",
-   "name": "Vente sur cassure",
-   "status": "active",
-   "zone": [
-    3975,
-    3985
-   ],
-   "trigger": "Seulement après une clôture 1 h sous 3 975, puis un retour vers 3 975–3 985 qui échoue. Ne jamais vendre la première bougie de cassure.",
-   "stop": 4005,
-   "tps": [
-    3940,
-    3900
-   ],
-   "note": "Extension possible vers 3 830–3 850 si 3 900 cède.",
+   "note": "Plan gardé. L'or est loin de la zone : il faudrait un fort rebond. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
    "side": "buy",
-   "name": "Achat de retournement",
+   "name": "Achat sur support",
    "status": "watch",
    "zone": [
-    4040,
-    4048
+    3832,
+    3850
    ],
-   "trigger": "Scénario alternatif : clôture 4 h au-dessus de 4 045, puis retour sur 4 040–4 048 qui tient.",
-   "stop": 4015,
+   "trigger": "Scénario contre-tendance : test de 3 830–3 850 puis bougie 1 h avec longue mèche basse qui clôture au-dessus de 3 850.",
+   "stop": 3815,
    "tps": [
-    4078,
-    4110
+    3900,
+    3940
    ],
-   "note": "À envisager seulement si le dollar recule nettement ou si un chiffre US déçoit.",
-   "invalidBelow": 3960
+   "note": "Remplace l'achat de retournement, annulé par la chute sous 3 960. Taille réduite : on achète contre la tendance.",
+   "invalidBelow": 3815
   }
  ],
  "levels": [
   {
-   "p": 4110,
-   "kind": "res",
-   "label": "Résistance 4 101–4 115"
-  },
-  {
-   "p": 4078,
-   "kind": "res",
-   "label": "Résistance 4 074–4 083"
-  },
-  {
    "p": 4062,
    "kind": "res",
-   "label": "Invalidation des ventes"
+   "label": "Invalidation des ventes hautes"
   },
   {
    "p": 4038,
    "kind": "res",
-   "label": "Ancien support, zone de vente"
+   "label": "Zone de vente 4 032–4 044"
   },
   {
-   "p": 4000,
-   "kind": "pivot",
-   "label": "Seuil psychologique"
+   "p": 4005,
+   "kind": "res",
+   "label": "Seuil 4 000, stop des ventes"
   },
   {
    "p": 3975,
-   "kind": "sup",
-   "label": "Plus bas depuis juillet"
+   "kind": "res",
+   "label": "Ancien plus bas, devenu résistance"
   },
   {
    "p": 3940,
-   "kind": "sup",
-   "label": "Support 3 932–3 951"
+   "kind": "res",
+   "label": "Ancien support 3 932–3 951 cassé"
   },
   {
    "p": 3900,
-   "kind": "sup",
-   "label": "Seuil rond"
+   "kind": "pivot",
+   "label": "Seuil rond, objectif cité par Sucden et RoboForex"
   },
   {
    "p": 3840,
@@ -110,17 +100,17 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Environ 80 % de probabilité de hausse en décembre. Des taux plus hauts rendent l'or (qui ne rapporte rien) moins attractif."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Environ 83 % de probabilité de hausse en décembre selon les contrats à terme."
   },
   {
    "name": "Rendement américain à 10 ans",
    "impact": -2,
-   "text": "Autour de 5 %. C'est le principal frein de l'or depuis septembre."
+   "text": "Autour de 5 % (4,98 % jeudi). C'est le principal frein de l'or depuis septembre."
   },
   {
    "name": "Croissance et inflation US",
    "impact": -1,
-   "text": "PIB T3 à 3,4 % (3,2 % attendu), PCE core T3 à 2,5 % (2,4 % attendu). Une économie forte renforce le scénario de hausse des taux."
+   "text": "PIB T3 à 3,4 % (3,2 % attendu). Inflation PCE de septembre à 3,6 % sur un an, 3,1 % hors énergie et alimentation. Cela renforce le scénario de hausse des taux."
   },
   {
    "name": "Emploi américain",
@@ -130,17 +120,17 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Proche de son plus haut d'une semaine, légèrement détendu. Un dollar fort pèse sur l'or."
+   "text": "Plutôt ferme selon Kitco. Un dollar fort pèse sur l'or."
   },
   {
    "name": "Pétrole et Golfe",
-   "impact": 0,
-   "text": "La diplomatie entre les États-Unis et l'Iran détend le pétrole : moins d'inflation (bon pour l'or), mais aussi moins de demande refuge (mauvais pour l'or). Effet neutre pour l'instant."
+   "impact": -1,
+   "text": "Attaque contre un pétrolier dans le détroit d'Ormuz, sans accord diplomatique. Brent vers 117 $ (+13 % sur le mois). Aujourd'hui l'effet inflation domine : plus de hausse de taux attendue, donc pression sur l'or plutôt que demande refuge."
   },
   {
    "name": "Technique",
    "impact": -2,
-   "text": "L'or a cassé sa zone 4 035–4 060 et passe sous 4 000. RSI 1 h vers 35–40 : tendance vendeuse, mais un rebond technique reste possible avant la suite."
+   "text": "L'or a cassé 3 975 puis 3 940 et touche son plus bas depuis plusieurs mois. Deuxième baisse mensuelle de suite (environ -4 % en octobre). Tendance vendeuse, mais le marché est étiré : un rebond technique est possible."
   },
   {
    "name": "Achats des banques centrales",
@@ -155,15 +145,15 @@
   {
    "name": "Sentiment",
    "impact": 1,
-   "text": "Plusieurs analystes jugent l'or survendu sous 4 000 (BCA) et State Street garde un objectif à 5 000 $. Les acheteurs attendent en dessous."
+   "text": "Court terme négatif (Sucden voit 3 900), mais UBS juge possible 5 000 $ l'an prochain quand la Fed baissera ses taux. Les acheteurs de long terme attendent plus bas."
   }
  ],
  "noTrade": [
-  "Ne pas vendre au milieu de 4 000–3 975 : soit on attend le rebond vers 4 032–4 044, soit une vraie cassure de 3 975.",
+  "Ne pas vendre au plus bas après une chute de plus de 100 $ dans la journée : attendre un rebond vers 3 965–3 980.",
+  "Ne pas acheter « parce que c'est bas » : seulement sur 3 830–3 850 avec un signal de rejet.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée.",
-  "Éviter l'heure de clôture américaine (23h–minuit à Paris) : les écarts s'élargissent.",
-  "Le 3 novembre (élections de mi-mandat), réduire la taille : la volatilité peut exploser la nuit."
+  "Ce soir clôture de semaine et de mois, puis élections de mi-mandat le 3 novembre : réduire la taille."
  ],
  "calendar": [
   {
@@ -177,7 +167,7 @@
    "at": "2026-10-30T20:00:00Z",
    "event": "Clôture hebdomadaire et mensuelle",
    "importance": 2,
-   "why": "Une clôture de semaine sous 3 975 serait un signal vendeur fort."
+   "why": "Clôture de mois et de semaine. Une clôture sous 3 940 confirmerait la tendance vendeuse."
   },
   {
    "at": "2026-11-02T15:00:00Z",
@@ -237,36 +227,32 @@
  ],
  "sources": [
   {
-   "title": "Mitrade : l'or teste 4 000 (30 oct.)",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/us-gdp-jobless-claims-drop-fed-hike"
+   "title": "Kitco : l'or passe sous 4 000, attaque à Ormuz (30 oct.)",
+   "url": "https://www.kitco.com/news/article/2026-10-30/gold-drops-below-4000-silver-tumbles-hormuz-attack-lifts-oil-prices-kitco"
   },
   {
-   "title": "FX Leaders : l'or passe sous 4 000 (30 oct.)",
-   "url": "https://www.fxleaders.com/news/2026/10/30/gold-price-forecast-xau-usd-slips-below-4000-as-hot-pce-backs-december-hike/"
+   "title": "Kitco / Reuters : plus bas de 3 mois et demi (30 oct.)",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-30/gold-hits-3-12-month-low-fed-hike-fears-set-monthly-loss"
   },
   {
-   "title": "Kitco : PIB 3,4 %, PCE core 2,5 % (29 oct.)",
-   "url": "http://www.kitco.com/news/article/2026-10-29/spot-gold-4025oz-us-gdp-growth-rises-34-q3-core-pce-rises-25"
+   "title": "Trading Economics : l'or au plus bas depuis un an",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "Rallies : l'or perd 2 % à 3 939 $",
+   "url": "https://rallies.ai/news/spot-gold-falls-2-to-its-lowest-level-since-november-2025-27ff17221060da3b"
+  },
+  {
+   "title": "FinanceFeeds : niveaux du jour (30 oct.)",
+   "url": "https://financefeeds.com/gold-price-today-3987-friday-below-4000-second-monthly-decline-bull-4080-bear-3940/"
+  },
+  {
+   "title": "RoboForex : prévision hebdo 2–6 nov.",
+   "url": "https://roboforex.com/beginners/analytics/forex-forecast/gold/xau-usd-gold-weekly-forecast-2026-10-30/"
   },
   {
    "title": "Kitco : la Fed maintient ses taux, vote 10–2 (28 oct.)",
    "url": "https://www.kitco.com/news/article/2026-10-28/gold-price-drops-4035oz-fed-votes-10-2-favor-rate-hold"
-  },
-  {
-   "title": "RoboForex : niveaux techniques du 29 oct.",
-   "url": "https://roboforex.com/beginners/analytics/forex-forecast/gold/xau-usd-gold-forecast-2026-10-29/"
-  },
-  {
-   "title": "Top1 Markets : les trois événements de la semaine",
-   "url": "https://www.top1markets.com/insights/commodities/gold-price-fed-meeting-2026"
-  },
-  {
-   "title": "Trading Economics : actualité de l'or",
-   "url": "https://tradingeconomics.com/commodity/gold/news/534451"
-  },
-  {
-   "title": "SMM : dollar et rendement 10 ans à 5,015 %",
-   "url": "https://news.metal.com/newscontent/104184454-dollar-eases-giving-gold-and-silver-breathing-room-10-year-treasury-yield-rises-to-5015"
   },
   {
    "title": "Calendrier économique US de novembre 2026",
