@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-02T17:50:00Z",
- "price": 3967,
- "change": 2.4,
- "priceTime": "2 nov. · 18h05 Paris",
+ "updatedAt": "2026-11-02T18:10:00Z",
+ "price": 3962,
+ "change": 2.3,
+ "priceTime": "2 nov. · 19h05 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or tient son rebond ce lundi : vers 3 967 $ (+2,4 %, Kitco), plus haut du jour 3 971, toujours dans la résistance 3 965–3 980. La chute du pétrole (environ -7 %) et un dollar en léger repli portent ce rebond, malgré un ISM manufacturier fort à 55,5. Le marché voit encore 73 à 77 % de chances de hausse des taux en décembre et le prix reste sous 4 000 : la tendance de fond reste baissière. Aucun plan n'est invalidé, on garde les trois ; la vente sur 3 965–3 980 est en place, mais il faut une bougie de rejet nette avant d'entrer. Élections de mi-mandat demain, emploi (NFP) vendredi.",
+ "summary": "L'or marque une pause après son rebond : vers 3 962 $ (+2,3 %, Kitco), un peu sous le plus haut du jour à 3 971, au contact de la résistance 3 965–3 980. La chute du pétrole (environ -8 %) et un dollar en léger repli portent ce rebond, et le RSI sort de la zone de survente (vers 37). Le marché voit encore 75 à 77 % de chances de hausse des taux en décembre et le prix reste sous 4 000 : la tendance de fond reste baissière. Aucun plan n'est invalidé, on garde les trois ; le premier repli sous 3 971 est un début de rejet, mais il faut encore une bougie 1 h baissière nette avant de vendre. Élections de mi-mandat demain, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : l'or est à 3 967, dans la zone, et bute pour l'instant sous 3 971 (plus haut Kitco). FXEmpire place une résistance à 3 973, Mitrade à 3 971–3 982. L'élan haussier reste fort : ne pas vendre par anticipation, attendre un vrai rejet dans la zone. Une clôture 1 h au-dessus de 4 005 annule le plan.",
+   "note": "Plan principal, toujours valable : l'or a touché 3 971 (plus haut Kitco) puis recule vers 3 962. C'est un début de rejet sous la résistance (FXEmpire 3 973, Mitrade 3 971–3 982), pas encore une confirmation. Attendre une bougie 1 h qui clôture nettement en baisse après un passage dans la zone. Une clôture 1 h au-dessus de 4 005 annule le plan.",
    "invalidAbove": 4005
   },
   {
@@ -38,7 +38,7 @@
     3985,
     3950
    ],
-   "note": "Plan gardé. L'or est encore à environ 65 $ de la zone : il faudrait que le rebond franchisse 4 000. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé. L'or est encore à environ 70 $ de la zone : il faudrait que le rebond franchisse 4 000. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone n'a pas été touchée (plus bas du jour 3 879) et le prix s'en éloigne, vers 3 967. Mitrade et FX Leaders placent un support vers 3 828–3 849. Scénario seulement si le rebond échoue et que l'or replonge. Taille réduite, contre la tendance, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone n'a pas été touchée (plus bas du jour 3 879) et le prix en est loin, vers 3 962. Mitrade et FX Leaders placent un support vers 3 828–3 849. Scénario seulement si le rebond échoue et que l'or replonge. Taille réduite, contre la tendance, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -135,12 +135,12 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 1,
-   "text": "Le pétrole chute d'environ 7 % sur les discussions entre l'Iran et le Qatar (Trading Economics) : moins de peur d'inflation, c'est le moteur du rebond de l'or aujourd'hui. Mais Trump a prévenu que les frappes pourraient reprendre après les élections : risque de rechute."
+   "text": "Le pétrole chute d'environ 8 % (WTI vers 96 $, Brent vers 104 $, Trading Economics) sur les discussions entre l'Iran et le Qatar : moins de peur d'inflation, c'est le moteur du rebond de l'or aujourd'hui. Mais Trump a prévenu que les frappes pourraient reprendre après les élections : risque de rechute."
   },
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Plus bas d'un an vendredi vers 3 870, pire mois d'octobre depuis 2008. Ce lundi, l'or a cassé 3 920 puis 3 950 et teste 3 965–3 980. FXEmpire reste vendeur tant que le prix est sous 4 070 et sous la moyenne 52 semaines (4 447). Supports 3 950, 3 920, 3 870 puis 3 828–3 850."
+   "text": "Plus bas d'un an vendredi vers 3 870, pire mois d'octobre depuis 2008. Ce lundi, l'or a cassé 3 920 puis 3 950 et bute sur 3 965–3 980 (plus haut 3 971). Le RSI 14 jours remonte vers 37 et sort de la survente (Mining.com). FXEmpire reste vendeur tant que le prix est sous 4 070. Supports 3 950, 3 920, 3 870 puis 3 828–3 850."
   },
   {
    "name": "Achats des banques centrales",
@@ -225,8 +225,16 @@
  ],
  "sources": [
   {
-   "title": "Kitco : spot 3 967,10 $, +2,39 %, plus bas 3 879,40, plus haut 3 971,00 (2 nov., 12h05 New York)",
+   "title": "Kitco : spot 3 961,60 $, +2,25 %, plus bas 3 879,40, plus haut 3 971,00 (2 nov., 13h05 New York)",
    "url": "http://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "Trading Economics : l'or vers 3 958 $ (+2,1 %), WTI -7,8 %, Brent -8,2 %, DXY 101,67, 10 ans 4,88 % (2 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "Mining.com (Reuters) : l'or +2,1 % à 3 957 $, RSI vers 37, 77 % de chances de hausse en décembre (2 nov.)",
+   "url": "https://www.mining.com/web/gold-price-rises-over-2-from-one-year-low-on-softer-oil-prices-us-midterms-in-focus/"
   },
   {
    "title": "Rallies.ai (Reuters) : l'or à 3 957 $ (+2,1 %), 77 % de chances de hausse en décembre contre 80 % il y a une semaine (2 nov.)",
@@ -237,20 +245,12 @@
    "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-climbs-2-1-prozent-off-one-year-low-as-cheaper-crude-reframes-the-rate-debate/70446839"
   },
   {
-   "title": "Trading Economics : l'or vers 3 969 $ (+2,4 %), pétrole -7 %, DXY 101,7, 75 % de chances de hausse en décembre (2 nov.)",
-   "url": "https://tradingeconomics.com/commodity/gold"
-  },
-  {
    "title": "FXEmpire : spot 3 969 $ (+1,8 %) à 16h50 UTC, R1 3 973, biais baissier sous 4 070 (2 nov.)",
    "url": "https://www.fxempire.com/forecasts/article/gold-news-xauusd-rebounds-as-oil-plunge-pressures-fed-hike-expectations-1641893"
   },
   {
    "title": "BullionVault : l'or gagne près de 75 $ avant les élections de mi-mandat (2 nov.)",
    "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-price-us-midterms-110220261"
-  },
-  {
-   "title": "Kitco : spot 3 949,80 $, +1,95 %, plus bas 3 879,40, plus haut 3 951,60 (2 nov., 9h32 New York)",
-   "url": "http://www.kitco.com/charts/gold"
   },
   {
    "title": "ISM : PMI manufacturier d'octobre à 55,5 %, prix 75,2 %, emploi 52,4 % (2 nov.)",
