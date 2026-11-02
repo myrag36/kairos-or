@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-02T09:10:00Z",
- "price": 3900,
- "change": 0.6,
- "priceTime": "2 nov. · 10h10 Paris",
+ "updatedAt": "2026-11-02T10:10:00Z",
+ "price": 3897,
+ "change": 0.55,
+ "priceTime": "2 nov. · 11h10 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or tient son petit rebond ce lundi : vers 3 900 $ (+0,6 %) après un plus haut à 3 920, au-dessus du plus bas d'un an de vendredi (3 872–3 875). La baisse du pétrole calme un peu la peur d'inflation, mais le marché voit toujours une hausse des taux probable en décembre. Pour Saxo Bank, l'or doit repasser 4 000 $ avant que le court terme redevienne neutre, et OCBC juge l'élan de reprise faible. On garde les trois plans : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. Semaine chargée : ISM aujourd'hui à 16h Paris, élections de mi-mandat demain, emploi (NFP) vendredi.",
+ "summary": "L'or reste calme ce lundi : vers 3 897 $ (+0,55 %), juste sous 3 900 après avoir rendu une partie du rebond qui l'avait porté à 3 920. Le dollar recule un peu grâce aux espoirs de discussion avec l'Iran, mais le marché voit toujours environ 75 % de chances de hausse des taux en décembre, ce qui freine l'or. Le prix reste sous 3 952 et sous 4 000 : la tendance de fond reste baissière, même si le RSI en zone de survente rend un rebond possible. On garde les trois plans : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. Semaine chargée : ISM aujourd'hui à 16h Paris, élections de mi-mandat demain, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : le rebond a calé à 3 920 et l'or oscille vers 3 900. FXEmpire place la première résistance à 3 978, Mitrade à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
+   "note": "Plan principal, toujours valable : le rebond a calé à 3 920 et l'or retombe sous 3 900. FinanceFeeds garde un biais baissier sous 3 952, Mitrade place la résistance à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
    "invalidAbove": 4005
   },
   {
@@ -38,7 +38,7 @@
     3985,
     3950
    ],
-   "note": "Plan gardé. L'or est à plus de 120 $ de la zone : il faudrait un fort rebond, par exemple sur un NFP faible. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé. L'or est à plus de 130 $ de la zone : il faudrait un fort rebond, par exemple sur un NFP faible. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone n'a pas été touchée (plus bas du jour 3 879, de vendredi 3 872). Mitrade et FX Leaders placent aussi un support vers 3 828–3 849, FXEmpire vers 3 817–3 824. Taille réduite, on achète contre la tendance. Pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone n'a pas été touchée (plus bas du jour 3 879, de vendredi 3 872). Mitrade et FX Leaders placent aussi un support vers 3 828–3 849. Taille réduite, on achète contre la tendance. Pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -130,7 +130,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Indice dollar vers 101,7–101,9 selon Investing.com. Un dollar ferme pèse sur l'or."
+   "text": "Indice dollar en léger recul vers 101,7 ce lundi, sur les espoirs de discussion avec l'Iran (Goodreturns, Tradingpedia). La baisse reste limitée par les paris de hausse de la Fed."
   },
   {
    "name": "Pétrole et Golfe",
@@ -140,7 +140,7 @@
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Plus bas d'un an vendredi vers 3 872–3 875, pire mois d'octobre depuis 2008. Petit rebond ce matin, plus haut 3 920 puis retour vers 3 895. Prix sous toutes les moyennes mobiles, RSI jour vers 32–33 : un rebond est possible, mais il doit passer 3 920 puis 3 978 pour compter. Supports 3 817–3 850 puis 3 780–3 800."
+   "text": "Plus bas d'un an vendredi vers 3 872–3 875, pire mois d'octobre depuis 2008. Rebond à 3 920 ce matin puis retour juste sous 3 900. Prix sous toutes les moyennes mobiles, RSI 4 h vers 29 et jour vers 32 : survente, un rebond est possible, mais il doit passer 3 920 puis 3 952–3 980 pour compter. Supports 3 870 puis 3 828–3 850."
   },
   {
    "name": "Achats des banques centrales",
@@ -224,6 +224,10 @@
  ],
  "sources": [
   {
+   "title": "Tradingpedia : l'or tient de petits gains sous 3 900 $, RSI 4 h à 29, dollar en recul sur l'Iran (2 nov., matinée européenne)",
+   "url": "https://www.tradingpedia.com/2026/11/02/gold-holds-slight-gains-under-3900-as-fed-limits-rise/"
+  },
+  {
    "title": "Kitco : spot 3 893,80 $, +0,50 %, plus bas 3 879,40, plus haut 3 920,10 (2 nov., 3h24 New York)",
    "url": "http://www.kitco.com/charts/gold"
   },
@@ -232,7 +236,7 @@
    "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-bargain-hunters-return-after-worst-october-since-2008-can-gold-reclaim-3978-1641847"
   },
   {
-   "title": "Trading Economics : l'or vers 3 900 $ (+0,63 %), pétrole en baisse (2 nov.)",
+   "title": "Trading Economics : l'or vers 3 898 $ (+0,58 %), pétrole en baisse, 75 % de chances de hausse en décembre (2 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
