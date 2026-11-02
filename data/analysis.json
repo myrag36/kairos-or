@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-02T08:20:00Z",
- "price": 3895,
- "change": 0.52,
- "priceTime": "2 nov. · 9h20 Paris",
+ "updatedAt": "2026-11-02T09:10:00Z",
+ "price": 3900,
+ "change": 0.6,
+ "priceTime": "2 nov. · 10h10 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or garde un petit rebond ce lundi matin mais s'essouffle : vers 3 895 $ (+0,5 %) après un plus haut à 3 920, toujours au-dessus du plus bas d'un an de vendredi (3 872–3 875). La baisse du pétrole calme un peu la peur d'inflation, mais le marché voit toujours environ 75 % de chances d'une hausse des taux en décembre. Pour FXEmpire, ce rebond vient surtout d'achats à bon compte et la tendance reste baissière tant que l'or est sous 3 978. On garde les trois plans : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. Semaine chargée : ISM aujourd'hui à 16h Paris, élections de mi-mandat demain, emploi (NFP) vendredi.",
+ "summary": "L'or tient son petit rebond ce lundi : vers 3 900 $ (+0,6 %) après un plus haut à 3 920, au-dessus du plus bas d'un an de vendredi (3 872–3 875). La baisse du pétrole calme un peu la peur d'inflation, mais le marché voit toujours une hausse des taux probable en décembre. Pour Saxo Bank, l'or doit repasser 4 000 $ avant que le court terme redevienne neutre, et OCBC juge l'élan de reprise faible. On garde les trois plans : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. Semaine chargée : ISM aujourd'hui à 16h Paris, élections de mi-mandat demain, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : le rebond a calé à 3 920 et l'or est revenu vers 3 895. FXEmpire place la première résistance à 3 978, Mitrade à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
+   "note": "Plan principal, toujours valable : le rebond a calé à 3 920 et l'or oscille vers 3 900. FXEmpire place la première résistance à 3 978, Mitrade à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
    "invalidAbove": 4005
   },
   {
@@ -155,7 +155,7 @@
   {
    "name": "Sentiment",
    "impact": 1,
-   "text": "Court terme négatif : des ventes forcées liées à la chute des valeurs tech pèsent sur l'or. ANZ s'attend à une consolidation autour de 4 000 $ avant une vraie reprise. Commerzbank juge la baisse exagérée."
+   "text": "Court terme négatif : des ventes forcées liées à la chute des valeurs tech pèsent sur l'or. Saxo Bank veut un retour au-dessus de 4 000 $ ; Global X craint des sorties des ETF après près de 150 t d'entrées depuis mi-juillet. ANZ s'attend à une consolidation autour de 4 000 $, Commerzbank juge la baisse exagérée."
   }
  ],
  "noTrade": [
@@ -224,7 +224,7 @@
  ],
  "sources": [
   {
-   "title": "Kitco : spot 3 894,70 $, +0,52 %, plus bas 3 879,40, plus haut 3 920,10 (2 nov., 3h17 New York)",
+   "title": "Kitco : spot 3 893,80 $, +0,50 %, plus bas 3 879,40, plus haut 3 920,10 (2 nov., 3h24 New York)",
    "url": "http://www.kitco.com/charts/gold"
   },
   {
@@ -232,8 +232,12 @@
    "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-bargain-hunters-return-after-worst-october-since-2008-can-gold-reclaim-3978-1641847"
   },
   {
-   "title": "Trading Economics : l'or vers 3 897 $ (+0,55 %), pétrole en baisse, 75 % de chances de hausse (2 nov.)",
+   "title": "Trading Economics : l'or vers 3 900 $ (+0,63 %), pétrole en baisse (2 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "BigGo Finance : rebond de 1 %, Saxo veut 4 000 $, OCBC et Global X prudents (2 nov.)",
+   "url": "https://finance.biggo.com/news/636a0825-823c-40ce-a3e5-c451e39ba9a2"
   },
   {
    "title": "FinanceFeeds : rebond à 3 906 $, niveaux 3 920 / 3 952 / 4 024 et 3 869 / 3 828, RSI vers 32 (2 nov.)",
