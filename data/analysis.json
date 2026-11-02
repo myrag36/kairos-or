@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-02T07:15:00Z",
- "price": 3906,
- "change": 0.83,
- "priceTime": "2 nov. · 8h15 Paris",
+ "updatedAt": "2026-11-02T08:20:00Z",
+ "price": 3895,
+ "change": 0.52,
+ "priceTime": "2 nov. · 9h20 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or rebondit un peu ce lundi matin : environ +0,8 % vers 3 906 $ après le plus bas d'un an vendredi (3 872–3 875), plus haut du jour vers 3 920 selon Kitco. La baisse du pétrole (Brent repassé sous 110 $ grâce aux discussions avec l'Iran) calme un peu la peur d'inflation, mais le marché voit toujours environ 75 % de chances d'une hausse des taux en décembre. Pour les analystes, ce rebond ne compte vraiment qu'au-dessus de 3 920–3 950 ; la tendance reste baissière sous les moyennes mobiles. On garde les trois plans : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. Semaine chargée : ISM aujourd'hui à 16h Paris, élections de mi-mandat demain, emploi (NFP) vendredi.",
+ "summary": "L'or garde un petit rebond ce lundi matin mais s'essouffle : vers 3 895 $ (+0,5 %) après un plus haut à 3 920, toujours au-dessus du plus bas d'un an de vendredi (3 872–3 875). La baisse du pétrole calme un peu la peur d'inflation, mais le marché voit toujours environ 75 % de chances d'une hausse des taux en décembre. Pour FXEmpire, ce rebond vient surtout d'achats à bon compte et la tendance reste baissière tant que l'or est sous 3 978. On garde les trois plans : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. Semaine chargée : ISM aujourd'hui à 16h Paris, élections de mi-mandat demain, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : le rebond (plus haut 3 920) reste sous la zone. Mitrade place aussi une résistance à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
+   "note": "Plan principal, toujours valable : le rebond a calé à 3 920 et l'or est revenu vers 3 895. FXEmpire place la première résistance à 3 978, Mitrade à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
    "invalidAbove": 4005
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : l'or est remonté vers 3 906, la zone n'a pas été touchée (plus bas de vendredi 3 872). Mitrade et FX Leaders placent aussi un support vers 3 828–3 849. Taille réduite, on achète contre la tendance. Pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone n'a pas été touchée (plus bas du jour 3 879, de vendredi 3 872). Mitrade et FX Leaders placent aussi un support vers 3 828–3 849, FXEmpire vers 3 817–3 824. Taille réduite, on achète contre la tendance. Pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -78,7 +78,7 @@
   {
    "p": 3975,
    "kind": "res",
-   "label": "Résistance 3 965–3 982"
+   "label": "Résistance 3 965–3 982 (FXEmpire : 3 978)"
   },
   {
    "p": 3950,
@@ -140,7 +140,7 @@
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Plus bas d'un an vendredi vers 3 872–3 875, pire mois d'octobre depuis 2008. Petit rebond ce matin, plus haut 3 920. Prix sous toutes les moyennes mobiles, RSI jour vers 32 et RSI 4 h très survendu : un rebond est possible, mais il doit passer 3 920–3 950 pour compter. Supports 3 830–3 850 puis 3 780–3 800."
+   "text": "Plus bas d'un an vendredi vers 3 872–3 875, pire mois d'octobre depuis 2008. Petit rebond ce matin, plus haut 3 920 puis retour vers 3 895. Prix sous toutes les moyennes mobiles, RSI jour vers 32–33 : un rebond est possible, mais il doit passer 3 920 puis 3 978 pour compter. Supports 3 817–3 850 puis 3 780–3 800."
   },
   {
    "name": "Achats des banques centrales",
@@ -224,11 +224,15 @@
  ],
  "sources": [
   {
-   "title": "Kitco : spot 3 906,40 $, +0,83 %, plus bas 3 879,40, plus haut 3 920,10 (2 nov., 2h13 New York)",
+   "title": "Kitco : spot 3 894,70 $, +0,52 %, plus bas 3 879,40, plus haut 3 920,10 (2 nov., 3h17 New York)",
    "url": "http://www.kitco.com/charts/gold"
   },
   {
-   "title": "Trading Economics : l'or repasse au-dessus de 3 900 $, pétrole en baisse, 75 % de chances de hausse (2 nov.)",
+   "title": "FXEmpire : biais vendeur sous 3 978 $, résistances 4 035 / 4 086, supports 3 817 / 3 719, RSI vers 33 (2 nov.)",
+   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-bargain-hunters-return-after-worst-october-since-2008-can-gold-reclaim-3978-1641847"
+  },
+  {
+   "title": "Trading Economics : l'or vers 3 897 $ (+0,55 %), pétrole en baisse, 75 % de chances de hausse (2 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
