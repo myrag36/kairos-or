@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-10-30T20:05:00Z",
- "price": 3878,
- "change": -3.55,
- "priceTime": "30 oct. · 21h05 Paris",
+ "updatedAt": "2026-11-02T07:15:00Z",
+ "price": 3906,
+ "change": 0.83,
+ "priceTime": "2 nov. · 8h15 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or reste collé à son plus bas : environ -3,5 % vers 3 878, plus bas du jour 3 874 selon Kitco, plus bas depuis un an et environ -7 % sur le mois (Trading Economics). Le pétrole cher (Brent vers 117 $ après l'attaque d'un pétrolier à Ormuz) entretient la peur d'inflation : plus de 70 % de chances d'une hausse des taux en décembre, rendement à 10 ans vers 4,95 %. Des ventes pour récupérer du cash amplifient la baisse (XTB, Commerzbank). Le marché est très survendu : ne pas vendre ici, attendre un rebond vers 3 965–3 980, et n'acheter que sur 3 830–3 850 avec un vrai signal de rejet. Clôture de la semaine et du mois vers 22h Paris : mouvements brusques possibles, puis marché fermé jusqu'à dimanche soir.",
+ "summary": "L'or rebondit un peu ce lundi matin : environ +0,8 % vers 3 906 $ après le plus bas d'un an vendredi (3 872–3 875), plus haut du jour vers 3 920 selon Kitco. La baisse du pétrole (Brent repassé sous 110 $ grâce aux discussions avec l'Iran) calme un peu la peur d'inflation, mais le marché voit toujours environ 75 % de chances d'une hausse des taux en décembre. Pour les analystes, ce rebond ne compte vraiment qu'au-dessus de 3 920–3 950 ; la tendance reste baissière sous les moyennes mobiles. On garde les trois plans : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. Semaine chargée : ISM aujourd'hui à 16h Paris, élections de mi-mandat demain, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : l'or stagne vers 3 878 sans rebond vers la zone. Rien à faire tant que le prix reste sous 3 965.",
+   "note": "Plan principal, toujours valable : le rebond (plus haut 3 920) reste sous la zone. Mitrade place aussi une résistance à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
    "invalidAbove": 4005
   },
   {
@@ -38,7 +38,7 @@
     3985,
     3950
    ],
-   "note": "Plan gardé. L'or est loin de la zone (plus de 150 $) : il faudrait un fort rebond. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé. L'or est à plus de 120 $ de la zone : il faudrait un fort rebond, par exemple sur un NFP faible. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : l'or n'est plus qu'à 30–45 $ de la zone, le plus bas du jour (3 874) ne l'a pas atteinte. XTB place aussi un support à 3 850–3 880. Taille réduite, on achète contre la tendance. Pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : l'or est remonté vers 3 906, la zone n'a pas été touchée (plus bas de vendredi 3 872). Mitrade et FX Leaders placent aussi un support vers 3 828–3 849. Taille réduite, on achète contre la tendance. Pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -78,34 +78,44 @@
   {
    "p": 3975,
    "kind": "res",
-   "label": "Ancien plus bas, devenu résistance"
+   "label": "Résistance 3 965–3 982"
   },
   {
-   "p": 3940,
+   "p": 3950,
    "kind": "res",
-   "label": "Ancien support 3 932–3 951 cassé"
+   "label": "Résistance 3 947–3 952"
   },
   {
-   "p": 3900,
+   "p": 3920,
    "kind": "pivot",
-   "label": "Seuil rond cassé, plus bas du jour vers 3 875"
+   "label": "Plus haut du jour, Fibonacci 23,6 %"
+  },
+  {
+   "p": 3875,
+   "kind": "sup",
+   "label": "Plus bas d'un an (vendredi)"
   },
   {
    "p": 3840,
    "kind": "sup",
-   "label": "Support 3 830–3 850 (Mitrade, XTB)"
+   "label": "Support 3 830–3 850 (Mitrade, FX Leaders)"
+  },
+  {
+   "p": 3795,
+   "kind": "sup",
+   "label": "Support 3 780–3 800"
   }
  ],
  "factors": [
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Probabilité de hausse en décembre estimée entre 75 % (CME FedWatch, selon TradingKey) et 85 % selon les sources."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit environ 75 % de chances de hausse en décembre (Trading Economics)."
   },
   {
    "name": "Rendement américain à 10 ans",
    "impact": -2,
-   "text": "Autour de 4,95 % selon XTB. C'est le principal frein de l'or depuis septembre."
+   "text": "Redescendu vers 4,92–4,93 % (Mitrade, Investing.com), mais reste élevé : c'est le principal frein de l'or depuis septembre."
   },
   {
    "name": "Croissance et inflation US",
@@ -120,17 +130,17 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Plutôt ferme selon Kitco. Un dollar fort pèse sur l'or."
+   "text": "Indice dollar vers 101,7–101,9 selon Investing.com. Un dollar ferme pèse sur l'or."
   },
   {
    "name": "Pétrole et Golfe",
-   "impact": -1,
-   "text": "Un pétrolier touché dans le détroit d'Ormuz. Brent vers 117 $ selon XTB. Aujourd'hui l'effet inflation domine : plus de hausse de taux attendue, donc pression sur l'or plutôt que demande refuge."
+   "impact": 0,
+   "text": "Le Brent est repassé sous 110 $ (-3 %) grâce aux discussions avec l'Iran : moins de peur d'inflation, ce qui aide l'or. Mais Trump a prévenu que les frappes pourraient reprendre après les élections : risque de rechute."
   },
   {
    "name": "Technique",
    "impact": -2,
-   "text": "L'or a cassé 3 975, 3 940 puis 3 900 et touche son plus bas depuis un an, vers 3 880. Prix sous les moyennes 50 et 200 jours, deuxième baisse mensuelle de suite (environ -6 % en octobre). RSI jour vers 30 et MACD toujours baissier selon XTB : très survendu, un rebond technique est possible. Prochain support 3 850, puis 3 800 en cas de cassure."
+   "text": "Plus bas d'un an vendredi vers 3 872–3 875, pire mois d'octobre depuis 2008. Petit rebond ce matin, plus haut 3 920. Prix sous toutes les moyennes mobiles, RSI jour vers 32 et RSI 4 h très survendu : un rebond est possible, mais il doit passer 3 920–3 950 pour compter. Supports 3 830–3 850 puis 3 780–3 800."
   },
   {
    "name": "Achats des banques centrales",
@@ -140,40 +150,27 @@
   {
    "name": "ETF sur l'or",
    "impact": 1,
-   "text": "Record de 4 256 tonnes détenues fin septembre (World Gold Council) : les investisseurs de long terme n'ont pas vendu."
+   "text": "Record de 4 256 tonnes détenues fin septembre (World Gold Council), plus de 50 t entrées en septembre selon ANZ : les investisseurs de long terme n'ont pas vendu."
   },
   {
    "name": "Sentiment",
    "impact": 1,
-   "text": "Court terme négatif. XTB note que l'argent cherche la sécurité dans les obligations américaines plutôt que dans l'or. Commerzbank juge la baisse exagérée, liée en partie à des ventes forcées. UBS voit 5 000 $ possible l'an prochain quand la Fed baissera ses taux."
+   "text": "Court terme négatif : des ventes forcées liées à la chute des valeurs tech pèsent sur l'or. ANZ s'attend à une consolidation autour de 4 000 $ avant une vraie reprise. Commerzbank juge la baisse exagérée."
   }
  ],
  "noTrade": [
-  "Ne pas vendre au plus bas après une chute de plus de 130 $ dans la journée : attendre un rebond vers 3 965–3 980.",
+  "Ne pas vendre au plus bas pendant le rebond : attendre une remontée vers 3 965–3 980.",
   "Ne pas acheter « parce que c'est bas » : seulement sur 3 830–3 850 avec un signal de rejet.",
-  "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
+  "Pas de nouvelle position 15 minutes avant et après l'ISM (16h Paris aujourd'hui), le NFP ou la Fed.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée.",
-  "Ce soir clôture de semaine et de mois, puis élections de mi-mandat le 3 novembre : réduire la taille."
+  "Élections de mi-mandat demain, résultats dans la nuit : réduire la taille."
  ],
  "calendar": [
-  {
-   "at": "2026-10-29T12:30:00Z",
-   "event": "PIB T3 et PCE (États-Unis)",
-   "importance": 3,
-   "result": "Publié : PIB 3,4 %, PCE core 2,5 %",
-   "why": "Plus fort que prévu : l'or a reculé d'environ 1 %."
-  },
-  {
-   "at": "2026-10-30T21:00:00Z",
-   "event": "Clôture hebdomadaire et mensuelle",
-   "importance": 2,
-   "why": "Clôture de mois et de semaine (17h New York). Une clôture sous 3 940 confirmerait la tendance vendeuse."
-  },
   {
    "at": "2026-11-02T15:00:00Z",
    "event": "ISM manufacturier",
    "importance": 2,
-   "why": "Date habituelle, à confirmer. Un chiffre fort soutient le dollar."
+   "why": "Aujourd'hui 16h Paris. Un chiffre fort soutient le dollar et pèse sur l'or."
   },
   {
    "at": "2026-11-03T12:00:00Z",
@@ -192,7 +189,7 @@
    "at": "2026-11-06T13:30:00Z",
    "event": "Rapport sur l'emploi (NFP)",
    "importance": 3,
-   "why": "L'événement clé avant la Fed de décembre. Emploi faible = bon pour l'or."
+   "why": "L'événement clé avant la Fed de décembre. Consensus vers 68 000 emplois (29 000 en septembre). Emploi faible = bon pour l'or."
   },
   {
    "at": "2026-11-10T13:30:00Z",
@@ -227,48 +224,36 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : l'or vers 3 878 $, -3,5 %, environ -7 % sur le mois, plus bas d'un an (30 oct.)",
-   "url": "https://tradingeconomics.com/commodity/gold"
-  },
-  {
-   "title": "XTB : l'or sous 3 900 $, support 3 850–3 880, RSI vers 30, FedWatch > 70 % (30 oct.)",
-   "url": "https://www.xtb.com/cy/market-analysis/news-and-research/gold-prices-drop-sharply-at-the-end-of-october-the-collapse-of-the-safe-haven-myth-or-a-search-for-liquidity"
-  },
-  {
-   "title": "Kitco : cours spot 3 877,70 $, -3,55 %, plus bas 3 873,90 (30 oct., 15h38 New York)",
+   "title": "Kitco : spot 3 906,40 $, +0,83 %, plus bas 3 879,40, plus haut 3 920,10 (2 nov., 2h13 New York)",
    "url": "http://www.kitco.com/charts/gold"
   },
   {
-   "title": "TradingKey : l'or passe sous 3 900 $, plus bas 3 891, FedWatch 75 % (30 oct.)",
-   "url": "https://www.tradingkey.com/analysis/commodities/metal/262261037-gold-prices-fall-below-3900-silver-what-causes-prices-to-drop-tradingkey"
+   "title": "Trading Economics : l'or repasse au-dessus de 3 900 $, pétrole en baisse, 75 % de chances de hausse (2 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
-   "title": "Rallies / Reuters : plus bas d'un an, avis de Commerzbank (30 oct.)",
-   "url": "https://rallies.ai/news/gold-hits-one-year-low-silver-drops-below-50-as-higher-for-longer-rate-view-firms-2b97498140282cfa"
+   "title": "FinanceFeeds : rebond à 3 906 $, niveaux 3 920 / 3 952 / 4 024 et 3 869 / 3 828, RSI vers 32 (2 nov.)",
+   "url": "https://financefeeds.com/gold-price-today-3906-monday-rebound-after-one-year-low-midterms-3-november-jobs-6-november-bull-4025-bear-3830/"
   },
   {
-   "title": "Mitrade : supports 3 932–3 951 et 3 829–3 849, résistance 4 032–4 044 (30 oct.)",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/us-gdp-jobless-claims-drop-fed-hike"
+   "title": "Investing.com : l'or rebondit vers 3 900 $, Iran, ANZ, dollar (2 nov.)",
+   "url": "https://www.investing.com/news/commodities-news/gold-rebounds-toward-3900-as-dip-buyers-emerge-iran-risks-persist-4989797"
   },
   {
-   "title": "Rio Times : l'or perd 3,3 % à 3 890 $, RSI et moyennes (30 oct., 10h33 New York)",
-   "url": "https://www.riotimesonline.com/silver-drops-5-gold-3-as-rout-accelerates/"
+   "title": "Mitrade : supports 3 885–3 904, 3 829–3 849, 3 780–3 800 ; résistances 3 971–3 982, 4 074–4 083 (2 nov.)",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-selloff-liquidation-oil-spikes-fed-hike"
   },
   {
-   "title": "Kitco / Reuters : plus bas de 3 mois et demi (30 oct.)",
-   "url": "https://www.kitco.com/news/off-the-wire/2026-10-30/gold-hits-3-12-month-low-fed-hike-fears-set-monthly-loss"
+   "title": "Coin-Turk : l'or touche 3 930 $, résistance 3 947, NFP attendu à 68 000 (2 nov.)",
+   "url": "https://en.coin-turk.com/gold-rebounds-to-3930-faces-pressure-from-us-jobs-data-and-upcoming-midterms/"
   },
   {
-   "title": "Kitco : l'or passe sous 4 000, attaque à Ormuz (30 oct.)",
-   "url": "https://www.kitco.com/news/article/2026-10-30/gold-drops-below-4000-silver-tumbles-hormuz-attack-lifts-oil-prices-kitco"
+   "title": "Goodreturns : l'or spot vers 3 900 $, +1 %, pétrole en baisse (2 nov.)",
+   "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-2-11-2026-live-spot-gold-mcx-gold-silver-price-24k-22k18k-gold-prices-1544565.html"
   },
   {
    "title": "RoboForex : prévision hebdo 2–6 nov.",
    "url": "https://roboforex.com/beginners/analytics/forex-forecast/gold/xau-usd-gold-weekly-forecast-2026-10-30/"
-  },
-  {
-   "title": "Kitco : la Fed maintient ses taux, vote 10–2 (28 oct.)",
-   "url": "https://www.kitco.com/news/article/2026-10-28/gold-price-drops-4035oz-fed-votes-10-2-favor-rate-hold"
   },
   {
    "title": "Calendrier économique US de novembre 2026",
