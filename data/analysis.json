@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-02T12:15:00Z",
- "price": 3900,
- "change": 0.67,
- "priceTime": "2 nov. · 13h00 Paris",
+ "updatedAt": "2026-11-02T13:15:00Z",
+ "price": 3899,
+ "change": 0.63,
+ "priceTime": "2 nov. · 14h15 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or ne bouge presque pas ce lundi début d'après-midi : vers 3 900 $ (+0,7 %), dans la même fourchette 3 879–3 920 depuis ce matin. Le pétrole et les rendements américains reculent un peu, ce qui aide le rebond, mais le marché voit toujours environ 75 % de chances de hausse des taux en décembre. Le prix reste sous 3 952 et sous 4 000 : la tendance de fond reste baissière, même si la survente rend un rebond possible. On garde les trois plans : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. ISM manufacturier à 16h Paris : pas de nouvelle position juste avant ; élections de mi-mandat demain, emploi (NFP) vendredi.",
+ "summary": "L'or reste calme ce lundi après-midi : vers 3 899 $ (+0,6 %), toujours dans la fourchette 3 879–3 920 du matin (Kitco). Le pétrole recule et le dollar faiblit un peu, ce qui soutient le rebond, mais le 10 ans reste vers 4,93 % et le marché voit environ 75 % de chances de hausse des taux en décembre. Le prix reste sous 3 952 et sous 3 970, que Saxo voit maintenant comme une résistance : la tendance de fond reste baissière. Aucun plan n'a été déclenché, on garde les trois : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. ISM manufacturier à 16h Paris : pas de nouvelle position juste avant ; élections de mi-mandat demain, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : l'or reste coincé sous 3 920, vers 3 900. FinanceFeeds garde un biais baissier sous 3 952, Mitrade place la résistance à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
+   "note": "Plan principal, toujours valable : l'or reste coincé sous 3 920, vers 3 899. Saxo voit 3 970 comme résistance, FinanceFeeds garde un biais baissier sous 3 952, Mitrade place la résistance à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
    "invalidAbove": 4005
   },
   {
@@ -115,7 +115,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": -2,
-   "text": "Vers 4,92 %, en baisse d'environ 1 point de base ce matin (Goldreporter), mais reste élevé : c'est le principal frein de l'or depuis septembre."
+   "text": "Vers 4,93 % ce lundi, à peine bougé (Saxo) : il reste élevé et c'est le principal frein de l'or depuis septembre. Le 2 ans est vers 4,60 %."
   },
   {
    "name": "Croissance et inflation US",
@@ -224,6 +224,10 @@
  ],
  "sources": [
   {
+   "title": "Saxo : l'or rebondit à 3 915 $ après la cassure de 3 970 (devenu résistance), 10 ans à 4,93 %, Brent vers 110 $ (2 nov.)",
+   "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---markets-find-calm-after-friday-turmoil----2-november-2026-02112026"
+  },
+  {
    "title": "Goldreporter : l'or à 3 903 $ (+0,8 %), rendement 10 ans 4,92 %, pétrole en baisse, ISM et élections au programme (2 nov., 8h30)",
    "url": "https://www.goldreporter.de/goldpreis-2-11-2026/marktbericht-gold/262730/"
   },
@@ -232,7 +236,7 @@
    "url": "https://www.tradingpedia.com/2026/11/02/gold-holds-slight-gains-under-3900-as-fed-limits-rise/"
   },
   {
-   "title": "Kitco : spot 3 900,50 $, +0,67 %, plus bas 3 879,40, plus haut 3 920,10 (2 nov., 6h59 New York)",
+   "title": "Kitco : spot 3 899 $, +0,63 %, plus bas 3 879,40, plus haut 3 920,10 (2 nov., 8h11 New York)",
    "url": "http://www.kitco.com/charts/gold"
   },
   {
