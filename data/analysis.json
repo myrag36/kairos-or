@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-02T16:55:00Z",
- "price": 3969,
+ "updatedAt": "2026-11-02T17:50:00Z",
+ "price": 3967,
  "change": 2.4,
- "priceTime": "2 nov. · 17h55 Paris",
+ "priceTime": "2 nov. · 18h05 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or prolonge son rebond ce lundi : vers 3 969 $ (+2,4 %, Trading Economics et FXEmpire), il est maintenant dans la zone de résistance 3 965–3 980. La chute du pétrole (environ -7 %) et un dollar en léger repli portent ce rebond, malgré un ISM manufacturier fort à 55,5. Mais le marché voit toujours environ 75 % de chances de hausse des taux en décembre et le prix reste sous 4 000 : la tendance de fond reste baissière. Aucun plan n'est invalidé, on garde les trois ; la vente sur 3 965–3 980 est en place, mais il faut attendre une bougie de rejet nette avant d'entrer. Élections de mi-mandat demain, emploi (NFP) vendredi.",
+ "summary": "L'or tient son rebond ce lundi : vers 3 967 $ (+2,4 %, Kitco), plus haut du jour 3 971, toujours dans la résistance 3 965–3 980. La chute du pétrole (environ -7 %) et un dollar en léger repli portent ce rebond, malgré un ISM manufacturier fort à 55,5. Le marché voit encore 73 à 77 % de chances de hausse des taux en décembre et le prix reste sous 4 000 : la tendance de fond reste baissière. Aucun plan n'est invalidé, on garde les trois ; la vente sur 3 965–3 980 est en place, mais il faut une bougie de rejet nette avant d'entrer. Élections de mi-mandat demain, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : l'or est à 3 969, dans la zone. FXEmpire place une résistance à 3 973, Mitrade à 3 971–3 982. L'élan haussier reste fort : ne pas vendre par anticipation, attendre un vrai rejet dans la zone. Une clôture 1 h au-dessus de 4 005 annule le plan.",
+   "note": "Plan principal, toujours valable : l'or est à 3 967, dans la zone, et bute pour l'instant sous 3 971 (plus haut Kitco). FXEmpire place une résistance à 3 973, Mitrade à 3 971–3 982. L'élan haussier reste fort : ne pas vendre par anticipation, attendre un vrai rejet dans la zone. Une clôture 1 h au-dessus de 4 005 annule le plan.",
    "invalidAbove": 4005
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone n'a pas été touchée (plus bas du jour 3 879) et le prix s'en éloigne, vers 3 969. Mitrade et FX Leaders placent un support vers 3 828–3 849. Scénario seulement si le rebond échoue et que l'or replonge. Taille réduite, contre la tendance, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone n'a pas été touchée (plus bas du jour 3 879) et le prix s'en éloigne, vers 3 967. Mitrade et FX Leaders placent un support vers 3 828–3 849. Scénario seulement si le rebond échoue et que l'or replonge. Taille réduite, contre la tendance, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -78,12 +78,12 @@
   {
    "p": 3975,
    "kind": "res",
-   "label": "Résistance 3 965–3 982 (FXEmpire R1 3 973), prix dans la zone"
+   "label": "Résistance 3 965–3 982 (FXEmpire R1 3 973), plus haut du jour 3 971"
   },
   {
    "p": 3950,
    "kind": "pivot",
-   "label": "Ancienne résistance 3 947–3 952, franchie (plus haut Kitco 3 951,6)"
+   "label": "Ancienne résistance 3 947–3 952, franchie, devenue support"
   },
   {
    "p": 3920,
@@ -110,12 +110,12 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit 72 à 75 % de chances de hausse en décembre (CME FedWatch, Trading Economics)."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Trois responsables de la Fed plaident pour d'autres hausses. Le marché voit 73 à 77 % de chances de hausse en décembre (Reuters, CME FedWatch), contre 80 % il y a une semaine."
   },
   {
    "name": "Rendement américain à 10 ans",
    "impact": -2,
-   "text": "Vers 4,89 % cet après-midi, plus bas depuis environ sept semaines (Trading Economics) : il reste élevé et c'est le principal frein de l'or depuis septembre."
+   "text": "Vers 4,88 % (Trading Economics), plus bas depuis environ sept semaines : il reste élevé et c'est le principal frein de l'or depuis septembre."
   },
   {
    "name": "Croissance et inflation US",
@@ -224,6 +224,18 @@
   }
  ],
  "sources": [
+  {
+   "title": "Kitco : spot 3 967,10 $, +2,39 %, plus bas 3 879,40, plus haut 3 971,00 (2 nov., 12h05 New York)",
+   "url": "http://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "Rallies.ai (Reuters) : l'or à 3 957 $ (+2,1 %), 77 % de chances de hausse en décembre contre 80 % il y a une semaine (2 nov.)",
+   "url": "https://rallies.ai/news/gold-rises-over-2-from-one-year-low-on-softer-oil-prices-us-midterms-in-focus-38632333045068fe"
+  },
+  {
+   "title": "Ad-hoc-news : l'or +2,1 %, pétrole en chute sur les discussions de Doha, 73 % de hausse en décembre (2 nov., 17h51)",
+   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-climbs-2-1-prozent-off-one-year-low-as-cheaper-crude-reframes-the-rate-debate/70446839"
+  },
   {
    "title": "Trading Economics : l'or vers 3 969 $ (+2,4 %), pétrole -7 %, DXY 101,7, 75 % de chances de hausse en décembre (2 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
