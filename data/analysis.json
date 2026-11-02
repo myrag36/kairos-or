@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-02T11:10:00Z",
- "price": 3899,
- "change": 0.62,
- "priceTime": "2 nov. · 12h10 Paris",
+ "updatedAt": "2026-11-02T12:15:00Z",
+ "price": 3900,
+ "change": 0.67,
+ "priceTime": "2 nov. · 13h00 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or reste calme ce lundi midi : vers 3 899 $ (+0,6 %), toujours collé à 3 900 après un plus haut à 3 920 ce matin. Le dollar recule un peu grâce aux espoirs de discussion avec l'Iran et au pétrole en baisse, mais le marché voit toujours environ 75 % de chances de hausse des taux en décembre, ce qui freine l'or. Le prix reste sous 3 952 et sous 4 000 : la tendance de fond reste baissière, même si la survente rend un rebond possible. On garde les trois plans : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. Semaine chargée : ISM aujourd'hui à 16h Paris, élections de mi-mandat demain, emploi (NFP) vendredi.",
+ "summary": "L'or ne bouge presque pas ce lundi début d'après-midi : vers 3 900 $ (+0,7 %), dans la même fourchette 3 879–3 920 depuis ce matin. Le pétrole et les rendements américains reculent un peu, ce qui aide le rebond, mais le marché voit toujours environ 75 % de chances de hausse des taux en décembre. Le prix reste sous 3 952 et sous 4 000 : la tendance de fond reste baissière, même si la survente rend un rebond possible. On garde les trois plans : vente sur 3 965–3 980 si le rebond y bute, achat seulement sur 3 830–3 850 avec un signal de rejet. ISM manufacturier à 16h Paris : pas de nouvelle position juste avant ; élections de mi-mandat demain, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : l'or plafonne sous 3 920 et reste vers 3 900. FinanceFeeds garde un biais baissier sous 3 952, Mitrade place la résistance à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
+   "note": "Plan principal, toujours valable : l'or reste coincé sous 3 920, vers 3 900. FinanceFeeds garde un biais baissier sous 3 952, Mitrade place la résistance à 3 971–3 982. Rien à faire tant que le prix reste sous 3 965.",
    "invalidAbove": 4005
   },
   {
@@ -115,7 +115,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": -2,
-   "text": "Redescendu vers 4,92–4,93 % (Mitrade, Investing.com), mais reste élevé : c'est le principal frein de l'or depuis septembre."
+   "text": "Vers 4,92 %, en baisse d'environ 1 point de base ce matin (Goldreporter), mais reste élevé : c'est le principal frein de l'or depuis septembre."
   },
   {
    "name": "Croissance et inflation US",
@@ -140,7 +140,7 @@
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Plus bas d'un an vendredi vers 3 872–3 875, pire mois d'octobre depuis 2008. Rebond à 3 920 ce matin puis retour vers 3 900. Prix sous toutes les moyennes mobiles, RSI 4 h vers 29 et jour vers 32 : survente, un rebond est possible, mais il doit passer 3 920 puis 3 952–3 980 pour compter. Supports 3 870 puis 3 828–3 850 ; RoboForex vise 3 800 sous 3 870."
+   "text": "Plus bas d'un an vendredi vers 3 872–3 875, pire mois d'octobre depuis 2008. Rebond à 3 920 ce matin puis stabilisation vers 3 900 (fourchette du jour 3 879–3 920, Kitco). Prix sous toutes les moyennes mobiles, RSI 4 h vers 29 et jour vers 32 : survente, un rebond est possible, mais il doit passer 3 920 puis 3 952–3 980 pour compter. Supports 3 870 puis 3 828–3 850 ; RoboForex vise 3 800 sous 3 870."
   },
   {
    "name": "Achats des banques centrales",
@@ -224,11 +224,15 @@
  ],
  "sources": [
   {
+   "title": "Goldreporter : l'or à 3 903 $ (+0,8 %), rendement 10 ans 4,92 %, pétrole en baisse, ISM et élections au programme (2 nov., 8h30)",
+   "url": "https://www.goldreporter.de/goldpreis-2-11-2026/marktbericht-gold/262730/"
+  },
+  {
    "title": "Tradingpedia : l'or tient de petits gains sous 3 900 $, RSI 4 h à 29, dollar en recul sur l'Iran (2 nov., matinée européenne)",
    "url": "https://www.tradingpedia.com/2026/11/02/gold-holds-slight-gains-under-3900-as-fed-limits-rise/"
   },
   {
-   "title": "Kitco : spot 3 898,60 $, +0,62 %, plus bas 3 879,40, plus haut 3 920,10 (2 nov., 6h05 New York)",
+   "title": "Kitco : spot 3 900,50 $, +0,67 %, plus bas 3 879,40, plus haut 3 920,10 (2 nov., 6h59 New York)",
    "url": "http://www.kitco.com/charts/gold"
   },
   {
