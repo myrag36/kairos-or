@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T11:05:00Z",
- "price": 3905,
+ "updatedAt": "2026-11-03T12:10:00Z",
+ "price": 3906,
  "change": -1.05,
- "priceTime": "3 nov. · 12h05 Paris",
+ "priceTime": "3 nov. · 13h10 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or reste vers 3 905 $ (-1,05 %, Kitco), toujours posé sur le support 3 885–3 904 : il est descendu jusqu'à 3 894,8 ce matin sans casser le plus bas d'un an de 3 870. Le pétrole cher (Brent vers 105,8 $) après la frappe américaine signalée sur l'île iranienne de Qeshm entretient la peur d'inflation, et le marché voit toujours environ 75 % de chances de hausse des taux en décembre. Le World Gold Council a réduit sa prévision de demande d'investissement en or pour 2026 (200 t contre 400 t), mais relevé celle des banques centrales. La tendance reste baissière et aucun plan n'est invalidé : on garde les trois ; sous 3 870 la voie s'ouvrirait vers 3 800. Élections de mi-mandat aujourd'hui (résultats dans la nuit), offres d'emploi JOLTS à 16h Paris, emploi (NFP) vendredi.",
+ "summary": "L'or reste vers 3 906 $ (-1,05 %, Trading Economics), toujours posé sur le support 3 885–3 904 : le plus bas du jour reste 3 894,8 et le plus bas d'un an de 3 870 tient. Le pétrole monte encore (Brent vers 106,5 $, +1,7 %) après la frappe américaine signalée sur l'île iranienne de Qeshm, ce qui entretient la peur d'inflation ; le marché voit environ 75 % de chances de hausse des taux en décembre. Le rendement à 10 ans remonte vers 4,94 % et le dollar est stable vers 101,8. La tendance reste baissière et aucun plan n'est invalidé : on garde les trois ; sous 3 870 la voie s'ouvrirait vers 3 800. Élections de mi-mandat aujourd'hui (résultats dans la nuit), offres d'emploi JOLTS à 16h Paris, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -120,7 +120,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": -2,
-   "text": "Vers 4,91 % (Trading Economics), stable : il reste élevé et c'est le principal frein de l'or depuis septembre."
+   "text": "Vers 4,94 % (Trading Economics), en légère hausse : il reste élevé et c'est le principal frein de l'or depuis septembre."
   },
   {
    "name": "Croissance et inflation US",
@@ -140,7 +140,7 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 0,
-   "text": "Après -7 % lundi, le pétrole remonte (Brent vers 105,8 $, +0,9 %, Trading Economics) après une frappe américaine signalée sur l'île de Qeshm. Téhéran dit que « la balle est dans le camp américain » dans les discussions. Un pétrole cher garde la peur d'inflation et la hausse des taux en vue."
+   "text": "Après -7 % lundi, le pétrole remonte nettement (Brent vers 106,5 $, +1,7 % ; WTI vers 98,6 $, +2,2 %, Trading Economics) après une frappe américaine signalée sur l'île de Qeshm. Téhéran dit que « la balle est dans le camp américain » dans les discussions. Un pétrole cher garde la peur d'inflation et la hausse des taux en vue."
   },
   {
    "name": "Technique",
@@ -223,11 +223,11 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : l'or vers 3 905 $ (-1,08 %), DXY 101,84, rendement 4,92 %, Brent 105,8 $, frappe signalée sur Qeshm (3 nov.)",
+   "title": "Trading Economics : l'or vers 3 906 $ (-1,05 %), DXY 101,84, rendement 4,94 %, Brent 106,5 $, WTI 98,6 $ (3 nov., midi UTC)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
-   "title": "Kitco : spot 3 904,40 $, -1,05 %, plage 3 894,80–3 965,50 (3 nov., 6h00 New York)",
+   "title": "Kitco : spot 3 903,10 $, -1,08 %, plage 3 894,80–3 965,50 (3 nov., 6h31 New York)",
    "url": "http://www.kitco.com/charts/gold"
   },
   {
