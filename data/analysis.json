@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T07:08:00Z",
- "price": 3912,
+ "updatedAt": "2026-11-03T08:08:00Z",
+ "price": 3909,
  "change": -0.9,
- "priceTime": "3 nov. · 8h05 Paris",
+ "priceTime": "3 nov. · 9h05 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or recule vers 3 912 $ (-0,9 %, Kitco) après un plus haut à 3 965,5 cette nuit, juste au contact de la résistance 3 965–3 980. Le pétrole remonte (+1,8 %) après une frappe américaine signalée sur l'île iranienne de Qeshm, non confirmée, et les discussions avec l'Iran n'aboutissent pas. Le marché voit toujours 74 à 75 % de chances de hausse des taux en décembre, le rendement à 10 ans reste vers 4,9 % : la tendance de fond reste baissière. Aucun plan n'est invalidé, on garde les trois ; ne pas vendre en retard ici, l'objectif 1 de la vente (3 905) est tout proche. Élections de mi-mandat aujourd'hui (résultats dans la nuit), offres d'emploi JOLTS à 16h Paris, emploi (NFP) vendredi.",
+ "summary": "L'or glisse vers 3 909 $ (-0,9 %, Kitco), nouveau plus bas du jour à 3 907,6, après un rejet cette nuit à 3 965,5 sous la résistance 3 965–3 980. Le pétrole cher (Brent vers 106,6 $) après une frappe américaine signalée sur l'île iranienne de Qeshm, et une vague de ventes sur la tech et l'IA qui pousse à vendre l'or pour couvrir des pertes, pèsent sur le métal (Trading Economics). Le marché voit toujours 74 à 75 % de chances de hausse des taux en décembre et le rendement à 10 ans reste vers 4,9 % : la tendance de fond reste baissière. Aucun plan n'est invalidé, on garde les trois ; l'objectif 1 de la vente (3 905) est quasiment atteint, et l'or teste maintenant le support 3 885–3 904. Élections de mi-mandat aujourd'hui (résultats dans la nuit), offres d'emploi JOLTS à 16h Paris, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : cette nuit l'or est monté à 3 965,5 (Kitco), à peine dans la zone, puis a reculé vers 3 912. Si vous êtes entré sur une bougie de rejet dans la zone, l'objectif 1 (3 905) est proche : sécuriser une partie. Sinon, ne pas vendre en retard à 3 910 : attendre un nouveau passage dans 3 965–3 980 et une bougie 1 h qui clôture nettement en baisse. Une clôture 1 h au-dessus de 4 005 annule le plan.",
+   "note": "Plan principal, toujours valable : cette nuit l'or est monté à 3 965,5 (Kitco), à peine dans la zone, puis a reculé vers 3 909. Si vous êtes entré sur une bougie de rejet dans la zone, l'objectif 1 (3 905) est pratiquement atteint : sécuriser une partie et remonter le stop au prix d'entrée. Sinon, ne pas vendre en retard vers 3 910 : attendre un nouveau passage dans 3 965–3 980 et une bougie 1 h qui clôture nettement en baisse. Une clôture 1 h au-dessus de 4 005 annule le plan.",
    "invalidAbove": 4005
   },
   {
@@ -38,7 +38,7 @@
     3985,
     3950
    ],
-   "note": "Plan gardé. L'or est à environ 120 $ de la zone : il faudrait repasser 4 000 d'abord, ce qui semble loin. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé. L'or est à environ 125 $ de la zone : il faudrait repasser 4 000 d'abord, ce qui semble loin. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone n'est pas touchée (plus bas du jour 3 910) et le prix s'en rapproche, à environ 60 $. Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. D'abord le support 3 885–3 904 à surveiller. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone n'est pas touchée (plus bas du jour 3 907,6) et le prix s'en rapproche, à environ 60 $. Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. D'abord le support 3 885–3 904, testé en ce moment, puis le plus bas d'un an 3 870. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -93,7 +93,7 @@
   {
    "p": 3895,
    "kind": "sup",
-   "label": "Support 3 885–3 904 (Mitrade), plus bas du jour 3 910"
+   "label": "Support 3 885–3 904 (Mitrade), testé : plus bas du jour 3 907,6"
   },
   {
    "p": 3870,
@@ -120,7 +120,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": -2,
-   "text": "Vers 4,91 % (Trading Economics), stable : il reste élevé et c'est le principal frein de l'or depuis septembre."
+   "text": "Vers 4,92 % (Trading Economics), stable : il reste élevé et c'est le principal frein de l'or depuis septembre."
   },
   {
    "name": "Croissance et inflation US",
@@ -145,7 +145,7 @@
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. Le rebond de lundi a buté sous 3 965–3 980 (plus haut 3 965,5 cette nuit) et l'or a reperdu 3 950 puis 3 920. Le prix reste sous toutes ses moyennes mobiles, le RSI 4 h vers 42–45 n'a pas repassé 50 (Mitrade). Pepperstone juge la structure « très abîmée » et veut un retour au-dessus de 4 000. Supports 3 885–3 904, 3 870 puis 3 829–3 849."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. Le rebond de lundi a buté sous 3 965–3 980 (plus haut 3 965,5 cette nuit) et l'or a reperdu 3 950 puis 3 920 et touche 3 907,6. Le prix reste sous toutes ses moyennes mobiles, le RSI 4 h vers 42–45 n'a pas repassé 50 (Mitrade). Pepperstone juge la structure « très abîmée » et veut un retour au-dessus de 4 000. Supports 3 885–3 904, 3 870 puis 3 829–3 849."
   },
   {
    "name": "Achats des banques centrales",
@@ -160,11 +160,11 @@
   {
    "name": "Sentiment",
    "impact": 1,
-   "text": "Court terme négatif : pour KCM Trade, l'or est vendu pour couvrir des pertes et des appels de marge ailleurs, pas acheté comme refuge. Une victoire démocrate pourrait peser sur la tech et, par ricochet, sur l'or. À plus long terme, ANZ voit une consolidation autour de 4 000 $ et Commerzbank juge la baisse exagérée."
+   "text": "Court terme négatif : une vague de ventes sur la tech et l'IA provoque des liquidations, et l'or est vendu pour couvrir des pertes et des appels de marge ailleurs, pas acheté comme refuge (Trading Economics, KCM Trade). Le World Gold Council rappelle que les élections ont historiquement peu d'effet durable sur l'or. À plus long terme, ANZ voit une consolidation autour de 4 000 $ et Commerzbank juge la baisse exagérée."
   }
  ],
  "noTrade": [
-  "Ne pas vendre en retard vers 3 910 : le mouvement est fait, l'objectif 1 est tout proche.",
+  "Ne pas vendre en retard vers 3 910 : le mouvement est fait, l'objectif 1 est atteint ou presque, et le support 3 885–3 904 est juste dessous.",
   "Ne pas acheter avant le test de 3 830–3 850 et une bougie de rejet : la tendance reste baissière.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée.",
@@ -223,12 +223,16 @@
  ],
  "sources": [
   {
-   "title": "Kitco : spot 3 912 $, -0,85 %, plus bas 3 910,40, plus haut 3 965,50 (3 nov., 2h03 New York)",
+   "title": "Kitco : spot 3 909,30 $, -0,92 %, plus bas 3 907,60, plus haut 3 965,50 (3 nov., 2h36 New York)",
    "url": "http://www.kitco.com/charts/gold"
   },
   {
-   "title": "Trading Economics : l'or vers 3 912 $ (-0,9 %), DXY 101,73, rendement 4,91 %, WTI 98,2 $, Brent 106,6 $ (3 nov.)",
+   "title": "Trading Economics : « Gold Resumes Decline », l'or vers 3 911 $ (-0,9 %), DXY 101,69, rendement 4,92 %, ventes sur la tech et l'IA (3 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "GoodReturns : l'or recule, liquidations après les ventes sur la tech et l'IA, avis du World Gold Council sur les élections (3 nov.)",
+   "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-3-11-2026-live-spot-gold-silver-price-mcx-gold-24k-22k-18k-gold-prices-1544811.html"
   },
   {
    "title": "Business Recorder (Reuters) : l'or -0,5 % à 3 926 $, 74 % de hausse en décembre, KCM Trade sur les ventes de liquidité (3 nov.)",
