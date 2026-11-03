@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T14:10:00Z",
- "price": 3966,
- "change": 0.5,
- "priceTime": "3 nov. · 15h10 Paris",
+ "updatedAt": "2026-11-03T15:08:00Z",
+ "price": 3942,
+ "change": -0.1,
+ "priceTime": "3 nov. · 16h08 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or a nettement rebondi : vers 3 966 $ (+0,5 % sur la journée, Kitco et Trading Economics), plus haut du jour 3 968,9 après un plus bas à 3 894,8. Le pétrole recule franchement (Brent vers 102,5 $, -2 %), ce qui calme la peur d'inflation ; le marché voit toujours environ 75 % de chances de hausse des taux en décembre. Le rendement à 10 ans reste vers 4,92 % et le dollar stable vers 101,8. L'or entre maintenant dans la zone de vente 3 965–3 980 : aucun plan n'est invalidé, on garde les trois, mais il faut une bougie de rejet avant de vendre ; une clôture 1 h au-dessus de 4 005 annulerait la vente. Offres d'emploi JOLTS à 16h Paris (dans moins d'une heure), élections de mi-mandat aujourd'hui (résultats dans la nuit), emploi (NFP) vendredi.",
+ "summary": "L'or a buté sur la résistance : plus haut du jour 3 971,7 dans la zone de vente 3 965–3 980, puis retour vers 3 942 $ (quasi stable sur la journée, Kitco et Trading Economics). Le pétrole reste en baisse (Brent vers 103,4 $), le rendement à 10 ans remonte un peu vers 4,95 % et le dollar est stable vers 101,8 ; le marché voit toujours environ 75 % de chances de hausse des taux en décembre. Le rejet sous 3 965 va dans le sens du plan de vente principal : aucun plan n'est invalidé, on garde les trois, objectif 1 à 3 905. Les offres d'emploi JOLTS viennent de paraître (16h Paris) : chiffre non encore confirmé par nos sources, prudence sur les prochaines minutes. Élections de mi-mandat aujourd'hui (résultats dans la nuit), emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : l'or est revenu dans la zone (3 966, plus haut du jour 3 968,9), comme cette nuit où il avait buté à 3 965,5 avant de retomber à 3 894,8. Ne pas vendre par anticipation : attendre une bougie 1 h qui clôture nettement en baisse sous 3 965, idéalement après le JOLTS de 16h Paris. FXEmpire place une résistance à 3 982 et reste vendeur sous 4 000. Le rebond est porté par la baisse du pétrole : si elle continue, la zone peut céder. Une clôture 1 h au-dessus de 4 005 annule le plan.",
+   "note": "Plan principal, toujours valable : l'or est monté à 3 971,7 dans la zone puis est retombé vers 3 942, un rejet comme celui de cette nuit (3 965,5). Si on n'est pas entré, ne pas vendre en retard loin de la zone : attendre un nouveau retour vers 3 965 ou une cassure du pivot 3 937. FXEmpire place une résistance à 3 982 et reste vendeur sous 4 000. Stop au-dessus de 4 005 ; une clôture 1 h au-dessus de 4 005 annule le plan.",
    "invalidAbove": 4005
   },
   {
@@ -38,7 +38,7 @@
     3985,
     3950
    ],
-   "note": "Plan gardé. L'or est à environ 70 $ de la zone : il faudrait d'abord casser 3 980 puis repasser 4 000. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé. L'or est à environ 90 $ de la zone et vient d'être rejeté sous 3 972 : il faudrait d'abord casser 3 980 puis repasser 4 000. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone n'est pas touchée, l'or est à environ 115 $ au-dessus après son rebond depuis 3 894,8. Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. Avant elle : le pivot 3 937, le support 3 885–3 904, puis le plus bas d'un an 3 870. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone n'est pas touchée, l'or est à environ 100 $ au-dessus. Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. Avant elle : le pivot 3 937, le support 3 885–3 904, puis le plus bas d'un an 3 870. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -78,17 +78,17 @@
   {
    "p": 3975,
    "kind": "res",
-   "label": "Résistance 3 965–3 982 (FXEmpire R1 3 982) : l'or la teste, plus haut du jour 3 968,9"
+   "label": "Résistance 3 965–3 982 (FXEmpire 3 982) : rejet à 3 971,7 cet après-midi"
   },
   {
    "p": 3950,
    "kind": "sup",
-   "label": "3 947–3 952 : clôture de lundi, repassé au-dessus, devient support proche"
+   "label": "3 947–3 952 : clôture de lundi, repassée en dessous"
   },
   {
    "p": 3937,
    "kind": "pivot",
-   "label": "Pivot du jour 3 937 (FXEmpire) : repassé au-dessus"
+   "label": "Pivot du jour 3 937 (FXEmpire) : l'or est juste au-dessus, sa cassure rouvrirait 3 905"
   },
   {
    "p": 3895,
@@ -120,7 +120,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": -2,
-   "text": "Vers 4,92 % (Trading Economics), stable : il reste élevé et c'est le principal frein de l'or depuis septembre."
+   "text": "Vers 4,95 % (Trading Economics), en légère hausse : il reste élevé et c'est le principal frein de l'or depuis septembre."
   },
   {
    "name": "Croissance et inflation US",
@@ -135,17 +135,17 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Indice dollar vers 101,8, quasi stable (+0,1 %, Trading Economics) : pas de mouvement net avant les élections. FXEmpire note qu'une victoire républicaine nette au Congrès pourrait soutenir le dollar et peser sur l'or."
+   "text": "Indice dollar vers 101,8, quasi stable (Trading Economics) : pas de mouvement net avant les élections. FXEmpire note qu'une victoire républicaine nette au Congrès pourrait soutenir le dollar et peser sur l'or."
   },
   {
    "name": "Pétrole et Golfe",
    "impact": 1,
-   "text": "Le pétrole recule franchement : Brent vers 102,5 $ (-2,2 %, Trading Economics) contre 106,5 $ ce matin, malgré la frappe américaine signalée sur l'île de Qeshm. Les discussions avec l'Iran continuent. Un pétrole plus bas calme la peur d'inflation et porte le rebond de l'or."
+   "text": "Le pétrole reste en baisse : Brent vers 103,4 $ (-1,3 %, Trading Economics) contre 106,5 $ ce matin, malgré la frappe américaine signalée sur l'île de Qeshm. Les discussions avec l'Iran continuent. Un pétrole plus bas calme la peur d'inflation et a porté le rebond de l'or."
   },
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. Aujourd'hui l'or est tombé à 3 894,8 puis a rebondi jusqu'à 3 968,9 : il teste la résistance 3 965–3 982, déjà rejetée cette nuit à 3 965,5. Le prix reste sous ses moyennes mobiles, RSI journalier sous 50 et MACD négatif (CaptainAltcoin ce matin). FXEmpire vise 3 800 sous 3 870 ; il faudrait une clôture hebdomadaire au-dessus de 4 000 pour un vrai redressement."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. Aujourd'hui l'or est tombé à 3 894,8, a rebondi jusqu'à 3 971,7 puis a été rejeté sous la résistance 3 965–3 982, comme cette nuit à 3 965,5 : il revient vers le pivot 3 937. Le prix reste sous ses moyennes mobiles, RSI journalier sous 50 et MACD négatif (CaptainAltcoin ce matin). FXEmpire vise 3 800 sous 3 870 ; il faudrait une clôture hebdomadaire au-dessus de 4 000 pour un vrai redressement."
   },
   {
    "name": "Achats des banques centrales",
@@ -164,7 +164,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas vendre dans 3 965–3 980 sans bougie 1 h de rejet : le rebond est fort, attendre la confirmation, idéalement après le JOLTS de 16h Paris.",
+  "Ne pas vendre en retard loin de 3 965 : après le rejet, attendre un nouveau retour dans la zone ou la cassure du pivot 3 937.",
   "Ne pas acheter avant le test de 3 830–3 850 et une bougie de rejet : la tendance reste baissière.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée.",
@@ -182,7 +182,7 @@
    "at": "2026-11-03T15:00:00Z",
    "event": "Offres d'emploi JOLTS",
    "importance": 1,
-   "why": "Publié à 16h Paris. Indice de la tension sur le marché du travail."
+   "why": "Publié à 16h Paris (septembre, environ 7,13 millions attendus selon Schwab). Indice de la tension sur le marché du travail."
   },
   {
    "at": "2026-11-06T13:30:00Z",
@@ -223,12 +223,20 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : l'or vers 3 957–3 965 $ (+0,3 à +0,5 %), DXY 101,84, rendement 4,92 %, Brent 102,5 $ (-2,2 %) (3 nov., après-midi)",
+   "title": "Kitco : spot 3 945,30 $ (-0,01 %), plage 3 894,80–3 971,70 (3 nov., 9h52 New York)",
+   "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "Trading Economics : l'or vers 3 940 $ (-0,17 %), DXY 101,79, rendement 4,95 %, Brent 103,4 $ (3 nov., après-midi)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
-   "title": "Kitco : spot 3 967 $, +21,30 $ (+0,54 %), plage 3 894,80–3 968,90 (3 nov., 8h46 New York)",
-   "url": "http://www.kitco.com/charts/gold"
+   "title": "FXEmpire : or à 3 941 $, pivots support 3 936,6 / résistance 3 981,9 (3 nov., 15h03 UTC)",
+   "url": "https://www.fxempire.com/forecasts/gold"
+  },
+  {
+   "title": "Schwab : JOLTS attendu vers 7,13 millions, 10 ans 4,91 %, DXY 101,83 (3 nov., 9h16 New York)",
+   "url": "https://www.schwab.com/learn/story/stock-market-update-open"
   },
   {
    "title": "Finimize : l'or rebondit, le recul du pétrole calme la peur d'inflation, 77 % de hausse en décembre (2 nov.)",
