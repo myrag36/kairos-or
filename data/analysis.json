@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T19:08:00Z",
- "price": 3928,
- "change": -0.5,
- "priceTime": "3 nov. · 20h06 Paris",
+ "updatedAt": "2026-11-03T20:06:00Z",
+ "price": 3919,
+ "change": -0.7,
+ "priceTime": "3 nov. · 21h05 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or recule légèrement vers 3 928 $ (-0,5 % sur la journée, FXEmpire et Trading Economics), toujours sous le pivot 3 937, après son rejet à 3 971,7 sous la résistance 3 965–3 980. Les offres d'emploi JOLTS à 7,5 millions (7,13 attendus) confirment un marché du travail solide, ce qui soutient le scénario de hausse des taux. Le rendement à 10 ans reste vers 4,95 %, le dollar vers 101,8 ; le marché voit toujours environ 75 % de chances de hausse en décembre. Aucun plan n'est invalidé : la vente principale reste valable, objectif 1 à 3 905, et FXEmpire garde un signal journalier « vente forte ». Élections de mi-mandat aujourd'hui (résultats dans la nuit), emploi (NFP) vendredi.",
+ "summary": "L'or glisse vers 3 919 $ (-0,7 % sur la journée, FXEmpire et Trading Economics), sous le pivot 3 937, après son rejet à 3 971,7 sous la résistance 3 965–3 980. Les offres d'emploi JOLTS à 7,5 millions (7,13 attendus) confirment un marché du travail solide, ce qui soutient le scénario de hausse des taux. Le rendement à 10 ans reste vers 4,95 % et le dollar remonte un peu vers 101,9 ; le marché voit toujours environ 75 % de chances de hausse en décembre. Aucun plan n'est invalidé : la vente principale reste valable et se rapproche de son objectif 1 à 3 905, FXEmpire garde un signal journalier « vente forte ». Élections de mi-mandat aujourd'hui (résultats dans la nuit), emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : l'or est monté à 3 971,7 dans la zone puis est retombé vers 3 928, juste sous le pivot 3 937. Si on n'est pas entré, ne pas vendre en retard loin de la zone : attendre un nouveau retour vers 3 965 ou une clôture 1 h nette sous 3 930. FXEmpire place une résistance à 3 982 et reste vendeur sous 4 000. Stop au-dessus de 4 005 ; une clôture 1 h au-dessus de 4 005 annule le plan.",
+   "note": "Plan principal, toujours valable : l'or est monté à 3 971,7 dans la zone puis est retombé vers 3 919, sous le pivot 3 937, et approche l'objectif 1 à 3 905 (support S1 3 903). Si on est entré, on peut sécuriser une partie à 3 905. Si on n'est pas entré, ne pas vendre en retard loin de la zone : attendre un nouveau retour vers 3 965. FXEmpire place une résistance à 3 982 et reste vendeur sous 4 000. Stop au-dessus de 4 005 ; une clôture 1 h au-dessus de 4 005 annule le plan.",
    "invalidAbove": 4005
   },
   {
@@ -38,7 +38,7 @@
     3985,
     3950
    ],
-   "note": "Plan gardé. L'or est à environ 100 $ de la zone et vient d'être rejeté sous 3 972 : il faudrait d'abord casser 3 980 puis repasser 4 000. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé. L'or est à plus de 110 $ de la zone et vient d'être rejeté sous 3 972 : il faudrait d'abord casser 3 980 puis repasser 4 000. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone n'est pas touchée, l'or est à environ 80 $ au-dessus. Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. Avant elle : le pivot 3 937, le support 3 885–3 904, puis le plus bas d'un an 3 870. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone n'est pas touchée, l'or est à environ 70 $ au-dessus. Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. Avant elle : le support 3 885–3 904 puis le plus bas d'un an 3 870. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -88,12 +88,12 @@
   {
    "p": 3937,
    "kind": "pivot",
-   "label": "Pivot du jour 3 937 (FXEmpire) : l'or reste en dessous (3 928), une clôture 1 h sous 3 930 rouvre 3 905"
+   "label": "Pivot du jour 3 937 (FXEmpire) : l'or reste en dessous (3 919)"
   },
   {
    "p": 3895,
    "kind": "sup",
-   "label": "Support 3 885–3 904 (Mitrade, FXEmpire S1 3 903) : a tenu, plus bas du jour 3 894,8"
+   "label": "Support 3 885–3 904 (Mitrade, FXEmpire S1 3 903) : plus bas du jour 3 894,8, l'or s'en rapproche"
   },
   {
    "p": 3870,
@@ -135,7 +135,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Indice dollar vers 101,8, quasi stable (+0,08 %) (Trading Economics) : pas de mouvement net avant les élections. FXEmpire note qu'une victoire républicaine nette au Congrès pourrait soutenir le dollar et peser sur l'or."
+   "text": "Indice dollar vers 101,9, en légère hausse (+0,13 %) (Trading Economics) : pas de mouvement net avant les élections. FXEmpire note qu'une victoire républicaine nette au Congrès pourrait soutenir le dollar et peser sur l'or."
   },
   {
    "name": "Pétrole et Golfe",
@@ -145,7 +145,7 @@
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. Aujourd'hui l'or est tombé à 3 894,8, a rebondi jusqu'à 3 971,7 puis a été rejeté sous la résistance 3 965–3 982, comme cette nuit à 3 965,5 : il reste sous le pivot 3 937 (3 928 en soirée). Signal technique journalier « vente forte » chez FXEmpire. Le prix reste sous ses moyennes mobiles, RSI journalier sous 50 et MACD négatif (CaptainAltcoin ce matin). FXEmpire vise 3 800 sous 3 870 ; il faudrait une clôture hebdomadaire au-dessus de 4 000 pour un vrai redressement."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. Aujourd'hui l'or est tombé à 3 894,8, a rebondi jusqu'à 3 971,7 puis a été rejeté sous la résistance 3 965–3 982, comme cette nuit à 3 965,5 : il reste sous le pivot 3 937 (3 919 en soirée). Signal technique journalier « vente forte » chez FXEmpire. Le prix reste sous ses moyennes mobiles, RSI journalier sous 50 et MACD négatif (CaptainAltcoin ce matin). FXEmpire vise 3 800 sous 3 870 ; il faudrait une clôture hebdomadaire au-dessus de 4 000 pour un vrai redressement."
   },
   {
    "name": "Achats des banques centrales",
@@ -164,7 +164,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas vendre en retard loin de 3 965 : après le rejet, attendre un nouveau retour dans la zone ou une clôture 1 h nette sous 3 930.",
+  "Ne pas vendre en retard loin de 3 965 : l'or est déjà proche de 3 905, attendre un nouveau retour dans la zone.",
   "Ne pas acheter avant le test de 3 830–3 850 et une bougie de rejet : la tendance reste baissière.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée.",
@@ -224,11 +224,11 @@
  ],
  "sources": [
   {
-   "title": "FXEmpire : or à 3 927,42 $ (-0,52 %), pivots 3 902,8 / 3 936,6, signal journalier « vente forte » (3 nov., 19h06 UTC)",
+   "title": "FXEmpire : or à 3 919,32 $ (-0,73 %), pivots 3 902,8 / 3 936,6, signal journalier « vente forte », objectif 3 800 (3 nov., 20h02 UTC)",
    "url": "https://www.fxempire.com/forecasts/gold"
   },
   {
-   "title": "Trading Economics : l'or vers 3 928,5 $ (-0,47 %), DXY 101,81, rendement 4,95 % (3 nov., soir)",
+   "title": "Trading Economics : l'or vers 3 918 $ (-0,74 %), DXY 101,87, rendement 4,95 % (3 nov., soir)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
