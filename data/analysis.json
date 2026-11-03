@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T09:10:00Z",
- "price": 3897,
- "change": -1.3,
- "priceTime": "3 nov. · 10h05 Paris",
+ "updatedAt": "2026-11-03T10:05:00Z",
+ "price": 3906,
+ "change": -1.0,
+ "priceTime": "3 nov. · 11h05 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or recule encore vers 3 897 $ (-1,3 %, Trading Economics) et entre dans le support 3 885–3 904, après un rejet cette nuit à 3 965,5 sous la résistance 3 965–3 980 (Kitco). Le pétrole remonte (Brent vers 106,9 $) après une frappe américaine signalée sur l'île iranienne de Qeshm, ce qui ravive la peur d'inflation, et les ventes sur la tech et l'IA poussent à vendre l'or pour couvrir des pertes. Le marché voit toujours environ 74 % de chances de hausse des taux en décembre et le rendement reste vers 4,93 % : la tendance de fond reste baissière, le RSI journalier vers 36 approche la zone de survente. Aucun plan n'est invalidé, on garde les trois ; l'objectif 1 de la vente (3 905) est atteint, et sous 3 870 (plus bas d'un an) la voie s'ouvrirait vers 3 800. Élections de mi-mandat aujourd'hui (résultats dans la nuit), offres d'emploi JOLTS à 16h Paris, emploi (NFP) vendredi.",
+ "summary": "L'or reste sous pression vers 3 906 $ (-1,0 %, Trading Economics), posé sur le support 3 885–3 904 après un rejet cette nuit à 3 965,5 sous la résistance 3 965–3 980 (Kitco). Le pétrole reste soutenu (Brent vers 105,6 $) après une frappe américaine signalée sur l'île iranienne de Qeshm, ce qui garde la peur d'inflation, et les ventes sur la tech et l'IA poussent à vendre l'or pour couvrir des pertes. Le marché voit environ 75 % de chances de hausse des taux en décembre et le rendement reste vers 4,91 % : la tendance de fond reste baissière, même si le RSI proche de la survente rend un petit rebond possible (FXEmpire). Aucun plan n'est invalidé, on garde les trois ; sous 3 870 (plus bas d'un an) la voie s'ouvrirait vers 3 800. Élections de mi-mandat aujourd'hui (résultats dans la nuit), offres d'emploi JOLTS à 16h Paris, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3905,
     3850
    ],
-   "note": "Plan principal, toujours valable : cette nuit l'or est monté à 3 965,5 (Kitco), à peine dans la zone, puis est retombé vers 3 897. Si vous êtes entré sur une bougie de rejet dans la zone, l'objectif 1 (3 905) est atteint : sécuriser une partie et remonter le stop au prix d'entrée. Sinon, ne pas vendre en retard vers 3 900 : attendre un nouveau passage dans 3 965–3 980 et une bougie 1 h qui clôture nettement en baisse. FXEmpire reste vendeur tant que l'or est sous 3 975. Une clôture 1 h au-dessus de 4 005 annule le plan.",
+   "note": "Plan principal, toujours valable : cette nuit l'or est monté à 3 965,5 (Kitco), à peine dans la zone, puis est retombé vers 3 905. Si vous êtes entré sur une bougie de rejet dans la zone, l'objectif 1 (3 905) est atteint : sécuriser une partie et remonter le stop au prix d'entrée. Sinon, ne pas vendre en retard vers 3 900 : attendre un nouveau passage dans 3 965–3 980 et une bougie 1 h qui clôture nettement en baisse. FXEmpire place une résistance à 3 982 et reste vendeur sous 4 000. Une clôture 1 h au-dessus de 4 005 annule le plan.",
    "invalidAbove": 4005
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone n'est pas touchée et le prix s'en rapproche, à environ 50 $. Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. Avant elle : le support 3 885–3 904, testé en ce moment, puis le plus bas d'un an 3 870. Le RSI journalier vers 36 (CaptainAltcoin) se rapproche de la survente, ce qui rend un rebond possible sur 3 830–3 850. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone n'est pas touchée et le prix s'en rapproche, à environ 55 $. Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. Avant elle : le support 3 885–3 904, sur lequel l'or est posé, puis le plus bas d'un an 3 870. Le RSI journalier vers 36 (CaptainAltcoin) est proche de la survente selon FXEmpire, ce qui rend un rebond possible sur 3 830–3 850. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -78,7 +78,7 @@
   {
    "p": 3975,
    "kind": "res",
-   "label": "Résistance 3 965–3 982 (Mitrade 3 971–3 982), plus haut de la nuit 3 965,5"
+   "label": "Résistance 3 965–3 982 (FXEmpire R1 3 982), plus haut de la nuit 3 965,5"
   },
   {
    "p": 3950,
@@ -86,14 +86,14 @@
    "label": "3 947–3 952 : clôture de lundi, reperdu cette nuit, redevient résistance"
   },
   {
-   "p": 3920,
+   "p": 3937,
    "kind": "pivot",
-   "label": "Ancien support cassé ce matin"
+   "label": "Pivot du jour 3 937 (FXEmpire)"
   },
   {
    "p": 3895,
    "kind": "sup",
-   "label": "Support 3 885–3 904 (Mitrade), testé : or vers 3 897"
+   "label": "Support 3 885–3 904 (Mitrade, FXEmpire S1 3 903) : or vers 3 906"
   },
   {
    "p": 3870,
@@ -115,12 +115,12 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit 74 à 75 % de chances de hausse en décembre (CME FedWatch, Reuters), contre 80 % il y a une semaine."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit environ 75 % de chances de hausse en décembre (CME FedWatch, Reuters, FXEmpire), contre 80 % il y a une semaine."
   },
   {
    "name": "Rendement américain à 10 ans",
    "impact": -2,
-   "text": "Vers 4,93 % (Trading Economics), en légère hausse : il reste élevé et c'est le principal frein de l'or depuis septembre."
+   "text": "Vers 4,91 % (Trading Economics), stable : il reste élevé et c'est le principal frein de l'or depuis septembre."
   },
   {
    "name": "Croissance et inflation US",
@@ -135,17 +135,17 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Indice dollar vers 101,8, stable (Trading Economics) : pas de mouvement net avant les élections."
+   "text": "Indice dollar vers 101,8, quasi stable (+0,1 %, Trading Economics) : pas de mouvement net avant les élections. FXEmpire note qu'une victoire républicaine nette au Congrès pourrait soutenir le dollar et peser sur l'or."
   },
   {
    "name": "Pétrole et Golfe",
    "impact": 0,
-   "text": "Après -7 % lundi, le pétrole remonte ce matin (WTI vers 98,2 $, Brent vers 106,9 $, +2 %, Trading Economics). Une frappe américaine sur l'île de Qeshm est signalée, et Téhéran dit que « la balle est dans le camp américain » dans les discussions. Un pétrole cher garde la peur d'inflation et la hausse des taux en vue."
+   "text": "Après -7 % lundi, le pétrole remonte (Brent vers 105,6 $, +0,8 %, Trading Economics) après une frappe américaine signalée sur l'île de Qeshm. Téhéran dit que « la balle est dans le camp américain » dans les discussions. Un pétrole cher garde la peur d'inflation et la hausse des taux en vue."
   },
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. Le rebond de lundi a buté sous 3 965–3 980 (plus haut 3 965,5 cette nuit) et l'or est retombé vers 3 897, dans le support 3 885–3 904. Le prix reste sous ses moyennes mobiles, RSI 4 h vers 40 (FXEmpire), RSI journalier vers 36 et MACD négatif (CaptainAltcoin). FXEmpire reste vendeur sous 3 975 : une clôture sous 3 871 ouvrirait 3 797. Supports 3 885–3 904, 3 870 puis 3 829–3 849."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. Le rebond de lundi a buté sous 3 965–3 980 (plus haut 3 965,5 cette nuit) et l'or est retombé vers 3 905, sur le support 3 885–3 904. Le prix reste sous ses moyennes mobiles, RSI 4 h vers 40 (FXEmpire), RSI journalier vers 36 et MACD négatif (CaptainAltcoin). FXEmpire voit 3 900 cassé, pivot 3 937, résistance 3 982, et vise 3 800 sous 3 870 ; il faudrait une clôture hebdomadaire au-dessus de 4 000 pour un vrai redressement."
   },
   {
    "name": "Achats des banques centrales",
@@ -223,12 +223,16 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : l'or vers 3 896 $ (-1,3 %), DXY 101,76, rendement 4,925 %, Brent 106,9 $, frappe signalée sur Qeshm (3 nov.)",
+   "title": "Trading Economics : l'or vers 3 906 $ (-1,04 %), DXY 101,83, rendement 4,91 %, Brent 105,6 $, frappe signalée sur Qeshm (3 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
    "title": "Kitco : spot 3 904,70 $, -1,04 %, plage 3 903,40–3 965,50 (3 nov., 3h43 New York)",
    "url": "http://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "FXEmpire : l'or vers 3 904 $ (-1,1 %), pivot 3 937, S1 3 903, R1 3 982, cibles 3 800 sous 3 870, RSI proche survente (3 nov., 9h28 GMT)",
+   "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-prices-slip-ahead-of-us-midterm-elections-1642136"
   },
   {
    "title": "FXEmpire : l'or vers 3 922–3 926 $, vendeur sous 3 975, supports 3 871 et 3 797, RSI 4 h vers 40 (3 nov., 6h30 GMT)",
