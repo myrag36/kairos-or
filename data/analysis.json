@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-03T10:05:00Z",
- "price": 3906,
- "change": -1.0,
- "priceTime": "3 nov. · 11h05 Paris",
+ "updatedAt": "2026-11-03T11:05:00Z",
+ "price": 3905,
+ "change": -1.05,
+ "priceTime": "3 nov. · 12h05 Paris",
  "bias": "sell",
  "biasLabel": "Vendeur",
- "summary": "L'or reste sous pression vers 3 906 $ (-1,0 %, Trading Economics), posé sur le support 3 885–3 904 après un rejet cette nuit à 3 965,5 sous la résistance 3 965–3 980 (Kitco). Le pétrole reste soutenu (Brent vers 105,6 $) après une frappe américaine signalée sur l'île iranienne de Qeshm, ce qui garde la peur d'inflation, et les ventes sur la tech et l'IA poussent à vendre l'or pour couvrir des pertes. Le marché voit environ 75 % de chances de hausse des taux en décembre et le rendement reste vers 4,91 % : la tendance de fond reste baissière, même si le RSI proche de la survente rend un petit rebond possible (FXEmpire). Aucun plan n'est invalidé, on garde les trois ; sous 3 870 (plus bas d'un an) la voie s'ouvrirait vers 3 800. Élections de mi-mandat aujourd'hui (résultats dans la nuit), offres d'emploi JOLTS à 16h Paris, emploi (NFP) vendredi.",
+ "summary": "L'or reste vers 3 905 $ (-1,05 %, Kitco), toujours posé sur le support 3 885–3 904 : il est descendu jusqu'à 3 894,8 ce matin sans casser le plus bas d'un an de 3 870. Le pétrole cher (Brent vers 105,8 $) après la frappe américaine signalée sur l'île iranienne de Qeshm entretient la peur d'inflation, et le marché voit toujours environ 75 % de chances de hausse des taux en décembre. Le World Gold Council a réduit sa prévision de demande d'investissement en or pour 2026 (200 t contre 400 t), mais relevé celle des banques centrales. La tendance reste baissière et aucun plan n'est invalidé : on garde les trois ; sous 3 870 la voie s'ouvrirait vers 3 800. Élections de mi-mandat aujourd'hui (résultats dans la nuit), offres d'emploi JOLTS à 16h Paris, emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone n'est pas touchée et le prix s'en rapproche, à environ 55 $. Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. Avant elle : le support 3 885–3 904, sur lequel l'or est posé, puis le plus bas d'un an 3 870. Le RSI journalier vers 36 (CaptainAltcoin) est proche de la survente selon FXEmpire, ce qui rend un rebond possible sur 3 830–3 850. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone n'est pas touchée et le prix est à environ 55 $ (plus bas du jour 3 894,8). Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. Avant elle : le support 3 885–3 904, sur lequel l'or est posé, puis le plus bas d'un an 3 870. Le RSI journalier vers 36 (CaptainAltcoin) est proche de la survente selon FXEmpire, ce qui rend un rebond possible sur 3 830–3 850. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -93,7 +93,7 @@
   {
    "p": 3895,
    "kind": "sup",
-   "label": "Support 3 885–3 904 (Mitrade, FXEmpire S1 3 903) : or vers 3 906"
+   "label": "Support 3 885–3 904 (Mitrade, FXEmpire S1 3 903) : or vers 3 905, plus bas du jour 3 894,8"
   },
   {
    "p": 3870,
@@ -140,7 +140,7 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 0,
-   "text": "Après -7 % lundi, le pétrole remonte (Brent vers 105,6 $, +0,8 %, Trading Economics) après une frappe américaine signalée sur l'île de Qeshm. Téhéran dit que « la balle est dans le camp américain » dans les discussions. Un pétrole cher garde la peur d'inflation et la hausse des taux en vue."
+   "text": "Après -7 % lundi, le pétrole remonte (Brent vers 105,8 $, +0,9 %, Trading Economics) après une frappe américaine signalée sur l'île de Qeshm. Téhéran dit que « la balle est dans le camp américain » dans les discussions. Un pétrole cher garde la peur d'inflation et la hausse des taux en vue."
   },
   {
    "name": "Technique",
@@ -150,12 +150,12 @@
   {
    "name": "Achats des banques centrales",
    "impact": 1,
-   "text": "Environ 170 tonnes achetées en 2026, dont 39 t en août. Un soutien de fond sur les baisses."
+   "text": "Environ 170 tonnes achetées en 2026, dont 39 t en août. Un soutien de fond sur les baisses. Le World Gold Council vient de relever son estimation d'achats pour 2026."
   },
   {
    "name": "ETF sur l'or",
    "impact": 1,
-   "text": "Record de 4 256 tonnes détenues fin septembre (World Gold Council), plus de 50 t entrées en septembre selon ANZ : les investisseurs de long terme n'ont pas vendu."
+   "text": "Record de 4 256 tonnes détenues fin septembre (World Gold Council), plus de 50 t entrées en septembre selon ANZ : les investisseurs de long terme n'ont pas vendu. Le World Gold Council a toutefois abaissé sa prévision de demande d'investissement pour 2026 à 200 t (contre 400 t), à cause de ventes de lingots et pièces plus faibles."
   },
   {
    "name": "Sentiment",
@@ -223,12 +223,20 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : l'or vers 3 906 $ (-1,04 %), DXY 101,83, rendement 4,91 %, Brent 105,6 $, frappe signalée sur Qeshm (3 nov.)",
+   "title": "Trading Economics : l'or vers 3 905 $ (-1,08 %), DXY 101,84, rendement 4,92 %, Brent 105,8 $, frappe signalée sur Qeshm (3 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
-   "title": "Kitco : spot 3 904,70 $, -1,04 %, plage 3 903,40–3 965,50 (3 nov., 3h43 New York)",
+   "title": "Kitco : spot 3 904,40 $, -1,05 %, plage 3 894,80–3 965,50 (3 nov., 6h00 New York)",
    "url": "http://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "Rallies.ai (Reuters) : 75 % de hausse en décembre, World Gold Council abaisse sa prévision d'investissement à 200 t (3 nov.)",
+   "url": "https://rallies.ai/news/gold-falls-as-higher-oil-stokes-inflation-fears-ahead-of-us-midterms-c14deff1c1ad8101"
+  },
+  {
+   "title": "TokenPost : l'or passe sous 3 900 $ (3 899,78 $, -1,18 %) mardi matin (3 nov., 8h53 UTC)",
+   "url": "https://www.tokenpost.com/news/investing/47504"
   },
   {
    "title": "FXEmpire : l'or vers 3 904 $ (-1,1 %), pivot 3 937, S1 3 903, R1 3 982, cibles 3 800 sous 3 870, RSI proche survente (3 nov., 9h28 GMT)",
