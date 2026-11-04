@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T07:10:00Z",
- "price": 4017,
- "change": 1.7,
- "priceTime": "4 nov. · 8h05 Paris",
+ "updatedAt": "2026-11-04T08:05:00Z",
+ "price": 4026,
+ "change": 2.0,
+ "priceTime": "4 nov. · 9h05 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or bondit au-dessus de 4 000 $ cette nuit, vers 4 017 $ (+1,7 %, FXEmpire ; +2,3 % chez Trading Economics), après la victoire des démocrates aux élections de mi-mandat. Les démocrates gagnent la Chambre et CBS projette aussi le Sénat : le dollar recule vers 101,5 et les rendements américains baissent nettement (Reuters). La vente principale sous 3 975 est annulée, son stop à 4 005 a été franchi : elle est remplacée par un achat sur retour vers 3 985–4 000. Le marché voit toujours environ 78 % de chances de hausse des taux en décembre, et le signal journalier FXEmpire reste « vente » (relevé depuis « vente forte ») : le biais passe donc de vendeur à neutre. Prochaine résistance 4 032–4 044 puis 4 067–4 083 ; emploi (NFP) vendredi.",
+ "summary": "L'or tient au-dessus de 4 000 $, vers 4 026 $ (+2 %, FXEmpire ; 4 023 $ chez Trading Economics), porté par la victoire des démocrates aux élections de mi-mandat. Le dollar continue de reculer vers 101,4 et les rendements américains baissent. Les trois plans restent valables : aucun niveau d'annulation n'a été franchi, l'or est à quelques dollars sous la zone de vente 4 032–4 044. Le marché voit toujours environ 79 % de chances de hausse des taux en décembre et le signal journalier FXEmpire reste « vente » : le biais reste neutre. Emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3985,
     3950
    ],
-   "note": "Plan gardé, maintenant le plus proche : l'or est à environ 15 $ sous la zone après son bond de la nuit (plus haut des contrats à terme 4 032,4). Ne vendre que sur une vraie bougie de rejet : l'élan est haussier. IC Markets place une résistance à 4 067,5, Mitrade à 4 074–4 083. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé, maintenant tout proche : l'or est à environ 6 $ sous la zone (plus haut de la nuit 4 032,4 sur les contrats à terme). Ne vendre que sur une vraie bougie de rejet : l'élan est haussier. IC Markets place une résistance à 4 067,5, FXEmpire à 4 086,6, Mitrade à 4 074–4 083. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
@@ -38,7 +38,7 @@
     4035,
     4110
    ],
-   "note": "Nouveau plan, remplace la vente sous 3 975 annulée par le passage au-dessus de 4 005. Le seuil de 4 000 est repris après les élections. Objectif 1 sous la zone de vente 4 032–4 044, objectif 2 vers 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds 4 115, haut de la semaine FXEmpire 4 111,6). Stop sous l'ancienne résistance 3 965–3 980. Ne pas acheter en plein élan à 4 017 : attendre le retour. Une clôture 1 h sous 3 958 annule le plan.",
+   "note": "Plan gardé. Le seuil de 4 000 est repris après les élections ; MarketGauge (Kitco) juge que l'or doit tenir 4 000 pour retrouver l'élan haussier. Objectif 1 sous la zone de vente 4 032–4 044, objectif 2 vers 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds 4 115, haut de la semaine FXEmpire 4 111,6). Stop sous l'ancienne résistance 3 965–3 980. Ne pas acheter en plein élan à 4 026 : attendre le retour. Une clôture 1 h sous 3 958 annule le plan.",
    "invalidBelow": 3958
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 170 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 3 920–3 930 (plus bas de la nuit 3 929,3, seuil baissier FinanceFeeds 3 920) puis le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 175 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 3 940 (support MarketGauge, Kitco), 3 920–3 930 (plus bas de la nuit 3 929,3, seuil baissier FinanceFeeds 3 920) puis le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -68,7 +68,7 @@
   {
    "p": 4075,
    "kind": "res",
-   "label": "Résistance 4 067–4 083 (IC Markets 4 067,5, Mitrade 4 074–4 083)"
+   "label": "Résistance 4 067–4 087 (IC Markets 4 067,5, Mitrade 4 074–4 083, FXEmpire 4 086,6)"
   },
   {
    "p": 4062,
@@ -83,7 +83,7 @@
   {
    "p": 4011,
    "kind": "pivot",
-   "label": "Support pivot du jour 4 010,8 (FXEmpire) : l'or juste au-dessus (4 017)"
+   "label": "Support pivot du jour 4 010,8 (FXEmpire) : l'or au-dessus (4 026)"
   },
   {
    "p": 3992,
@@ -115,12 +115,12 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit environ 78 % de chances de hausse en décembre (CME FedWatch, Reuters), peu changé malgré les élections."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit environ 79 % de chances de hausse en décembre (Trading Economics), peu changé malgré les élections."
   },
   {
    "name": "Rendement américain à 10 ans",
    "impact": -1,
-   "text": "Les rendements nominaux et réels baissent nettement après les élections (Pepperstone, cité par Reuters) ; Trading Economics affiche environ 4,93 %. Ils restent élevés, mais la pression sur l'or se relâche."
+   "text": "Les rendements baissent après les élections (Reuters, Trading Economics) ; Trading Economics affiche environ 4,93 %. Ils restent élevés, mais la pression sur l'or se relâche."
   },
   {
    "name": "Croissance et inflation US",
@@ -135,12 +135,12 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "Indice dollar vers 101,5 (-0,3 %, Trading Economics), contre 101,9 hier soir, au plus bas depuis environ cinq semaines (Goodreturns) : la victoire démocrate pèse sur le dollar et soutient l'or."
+   "text": "Indice dollar vers 101,4 (-0,45 %, Trading Economics), contre 101,9 hier soir, au plus bas depuis environ cinq semaines : la victoire démocrate pèse sur le dollar et soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
    "impact": 1,
-   "text": "Les démocrates gagnent la Chambre ; CBS projette aussi le contrôle du Sénat, certaines courses ne sont pas encore tranchées (CNN). Cette « vague bleue » affaiblit le dollar et fait baisser les rendements, ce qui a porté l'or au-dessus de 4 000 $."
+   "text": "Les démocrates gagnent la Chambre et semblent prendre aussi le Sénat, mais les résultats ne sont pas encore définitifs (Kitco, CNN). Ce blocage politique attendu affaiblit le dollar et fait baisser les rendements, ce qui a porté l'or au-dessus de 4 000 $. MarketGauge reste prudent : selon lui, la fuite vers l'or comme refuge est cassée."
   },
   {
    "name": "Pétrole et Golfe",
@@ -169,7 +169,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter en plein élan vers 4 017 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
+  "Ne pas acheter en plein élan vers 4 026 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
   "Ne pas vendre dans 4 032–4 044 sans bougie de rejet nette : l'élan est haussier.",
   "Ne pas acheter avant le test de 3 830–3 850 pour le plan bas.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
@@ -224,12 +224,16 @@
  ],
  "sources": [
   {
-   "title": "FXEmpire : or à 4 016,62 $ (+1,73 %), support pivot 4 010,84, résistance 4 086,62, signal journalier « vente » (4 nov., 7h05 UTC)",
+   "title": "FXEmpire : or à 4 026,49 $ (+1,98 %), support pivot 4 010,84, résistance 4 086,62, signal journalier « vente » (4 nov., 8h03 UTC)",
    "url": "https://www.fxempire.com/forecasts/gold"
   },
   {
-   "title": "Trading Economics : l'or reprend 4 000 $ (4 022,7 $, +2,3 %), DXY 101,53 (-0,33 %), Brent 104,4 $ (4 nov.)",
+   "title": "Trading Economics : or à 4 022,6 $ (+2,3 %), DXY 101,41 (-0,45 %), 79 % de hausse des taux en décembre (4 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "Kitco : l'or atteint 4 000 $, les démocrates en passe de contrôler le Congrès ; support MarketGauge 3 940 (4 nov., 6h06)",
+   "url": "https://www.kitco.com/news/article/2026-11-04/gold-prices-hit-4000-democrats-see-electoral-sweep-gain-control-congress"
   },
   {
    "title": "FinanceFeeds : or au-dessus de 4 000 $ après la victoire démocrate, plage de nuit 3 929,3–4 032,4, seuils 3 920 / 4 115 (4 nov., 6h36 GMT)",
