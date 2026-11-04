@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T18:10:00Z",
- "price": 4066,
- "change": 3.4,
- "priceTime": "4 nov. · 19h05 Paris",
+ "updatedAt": "2026-11-04T19:08:00Z",
+ "price": 4061,
+ "change": 3.3,
+ "priceTime": "4 nov. · 20h05 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or tient ses gains et cote vers 4 066 $ (+3,4 % sur la journée selon Trading Economics), en route pour sa plus forte hausse depuis la mi-août. Il reste au-dessus de la moyenne mobile 100 en 4 h (4 057), juste sous la résistance 4 068–4 087, où se trouve notre zone de vente. Le dollar recule encore (101,46, -0,40 %) et le pétrole chute fortement (Brent vers 94 $, -9 %) sur l'espoir d'un dégel entre Washington et Téhéran : moins d'inflation importée, ce qui aide un peu l'or. Mais le marché voit toujours environ 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Les trois plans restent valables ; prochain rendez-vous majeur : l'emploi officiel (NFP) vendredi à 14h30 Paris.",
+ "summary": "L'or se stabilise vers 4 061 $ (+3,3 % sur la journée selon Trading Economics, 4 061,15 $ à 20h01 Paris selon FXEmpire), toujours en route pour sa plus forte hausse depuis la mi-août. Il reste au-dessus de la moyenne mobile 100 en 4 h (4 057), juste sous la résistance 4 068–4 087, où se trouve notre zone de vente. Le dollar reprend un peu de terrain (101,60, -0,26 %) mais le pétrole reste en forte baisse (Brent vers 94,8 $, -8,5 %) sur l'espoir d'un dégel entre Washington et Téhéran. Le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Les trois plans restent valables ; prochain rendez-vous majeur : l'emploi officiel (NFP) vendredi à 14h30 Paris.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4045,
     4012
    ],
-   "note": "Plan gardé : l'or cote 4 066, juste sous la zone, sans signal de rejet pour l'instant. On attend plus haut, sur la grosse zone de résistance 4 067–4 087 et la ligne de tendance baissière signalée par Kitco. Objectif 1 sur l'ancien plafond 4 045, objectif 2 sur le pivot 4 011 (FXEmpire). Stop au-dessus de 4 087, sous la résistance 4 104–4 115. Une clôture 1 h au-dessus de 4 098 annule le plan.",
+   "note": "Plan gardé : l'or cote 4 061, juste sous la zone, sans signal de rejet pour l'instant. On attend plus haut, sur la grosse zone de résistance 4 067–4 087 et la ligne de tendance baissière signalée par Kitco. Objectif 1 sur l'ancien plafond 4 045, objectif 2 sur le pivot 4 011 (FXEmpire). Stop au-dessus de 4 087, sous la résistance 4 104–4 115. Une clôture 1 h au-dessus de 4 098 annule le plan.",
    "invalidAbove": 4098
   },
   {
@@ -38,7 +38,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé. Le seuil de 4 000 est repris après les élections ; MarketGauge (Kitco) juge que l'or doit tenir 4 000 pour retrouver l'élan haussier. Objectif 1 sous la zone de vente 4 032–4 044, objectif 2 vers 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds 4 115, haut de la semaine FXEmpire 4 111,6). Stop sous l'ancienne résistance 3 965–3 980. Ne pas acheter en plein élan à 4 066 : attendre le retour. Une clôture 1 h sous 3 958 annule le plan.",
+   "note": "Plan gardé. Le seuil de 4 000 est repris après les élections ; MarketGauge (Kitco) juge que l'or doit tenir 4 000 pour retrouver l'élan haussier. Objectif 1 sous la zone de vente 4 032–4 044, objectif 2 vers 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds 4 115, haut de la semaine FXEmpire 4 111,6). Stop sous l'ancienne résistance 3 965–3 980. Ne pas acheter vers 4 061 : attendre le retour. Une clôture 1 h sous 3 958 annule le plan.",
    "invalidBelow": 3958
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 215 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 3 940 (support MarketGauge, Kitco), 3 920–3 930 (plus bas de la nuit 3 929,3, seuil baissier FinanceFeeds 3 920) puis le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 210 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 3 940 (support MarketGauge, Kitco), 3 920–3 930 (plus bas de la nuit 3 929,3, seuil baissier FinanceFeeds 3 920) puis le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -78,7 +78,7 @@
   {
    "p": 4057,
    "kind": "pivot",
-   "label": "Moyenne mobile 100 en 4 h (4 057) : l'or au-dessus (4 066)"
+   "label": "Moyenne mobile 100 en 4 h (4 057) : l'or juste au-dessus (4 061)"
   },
   {
    "p": 4046,
@@ -140,7 +140,7 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "L'indice dollar est tombé jusqu'à 101,3, plus bas de cinq semaines, après la victoire démocrate ; il cote vers 101,46 (-0,40 %, Trading Economics). La baisse du dollar soutient l'or."
+   "text": "L'indice dollar est tombé jusqu'à 101,3, plus bas de cinq semaines, après la victoire démocrate ; il remonte un peu vers 101,60 (-0,26 %, Trading Economics). La baisse du dollar soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -150,12 +150,12 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 0,
-   "text": "Le Brent chute fortement : vers 94 $ (-9 %, Trading Economics), plus bas de deux mois, sur l'espoir d'un dialogue entre Washington et Téhéran et la reprise des exportations du Golfe (XTB). Moins de pétrole cher, c'est moins d'inflation et un peu moins de raisons de monter les taux, mais aussi moins de risque géopolitique qui soutenait l'or : effet net neutre."
+   "text": "Le Brent chute fortement : vers 94,8 $ (-8,5 %, Trading Economics), WTI vers 88 $, plus bas de deux mois, sur l'espoir d'un dialogue entre Washington et Téhéran et la reprise des exportations du Golfe (XTB). Moins de pétrole cher, c'est moins d'inflation et un peu moins de raisons de monter les taux, mais aussi moins de risque géopolitique qui soutenait l'or : effet net neutre."
   },
   {
    "name": "Technique",
    "impact": -1,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. Cette nuit l'or a cassé la résistance 3 965–3 982 et repris 4 000. Après six heures entre 4 039 et 4 053, il est sorti par le haut et cote vers 4 066, au-dessus de la moyenne mobile 100 en 4 h (4 057). Au-dessus : Kitco 4 068 avec une ligne de tendance baissière, IG 4 073 (une clôture journalière au-dessus serait un premier signe de stabilisation), FXEmpire 4 086,6 puis 4 104–4 115. FXEmpire affiche toujours un signal journalier « vente » (15 indicateurs vendeurs sur 22). LiteFinance voit un retournement possible vers 4 174–4 205 en cas de cassure nette."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. Cette nuit l'or a cassé la résistance 3 965–3 982 et repris 4 000. Après six heures entre 4 039 et 4 053, il est sorti par le haut et se stabilise vers 4 061, juste au-dessus de la moyenne mobile 100 en 4 h (4 057). Au-dessus : Kitco 4 068 avec une ligne de tendance baissière, IG 4 073 (une clôture journalière au-dessus serait un premier signe de stabilisation), FXEmpire 4 086,6 puis 4 104–4 115. FXEmpire affiche toujours un signal journalier « vente » (15 indicateurs vendeurs sur 22). LiteFinance voit un retournement possible vers 4 174–4 205 en cas de cassure nette."
   },
   {
    "name": "Achats des banques centrales",
@@ -174,7 +174,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter en plein élan vers 4 066 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
+  "Ne pas acheter vers 4 061 en plein élan : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
   "Ne pas vendre avant 4 070–4 085 et sans bougie de rejet nette : l'élan du jour reste haussier.",
   "Ne pas acheter avant le test de 3 830–3 850 pour le plan bas.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
@@ -243,7 +243,11 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : or à 4 065,93 $ (+3,41 %), dollar 101,46 (-0,40 %), 10 ans 4,90 %, 79 % de hausse en décembre (4 nov.)",
+   "title": "FXEmpire : or à 4 061,15 $ (19h01 UTC, +2,86 %), support 4 010,84, résistance 4 086,62, plage de la semaine 3 764,84–4 111,62 (4 nov.)",
+   "url": "https://www.fxempire.com/forecasts/gold"
+  },
+  {
+   "title": "Trading Economics : or à 4 060,89 $ (+3,29 %), dollar 101,60 (-0,26 %), 10 ans 4,90 %, Brent 94,8 $ (-8,5 %), 79 % de hausse en décembre (4 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
@@ -257,14 +261,6 @@
   {
    "title": "KuCoin (Reuters) : l'or +3 % au-dessus de 4 040 $, dollar 101,27, 10 ans 4,915 %, 82 % de hausse en décembre (4 nov.)",
    "url": "https://www.kucoin.com/news/flash/gold-price-surges-3-above-4-040-as-us-dollar-falls-after-midterm-elections"
-  },
-  {
-   "title": "Trading Economics : or vers 4 062–4 065 $ (+3,3 %), dollar 101,61, 10 ans 4,90 %, 79 % de hausse en décembre (4 nov.)",
-   "url": "https://tradingeconomics.com/commodity/gold"
-  },
-  {
-   "title": "FXEmpire : or à 4 059,59 $ (17h02 UTC, +2,82 %), support 4 010,84, résistance 4 086,62, signal journalier « vente » (4 nov.)",
-   "url": "https://www.fxempire.com/forecasts/gold"
   },
   {
    "title": "Kitco : l'or et l'argent bondissent ; résistance 4 068,17, supports 3 975,31 / 3 871,24 (4 nov., 9h15 ET)",
