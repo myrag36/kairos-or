@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T12:15:00Z",
- "price": 4040,
+ "updatedAt": "2026-11-04T13:05:00Z",
+ "price": 4043,
  "change": 2.8,
- "priceTime": "4 nov. · 13h15 Paris",
+ "priceTime": "4 nov. · 14h05 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or tient vers 4 040 $ (+2,8 %, Trading Economics 4 040,2 $), toujours porté par la victoire des démocrates au Congrès, un dollar au plus bas d'environ un mois et des rendements en baisse. Il plafonne depuis deux heures dans la zone de vente 4 032–4 044, juste sous la moyenne mobile 100 en 4 h (4 057, Tradingpedia) : il faut une bougie de rejet avant de vendre, et une clôture 1 h au-dessus de 4 062 annulerait ce plan. Le marché voit toujours environ 80 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Attention : l'emploi privé ADP sort à 14h15 Paris (13h15 UTC, environ 69 000 attendus) ; pas de nouvelle position juste avant et après. Emploi officiel (NFP) vendredi.",
+ "summary": "L'or tient vers 4 043 $ (+2,8 %, Trading Economics 4 043,2 $), porté par la victoire des démocrates au Congrès, un dollar au plus bas de quatre semaines et des rendements en baisse. Il plafonne depuis trois heures dans la zone de vente 4 032–4 044, sous la moyenne mobile 100 en 4 h (4 057, Tradingpedia) : il faut une bougie de rejet avant de vendre, et une clôture 1 h au-dessus de 4 062 annulerait ce plan. Le marché voit toujours environ 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Attention : l'emploi privé ADP sort dans dix minutes, à 14h15 Paris (environ 69 000 attendus) ; pas de nouvelle position juste avant et après. Emploi officiel (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3985,
     3950
    ],
-   "note": "Plan gardé : l'or plafonne dans la zone (vers 4 040 $) depuis deux heures, sans bougie de rejet nette. LiteFinance voit aussi 4 022–4 037 comme la limite de la tendance baissière à court terme, avec un stop vers 4 069. Au-dessus : moyenne mobile 100 en 4 h à 4 057 (Tradingpedia), puis 4 067–4 073 (IC Markets, IG, Fibonacci 61,8 %). Attendre la publication ADP de 13h15 UTC. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé : l'or plafonne dans la zone (vers 4 043 $) depuis trois heures, sans bougie de rejet nette. Les contrats à terme ont touché 4 052,4 $ vers 13h09 Paris (Yahoo Finance) sans tenir. LiteFinance voit aussi 4 022–4 037 comme la limite de la tendance baissière à court terme, avec un stop vers 4 069. Au-dessus : moyenne mobile 100 en 4 h à 4 057 (Tradingpedia), puis 4 067–4 073 (IC Markets, IG, Fibonacci 61,8 %). Attendre la publication ADP de 13h15 UTC. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
@@ -83,12 +83,12 @@
   {
    "p": 4038,
    "kind": "res",
-   "label": "Zone de vente 4 032–4 044 : l'or plafonne dedans (4 040)"
+   "label": "Zone de vente 4 032–4 044 : l'or plafonne dedans (4 043)"
   },
   {
    "p": 4011,
    "kind": "pivot",
-   "label": "Support 4 011–4 015 (pivot FXEmpire 4 010,8, ForexDevice 4 015) : l'or au-dessus (4 040)"
+   "label": "Support 4 011–4 015 (pivot FXEmpire 4 010,8, ForexDevice 4 015) : l'or au-dessus (4 043)"
   },
   {
    "p": 3992,
@@ -120,7 +120,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit entre 79 % (Trading Economics, CME FedWatch) et 83 % (Reuters) de chances de hausse en décembre, peu changé malgré les élections."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit environ 79 % (Trading Economics, CME FedWatch) à 83 % (Reuters) de chances de hausse en décembre, peu changé malgré les élections."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -140,7 +140,7 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "Indice dollar vers 101,3 (-0,54 %, Trading Economics), sa plus forte baisse depuis environ un mois et son plus bas depuis cinq semaines : la victoire démocrate pèse sur le dollar et soutient l'or."
+   "text": "Indice dollar vers 101,25 (-0,61 %, Trading Economics), au plus bas de quatre semaines : la victoire démocrate pèse sur le dollar et soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -175,7 +175,7 @@
  ],
  "noTrade": [
   "Pas de nouvelle position entre 14h00 et 14h30 Paris autour de l'emploi privé ADP.",
-  "Ne pas acheter en plein élan vers 4 040 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
+  "Ne pas acheter en plein élan vers 4 043 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
   "Ne pas vendre dans 4 032–4 044 sans bougie de rejet nette : l'élan reste haussier, RSI 1 h en surachat.",
   "Ne pas acheter avant le test de 3 830–3 850 pour le plan bas.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
@@ -236,8 +236,12 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : or à 4 040,18 $ (+2,76 %), 79 % de hausse en décembre selon CME FedWatch, 10 ans à 4,934 % (4 nov.)",
+   "title": "Trading Economics : or à 4 043,22 $ (+2,84 %), dollar à 101,247 (-0,61 %, plus bas de quatre semaines), 79 % de hausse en décembre (4 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "Yahoo Finance : l'or (contrat décembre) monte à 4 052,40 $ à 7h09 ET, gains limités attendus (4 nov.)",
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-4-2026-gold-prices-rise-in-early-trading-but-limited-gains-expected-122544610.html"
   },
   {
    "title": "Tradingpedia : l'or vers 4 050 $, SMA 100 en 4 h à 4 057, Fibonacci 4 033 / 4 072 / 4 127, RSI 48,9, ADP attendu à 69 000 (4 nov.)",
