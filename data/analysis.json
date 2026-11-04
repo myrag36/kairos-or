@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T11:05:00Z",
- "price": 4042,
+ "updatedAt": "2026-11-04T12:15:00Z",
+ "price": 4040,
  "change": 2.8,
- "priceTime": "4 nov. · 12h05 Paris",
+ "priceTime": "4 nov. · 13h15 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or tient ses gains vers 4 042 $ (+2,8 %, Trading Economics 4 042,3 $ ; FXEmpire 4 042,3 $ à 11h05 UTC), porté par la victoire des démocrates au Congrès. Le dollar reste au plus bas depuis environ un mois et les rendements américains reculent. L'or plafonne dans la zone de vente 4 032–4 044, sous la résistance 4 046 (IG) : il faut une bougie de rejet avant de vendre, et une clôture 1 h au-dessus de 4 062 annulerait ce plan. Le marché voit toujours 79 à 83 % de chances de hausse des taux en décembre : le biais reste neutre. Emploi (NFP) vendredi.",
+ "summary": "L'or tient vers 4 040 $ (+2,8 %, Trading Economics 4 040,2 $), toujours porté par la victoire des démocrates au Congrès, un dollar au plus bas d'environ un mois et des rendements en baisse. Il plafonne depuis deux heures dans la zone de vente 4 032–4 044, juste sous la moyenne mobile 100 en 4 h (4 057, Tradingpedia) : il faut une bougie de rejet avant de vendre, et une clôture 1 h au-dessus de 4 062 annulerait ce plan. Le marché voit toujours environ 80 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Attention : l'emploi privé ADP sort à 14h15 Paris (13h15 UTC, environ 69 000 attendus) ; pas de nouvelle position juste avant et après. Emploi officiel (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3985,
     3950
    ],
-   "note": "Plan gardé : l'or plafonne dans le haut de la zone (vers 4 042 $) depuis une heure, sans bougie de rejet nette pour l'instant. IG place une résistance à 4 046 (cassure d'octobre 2025) puis 4 073 (Fibonacci 61,8 %). Autres résistances : 4 050 (ForexDevice), 4 067,5 (IC Markets), 4 086,6 (FXEmpire). Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé : l'or plafonne dans la zone (vers 4 040 $) depuis deux heures, sans bougie de rejet nette. LiteFinance voit aussi 4 022–4 037 comme la limite de la tendance baissière à court terme, avec un stop vers 4 069. Au-dessus : moyenne mobile 100 en 4 h à 4 057 (Tradingpedia), puis 4 067–4 073 (IC Markets, IG, Fibonacci 61,8 %). Attendre la publication ADP de 13h15 UTC. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
@@ -38,7 +38,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé. Le seuil de 4 000 est repris après les élections ; MarketGauge (Kitco) juge que l'or doit tenir 4 000 pour retrouver l'élan haussier. Objectif 1 sous la zone de vente 4 032–4 044, objectif 2 vers 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds 4 115, haut de la semaine FXEmpire 4 111,6). Stop sous l'ancienne résistance 3 965–3 980. Ne pas acheter en plein élan à 4 042 : attendre le retour. Une clôture 1 h sous 3 958 annule le plan.",
+   "note": "Plan gardé. Le seuil de 4 000 est repris après les élections ; MarketGauge (Kitco) juge que l'or doit tenir 4 000 pour retrouver l'élan haussier. Objectif 1 sous la zone de vente 4 032–4 044, objectif 2 vers 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds 4 115, haut de la semaine FXEmpire 4 111,6). Stop sous l'ancienne résistance 3 965–3 980. Ne pas acheter en plein élan à 4 040 : attendre le retour. Une clôture 1 h sous 3 958 annule le plan.",
    "invalidBelow": 3958
   },
   {
@@ -73,7 +73,7 @@
   {
    "p": 4062,
    "kind": "res",
-   "label": "Invalidation de la vente haute"
+   "label": "Invalidation de la vente haute, moyenne mobile 100 en 4 h juste en dessous (4 057)"
   },
   {
    "p": 4050,
@@ -83,12 +83,12 @@
   {
    "p": 4038,
    "kind": "res",
-   "label": "Zone de vente 4 032–4 044 : l'or plafonne dedans (4 042)"
+   "label": "Zone de vente 4 032–4 044 : l'or plafonne dedans (4 040)"
   },
   {
    "p": 4011,
    "kind": "pivot",
-   "label": "Support 4 011–4 015 (pivot FXEmpire 4 010,8, ForexDevice 4 015) : l'or au-dessus (4 042)"
+   "label": "Support 4 011–4 015 (pivot FXEmpire 4 010,8, ForexDevice 4 015) : l'or au-dessus (4 040)"
   },
   {
    "p": 3992,
@@ -135,7 +135,7 @@
   {
    "name": "Emploi américain",
    "impact": -1,
-   "text": "Offres d'emploi JOLTS de septembre à 7,5 millions, au-dessus des 7,13 millions attendus et des 7,08 millions d'août ; démissions en hausse à 2,1 % (Indeed). Inscriptions au chômage à 194 000. Un marché du travail solide justifie une hausse des taux."
+   "text": "Offres d'emploi JOLTS de septembre à 7,5 millions, au-dessus des 7,13 millions attendus et des 7,08 millions d'août ; démissions en hausse à 2,1 % (Indeed). Inscriptions au chômage à 194 000. Un marché du travail solide justifie une hausse des taux. ADP d'octobre attendu à 69 000 aujourd'hui (90 000 le mois dernier)."
   },
   {
    "name": "Dollar",
@@ -155,7 +155,7 @@
   {
    "name": "Technique",
    "impact": -1,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. Cette nuit l'or a cassé la résistance 3 965–3 982 et repris 4 000. Il plafonne maintenant dans la zone 4 032–4 044, sous la résistance IG 4 046 ; IG juge qu'une clôture journalière au-dessus de 4 073 serait un premier signe de stabilisation. ForexDevice voit un élan haussier sur 15 min, 1 h et 4 h, avec un RSI 1 h en surachat (72,6) et des résistances à 4 050 puis 4 080. Le signal journalier FXEmpire reste « vente ». StoneX juge 4 000 « la résistance évidente » : l'or doit tenir au-dessus."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. Cette nuit l'or a cassé la résistance 3 965–3 982 et repris 4 000. Il plafonne maintenant dans la zone 4 032–4 044, sous la résistance IG 4 046 et la moyenne mobile 100 en 4 h (4 057). En 4 h, Tradingpedia note un RSI neutre (48,9) et un MACD positif, mais un biais encore baissier tant que le prix reste sous cette moyenne. LiteFinance attend un rejet sous 4 037, avec un retournement possible vers 4 174–4 205 en cas de cassure nette. IG juge qu'une clôture journalière au-dessus de 4 073 serait un premier signe de stabilisation."
   },
   {
    "name": "Achats des banques centrales",
@@ -174,7 +174,8 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter en plein élan vers 4 042 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
+  "Pas de nouvelle position entre 14h00 et 14h30 Paris autour de l'emploi privé ADP.",
+  "Ne pas acheter en plein élan vers 4 040 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
   "Ne pas vendre dans 4 032–4 044 sans bougie de rejet nette : l'élan reste haussier, RSI 1 h en surachat.",
   "Ne pas acheter avant le test de 3 830–3 850 pour le plan bas.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
@@ -189,6 +190,12 @@
    "importance": 3,
    "why": "Vote hier, résultats cette nuit : forte réaction du dollar, de la tech et de l'or.",
    "result": "Démocrates gagnants à la Chambre, CBS projette aussi le Sénat : l'or passe au-dessus de 4 000 $"
+  },
+  {
+   "at": "2026-11-04T13:15:00Z",
+   "event": "Emploi privé ADP d'octobre",
+   "importance": 2,
+   "why": "Avant-goût du NFP de vendredi. Consensus 69 000 (90 000 le mois dernier). Chiffre faible = bon pour l'or."
   },
   {
    "at": "2026-11-06T13:30:00Z",
@@ -229,12 +236,20 @@
  ],
  "sources": [
   {
-   "title": "MarketScreener (Reuters) : l'or bondit de près de 3 % à 4 046,91 $, argent +4,4 %, 83 % de hausse en décembre (4 nov., 9h28 GMT)",
-   "url": "https://www.marketscreener.com/news/gold-jumps-over-2-on-softer-dollar-after-democratic-midterm-wins-ce785fded18cf321"
+   "title": "Trading Economics : or à 4 040,18 $ (+2,76 %), 79 % de hausse en décembre selon CME FedWatch, 10 ans à 4,934 % (4 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
-   "title": "Trading Economics : or à 4 042,25 $ (+2,81 %), 79 % de hausse en décembre selon CME FedWatch (4 nov.)",
-   "url": "https://tradingeconomics.com/commodity/gold"
+   "title": "Tradingpedia : l'or vers 4 050 $, SMA 100 en 4 h à 4 057, Fibonacci 4 033 / 4 072 / 4 127, RSI 48,9, ADP attendu à 69 000 (4 nov.)",
+   "url": "https://www.tradingpedia.com/2026/11/04/gold-advances-toward-4050-on-us-election-dollar-slide/"
+  },
+  {
+   "title": "LiteFinance : XAU/USD dans la résistance 4 022–4 037, vente visée vers 3 954 / 3 870, stop 4 069 (4 nov., 9h28)",
+   "url": "https://www.litefinance.org/blog/analysts-opinions/short-term-analysis-for-oil-gold-and-eurusd-for-04112026/"
+  },
+  {
+   "title": "MarketScreener (Reuters) : l'or bondit de près de 3 % à 4 046,91 $, argent +4,4 %, 83 % de hausse en décembre (4 nov., 9h28 GMT)",
+   "url": "https://www.marketscreener.com/news/gold-jumps-over-2-on-softer-dollar-after-democratic-midterm-wins-ce785fded18cf321"
   },
   {
    "title": "Trading and Investment News : l'or teste 4 050 $ ; résistances IG 4 046 / 4 073, supports 3 874–3 894 (4 nov., 9h50 UTC)",
