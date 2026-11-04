@@ -1,33 +1,16 @@
 {
- "updatedAt": "2026-11-03T20:06:00Z",
- "price": 3919,
- "change": -0.7,
- "priceTime": "3 nov. · 21h05 Paris",
- "bias": "sell",
- "biasLabel": "Vendeur",
- "summary": "L'or glisse vers 3 919 $ (-0,7 % sur la journée, FXEmpire et Trading Economics), sous le pivot 3 937, après son rejet à 3 971,7 sous la résistance 3 965–3 980. Les offres d'emploi JOLTS à 7,5 millions (7,13 attendus) confirment un marché du travail solide, ce qui soutient le scénario de hausse des taux. Le rendement à 10 ans reste vers 4,95 % et le dollar remonte un peu vers 101,9 ; le marché voit toujours environ 75 % de chances de hausse en décembre. Aucun plan n'est invalidé : la vente principale reste valable et se rapproche de son objectif 1 à 3 905, FXEmpire garde un signal journalier « vente forte ». Élections de mi-mandat aujourd'hui (résultats dans la nuit), emploi (NFP) vendredi.",
+ "updatedAt": "2026-11-04T07:10:00Z",
+ "price": 4017,
+ "change": 1.7,
+ "priceTime": "4 nov. · 8h05 Paris",
+ "bias": "neutral",
+ "biasLabel": "Neutre",
+ "summary": "L'or bondit au-dessus de 4 000 $ cette nuit, vers 4 017 $ (+1,7 %, FXEmpire ; +2,3 % chez Trading Economics), après la victoire des démocrates aux élections de mi-mandat. Les démocrates gagnent la Chambre et CBS projette aussi le Sénat : le dollar recule vers 101,5 et les rendements américains baissent nettement (Reuters). La vente principale sous 3 975 est annulée, son stop à 4 005 a été franchi : elle est remplacée par un achat sur retour vers 3 985–4 000. Le marché voit toujours environ 78 % de chances de hausse des taux en décembre, et le signal journalier FXEmpire reste « vente » (relevé depuis « vente forte ») : le biais passe donc de vendeur à neutre. Prochaine résistance 4 032–4 044 puis 4 067–4 083 ; emploi (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
-   "name": "Vente sur retour sous 3 975",
-   "status": "active",
-   "zone": [
-    3965,
-    3980
-   ],
-   "trigger": "Attendre une remontée dans 3 965–3 980 (ancien plus bas du 23 oct. devenu résistance) puis une bougie de rejet en 15 min ou 1 h : longue mèche haute ou clôture baissière franche.",
-   "stop": 4005,
-   "tps": [
-    3905,
-    3850
-   ],
-   "note": "Plan principal, toujours valable : l'or est monté à 3 971,7 dans la zone puis est retombé vers 3 919, sous le pivot 3 937, et approche l'objectif 1 à 3 905 (support S1 3 903). Si on est entré, on peut sécuriser une partie à 3 905. Si on n'est pas entré, ne pas vendre en retard loin de la zone : attendre un nouveau retour vers 3 965. FXEmpire place une résistance à 3 982 et reste vendeur sous 4 000. Stop au-dessus de 4 005 ; une clôture 1 h au-dessus de 4 005 annule le plan.",
-   "invalidAbove": 4005
-  },
-  {
-   "side": "sell",
    "name": "Vente sur rebond",
-   "status": "watch",
+   "status": "active",
    "zone": [
     4032,
     4044
@@ -38,8 +21,25 @@
     3985,
     3950
    ],
-   "note": "Plan gardé. L'or est à plus de 110 $ de la zone et vient d'être rejeté sous 3 972 : il faudrait d'abord casser 3 980 puis repasser 4 000. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé, maintenant le plus proche : l'or est à environ 15 $ sous la zone après son bond de la nuit (plus haut des contrats à terme 4 032,4). Ne vendre que sur une vraie bougie de rejet : l'élan est haussier. IC Markets place une résistance à 4 067,5, Mitrade à 4 074–4 083. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
+  },
+  {
+   "side": "buy",
+   "name": "Achat sur retour vers 4 000",
+   "status": "watch",
+   "zone": [
+    3985,
+    4000
+   ],
+   "trigger": "Attendre un retour dans 3 985–4 000 (ancienne résistance devenue support, pivot IC Markets 3 987,6) puis une bougie 1 h avec longue mèche basse qui clôture au-dessus de 4 000.",
+   "stop": 3958,
+   "tps": [
+    4035,
+    4110
+   ],
+   "note": "Nouveau plan, remplace la vente sous 3 975 annulée par le passage au-dessus de 4 005. Le seuil de 4 000 est repris après les élections. Objectif 1 sous la zone de vente 4 032–4 044, objectif 2 vers 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds 4 115, haut de la semaine FXEmpire 4 111,6). Stop sous l'ancienne résistance 3 965–3 980. Ne pas acheter en plein élan à 4 017 : attendre le retour. Une clôture 1 h sous 3 958 annule le plan.",
+   "invalidBelow": 3958
   },
   {
    "side": "buy",
@@ -49,78 +49,78 @@
     3832,
     3850
    ],
-   "trigger": "Scénario contre-tendance : test de 3 830–3 850 puis bougie 1 h avec longue mèche basse qui clôture au-dessus de 3 850.",
+   "trigger": "Test de 3 830–3 850 puis bougie 1 h avec longue mèche basse qui clôture au-dessus de 3 850.",
    "stop": 3815,
    "tps": [
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone n'est pas touchée, l'or est à environ 70 $ au-dessus. Mitrade place un support 3 829–3 849, FinanceFeeds un seuil baissier à 3 830. Avant elle : le support 3 885–3 904 puis le plus bas d'un an 3 870. Scénario contre-tendance : taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 170 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 3 920–3 930 (plus bas de la nuit 3 929,3, seuil baissier FinanceFeeds 3 920) puis le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
  "levels": [
   {
+   "p": 4110,
+   "kind": "res",
+   "label": "Résistance 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds), haut de la semaine 4 111,6"
+  },
+  {
+   "p": 4075,
+   "kind": "res",
+   "label": "Résistance 4 067–4 083 (IC Markets 4 067,5, Mitrade 4 074–4 083)"
+  },
+  {
    "p": 4062,
    "kind": "res",
-   "label": "Invalidation des ventes hautes"
+   "label": "Invalidation de la vente haute"
   },
   {
    "p": 4038,
    "kind": "res",
-   "label": "Zone de vente 4 032–4 044"
+   "label": "Zone de vente 4 032–4 044 (plus haut de la nuit 4 032 sur les contrats à terme)"
   },
   {
-   "p": 4005,
-   "kind": "res",
-   "label": "Seuil 4 000, stop des ventes"
-  },
-  {
-   "p": 3975,
-   "kind": "res",
-   "label": "Résistance 3 965–3 982 (FXEmpire 3 982) : rejet à 3 971,7 cet après-midi"
-  },
-  {
-   "p": 3950,
-   "kind": "sup",
-   "label": "3 947–3 952 : clôture de lundi, repassée en dessous"
-  },
-  {
-   "p": 3937,
+   "p": 4011,
    "kind": "pivot",
-   "label": "Pivot du jour 3 937 (FXEmpire) : l'or reste en dessous (3 919)"
+   "label": "Support pivot du jour 4 010,8 (FXEmpire) : l'or juste au-dessus (4 017)"
   },
   {
-   "p": 3895,
+   "p": 3992,
    "kind": "sup",
-   "label": "Support 3 885–3 904 (Mitrade, FXEmpire S1 3 903) : plus bas du jour 3 894,8, l'or s'en rapproche"
+   "label": "Zone d'achat 3 985–4 000 : seuil 4 000 repris, pivot IC Markets 3 987,6"
+  },
+  {
+   "p": 3970,
+   "kind": "sup",
+   "label": "Ancienne résistance 3 965–3 980, stop de l'achat en dessous (3 958)"
+  },
+  {
+   "p": 3925,
+   "kind": "sup",
+   "label": "3 920–3 930 : plus bas de la nuit 3 929,3, seuil baissier FinanceFeeds 3 920"
   },
   {
    "p": 3870,
    "kind": "sup",
-   "label": "Plus bas d'un an 3 870 (30 oct.), sous lui FXEmpire vise 3 797"
+   "label": "Plus bas d'un an 3 870 (30 oct.), support IC Markets 3 870,2"
   },
   {
    "p": 3840,
    "kind": "sup",
-   "label": "Support 3 829–3 849 (Mitrade), seuil baissier 3 830 (FinanceFeeds)"
-  },
-  {
-   "p": 3790,
-   "kind": "sup",
-   "label": "Support 3 780–3 800"
+   "label": "Support 3 829–3 849 (Mitrade)"
   }
  ],
  "factors": [
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit environ 75 % de chances de hausse en décembre (CME FedWatch, Reuters, FXEmpire), contre 80 % il y a une semaine."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit environ 78 % de chances de hausse en décembre (CME FedWatch, Reuters), peu changé malgré les élections."
   },
   {
    "name": "Rendement américain à 10 ans",
-   "impact": -2,
-   "text": "Vers 4,95 % (+0,05, Trading Economics), en légère hausse : il reste élevé et c'est le principal frein de l'or depuis septembre."
+   "impact": -1,
+   "text": "Les rendements nominaux et réels baissent nettement après les élections (Pepperstone, cité par Reuters) ; Trading Economics affiche environ 4,93 %. Ils restent élevés, mais la pression sur l'or se relâche."
   },
   {
    "name": "Croissance et inflation US",
@@ -134,18 +134,23 @@
   },
   {
    "name": "Dollar",
-   "impact": -1,
-   "text": "Indice dollar vers 101,9, en légère hausse (+0,13 %) (Trading Economics) : pas de mouvement net avant les élections. FXEmpire note qu'une victoire républicaine nette au Congrès pourrait soutenir le dollar et peser sur l'or."
+   "impact": 1,
+   "text": "Indice dollar vers 101,5 (-0,3 %, Trading Economics), contre 101,9 hier soir, au plus bas depuis environ cinq semaines (Goodreturns) : la victoire démocrate pèse sur le dollar et soutient l'or."
+  },
+  {
+   "name": "Élections de mi-mandat",
+   "impact": 1,
+   "text": "Les démocrates gagnent la Chambre ; CBS projette aussi le contrôle du Sénat, certaines courses ne sont pas encore tranchées (CNN). Cette « vague bleue » affaiblit le dollar et fait baisser les rendements, ce qui a porté l'or au-dessus de 4 000 $."
   },
   {
    "name": "Pétrole et Golfe",
-   "impact": 1,
-   "text": "Le pétrole reste en baisse : Brent vers 103,4 $ (-1,3 %, Trading Economics) contre 106,5 $ ce matin, malgré la frappe américaine signalée sur l'île de Qeshm. Les discussions avec l'Iran continuent. Un pétrole plus bas calme la peur d'inflation et a porté le rebond de l'or."
+   "impact": 0,
+   "text": "Brent clôturé hier à 103,6 $, plus bas depuis le 7 octobre (Mitrade), il remonte un peu ce matin vers 104,4 $ (+0,7 %, Trading Economics). L'Iran et les États-Unis restent loin d'un accord et Trump n'exclut pas une reprise des combats après les élections (Reuters) : risque géopolitique toujours présent."
   },
   {
    "name": "Technique",
-   "impact": -2,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. Aujourd'hui l'or est tombé à 3 894,8, a rebondi jusqu'à 3 971,7 puis a été rejeté sous la résistance 3 965–3 982, comme cette nuit à 3 965,5 : il reste sous le pivot 3 937 (3 919 en soirée). Signal technique journalier « vente forte » chez FXEmpire. Le prix reste sous ses moyennes mobiles, RSI journalier sous 50 et MACD négatif (CaptainAltcoin ce matin). FXEmpire vise 3 800 sous 3 870 ; il faudrait une clôture hebdomadaire au-dessus de 4 000 pour un vrai redressement."
+   "impact": -1,
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. Cette nuit l'or a cassé la résistance 3 965–3 982 et repris 4 000 (plus bas 3 929,3, plus haut 4 032,4 sur les contrats à terme). Le signal journalier FXEmpire remonte de « vente forte » à « vente » (15 vente, 4 achat). Prochaines résistances 4 032–4 044 puis 4 067–4 083. StoneX juge 4 000 « la résistance évidente » : il faut que l'or tienne au-dessus."
   },
   {
    "name": "Achats des banques centrales",
@@ -160,15 +165,16 @@
   {
    "name": "Sentiment",
    "impact": 1,
-   "text": "Court terme négatif : une vague de ventes sur la tech et l'IA provoque des liquidations, et l'or est vendu pour couvrir des pertes et des appels de marge ailleurs, pas acheté comme refuge (Trading Economics, KCM Trade). Le World Gold Council rappelle que les élections ont historiquement peu d'effet durable sur l'or. À plus long terme, ANZ voit une consolidation autour de 4 000 $ et Commerzbank juge la baisse exagérée."
+   "text": "Les contrats à terme du Nasdaq ont chuté jusqu'à 2 % cette nuit avant de se reprendre (FinanceFeeds) : le marché redoute un Congrès démocrate face à Trump. L'argent grimpe d'environ 4 % (contrats de décembre à 51,7 $). À plus long terme, ANZ voit une consolidation autour de 4 000 $ et Commerzbank juge la baisse exagérée."
   }
  ],
  "noTrade": [
-  "Ne pas vendre en retard loin de 3 965 : l'or est déjà proche de 3 905, attendre un nouveau retour dans la zone.",
-  "Ne pas acheter avant le test de 3 830–3 850 et une bougie de rejet : la tendance reste baissière.",
+  "Ne pas acheter en plein élan vers 4 017 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
+  "Ne pas vendre dans 4 032–4 044 sans bougie de rejet nette : l'élan est haussier.",
+  "Ne pas acheter avant le test de 3 830–3 850 pour le plan bas.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée.",
-  "Élections de mi-mandat aujourd'hui, résultats dans la nuit : réduire la taille."
+  "Résultats du Sénat encore incomplets : volatilité possible, réduire la taille."
  ],
  "calendar": [
   {
@@ -176,14 +182,8 @@
    "allDay": true,
    "event": "Élections de mi-mandat américaines",
    "importance": 3,
-   "why": "Vote aujourd'hui, résultats dans la nuit du 3 au 4 : forte volatilité possible sur le dollar, la tech et l'or."
-  },
-  {
-   "at": "2026-11-03T15:00:00Z",
-   "event": "Offres d'emploi JOLTS",
-   "importance": 1,
-   "why": "Publié à 16h Paris. Indice de la tension sur le marché du travail.",
-   "result": "7,5 millions (attendu 7,13 ; août 7,08) : plus solide que prévu"
+   "why": "Vote hier, résultats cette nuit : forte réaction du dollar, de la tech et de l'or.",
+   "result": "Démocrates gagnants à la Chambre, CBS projette aussi le Sénat : l'or passe au-dessus de 4 000 $"
   },
   {
    "at": "2026-11-06T13:30:00Z",
@@ -224,72 +224,40 @@
  ],
  "sources": [
   {
-   "title": "FXEmpire : or à 3 919,32 $ (-0,73 %), pivots 3 902,8 / 3 936,6, signal journalier « vente forte », objectif 3 800 (3 nov., 20h02 UTC)",
+   "title": "FXEmpire : or à 4 016,62 $ (+1,73 %), support pivot 4 010,84, résistance 4 086,62, signal journalier « vente » (4 nov., 7h05 UTC)",
    "url": "https://www.fxempire.com/forecasts/gold"
   },
   {
-   "title": "Trading Economics : l'or vers 3 918 $ (-0,74 %), DXY 101,87, rendement 4,95 % (3 nov., soir)",
+   "title": "Trading Economics : l'or reprend 4 000 $ (4 022,7 $, +2,3 %), DXY 101,53 (-0,33 %), Brent 104,4 $ (4 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
-   "title": "Kitco : plage du jour 3 894,80–3 971,70 (3 nov.)",
-   "url": "https://www.kitco.com/charts/gold"
+   "title": "FinanceFeeds : or au-dessus de 4 000 $ après la victoire démocrate, plage de nuit 3 929,3–4 032,4, seuils 3 920 / 4 115 (4 nov., 6h36 GMT)",
+   "url": "https://financefeeds.com/gold-price-today-above-4000-wednesday-after-democrats-win-congress-dollar-one-month-low-jobs-6-november-bull-4115-bear-3920/"
   },
   {
-   "title": "Whalesbook : l'or entre 3 926 et 3 940 $, pression des ventes de liquidité et des élections (3 nov.)",
-   "url": "https://www.whalesbook.com/news/English/commodities/Gold-Prices-Near-dollar3930-As-US-Midterms-And-Geopolitics-Weigh/6ae97e5a4fc30694db5921c4"
+   "title": "MarketScreener (Reuters) : l'or monte, le dollar faiblit, premières victoires démocrates, 78 % de hausse en décembre (4 nov., 4h15 GMT)",
+   "url": "https://www.marketscreener.com/news/gold-rises-as-dollar-weakens-democrats-score-early-wins-in-us-midterm-elections-ce785fdede8ef62c"
   },
   {
-   "title": "Indeed Hiring Lab : JOLTS de septembre à 7,5 millions, démissions 2,1 % (3 nov.)",
+   "title": "CNBC (Reuters) : l'or monte, le dollar faiblit avant les résultats (4 nov.)",
+   "url": "https://www.cnbc.com/2026/11/04/gold-rises-as-dollar-weakens-ahead-of-us-midterm-election-results.html"
+  },
+  {
+   "title": "IC Markets : XAU/USD pivot 3 987,62, support 3 870,22, résistance 4 067,54 (4 nov.)",
+   "url": "https://www.icmarkets.com.au/blog/wednesday-4th-nov-2026-technical-outlook-and-review/"
+  },
+  {
+   "title": "Mitrade : supports 3 885–3 904, 3 829–3 849 ; résistances 3 971–3 982, 4 074–4 083, 4 104–4 115 (3 nov.)",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-oil-tumbles-diplomacy-midterms"
+  },
+  {
+   "title": "Indeed Hiring Lab : JOLTS de septembre à 7,5 millions (3 nov.)",
    "url": "https://hiringlab.indeed.com/2026/11/03/september-2026-jolts-report-eerily-quiet/"
   },
   {
-   "title": "Investing.com : JOLTS d'août 7,079 millions (précédent)",
-   "url": "https://www.investing.com/economic-calendar/jolts-job-openings-1057"
-  },
-  {
-   "title": "Schwab : JOLTS attendu vers 7,13 millions, 10 ans 4,91 %, DXY 101,83 (3 nov., 9h16 New York)",
-   "url": "https://www.schwab.com/learn/story/stock-market-update-open"
-  },
-  {
-   "title": "Finimize : l'or rebondit, le recul du pétrole calme la peur d'inflation, 77 % de hausse en décembre (2 nov.)",
-   "url": "https://finimize.com/content/gold-rebounds-as-oil-slump-cools-inflation-fears"
-  },
-  {
-   "title": "Rallies.ai (Reuters) : 75 % de hausse en décembre, World Gold Council abaisse sa prévision d'investissement à 200 t (3 nov.)",
+   "title": "Rallies.ai (Reuters) : World Gold Council abaisse sa prévision d'investissement à 200 t (3 nov.)",
    "url": "https://rallies.ai/news/gold-falls-as-higher-oil-stokes-inflation-fears-ahead-of-us-midterms-c14deff1c1ad8101"
-  },
-  {
-   "title": "TokenPost : l'or passe sous 3 900 $ (3 899,78 $, -1,18 %) mardi matin (3 nov., 8h53 UTC)",
-   "url": "https://www.tokenpost.com/news/investing/47504"
-  },
-  {
-   "title": "FXEmpire : l'or vers 3 904 $ (-1,1 %), pivot 3 937, S1 3 903, R1 3 982, cibles 3 800 sous 3 870, RSI proche survente (3 nov., 9h28 GMT)",
-   "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-prices-slip-ahead-of-us-midterm-elections-1642136"
-  },
-  {
-   "title": "FXEmpire : l'or vers 3 922–3 926 $, vendeur sous 3 975, supports 3 871 et 3 797, RSI 4 h vers 40 (3 nov., 6h30 GMT)",
-   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-us-midterms-in-focus-can-gold-reclaim-3975-1642120"
-  },
-  {
-   "title": "CaptainAltcoin : or vers 3 900 $, range 3 870–3 970, RSI 14 à 35,6, MACD négatif (3 nov., 8h30 UTC)",
-   "url": "https://captainaltcoin.com/gold-and-silver-price-predictions-for-today-november-3/"
-  },
-  {
-   "title": "GoodReturns : l'or recule, liquidations après les ventes sur la tech et l'IA (3 nov.)",
-   "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-3-11-2026-live-spot-gold-silver-price-mcx-gold-24k-22k-18k-gold-prices-1544811.html"
-  },
-  {
-   "title": "Business Recorder (Reuters) : 74 % de hausse en décembre, KCM Trade sur les ventes de liquidité (3 nov.)",
-   "url": "https://www.brecorder.com/news/40447185/gold-eases-ahead-of-us-midterm-elections"
-  },
-  {
-   "title": "FinanceFeeds : frappe signalée sur Qeshm, seuils 3 830 / 4 075 (3 nov.)",
-   "url": "https://financefeeds.com/gold-price-today-3921-tuesday-midterm-election-day-jobs-report-6-november-bull-4075-bear-3830/"
-  },
-  {
-   "title": "Mitrade : supports 3 885–3 904, 3 829–3 849, 3 780–3 800 ; résistances 3 971–3 982, 4 074–4 083 (3 nov.)",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-oil-tumbles-diplomacy-midterms"
   },
   {
    "title": "Calendrier économique US de novembre 2026",
