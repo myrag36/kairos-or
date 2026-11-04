@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-04T13:05:00Z",
- "price": 4043,
- "change": 2.8,
- "priceTime": "4 nov. · 14h05 Paris",
+ "updatedAt": "2026-11-04T14:10:00Z",
+ "price": 4045,
+ "change": 2.9,
+ "priceTime": "4 nov. · 15h10 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or tient vers 4 043 $ (+2,8 %, Trading Economics 4 043,2 $), porté par la victoire des démocrates au Congrès, un dollar au plus bas de quatre semaines et des rendements en baisse. Il plafonne depuis trois heures dans la zone de vente 4 032–4 044, sous la moyenne mobile 100 en 4 h (4 057, Tradingpedia) : il faut une bougie de rejet avant de vendre, et une clôture 1 h au-dessus de 4 062 annulerait ce plan. Le marché voit toujours environ 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Attention : l'emploi privé ADP sort dans dix minutes, à 14h15 Paris (environ 69 000 attendus) ; pas de nouvelle position juste avant et après. Emploi officiel (NFP) vendredi.",
+ "summary": "L'or tient vers 4 045 $ (+2,9 %, Trading Economics), porté par la victoire des démocrates au Congrès, un dollar au plus bas de quatre semaines et des rendements en baisse. L'emploi privé ADP est sorti à 86 000 postes, au-dessus des 67 000 attendus (Investing.com) : un chiffre plutôt défavorable à l'or, mais le prix n'a pas cédé. Il plafonne toujours dans la zone de vente 4 032–4 044, sous la moyenne mobile 100 en 4 h (4 057, Tradingpedia) : il faut une bougie de rejet avant de vendre, et une clôture 1 h au-dessus de 4 062 annulerait ce plan. Le marché voit environ 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Prochain rendez-vous : l'indice ISM des services vers 16h00 Paris, puis l'emploi officiel (NFP) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     3985,
     3950
    ],
-   "note": "Plan gardé : l'or plafonne dans la zone (vers 4 043 $) depuis trois heures, sans bougie de rejet nette. Les contrats à terme ont touché 4 052,4 $ vers 13h09 Paris (Yahoo Finance) sans tenir. LiteFinance voit aussi 4 022–4 037 comme la limite de la tendance baissière à court terme, avec un stop vers 4 069. Au-dessus : moyenne mobile 100 en 4 h à 4 057 (Tradingpedia), puis 4 067–4 073 (IC Markets, IG, Fibonacci 61,8 %). Attendre la publication ADP de 13h15 UTC. Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
+   "note": "Plan gardé : l'or plafonne dans la zone (4 043–4 045 $) depuis quatre heures, sans bougie de rejet nette, même après un ADP plus fort que prévu. LiteFinance voit aussi 4 022–4 037 comme la limite de la tendance baissière à court terme, avec un stop vers 4 069. Au-dessus : moyenne mobile 100 en 4 h à 4 057 (Tradingpedia), puis 4 067–4 073 (IC Markets, IG, Fibonacci 61,8 %). Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
    "invalidAbove": 4062
   },
   {
@@ -83,12 +83,12 @@
   {
    "p": 4038,
    "kind": "res",
-   "label": "Zone de vente 4 032–4 044 : l'or plafonne dedans (4 043)"
+   "label": "Zone de vente 4 032–4 044 : l'or plafonne dedans (4 045)"
   },
   {
    "p": 4011,
    "kind": "pivot",
-   "label": "Support 4 011–4 015 (pivot FXEmpire 4 010,8, ForexDevice 4 015) : l'or au-dessus (4 043)"
+   "label": "Support 4 011–4 015 (pivot FXEmpire 4 010,8, ForexDevice 4 015) : l'or au-dessus (4 045)"
   },
   {
    "p": 3992,
@@ -135,7 +135,7 @@
   {
    "name": "Emploi américain",
    "impact": -1,
-   "text": "Offres d'emploi JOLTS de septembre à 7,5 millions, au-dessus des 7,13 millions attendus et des 7,08 millions d'août ; démissions en hausse à 2,1 % (Indeed). Inscriptions au chômage à 194 000. Un marché du travail solide justifie une hausse des taux. ADP d'octobre attendu à 69 000 aujourd'hui (90 000 le mois dernier)."
+   "text": "ADP d'octobre à 86 000 postes, au-dessus des 67 000 attendus ; septembre révisé à 86 000 (Investing.com). Offres d'emploi JOLTS de septembre à 7,5 millions, au-dessus des attentes. Inscriptions au chômage à 194 000. Un marché du travail solide justifie une hausse des taux."
   },
   {
    "name": "Dollar",
@@ -155,7 +155,7 @@
   {
    "name": "Technique",
    "impact": -1,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. Cette nuit l'or a cassé la résistance 3 965–3 982 et repris 4 000. Il plafonne maintenant dans la zone 4 032–4 044, sous la résistance IG 4 046 et la moyenne mobile 100 en 4 h (4 057). En 4 h, Tradingpedia note un RSI neutre (48,9) et un MACD positif, mais un biais encore baissier tant que le prix reste sous cette moyenne. LiteFinance attend un rejet sous 4 037, avec un retournement possible vers 4 174–4 205 en cas de cassure nette. IG juge qu'une clôture journalière au-dessus de 4 073 serait un premier signe de stabilisation."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. Cette nuit l'or a cassé la résistance 3 965–3 982 et repris 4 000. Il plafonne depuis le matin dans la zone 4 032–4 044, sous la résistance IG 4 046 et la moyenne mobile 100 en 4 h (4 057). En 4 h, Tradingpedia note un RSI neutre (48,9) et un MACD positif, mais un biais encore baissier tant que le prix reste sous cette moyenne. LiteFinance attend un rejet sous 4 037, avec un retournement possible vers 4 174–4 205 en cas de cassure nette. IG juge qu'une clôture journalière au-dessus de 4 073 serait un premier signe de stabilisation."
   },
   {
    "name": "Achats des banques centrales",
@@ -174,7 +174,7 @@
   }
  ],
  "noTrade": [
-  "Pas de nouvelle position entre 14h00 et 14h30 Paris autour de l'emploi privé ADP.",
+  "Pas de nouvelle position entre 15h45 et 16h15 Paris autour de l'indice ISM des services.",
   "Ne pas acheter en plein élan vers 4 043 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
   "Ne pas vendre dans 4 032–4 044 sans bougie de rejet nette : l'élan reste haussier, RSI 1 h en surachat.",
   "Ne pas acheter avant le test de 3 830–3 850 pour le plan bas.",
@@ -195,7 +195,14 @@
    "at": "2026-11-04T13:15:00Z",
    "event": "Emploi privé ADP d'octobre",
    "importance": 2,
-   "why": "Avant-goût du NFP de vendredi. Consensus 69 000 (90 000 le mois dernier). Chiffre faible = bon pour l'or."
+   "why": "Avant-goût du NFP de vendredi. Consensus 69 000 (90 000 le mois dernier). Chiffre faible = bon pour l'or.",
+   "result": "86 000 postes (67 000 attendus) : plus fort que prévu, l'or tient vers 4 045 $"
+  },
+  {
+   "at": "2026-11-04T15:00:00Z",
+   "event": "Indice ISM des services d'octobre",
+   "importance": 2,
+   "why": "Surveillé par les marchés (Mitrade). Services solides et prix élevés = hausse de taux plus probable = pression sur l'or."
   },
   {
    "at": "2026-11-06T13:30:00Z",
@@ -236,12 +243,20 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : or à 4 043,22 $ (+2,84 %), dollar à 101,247 (-0,61 %, plus bas de quatre semaines), 79 % de hausse en décembre (4 nov.)",
+   "title": "Investing.com : l'emploi privé ADP monte de 86 000 en octobre, 67 000 attendus (4 nov.)",
+   "url": "https://www.investing.com/news/economic-indicators/us-private-payrolls-rise-by-86000-in-october-adp-says-4999417"
+  },
+  {
+   "title": "Trading Economics : or vers 4 044,6–4 046,4 $ (+2,9 %), dollar au plus bas de quatre semaines, 79 % de hausse en décembre (4 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
    "title": "Yahoo Finance : l'or (contrat décembre) monte à 4 052,40 $ à 7h09 ET, gains limités attendus (4 nov.)",
    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-4-2026-gold-prices-rise-in-early-trading-but-limited-gains-expected-122544610.html"
+  },
+  {
+   "title": "Mitrade : JOLTS 7,52 millions, rendement 10 ans 4,951 %, marchés attentifs à ADP, ISM services et NFP (4 nov.)",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/us-jobs-data-lifts-yields-gold"
   },
   {
    "title": "Tradingpedia : l'or vers 4 050 $, SMA 100 en 4 h à 4 057, Fibonacci 4 033 / 4 072 / 4 127, RSI 48,9, ADP attendu à 69 000 (4 nov.)",
@@ -268,7 +283,7 @@
    "url": "https://forexdevice.com/xauusd-technical-analysis-4-november-2026/"
   },
   {
-   "title": "FXEmpire : or à 4 042,34 $ (+2,39 %), pivot 4 010,84, résistance 4 086,62, signal journalier « vente » (4 nov., 11h05 UTC)",
+   "title": "FXEmpire : or à 4 043,15 $ (+2,41 %), pivot 4 010,84, résistance 4 086,62, signal journalier « vente » (4 nov., 14h05 UTC)",
    "url": "https://www.fxempire.com/forecasts/gold"
   },
   {
