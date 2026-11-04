@@ -1,28 +1,28 @@
 {
- "updatedAt": "2026-11-04T16:10:00Z",
- "price": 4047,
- "change": 2.9,
- "priceTime": "4 nov. · 17h05 Paris",
+ "updatedAt": "2026-11-04T17:10:00Z",
+ "price": 4060,
+ "change": 2.8,
+ "priceTime": "4 nov. · 18h02 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or tient vers 4 047 $ (+2,9 %, Trading Economics ; 4 046,65 à 16h05 UTC selon FXEmpire), porté par la victoire des démocrates au Congrès, un dollar en baisse (101,49, -0,4 %) et un rendement à 10 ans en recul (4,92 %). Depuis l'ISM des services (54,5, un peu sous les attentes), le marché est calme : l'or oscille entre 4 039 et 4 053 depuis le matin. Il dépasse légèrement le haut de la zone de vente 4 032–4 044 mais reste sous le plus haut du jour (4 051), la moyenne mobile 100 en 4 h (4 057) et la résistance 4 068 (Kitco) : il faut une bougie de rejet avant de vendre, et une clôture 1 h au-dessus de 4 062 annulerait ce plan. Le marché voit environ 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Prochain rendez-vous majeur : l'emploi officiel (NFP) vendredi à 14h30 Paris.",
+ "summary": "L'or sort par le haut de son couloir du jour (4 039–4 053) et cote vers 4 060 $ (+2,8 % à 17h02 UTC selon FXEmpire ; 4 062 à 4 065 selon Trading Economics). Il est maintenant sur la moyenne mobile 100 en 4 h (4 057), juste sous la résistance 4 068 (Kitco) puis 4 087 (FXEmpire). Le dollar se reprend un peu (101,61, -0,25 %) mais le rendement à 10 ans recule encore (4,90 %). Le marché voit toujours environ 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. La vente sous 4 044 est remplacée par une vente plus haut, dans 4 070–4 085 ; prochain rendez-vous majeur : l'emploi officiel (NFP) vendredi à 14h30 Paris.",
  "setups": [
   {
    "side": "sell",
-   "name": "Vente sur rebond",
-   "status": "active",
+   "name": "Vente sous 4 087",
+   "status": "watch",
    "zone": [
-    4032,
-    4044
+    4070,
+    4085
    ],
-   "trigger": "Attendre une remontée dans 4 032–4 044 (ancien support devenu résistance) puis une bougie de rejet en 15 min ou 1 h : longue mèche haute ou clôture baissière franche.",
-   "stop": 4062,
+   "trigger": "Attendre une montée dans 4 070–4 085 (résistances Kitco 4 068, IG 4 073, Mitrade 4 074–4 083, FXEmpire 4 086,6) puis une bougie de rejet en 1 h : longue mèche haute ou clôture baissière franche sous 4 070.",
+   "stop": 4100,
    "tps": [
-    3985,
-    3950
+    4045,
+    4012
    ],
-   "note": "Plan gardé : l'or bute sous 4 051–4 053 (plus haut du jour) depuis six heures, sans bougie de rejet nette. Il cote 4 047, juste au-dessus du haut de la zone : on attend un rejet, pas d'entrée à l'aveugle. LiteFinance voit 4 022–4 037 comme la limite de la tendance baissière à court terme. Au-dessus : moyenne mobile 100 en 4 h à 4 057 (Tradingpedia), puis 4 067–4 073 (IC Markets, Kitco 4 068 avec une ligne de tendance baissière, IG). Si une bougie 1 h clôture au-dessus de 4 062, on oublie la vente.",
-   "invalidAbove": 4062
+   "note": "Nouveau plan : il remplace la vente 4 032–4 044, car l'or a cassé par le haut son couloir de six heures et cote 4 060, au niveau de l'ancien stop (4 062). On attend plus haut, sur la grosse zone de résistance 4 067–4 087 et la ligne de tendance baissière signalée par Kitco. Objectif 1 sur l'ancien plafond 4 045, objectif 2 sur le pivot 4 011 (FXEmpire). Stop au-dessus de 4 087, sous la résistance 4 104–4 115. Une clôture 1 h au-dessus de 4 098 annule le plan.",
+   "invalidAbove": 4098
   },
   {
    "side": "buy",
@@ -38,7 +38,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé. Le seuil de 4 000 est repris après les élections ; MarketGauge (Kitco) juge que l'or doit tenir 4 000 pour retrouver l'élan haussier. Objectif 1 sous la zone de vente 4 032–4 044, objectif 2 vers 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds 4 115, haut de la semaine FXEmpire 4 111,6). Stop sous l'ancienne résistance 3 965–3 980. Ne pas acheter en plein élan à 4 047 : attendre le retour. Une clôture 1 h sous 3 958 annule le plan.",
+   "note": "Plan gardé. Le seuil de 4 000 est repris après les élections ; MarketGauge (Kitco) juge que l'or doit tenir 4 000 pour retrouver l'élan haussier. Objectif 1 sous la zone de vente 4 032–4 044, objectif 2 vers 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds 4 115, haut de la semaine FXEmpire 4 111,6). Stop sous l'ancienne résistance 3 965–3 980. Ne pas acheter en plein élan à 4 060 : attendre le retour. Une clôture 1 h sous 3 958 annule le plan.",
    "invalidBelow": 3958
   },
   {
@@ -55,7 +55,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 200 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 3 940 (support MarketGauge, Kitco), 3 920–3 930 (plus bas de la nuit 3 929,3, seuil baissier FinanceFeeds 3 920) puis le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 210 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 3 940 (support MarketGauge, Kitco), 3 920–3 930 (plus bas de la nuit 3 929,3, seuil baissier FinanceFeeds 3 920) puis le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -66,29 +66,29 @@
    "label": "Résistance 4 104–4 115 (Mitrade, seuil haussier FinanceFeeds), haut de la semaine 4 111,6"
   },
   {
-   "p": 4075,
+   "p": 4098,
    "kind": "res",
-   "label": "Résistance 4 067–4 087 (IC Markets 4 067,5, Kitco 4 068, IG 4 073, Mitrade 4 074–4 083, FXEmpire 4 086,6)"
+   "label": "Invalidation de la nouvelle vente (stop 4 100), sous la résistance 4 104–4 115"
   },
   {
-   "p": 4062,
+   "p": 4078,
    "kind": "res",
-   "label": "Invalidation de la vente haute, moyenne mobile 100 en 4 h juste en dessous (4 057)"
+   "label": "Zone de vente 4 070–4 085 dans la résistance 4 067–4 087 (IC Markets 4 067,5, Kitco 4 068, IG 4 073, Mitrade 4 074–4 083, FXEmpire 4 086,6)"
   },
   {
-   "p": 4050,
-   "kind": "res",
-   "label": "Résistance 4 046–4 053 (IG 4 046, plus haut du jour 4 051) : le prix bute dessous (4 047)"
+   "p": 4057,
+   "kind": "pivot",
+   "label": "Moyenne mobile 100 en 4 h (4 057) : l'or juste au-dessus (4 060)"
   },
   {
-   "p": 4038,
-   "kind": "res",
-   "label": "Zone de vente 4 032–4 044 : l'or juste au-dessus (4 047)"
+   "p": 4046,
+   "kind": "sup",
+   "label": "Ancien plafond du jour 4 046–4 053 (IG 4 046), objectif 1 de la vente"
   },
   {
    "p": 4011,
-   "kind": "pivot",
-   "label": "Support 4 011–4 015 (pivot FXEmpire 4 010,8, ForexDevice 4 015) : l'or au-dessus (4 047)"
+   "kind": "sup",
+   "label": "Support 4 011–4 015 (pivot FXEmpire 4 010,8, ForexDevice 4 015), objectif 2 de la vente"
   },
   {
    "p": 3992,
@@ -125,7 +125,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": -1,
-   "text": "Les rendements ont baissé après les élections (Reuters) ; Trading Economics affiche environ 4,92 % (-0,05 point). Ils restent élevés, mais la pression sur l'or se relâche."
+   "text": "Les rendements baissent après les élections ; Trading Economics affiche environ 4,90 % (-0,07 point). Ils restent élevés, mais la pression sur l'or se relâche."
   },
   {
    "name": "Croissance et inflation US",
@@ -140,7 +140,7 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "Indice dollar vers 101,49 (-0,4 %, Trading Economics), près de son plus bas de quatre semaines : la victoire démocrate pèse sur le dollar et soutient l'or. Pas de réaction à l'ISM des services."
+   "text": "L'indice dollar est tombé jusqu'à 101,3, plus bas de cinq semaines, après la victoire démocrate ; il se reprend un peu vers 101,61 (-0,25 %, Trading Economics). Il reste en baisse sur la journée, ce qui soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -155,7 +155,7 @@
   {
    "name": "Technique",
    "impact": -1,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. Cette nuit l'or a cassé la résistance 3 965–3 982 et repris 4 000. Il plafonne depuis le matin entre 4 039 et 4 053 (plus haut du jour 4 051), autour de la résistance IG 4 046 et sous la moyenne mobile 100 en 4 h (4 057), puis la résistance Kitco 4 068 avec une ligne de tendance baissière. En 4 h, Tradingpedia notait un RSI neutre (48,9) et un MACD positif, mais un biais encore baissier tant que le prix reste sous cette moyenne. LiteFinance attend un rejet sous 4 037, avec un retournement possible vers 4 174–4 205 en cas de cassure nette. IG juge qu'une clôture journalière au-dessus de 4 073 serait un premier signe de stabilisation. FXEmpire affiche un signal journalier « vente » (15 indicateurs vendeurs sur 22)."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. Cette nuit l'or a cassé la résistance 3 965–3 982 et repris 4 000. Après six heures entre 4 039 et 4 053, il est sorti par le haut vers 4 060, sur la moyenne mobile 100 en 4 h (4 057). Au-dessus : Kitco 4 068 avec une ligne de tendance baissière, IG 4 073 (une clôture journalière au-dessus serait un premier signe de stabilisation), FXEmpire 4 086,6 puis 4 104–4 115. FXEmpire affiche toujours un signal journalier « vente » (15 indicateurs vendeurs sur 22). LiteFinance voit un retournement possible vers 4 174–4 205 en cas de cassure nette."
   },
   {
    "name": "Achats des banques centrales",
@@ -174,9 +174,8 @@
   }
  ],
  "noTrade": [
-  "Marché calme après l'ISM des services : pas d'entrée sans signal net, l'or tourne en rond sous 4 053.",
-  "Ne pas acheter en plein élan vers 4 047 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
-  "Ne pas vendre au-dessus de 4 044 sans bougie de rejet nette : l'élan du jour reste haussier.",
+  "Ne pas acheter en plein élan vers 4 060 : attendre un retour vers 3 985–4 000 et une bougie de rejet.",
+  "Ne pas vendre avant 4 070–4 085 et sans bougie de rejet nette : l'élan du jour reste haussier.",
   "Ne pas acheter avant le test de 3 830–3 850 pour le plan bas.",
   "Pas de nouvelle position 15 minutes avant et après le NFP, le CPI ou la Fed.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée.",
@@ -244,11 +243,11 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : or vers 4 048 $ (+2,97 %), dollar 101,49, 10 ans 4,92 %, 79 % de hausse en décembre (4 nov.)",
+   "title": "Trading Economics : or vers 4 062–4 065 $ (+3,3 %), dollar 101,61, 10 ans 4,90 %, 79 % de hausse en décembre (4 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
-   "title": "FXEmpire : or à 4 046,65 $ (16h05 UTC), support 4 010,84, résistance 4 086,62, signal journalier « vente » (4 nov.)",
+   "title": "FXEmpire : or à 4 059,59 $ (17h02 UTC, +2,82 %), support 4 010,84, résistance 4 086,62, signal journalier « vente » (4 nov.)",
    "url": "https://www.fxempire.com/forecasts/gold"
   },
   {
@@ -268,7 +267,7 @@
    "url": "https://investinglive.com/news/october-us-ism-services-vs-54-8-expected/"
   },
   {
-   "title": "Investing.com (Reuters) : or à 4 046,74 $ à 12h34 GMT, plus haut 4 050,99, 82 % de hausse en décembre (4 nov.)",
+   "title": "Investing.com (Reuters) : or à 4 040,15 $ à 15h45 GMT (+2,9 %), 83 % de hausse en décembre (4 nov.)",
    "url": "https://www.investing.com/news/economy-news/gold-firms-on-softer-oil-prices-us-midterm-results-awaited-4997053"
   },
   {
@@ -300,7 +299,7 @@
    "url": "https://www.tradingandinvestmentnews.co.uk/gold-price-midterms/"
   },
   {
-   "title": "Trading Economics : le dollar tombe à 101,3 (-0,54 %), plus bas de cinq semaines, 77 % de hausse en décembre (4 nov.)",
+   "title": "Trading Economics : le dollar tombe à 101,3, plus bas de cinq semaines, puis revient vers 101,61 ; 77 % de hausse en décembre (4 nov.)",
    "url": "https://tradingeconomics.com/united-states/currency"
   },
   {
