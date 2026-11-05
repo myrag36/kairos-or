@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T14:10:00Z",
- "price": 4126,
- "change": 1.64,
- "priceTime": "5 nov. · 15h10 Paris",
+ "updatedAt": "2026-11-05T15:10:00Z",
+ "price": 4106,
+ "change": 1.15,
+ "priceTime": "5 nov. · 16h06 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or se tient vers 4 126 $ (Trading Economics, +1,64 % sur la journée), toujours dans la fourchette 4 057–4 148 (Kitco). Les inscriptions au chômage baissent à 189 000, sous les 196 000 attendus : l'emploi reste solide, ce qui garde la hausse des taux de la Fed sur la table. Le dollar est stable vers 101,6 et le 10 ans remonte un peu à 4,91 % ; le marché voit 79 % de chances de hausse en décembre (CME FedWatch) : le biais reste neutre. Aucune zone n'a été touchée, nos quatre plans sont gardés ; la zone d'achat 4 100–4 115 reste toute proche. L'emploi officiel (NFP) tombe demain à 14h30 Paris : plans en attente, taille réduite.",
+ "summary": "L'or recule vers 4 106 $ (Kitco, +1,15 % sur la journée) après un pic à 4 148, toujours dans la fourchette 4 057–4 148. Beth Hammack (Fed) juge qu'une hausse graduelle des taux est la meilleure voie (FXStreet), et le marché voit environ 80 % de chances de hausse en décembre (CME FedWatch) : le biais reste neutre. Le dollar reste stable vers 101,6, près de son plus bas d'un mois (Trading Economics). Le prix est entré dans la zone d'achat 4 100–4 115 : on attend une bougie 1 h de rejet avant d'acheter, les quatre plans sont gardés. L'emploi officiel (NFP) tombe demain à 14h30 Paris : plans en attente, taille réduite.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : le pic du jour à 4 148 (Kitco) reste sous la zone. La moyenne mobile 50 jours vers 4 206 (FXEmpire) renforce la résistance. On attend maintenant la résistance suivante, 4 187–4 227 (Mitrade). Objectif 1 sur le support du jour 4 118 (FXEmpire), objectif 2 sur l'ancienne résistance 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : le pic du jour à 4 148 (Kitco) reste sous la zone, l'or est redescendu vers 4 106. La moyenne mobile 50 jours vers 4 206 (FXEmpire) renforce la résistance. On attend maintenant la résistance suivante, 4 187–4 227 (Mitrade). Objectif 1 sur le support du jour 4 118 (FXEmpire), objectif 2 sur l'ancienne résistance 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -38,7 +38,7 @@
     4170,
     4220
    ],
-   "note": "Plan gardé, dans le sens de l'élan : l'or se tient vers 4 126, la zone est à environ 15 $. L'or a cassé 4 104–4 115 (Mitrade) ; FXEmpire juge qu'une cassure confirmée de 4 100 vise 4 250. Objectif 1 sur la résistance du jour 4 171 (FXEmpire), objectif 2 sous 4 225. Stop sous 4 100 et au-dessus de l'ancienne résistance 4 074–4 083. Ne pas acheter vers 4 120 : attendre le retour. Une clôture 1 h sous 4 085 annule le plan.",
+   "note": "Plan gardé, dans le sens de l'élan : l'or est redescendu vers 4 106 (Kitco), il est dans la zone. Pas d'achat sans la bougie de rejet. L'or a cassé 4 104–4 115 (Mitrade) ; FXEmpire juge qu'une cassure confirmée de 4 100 vise 4 250. Objectif 1 sur la résistance du jour 4 171 (FXEmpire), objectif 2 sous 4 225. Stop sous 4 100 et au-dessus de l'ancienne résistance 4 074–4 083. Une clôture 1 h sous 4 085 annule le plan.",
    "invalidBelow": 4085
   },
   {
@@ -55,7 +55,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé, plan de repli plus profond. Le seuil de 4 000 est la ligne clé selon MarketGauge (Kitco) et XS.com. L'or est à environ 120 $ au-dessus : la zone est loin. Objectif 1 sous 4 046, objectif 2 vers l'ancienne résistance 4 104–4 115. Stop sous l'ancien support 3 965–3 980 (Mitrade 3 970–3 980). Une clôture 1 h sous 3 958 annule le plan.",
+   "note": "Plan gardé, plan de repli plus profond. Le seuil de 4 000 est la ligne clé selon MarketGauge (Kitco) et XS.com. L'or est à environ 110 $ au-dessus : la zone est loin. Objectif 1 sous 4 046, objectif 2 vers l'ancienne résistance 4 104–4 115. Stop sous l'ancien support 3 965–3 980 (Mitrade 3 970–3 980). Une clôture 1 h sous 3 958 annule le plan.",
    "invalidBelow": 3958
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est très loin, l'or est à environ 280 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 4 000, 3 970–3 980 puis 3 885–3 904 (Mitrade) et le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est très loin, l'or est à environ 260 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 4 000, 3 970–3 980 puis 3 885–3 904 (Mitrade) et le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -147,7 +147,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit toujours 79 % (CME FedWatch, Trading Economics) à plus de 80 % (Tradingpedia) de chances de hausse en décembre, réunion des 8–9 décembre. Beth Hammack et Thomas Barkin (Fed) parlent aujourd'hui (Goldreporter)."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit environ 80 % de chances de hausse en décembre (CME FedWatch, Trading Economics), réunion des 8–9 décembre. Beth Hammack (Fed) juge aujourd'hui qu'une hausse graduelle des taux est la meilleure voie (FXStreet)."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -172,7 +172,7 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "L'indice dollar reste près de son plus bas de cinq semaines, stable vers 101,61 (Trading Economics). La faiblesse du dollar soutient l'or."
+   "text": "L'indice dollar reste près de son plus bas d'un mois, stable vers 101,62 (Trading Economics). La faiblesse du dollar soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -187,7 +187,7 @@
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il se tient vers 4 125. FXEmpire : une clôture 4 h au-dessus de 4 146 ouvrirait 4 212, support vers 4 075 ; la moyenne mobile 50 jours est à 4 206, la 200 jours à 4 469. Tradingpedia : RSI 4 h en surachat à 75,8, moyenne 200 périodes 4 h vers 4 124 en support, résistance 4 186. Au-dessus : 4 187–4 227 (Mitrade)."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il est redescendu vers 4 106 (Kitco), dans l'ancienne résistance 4 104–4 115 devenue support. FXEmpire : une clôture 4 h au-dessus de 4 146 ouvrirait 4 212, support vers 4 075 ; la moyenne mobile 50 jours est à 4 206, la 200 jours à 4 469. Tradingpedia : RSI 4 h en surachat à 75,8, moyenne 200 périodes 4 h vers 4 124 en support, résistance 4 186. Au-dessus : 4 187–4 227 (Mitrade)."
   },
   {
    "name": "Achats des banques centrales",
@@ -206,7 +206,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 4 120–4 150 : attendre un retour vers 4 100–4 115 et une bougie de rejet.",
+  "Ne pas acheter dans 4 100–4 115 sans bougie 1 h de rejet nette : le prix y est, mais le signal n'est pas encore là.",
   "Ne pas vendre avant 4 180–4 200 et sans bougie de rejet nette : l'élan reste haussier.",
   "Ne pas acheter avant le test de 3 985–4 000 ou de 3 830–3 850 pour les plans bas.",
   "Pas de nouvelle position 15 minutes avant et après le NFP (demain 14h30 Paris), le CPI ou la Fed.",
@@ -280,6 +280,18 @@
   }
  ],
  "sources": [
+  {
+   "title": "Kitco : or à 4 105,80–4 107,80 $ (+46,60, +1,15 %) à 10h06 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
+   "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "Trading Economics : « Gold Extends Rally to Two-Week High », or vers 4 110–4 112 $ (+1,23 %), dollar 101,62, environ 80 % de hausse en décembre (5 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "FXStreet : Hammack (Fed), une hausse graduelle des taux est la meilleure voie (5 nov.)",
+   "url": "https://fxstreet.com/news/feds-hammack-gradual-rate-hike-path-best-way-forward-for-policy-202611051359"
+  },
   {
    "title": "Trading Economics : inscriptions au chômage à 189 000 (196 000 attendus, 195 000 avant), inscriptions continues 1,718 million (5 nov., 13h30 GMT)",
    "url": "https://tradingeconomics.com/united-states/jobless-claims"
