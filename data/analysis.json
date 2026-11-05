@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T12:10:00Z",
- "price": 4135,
- "change": 1.86,
- "priceTime": "5 nov. · 13h10 Paris",
+ "updatedAt": "2026-11-05T13:10:00Z",
+ "price": 4120,
+ "change": 1.48,
+ "priceTime": "5 nov. · 14h10 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or monte encore un peu vers 4 135 $ (Kitco, +1,86 % sur la journée), toujours dans la fourchette 4 057–4 148. Il tient au-dessus de l'ancienne résistance 4 100–4 115 : nos quatre plans sont gardés, et aucune zone n'a été touchée. Le dollar reste faible (101,59) et le rendement à 10 ans reste bas vers 4,89 %, ce qui soutient l'or. Mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. La Banque d'Angleterre vient d'annoncer sa décision (résultat pas encore publié dans nos sources), puis inscriptions au chômage à 14h30 et l'emploi officiel (NFP) demain à 14h30 : plans en attente.",
+ "summary": "L'or recule un peu vers 4 120 $ (Kitco, +1,48 % sur la journée), toujours dans la fourchette 4 057–4 148. Il reste au-dessus de l'ancienne résistance 4 100–4 115 : nos quatre plans sont gardés, et aucune zone n'a été touchée, mais la zone d'achat 4 100–4 115 est tout près. La Banque d'Angleterre a relevé son taux à 4 % (vote 8–1), sa première hausse depuis 2023 ; l'or tient bien. Le dollar reste faible (101,58) et le 10 ans bas vers 4,89 %, mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Inscriptions au chômage à 14h30 (dans moins d'une demi-heure), puis l'emploi officiel (NFP) demain à 14h30 : plans en attente.",
  "setups": [
   {
    "side": "sell",
@@ -38,7 +38,7 @@
     4170,
     4220
    ],
-   "note": "Plan gardé, dans le sens de l'élan : l'or se tient vers 4 124, la zone est à une vingtaine de dollars. L'or a cassé 4 104–4 115 (Mitrade) ; FXEmpire juge qu'une cassure confirmée de 4 100 vise 4 250. Objectif 1 sur la résistance du jour 4 171 (FXEmpire), objectif 2 sous 4 225. Stop sous 4 100 et au-dessus de l'ancienne résistance 4 074–4 083. Ne pas acheter vers 4 120 : attendre le retour. Une clôture 1 h sous 4 085 annule le plan.",
+   "note": "Plan gardé, dans le sens de l'élan : l'or se tient vers 4 120, la zone est à moins de 20 $. L'or a cassé 4 104–4 115 (Mitrade) ; FXEmpire juge qu'une cassure confirmée de 4 100 vise 4 250. Objectif 1 sur la résistance du jour 4 171 (FXEmpire), objectif 2 sous 4 225. Stop sous 4 100 et au-dessus de l'ancienne résistance 4 074–4 083. Ne pas acheter vers 4 120 : attendre le retour. Une clôture 1 h sous 4 085 annule le plan.",
    "invalidBelow": 4085
   },
   {
@@ -150,6 +150,11 @@
    "text": "Le 10 ans reste bas vers 4,89 % (Trading Economics), plus bas de près de deux mois (Mitrade). La pression sur l'or se relâche."
   },
   {
+   "name": "Banque d'Angleterre",
+   "impact": 0,
+   "text": "Hausse du taux de 3,75 % à 4 %, vote 8–1 (Catherine Mann voulait 4,25 %), première hausse depuis août 2023 (Trading Economics). L'or garde ses gains (Kitco) : effet limité."
+  },
+  {
    "name": "Croissance et inflation US",
    "impact": -1,
    "text": "ISM des services d'octobre à 54,5 (54,8 attendu, 54,9 en septembre), prix payés à 73 (74 avant), emploi à 51,4. ISM manufacturier à 55,5, prix payés à 75,2. PIB T3 à 3,4 %, PCE de septembre à 3,6 %. L'économie reste solide et les prix élevés, ce qui garde la hausse de taux sur la table."
@@ -162,7 +167,7 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,59 (+0,03 %, Trading Economics). La baisse du dollar soutient l'or."
+   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,58 (Trading Economics). La baisse du dollar soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -177,7 +182,7 @@
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé cette nuit la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il se stabilise vers 4 124 ce matin. Pivots du jour FXEmpire : support 4 118, résistance 4 171. Au-dessus : 4 187–4 227 (Mitrade). FXEmpire garde un signal journalier « vente » (12 vendeurs sur 22) ; RSI 1 h en surachat à 73 plus tôt (Mitrade). Une cassure confirmée de 4 100 viserait 4 250 selon FXEmpire."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé cette nuit la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il reflue vers 4 120 en début d'après-midi. Pivots du jour FXEmpire : support 4 118, résistance 4 171. Au-dessus : 4 187–4 227 (Mitrade). FXEmpire garde un signal journalier « vente » (12 vendeurs sur 22) ; RSI 1 h en surachat à 73 plus tôt (Mitrade). Une cassure confirmée de 4 100 viserait 4 250 selon FXEmpire."
   },
   {
    "name": "Achats des banques centrales",
@@ -222,13 +227,14 @@
    "at": "2026-11-05T12:00:00Z",
    "event": "Décision de la Banque d'Angleterre",
    "importance": 1,
-   "why": "Hausse attendue de 3,75 % à 4 %, vote attendu 7–2 (1Trader). Effet indirect sur l'or via le dollar."
+   "why": "Hausse attendue de 3,75 % à 4 %, vote attendu 7–2 (1Trader). Effet indirect sur l'or via le dollar.",
+   "result": "Taux relevé à 4 %, vote 8–1 : conforme à l'attente de hausse, l'or tient vers 4 120 $"
   },
   {
    "at": "2026-11-05T13:30:00Z",
    "event": "Inscriptions hebdomadaires au chômage",
    "importance": 2,
-   "why": "Dernier chiffre de l'emploi avant le NFP. Hausse des inscriptions = bon pour l'or. 194 000 la semaine dernière."
+   "why": "Dernier chiffre de l'emploi avant le NFP. Hausse des inscriptions = bon pour l'or. Prévision vers 196 000 (NordFX), 194 000 la semaine dernière."
   },
   {
    "at": "2026-11-06T13:30:00Z",
@@ -269,8 +275,24 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or à 4 134,80 $ (+75,60, +1,86 %) à 6h37 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
+   "title": "Kitco : or à 4 119,10–4 121,10 $ (+59,90, +1,48 %) à 8h03 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
    "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "Trading Economics : la Banque d'Angleterre relève son taux à 4 %, vote 8–1 (5 nov.)",
+   "url": "https://tradingeconomics.com/united-kingdom/interest-rate"
+  },
+  {
+   "title": "Trading Economics : or vers 4 121–4 122 $ (+1,5 %), dollar 101,58, 10 ans 4,89 %, 79 % de hausse en décembre (5 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "NordFX : or à 4 129 $ (+1,7 %), dollar 101,26, inscriptions au chômage à 13h30 GMT, prévision 196 000 (5 nov.)",
+   "url": "https://nordfx.com/market-news/market-pulse-november-05-2026"
+  },
+  {
+   "title": "FXEmpire : or à 4 120,57 $ (13h05 UTC), support 4 118,27, résistance 4 170,85 (5 nov.)",
+   "url": "https://www.fxempire.com/forecasts/gold"
   },
   {
    "title": "Trading Economics : « Gold Extends Gain on US-Iran Optimism », or vers 4 127–4 134 $, dollar 101,59, 10 ans 4,89 %, 79 % de hausse en décembre (5 nov.)",
@@ -287,14 +309,6 @@
   {
    "title": "Goldreporter : l'or à 4 127 $ (+1,6 %) à 8h15, 10 ans 4,85 %, discours Hammack et Barkin, inscriptions au chômage cet après-midi (5 nov.)",
    "url": "https://www.goldreporter.de/goldpreis-05-11-2026/marktbericht-gold/262816/"
-  },
-  {
-   "title": "Trading Economics : or vers 4 126–4 130 $ (+1,6–1,7 %), dollar 101,39, 10 ans 4,87 %, 79 % de hausse en décembre (5 nov.)",
-   "url": "https://tradingeconomics.com/commodity/gold"
-  },
-  {
-   "title": "FXEmpire : or à 4 129,19 $ (7h07 UTC), support 4 118,27, résistance 4 170,85, signal journalier « vente » 12/22 (5 nov.)",
-   "url": "https://www.fxempire.com/forecasts/gold"
   },
   {
    "title": "Trading Economics : or à 4 128 $ (+1,67 %), dollar 101,23, 10 ans 4,85 %, Brent 94,2 $, 79 % de hausse en décembre (5 nov.)",
@@ -355,14 +369,6 @@
   {
    "title": "Investing.com : l'emploi privé ADP monte de 86 000 en octobre, 67 000 attendus (4 nov.)",
    "url": "https://www.investing.com/news/economic-indicators/us-private-payrolls-rise-by-86000-in-october-adp-says-4999417"
-  },
-  {
-   "title": "Yahoo Finance : l'or (contrat décembre) monte à 4 052,40 $ à 7h09 ET, gains limités attendus (4 nov.)",
-   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-4-2026-gold-prices-rise-in-early-trading-but-limited-gains-expected-122544610.html"
-  },
-  {
-   "title": "Mitrade : JOLTS 7,52 millions, rendement 10 ans 4,951 %, marchés attentifs à ADP, ISM services et NFP (4 nov.)",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/us-jobs-data-lifts-yields-gold"
   }
  ]
 }
