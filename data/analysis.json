@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T15:10:00Z",
- "price": 4106,
- "change": 1.15,
- "priceTime": "5 nov. · 16h06 Paris",
+ "updatedAt": "2026-11-05T16:10:00Z",
+ "price": 4088,
+ "change": 0.7,
+ "priceTime": "5 nov. · 17h05 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or recule vers 4 106 $ (Kitco, +1,15 % sur la journée) après un pic à 4 148, toujours dans la fourchette 4 057–4 148. Beth Hammack (Fed) juge qu'une hausse graduelle des taux est la meilleure voie (FXStreet), et le marché voit environ 80 % de chances de hausse en décembre (CME FedWatch) : le biais reste neutre. Le dollar reste stable vers 101,6, près de son plus bas d'un mois (Trading Economics). Le prix est entré dans la zone d'achat 4 100–4 115 : on attend une bougie 1 h de rejet avant d'acheter, les quatre plans sont gardés. L'emploi officiel (NFP) tombe demain à 14h30 Paris : plans en attente, taille réduite.",
+ "summary": "L'or recule vers 4 089 $ (FXEmpire, 16h05 UTC), soit environ +0,7 % sur la journée (Trading Economics), après un pic à 4 148 (Kitco). Le marché voit toujours environ 80 % de chances de hausse des taux en décembre (CME FedWatch, Trading Economics) et le dollar reste stable vers 101,5 : le biais reste neutre. Le prix est passé sous la zone d'achat 4 100–4 115 sans bougie de rejet : ce plan reste en attente mais il est fragile, une clôture 1 h sous 4 085 l'annule. Les quatre plans sont gardés. L'emploi officiel (NFP) tombe demain à 14h30 Paris : plans en attente, taille réduite.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : le pic du jour à 4 148 (Kitco) reste sous la zone, l'or est redescendu vers 4 106. La moyenne mobile 50 jours vers 4 206 (FXEmpire) renforce la résistance. On attend maintenant la résistance suivante, 4 187–4 227 (Mitrade). Objectif 1 sur le support du jour 4 118 (FXEmpire), objectif 2 sur l'ancienne résistance 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : le pic du jour à 4 148 (Kitco) reste sous la zone, l'or est redescendu vers 4 089 (FXEmpire). La moyenne mobile 50 jours vers 4 206 (FXEmpire) renforce la résistance. On attend maintenant la résistance suivante, 4 187–4 227 (Mitrade). Objectif 1 sur le support du jour 4 118 (FXEmpire), objectif 2 sur l'ancienne résistance 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -38,7 +38,7 @@
     4170,
     4220
    ],
-   "note": "Plan gardé, dans le sens de l'élan : l'or est redescendu vers 4 106 (Kitco), il est dans la zone. Pas d'achat sans la bougie de rejet. L'or a cassé 4 104–4 115 (Mitrade) ; FXEmpire juge qu'une cassure confirmée de 4 100 vise 4 250. Objectif 1 sur la résistance du jour 4 171 (FXEmpire), objectif 2 sous 4 225. Stop sous 4 100 et au-dessus de l'ancienne résistance 4 074–4 083. Une clôture 1 h sous 4 085 annule le plan.",
+   "note": "Plan gardé mais fragile : l'or est passé sous la zone, vers 4 089 (FXEmpire, 16h05 UTC), sans bougie de rejet, donc pas d'entrée. Il faut une remontée dans 4 100–4 115 et une clôture 1 h au-dessus de 4 110 pour acheter. L'or avait cassé 4 104–4 115 (Mitrade) ; FXEmpire juge qu'une cassure confirmée de 4 100 vise 4 250. Objectif 1 sur la résistance du jour 4 171 (FXEmpire), objectif 2 sous 4 225. Stop sous 4 100 et au-dessus de l'ancienne résistance 4 074–4 083. Une clôture 1 h sous 4 085 annule le plan.",
    "invalidBelow": 4085
   },
   {
@@ -55,7 +55,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé, plan de repli plus profond. Le seuil de 4 000 est la ligne clé selon MarketGauge (Kitco) et XS.com. L'or est à environ 110 $ au-dessus : la zone est loin. Objectif 1 sous 4 046, objectif 2 vers l'ancienne résistance 4 104–4 115. Stop sous l'ancien support 3 965–3 980 (Mitrade 3 970–3 980). Une clôture 1 h sous 3 958 annule le plan.",
+   "note": "Plan gardé, plan de repli plus profond. Le seuil de 4 000 est la ligne clé selon MarketGauge (Kitco) et XS.com. L'or est à environ 90 $ au-dessus : la zone reste loin. Objectif 1 sous 4 046, objectif 2 vers l'ancienne résistance 4 104–4 115. Stop sous l'ancien support 3 965–3 980 (Mitrade 3 970–3 980). Une clôture 1 h sous 3 958 annule le plan.",
    "invalidBelow": 3958
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est très loin, l'or est à environ 260 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 4 000, 3 970–3 980 puis 3 885–3 904 (Mitrade) et le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est très loin, l'or est à environ 240 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 4 000, 3 970–3 980 puis 3 885–3 904 (Mitrade) et le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -152,7 +152,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": 0,
-   "text": "Le 10 ans remonte légèrement à 4,91 % (Trading Economics), après un plus bas de près de deux mois (Mitrade). La pression sur l'or reste modérée."
+   "text": "Le 10 ans est vers 4,84 % (Trading Economics), près d'un plus bas de près de deux mois (Mitrade). La pression sur l'or reste modérée."
   },
   {
    "name": "Banque d'Angleterre",
@@ -172,7 +172,7 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "L'indice dollar reste près de son plus bas d'un mois, stable vers 101,62 (Trading Economics). La faiblesse du dollar soutient l'or."
+   "text": "L'indice dollar reste près de son plus bas d'un mois, stable vers 101,54 (Trading Economics). La faiblesse du dollar soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -187,7 +187,7 @@
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il est redescendu vers 4 106 (Kitco), dans l'ancienne résistance 4 104–4 115 devenue support. FXEmpire : une clôture 4 h au-dessus de 4 146 ouvrirait 4 212, support vers 4 075 ; la moyenne mobile 50 jours est à 4 206, la 200 jours à 4 469. Tradingpedia : RSI 4 h en surachat à 75,8, moyenne 200 périodes 4 h vers 4 124 en support, résistance 4 186. Au-dessus : 4 187–4 227 (Mitrade)."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé la résistance 4 104–4 115, avec un pic à 4 148 (Kitco). Il est retombé vers 4 089 (FXEmpire, 16h05 UTC), sous cette ancienne résistance : le test du support échoue pour l'instant. Niveaux FXEmpire : support proche 4 019, résistance 4 118 ; une clôture 4 h au-dessus de 4 146 ouvrirait 4 212. La moyenne mobile 50 jours est à 4 206, la 200 jours à 4 469. Au-dessous : 4 074–4 083 (Mitrade) puis 4 000. Au-dessus : 4 187–4 227 (Mitrade)."
   },
   {
    "name": "Achats des banques centrales",
@@ -206,7 +206,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter dans 4 100–4 115 sans bougie 1 h de rejet nette : le prix y est, mais le signal n'est pas encore là.",
+  "Ne pas acheter dans 4 100–4 115 sans bougie 1 h de rejet nette : le prix est passé dessous, il faut d'abord qu'il y remonte.",
   "Ne pas vendre avant 4 180–4 200 et sans bougie de rejet nette : l'élan reste haussier.",
   "Ne pas acheter avant le test de 3 985–4 000 ou de 3 830–3 850 pour les plans bas.",
   "Pas de nouvelle position 15 minutes avant et après le NFP (demain 14h30 Paris), le CPI ou la Fed.",
@@ -280,6 +280,22 @@
   }
  ],
  "sources": [
+  {
+   "title": "FXEmpire : or à 4 088,86 $ (16h05 UTC), support proche 4 019,08, résistance 4 118,27, cassure confirmée de 4 100 visant 4 250 (5 nov.)",
+   "url": "https://www.fxempire.com/forecasts/gold"
+  },
+  {
+   "title": "Kitco : or à 4 108,40–4 110,40 $ (+49,20, +1,21 %) à 10h23 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
+   "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "Trading Economics : or à 4 087,46 $ (+0,67 %), dollar 101,54, 10 ans 4,84 %, environ 80 % de hausse en décembre (5 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "FXEmpire : espoir de paix États-Unis–Iran, 81,8 % de hausse en décembre (FedWatch), support 3 900–4 000 (5 nov., 8h34 GMT)",
+   "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-us-iran-peace-hopes-fuel-rally-as-oil-plunges-1642652"
+  },
   {
    "title": "Kitco : or à 4 105,80–4 107,80 $ (+46,60, +1,15 %) à 10h06 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
    "url": "https://www.kitco.com/charts/gold"
@@ -375,38 +391,6 @@
   {
    "title": "Trading Economics : le Brent chute de plus de 8 % sous 95 $, plus bas de deux mois, espoir de détente avec l'Iran (4 nov.)",
    "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
-  },
-  {
-   "title": "XTB : stocks de brut US -865 000 barils, le pétrole baisse sur les élections et l'espoir d'un accord États-Unis–Iran (4 nov., 15h50)",
-   "url": "https://www.xtb.com/int/market-analysis/news-and-research/breaking-us-oil-inventories-fall-less-than-expected-but-prices-drop-due-to-elections-and-hopes-for-a-us-iran-deal"
-  },
-  {
-   "title": "KuCoin (Reuters) : l'or +3 % au-dessus de 4 040 $, dollar 101,27, 10 ans 4,915 %, 82 % de hausse en décembre (4 nov.)",
-   "url": "https://www.kucoin.com/news/flash/gold-price-surges-3-above-4-040-as-us-dollar-falls-after-midterm-elections"
-  },
-  {
-   "title": "Kitco : l'or et l'argent bondissent ; résistance 4 068,17, supports 3 975,31 / 3 871,24 (4 nov., 9h15 ET)",
-   "url": "https://www.kitco.com/news/article/2026-11-04/gold-and-silver-surge-democratic-midterm-sweep-drives-dollar-yields-lower"
-  },
-  {
-   "title": "Kitco (Reuters) : l'or gagne 3 %, plus haut 4 050,99, 82 % de hausse en décembre (4 nov., 13h45 GMT)",
-   "url": "https://www.kitco.com/news/off-the-wire/2026-11-04/gold-gains-3-dollar-slides-after-democratic-midterm-gains"
-  },
-  {
-   "title": "PR Newswire (ISM) : indice des services d'octobre à 54,5 %, prix 73 %, emploi 51,4 % (4 nov.)",
-   "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html"
-  },
-  {
-   "title": "investingLive : ISM des services 54,5 contre 54,8 attendu, pas de réaction du dollar (4 nov.)",
-   "url": "https://investinglive.com/news/october-us-ism-services-vs-54-8-expected/"
-  },
-  {
-   "title": "Investing.com (Reuters) : or à 4 040,15 $ à 15h45 GMT (+2,9 %), 83 % de hausse en décembre (4 nov.)",
-   "url": "https://www.investing.com/news/economy-news/gold-firms-on-softer-oil-prices-us-midterm-results-awaited-4997053"
-  },
-  {
-   "title": "Investing.com : l'emploi privé ADP monte de 86 000 en octobre, 67 000 attendus (4 nov.)",
-   "url": "https://www.investing.com/news/economic-indicators/us-private-payrolls-rise-by-86000-in-october-adp-says-4999417"
   }
  ]
 }
