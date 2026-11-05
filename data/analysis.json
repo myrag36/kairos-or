@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T09:10:00Z",
- "price": 4126,
- "change": 1.65,
- "priceTime": "5 nov. · 10h03 Paris",
+ "updatedAt": "2026-11-05T10:10:00Z",
+ "price": 4124,
+ "change": 1.58,
+ "priceTime": "5 nov. · 11h05 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or se stabilise ce matin : 4 126 $ à 10h03 Paris (Kitco), +1,65 % sur la journée, sous le pic de 4 148 $, son plus haut depuis le 22 octobre. Il tient au-dessus de l'ancienne résistance 4 100–4 115 : nos quatre plans sont gardés, et l'achat sur retour vers 4 105 reste le plus proche. Le dollar reste faible (101,39) et le rendement à 10 ans reste bas vers 4,85–4,87 %, ce qui soutient l'or. Mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Prochains rendez-vous : Banque d'Angleterre à 13h Paris, inscriptions au chômage à 14h30, discours Hammack et Barkin (Fed), puis l'emploi officiel (NFP) demain à 14h30.",
+ "summary": "L'or reste stable vers 4 124 $ (Trading Economics, +1,58 % sur la journée), sous le pic de 4 148 $ de cette nuit, son plus haut depuis le 22 octobre. Il tient au-dessus de l'ancienne résistance 4 100–4 115 : nos quatre plans sont gardés, et l'achat sur retour vers 4 105 reste le plus proche. Le dollar reste faible (101,50) et le rendement à 10 ans reste bas vers 4,85–4,88 %, ce qui soutient l'or. Mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Prochains rendez-vous : Banque d'Angleterre à 13h Paris, inscriptions au chômage à 14h30, discours Hammack et Barkin (Fed), puis l'emploi officiel (NFP) demain à 14h30.",
  "setups": [
   {
    "side": "sell",
@@ -38,7 +38,7 @@
     4170,
     4220
    ],
-   "note": "Plan gardé, dans le sens de l'élan : l'or redescend vers 4 120, la zone est proche. L'or a cassé 4 104–4 115 (Mitrade) ; FXEmpire juge qu'une cassure confirmée de 4 100 vise 4 250. Objectif 1 sur la résistance du jour 4 171 (FXEmpire), objectif 2 sous 4 225. Stop sous 4 100 et au-dessus de l'ancienne résistance 4 074–4 083. Ne pas acheter vers 4 120 : attendre le retour. Une clôture 1 h sous 4 085 annule le plan.",
+   "note": "Plan gardé, dans le sens de l'élan : l'or se tient vers 4 124, la zone est à une vingtaine de dollars. L'or a cassé 4 104–4 115 (Mitrade) ; FXEmpire juge qu'une cassure confirmée de 4 100 vise 4 250. Objectif 1 sur la résistance du jour 4 171 (FXEmpire), objectif 2 sous 4 225. Stop sous 4 100 et au-dessus de l'ancienne résistance 4 074–4 083. Ne pas acheter vers 4 120 : attendre le retour. Une clôture 1 h sous 4 085 annule le plan.",
    "invalidBelow": 4085
   },
   {
@@ -147,7 +147,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": 0,
-   "text": "Le 10 ans reste bas : 4,85 % ce matin (Goldreporter), 4,87 % selon Trading Economics, plus bas de près de deux mois (Mitrade). La pression sur l'or se relâche."
+   "text": "Le 10 ans reste bas : 4,85 % ce matin (Goldreporter), 4,88 % selon Trading Economics, plus bas de près de deux mois (Mitrade). La pression sur l'or se relâche."
   },
   {
    "name": "Croissance et inflation US",
@@ -162,7 +162,7 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,39 (-0,17 %, Trading Economics), vers 101,30 selon 1Trader. La baisse du dollar soutient l'or."
+   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,50 (-0,06 %, Trading Economics). La baisse du dollar soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -177,7 +177,7 @@
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé cette nuit la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il se stabilise vers 4 125 ce matin. Pivots du jour FXEmpire : support 4 118, résistance 4 171. Au-dessus : 4 187–4 227 (Mitrade). FXEmpire garde un signal journalier « vente » (12 vendeurs sur 22) ; RSI 1 h en surachat à 73 plus tôt (Mitrade). Une cassure confirmée de 4 100 viserait 4 250 selon FXEmpire."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé cette nuit la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il se stabilise vers 4 124 ce matin. Pivots du jour FXEmpire : support 4 118, résistance 4 171. Au-dessus : 4 187–4 227 (Mitrade). FXEmpire garde un signal journalier « vente » (12 vendeurs sur 22) ; RSI 1 h en surachat à 73 plus tôt (Mitrade). Une cassure confirmée de 4 100 viserait 4 250 selon FXEmpire."
   },
   {
    "name": "Achats des banques centrales",
@@ -268,6 +268,10 @@
   }
  ],
  "sources": [
+  {
+   "title": "Trading Economics : or à 4 124,60 $ (+1,58 %), dollar 101,50, rendement 4,88 %, 79 % de hausse en décembre (5 nov., fin de matinée)",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
   {
    "title": "Kitco : or à 4 126,10 $ (+1,65 %) à 4h03 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
    "url": "https://www.kitco.com/charts/gold"
