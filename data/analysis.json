@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T10:10:00Z",
- "price": 4124,
- "change": 1.58,
- "priceTime": "5 nov. · 11h05 Paris",
+ "updatedAt": "2026-11-05T11:05:00Z",
+ "price": 4129,
+ "change": 1.69,
+ "priceTime": "5 nov. · 12h05 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or reste stable vers 4 124 $ (Trading Economics, +1,58 % sur la journée), sous le pic de 4 148 $ de cette nuit, son plus haut depuis le 22 octobre. Il tient au-dessus de l'ancienne résistance 4 100–4 115 : nos quatre plans sont gardés, et l'achat sur retour vers 4 105 reste le plus proche. Le dollar reste faible (101,50) et le rendement à 10 ans reste bas vers 4,85–4,88 %, ce qui soutient l'or. Mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Prochains rendez-vous : Banque d'Angleterre à 13h Paris, inscriptions au chômage à 14h30, discours Hammack et Barkin (Fed), puis l'emploi officiel (NFP) demain à 14h30.",
+ "summary": "L'or reste stable vers 4 129 $ (Trading Economics, +1,69 % sur la journée), dans une fourchette 4 057–4 148 (Kitco). Il tient au-dessus de l'ancienne résistance 4 100–4 115 : nos quatre plans sont gardés, et l'achat sur retour vers 4 105 reste le plus proche. Le dollar reste faible (101,53) et le rendement à 10 ans reste bas vers 4,88 %, ce qui soutient l'or. Mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Décision de la Banque d'Angleterre dans l'heure (13h Paris), puis inscriptions au chômage à 14h30 et l'emploi officiel (NFP) demain à 14h30.",
  "setups": [
   {
    "side": "sell",
@@ -147,7 +147,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": 0,
-   "text": "Le 10 ans reste bas : 4,85 % ce matin (Goldreporter), 4,88 % selon Trading Economics, plus bas de près de deux mois (Mitrade). La pression sur l'or se relâche."
+   "text": "Le 10 ans reste bas vers 4,88 % (Trading Economics), plus bas de près de deux mois (Mitrade). La pression sur l'or se relâche."
   },
   {
    "name": "Croissance et inflation US",
@@ -162,7 +162,7 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,50 (-0,06 %, Trading Economics). La baisse du dollar soutient l'or."
+   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,53 (-0,04 %, Trading Economics). La baisse du dollar soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -269,12 +269,12 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : or à 4 124,60 $ (+1,58 %), dollar 101,50, rendement 4,88 %, 79 % de hausse en décembre (5 nov., fin de matinée)",
-   "url": "https://tradingeconomics.com/commodity/gold"
+   "title": "Kitco : or à 4 127,40 $ (+1,68 %) à 5h44 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
+   "url": "https://www.kitco.com/charts/gold"
   },
   {
-   "title": "Kitco : or à 4 126,10 $ (+1,65 %) à 4h03 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
-   "url": "https://www.kitco.com/charts/gold"
+   "title": "Trading Economics : or à 4 129 $ (+1,69 %), dollar 101,53, rendement 4,88 %, 79 % de hausse en décembre (5 nov., midi)",
+   "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
    "title": "1Trader : or vers 4 131 $, résistances 4 187 / 4 227, supports 4 104 / 4 068 / 3 975, Banque d'Angleterre à 12h GMT (5 nov.)",
