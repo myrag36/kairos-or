@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T13:10:00Z",
- "price": 4120,
- "change": 1.48,
- "priceTime": "5 nov. · 14h10 Paris",
+ "updatedAt": "2026-11-05T14:10:00Z",
+ "price": 4126,
+ "change": 1.64,
+ "priceTime": "5 nov. · 15h10 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or recule un peu vers 4 120 $ (Kitco, +1,48 % sur la journée), toujours dans la fourchette 4 057–4 148. Il reste au-dessus de l'ancienne résistance 4 100–4 115 : nos quatre plans sont gardés, et aucune zone n'a été touchée, mais la zone d'achat 4 100–4 115 est tout près. La Banque d'Angleterre a relevé son taux à 4 % (vote 8–1), sa première hausse depuis 2023 ; l'or tient bien. Le dollar reste faible (101,58) et le 10 ans bas vers 4,89 %, mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Inscriptions au chômage à 14h30 (dans moins d'une demi-heure), puis l'emploi officiel (NFP) demain à 14h30 : plans en attente.",
+ "summary": "L'or se tient vers 4 126 $ (Trading Economics, +1,64 % sur la journée), toujours dans la fourchette 4 057–4 148 (Kitco). Les inscriptions au chômage baissent à 189 000, sous les 196 000 attendus : l'emploi reste solide, ce qui garde la hausse des taux de la Fed sur la table. Le dollar est stable vers 101,6 et le 10 ans remonte un peu à 4,91 % ; le marché voit 79 % de chances de hausse en décembre (CME FedWatch) : le biais reste neutre. Aucune zone n'a été touchée, nos quatre plans sont gardés ; la zone d'achat 4 100–4 115 reste toute proche. L'emploi officiel (NFP) tombe demain à 14h30 Paris : plans en attente, taille réduite.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : le pic du jour à 4 148 (Kitco) reste sous la zone. On attend maintenant la résistance suivante, 4 187–4 227 (Mitrade). Objectif 1 sur le support du jour 4 118 (FXEmpire), objectif 2 sur l'ancienne résistance 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : le pic du jour à 4 148 (Kitco) reste sous la zone. La moyenne mobile 50 jours vers 4 206 (FXEmpire) renforce la résistance. On attend maintenant la résistance suivante, 4 187–4 227 (Mitrade). Objectif 1 sur le support du jour 4 118 (FXEmpire), objectif 2 sur l'ancienne résistance 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -38,7 +38,7 @@
     4170,
     4220
    ],
-   "note": "Plan gardé, dans le sens de l'élan : l'or se tient vers 4 120, la zone est à moins de 20 $. L'or a cassé 4 104–4 115 (Mitrade) ; FXEmpire juge qu'une cassure confirmée de 4 100 vise 4 250. Objectif 1 sur la résistance du jour 4 171 (FXEmpire), objectif 2 sous 4 225. Stop sous 4 100 et au-dessus de l'ancienne résistance 4 074–4 083. Ne pas acheter vers 4 120 : attendre le retour. Une clôture 1 h sous 4 085 annule le plan.",
+   "note": "Plan gardé, dans le sens de l'élan : l'or se tient vers 4 126, la zone est à environ 15 $. L'or a cassé 4 104–4 115 (Mitrade) ; FXEmpire juge qu'une cassure confirmée de 4 100 vise 4 250. Objectif 1 sur la résistance du jour 4 171 (FXEmpire), objectif 2 sous 4 225. Stop sous 4 100 et au-dessus de l'ancienne résistance 4 074–4 083. Ne pas acheter vers 4 120 : attendre le retour. Une clôture 1 h sous 4 085 annule le plan.",
    "invalidBelow": 4085
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est très loin, l'or est à environ 270 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 4 000, 3 970–3 980 puis 3 885–3 904 (Mitrade) et le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est très loin, l'or est à environ 280 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 4 000, 3 970–3 980 puis 3 885–3 904 (Mitrade) et le plus bas d'un an 3 870. Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -81,6 +81,11 @@
    "p": 4225,
    "kind": "res",
    "label": "Résistance 4 187–4 227 (Mitrade), seuil haussier FinanceFeeds 4 225, stop de la vente au-dessus (4 235)"
+  },
+  {
+   "p": 4206,
+   "kind": "res",
+   "label": "Moyenne mobile 50 jours 4 205,91 (FXEmpire), sommets 4 199 / 4 217"
   },
   {
    "p": 4190,
@@ -142,12 +147,12 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit toujours 79 % (Trading Economics) à 82 % (CME FedWatch, Reuters) de chances de hausse en décembre, réunion des 8–9 décembre. Beth Hammack et Thomas Barkin (Fed) parlent aujourd'hui (Goldreporter)."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Le marché voit toujours 79 % (CME FedWatch, Trading Economics) à plus de 80 % (Tradingpedia) de chances de hausse en décembre, réunion des 8–9 décembre. Beth Hammack et Thomas Barkin (Fed) parlent aujourd'hui (Goldreporter)."
   },
   {
    "name": "Rendement américain à 10 ans",
    "impact": 0,
-   "text": "Le 10 ans reste bas vers 4,89 % (Trading Economics), plus bas de près de deux mois (Mitrade). La pression sur l'or se relâche."
+   "text": "Le 10 ans remonte légèrement à 4,91 % (Trading Economics), après un plus bas de près de deux mois (Mitrade). La pression sur l'or reste modérée."
   },
   {
    "name": "Banque d'Angleterre",
@@ -162,12 +167,12 @@
   {
    "name": "Emploi américain",
    "impact": -1,
-   "text": "ADP d'octobre à 86 000 postes, au-dessus des 67 000 attendus ; septembre révisé à 86 000 (Investing.com). Offres d'emploi JOLTS de septembre à 7,5 millions, au-dessus des attentes. Inscriptions au chômage à 194 000. Un marché du travail solide justifie une hausse des taux."
+   "text": "Inscriptions au chômage à 189 000 (196 000 attendus, 195 000 la semaine d'avant), inscriptions continues à 1,718 million (Trading Economics). ADP d'octobre à 86 000 postes, au-dessus des 67 000 attendus. Offres d'emploi JOLTS de septembre à 7,5 millions. Un marché du travail solide justifie une hausse des taux."
   },
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,58 (Trading Economics). La baisse du dollar soutient l'or."
+   "text": "L'indice dollar reste près de son plus bas de cinq semaines, stable vers 101,61 (Trading Economics). La faiblesse du dollar soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -182,7 +187,7 @@
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé cette nuit la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il reflue vers 4 120 en début d'après-midi. Pivots du jour FXEmpire : support 4 118, résistance 4 171. Au-dessus : 4 187–4 227 (Mitrade). FXEmpire garde un signal journalier « vente » (12 vendeurs sur 22) ; RSI 1 h en surachat à 73 plus tôt (Mitrade). Une cassure confirmée de 4 100 viserait 4 250 selon FXEmpire."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il se tient vers 4 125. FXEmpire : une clôture 4 h au-dessus de 4 146 ouvrirait 4 212, support vers 4 075 ; la moyenne mobile 50 jours est à 4 206, la 200 jours à 4 469. Tradingpedia : RSI 4 h en surachat à 75,8, moyenne 200 périodes 4 h vers 4 124 en support, résistance 4 186. Au-dessus : 4 187–4 227 (Mitrade)."
   },
   {
    "name": "Achats des banques centrales",
@@ -201,7 +206,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 4 120–4 150 en plein élan : attendre un retour vers 4 100–4 115 et une bougie de rejet.",
+  "Ne pas acheter vers 4 120–4 150 : attendre un retour vers 4 100–4 115 et une bougie de rejet.",
   "Ne pas vendre avant 4 180–4 200 et sans bougie de rejet nette : l'élan reste haussier.",
   "Ne pas acheter avant le test de 3 985–4 000 ou de 3 830–3 850 pour les plans bas.",
   "Pas de nouvelle position 15 minutes avant et après le NFP (demain 14h30 Paris), le CPI ou la Fed.",
@@ -234,7 +239,8 @@
    "at": "2026-11-05T13:30:00Z",
    "event": "Inscriptions hebdomadaires au chômage",
    "importance": 2,
-   "why": "Dernier chiffre de l'emploi avant le NFP. Hausse des inscriptions = bon pour l'or. Prévision vers 196 000 (NordFX), 194 000 la semaine dernière."
+   "why": "Dernier chiffre de l'emploi avant le NFP. Hausse des inscriptions = bon pour l'or. Consensus 196 000, 195 000 la semaine d'avant.",
+   "result": "189 000 (196 000 attendus) : emploi solide, l'or tient vers 4 126 $"
   },
   {
    "at": "2026-11-06T13:30:00Z",
@@ -274,6 +280,26 @@
   }
  ],
  "sources": [
+  {
+   "title": "Trading Economics : inscriptions au chômage à 189 000 (196 000 attendus, 195 000 avant), inscriptions continues 1,718 million (5 nov., 13h30 GMT)",
+   "url": "https://tradingeconomics.com/united-states/jobless-claims"
+  },
+  {
+   "title": "Trading Economics : or à 4 126,91 $ (+1,64 %), dollar 101,61, 10 ans 4,91 %, 79 % de hausse en décembre (5 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "FXEmpire : or à 4 120,10 $ à 13h12 GMT, moyenne 50 jours 4 205,91, 200 jours 4 468,56, sommets 4 199 / 4 217 (5 nov., 13h43 GMT)",
+   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-price-forecast-gold-rally-targets-50-day-moving-average-1642606"
+  },
+  {
+   "title": "FXEmpire : l'or peut-il franchir 4 146 $ avant le NFP ? Objectif 4 212, support 4 075 (5 nov., 6h30 GMT)",
+   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-can-gold-clear-4146-ahead-of-us-payrolls-1642640"
+  },
+  {
+   "title": "Tradingpedia : l'or tient au-dessus de 4 100 $, supports 4 124 / 4 065, résistances 4 186 / 4 283, RSI 4 h 75,8 (5 nov.)",
+   "url": "https://www.tradingpedia.com/2026/11/05/gold-holds-firm-above-4100-as-dollar-yields-soften/"
+  },
   {
    "title": "Kitco : or à 4 119,10–4 121,10 $ (+59,90, +1,48 %) à 8h03 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
    "url": "https://www.kitco.com/charts/gold"
