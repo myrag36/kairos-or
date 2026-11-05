@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T11:05:00Z",
- "price": 4129,
- "change": 1.69,
- "priceTime": "5 nov. · 12h05 Paris",
+ "updatedAt": "2026-11-05T12:10:00Z",
+ "price": 4135,
+ "change": 1.86,
+ "priceTime": "5 nov. · 13h10 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or reste stable vers 4 129 $ (Trading Economics, +1,69 % sur la journée), dans une fourchette 4 057–4 148 (Kitco). Il tient au-dessus de l'ancienne résistance 4 100–4 115 : nos quatre plans sont gardés, et l'achat sur retour vers 4 105 reste le plus proche. Le dollar reste faible (101,53) et le rendement à 10 ans reste bas vers 4,88 %, ce qui soutient l'or. Mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Décision de la Banque d'Angleterre dans l'heure (13h Paris), puis inscriptions au chômage à 14h30 et l'emploi officiel (NFP) demain à 14h30.",
+ "summary": "L'or monte encore un peu vers 4 135 $ (Kitco, +1,86 % sur la journée), toujours dans la fourchette 4 057–4 148. Il tient au-dessus de l'ancienne résistance 4 100–4 115 : nos quatre plans sont gardés, et aucune zone n'a été touchée. Le dollar reste faible (101,59) et le rendement à 10 ans reste bas vers 4,89 %, ce qui soutient l'or. Mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. La Banque d'Angleterre vient d'annoncer sa décision (résultat pas encore publié dans nos sources), puis inscriptions au chômage à 14h30 et l'emploi officiel (NFP) demain à 14h30 : plans en attente.",
  "setups": [
   {
    "side": "sell",
@@ -147,7 +147,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": 0,
-   "text": "Le 10 ans reste bas vers 4,88 % (Trading Economics), plus bas de près de deux mois (Mitrade). La pression sur l'or se relâche."
+   "text": "Le 10 ans reste bas vers 4,89 % (Trading Economics), plus bas de près de deux mois (Mitrade). La pression sur l'or se relâche."
   },
   {
    "name": "Croissance et inflation US",
@@ -162,7 +162,7 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,53 (-0,04 %, Trading Economics). La baisse du dollar soutient l'or."
+   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,59 (+0,03 %, Trading Economics). La baisse du dollar soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -172,7 +172,7 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 0,
-   "text": "Le pétrole baisse pour la quatrième séance sur l'espoir d'une détente entre Washington et Téhéran (Reuters) : Brent vers 94,2 $, WTI vers 87,2 $ (Trading Economics). Moins d'inflation importée, mais moins de prime de risque géopolitique : effet net neutre."
+   "text": "Le pétrole baisse pour la quatrième séance sur l'espoir d'une détente entre Washington et Téhéran (Reuters) : Brent vers 94,2 $, WTI vers 87,2 $ (Trading Economics). Trading Economics lie aussi la hausse de l'or vers 4 150 $ à cet espoir de fin du conflit. Moins d'inflation importée, mais moins de prime de risque géopolitique : effet net neutre."
   },
   {
    "name": "Technique",
@@ -222,7 +222,7 @@
    "at": "2026-11-05T12:00:00Z",
    "event": "Décision de la Banque d'Angleterre",
    "importance": 1,
-   "why": "Hausse attendue de 3,75 % à 4 % (1Trader). Effet indirect sur l'or via le dollar."
+   "why": "Hausse attendue de 3,75 % à 4 %, vote attendu 7–2 (1Trader). Effet indirect sur l'or via le dollar."
   },
   {
    "at": "2026-11-05T13:30:00Z",
@@ -269,12 +269,16 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or à 4 127,40 $ (+1,68 %) à 5h44 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
+   "title": "Kitco : or à 4 134,80 $ (+75,60, +1,86 %) à 6h37 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
    "url": "https://www.kitco.com/charts/gold"
   },
   {
-   "title": "Trading Economics : or à 4 129 $ (+1,69 %), dollar 101,53, rendement 4,88 %, 79 % de hausse en décembre (5 nov., midi)",
+   "title": "Trading Economics : « Gold Extends Gain on US-Iran Optimism », or vers 4 127–4 134 $, dollar 101,59, 10 ans 4,89 %, 79 % de hausse en décembre (5 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "1Trader : Banque d'Angleterre à 12h GMT, hausse attendue à 4 %, vote 7–2 attendu, résultat vers 12h40 GMT (5 nov.)",
+   "url": "https://1trader.com/en/boe-decision-2026-11-05/"
   },
   {
    "title": "1Trader : or vers 4 131 $, résistances 4 187 / 4 227, supports 4 104 / 4 068 / 3 975, Banque d'Angleterre à 12h GMT (5 nov.)",
@@ -359,10 +363,6 @@
   {
    "title": "Mitrade : JOLTS 7,52 millions, rendement 10 ans 4,951 %, marchés attentifs à ADP, ISM services et NFP (4 nov.)",
    "url": "https://www.mitrade.com/insights/commodity-analysis/gold/us-jobs-data-lifts-yields-gold"
-  },
-  {
-   "title": "Tradingpedia : l'or vers 4 050 $, SMA 100 en 4 h à 4 057, Fibonacci 4 033 / 4 072 / 4 127, RSI 48,9, ADP attendu à 69 000 (4 nov.)",
-   "url": "https://www.tradingpedia.com/2026/11/04/gold-advances-toward-4050-on-us-election-dollar-slide/"
   }
  ]
 }
