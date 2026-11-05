@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-05T08:10:00Z",
- "price": 4120,
- "change": 1.5,
- "priceTime": "5 nov. · 9h04 Paris",
+ "updatedAt": "2026-11-05T09:10:00Z",
+ "price": 4126,
+ "change": 1.65,
+ "priceTime": "5 nov. · 10h03 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or souffle un peu ce matin : 4 120 $ à 9h04 Paris (Kitco), +1,5 % sur la journée, après un pic à 4 148 $, son plus haut depuis le 22 octobre. Il reste au-dessus de l'ancienne résistance 4 100–4 115 : nos plans sont tous gardés, et l'achat sur retour vers 4 105 se rapproche. Le dollar reste faible (101,43) et le rendement à 10 ans recule à 4,85–4,86 %, ce qui soutient l'or. Mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Prochains rendez-vous : discours des membres de la Fed Hammack et Barkin, inscriptions au chômage à 14h30 Paris, puis l'emploi officiel (NFP) demain à 14h30.",
+ "summary": "L'or se stabilise ce matin : 4 126 $ à 10h03 Paris (Kitco), +1,65 % sur la journée, sous le pic de 4 148 $, son plus haut depuis le 22 octobre. Il tient au-dessus de l'ancienne résistance 4 100–4 115 : nos quatre plans sont gardés, et l'achat sur retour vers 4 105 reste le plus proche. Le dollar reste faible (101,39) et le rendement à 10 ans reste bas vers 4,85–4,87 %, ce qui soutient l'or. Mais le marché voit toujours 79 % de chances de hausse des taux en décembre (CME FedWatch) : le biais reste neutre. Prochains rendez-vous : Banque d'Angleterre à 13h Paris, inscriptions au chômage à 14h30, discours Hammack et Barkin (Fed), puis l'emploi officiel (NFP) demain à 14h30.",
  "setups": [
   {
    "side": "sell",
@@ -147,7 +147,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": 0,
-   "text": "Le 10 ans recule encore : 4,85 % ce matin (Goldreporter), 4,86 % selon Trading Economics, plus bas de près de deux mois (Mitrade). La pression sur l'or se relâche."
+   "text": "Le 10 ans reste bas : 4,85 % ce matin (Goldreporter), 4,87 % selon Trading Economics, plus bas de près de deux mois (Mitrade). La pression sur l'or se relâche."
   },
   {
    "name": "Croissance et inflation US",
@@ -162,7 +162,7 @@
   {
    "name": "Dollar",
    "impact": 1,
-   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,43 (-0,13 %, Trading Economics). La baisse du dollar soutient l'or."
+   "text": "L'indice dollar reste près de son plus bas de cinq semaines : 101,39 (-0,17 %, Trading Economics), vers 101,30 selon 1Trader. La baisse du dollar soutient l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -177,7 +177,7 @@
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé cette nuit la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il revient vers 4 120 ce matin. Pivots du jour FXEmpire : support 4 118, résistance 4 171. Au-dessus : 4 187–4 227 (Mitrade). FXEmpire garde un signal journalier « vente » (12 vendeurs sur 22) ; RSI 1 h en surachat à 73 plus tôt (Mitrade). Une cassure confirmée de 4 100 viserait 4 250 selon FXEmpire."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870. L'or a repris 4 000 mercredi puis cassé cette nuit la résistance 4 104–4 115, avec un pic à 4 148 (Kitco) ; il se stabilise vers 4 125 ce matin. Pivots du jour FXEmpire : support 4 118, résistance 4 171. Au-dessus : 4 187–4 227 (Mitrade). FXEmpire garde un signal journalier « vente » (12 vendeurs sur 22) ; RSI 1 h en surachat à 73 plus tôt (Mitrade). Une cassure confirmée de 4 100 viserait 4 250 selon FXEmpire."
   },
   {
    "name": "Achats des banques centrales",
@@ -217,6 +217,12 @@
    "importance": 2,
    "why": "Surveillé par les marchés (Mitrade). Services solides et prix élevés = hausse de taux plus probable = pression sur l'or.",
    "result": "54,5 (54,8 attendu), prix payés 73 : un peu plus faible que prévu, l'or tient vers 4 039 $"
+  },
+  {
+   "at": "2026-11-05T12:00:00Z",
+   "event": "Décision de la Banque d'Angleterre",
+   "importance": 1,
+   "why": "Hausse attendue de 3,75 % à 4 % (1Trader). Effet indirect sur l'or via le dollar."
   },
   {
    "at": "2026-11-05T13:30:00Z",
@@ -263,15 +269,19 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or à 4 119,90 $ (+1,50 %) à 3h04 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
+   "title": "Kitco : or à 4 126,10 $ (+1,65 %) à 4h03 heure de New York, fourchette du jour 4 057,50–4 148 (5 nov.)",
    "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "1Trader : or vers 4 131 $, résistances 4 187 / 4 227, supports 4 104 / 4 068 / 3 975, Banque d'Angleterre à 12h GMT (5 nov.)",
+   "url": "https://1trader.com/en/gold-price-2026-11-05/"
   },
   {
    "title": "Goldreporter : l'or à 4 127 $ (+1,6 %) à 8h15, 10 ans 4,85 %, discours Hammack et Barkin, inscriptions au chômage cet après-midi (5 nov.)",
    "url": "https://www.goldreporter.de/goldpreis-05-11-2026/marktbericht-gold/262816/"
   },
   {
-   "title": "Trading Economics : or à 4 121 $ (+1,49 %), dollar 101,43, 10 ans 4,86 %, 79 % de hausse en décembre (5 nov.)",
+   "title": "Trading Economics : or vers 4 126–4 130 $ (+1,6–1,7 %), dollar 101,39, 10 ans 4,87 %, 79 % de hausse en décembre (5 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
