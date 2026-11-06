@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T11:06:00Z",
- "price": 4065,
- "change": -0.5,
- "priceTime": "6 nov. · 12h06 Paris",
+ "updatedAt": "2026-11-06T12:05:00Z",
+ "price": 4064,
+ "change": -0.6,
+ "priceTime": "6 nov. · 13h05 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or reste vers 4 065 $ (FXEmpire 4 064,6 à 11h05 UTC, Trading Economics -0,58 % sur la journée), toujours dans la fourchette de nuit 4 035,5–4 107,9 (Kitco). Le dollar tient son rebond vers 102,0 (+0,45 %) et le marché voit encore une forte probabilité de hausse des taux de la Fed en décembre, ce qui pèse sur l'or, alors que la chute des actions le soutient : le biais reste neutre. FXEmpire relève son signal journalier de vendeur à neutre, avec un pivot support à 4 049 et une résistance à 4 098. Aucun plan n'est annulé : aucune zone d'entrée n'a été touchée depuis la dernière mise à jour. L'emploi officiel (NFP) tombe à 14h30 Paris : tous les plans restent en attente, taille réduite.",
+ "summary": "L'or reste vers 4 064 $ (FXEmpire 4 063,8 à 12h04 UTC, Trading Economics -0,6 % sur la journée), toujours dans la fourchette de nuit 4 035,5–4 107,9 (Kitco). Le dollar tient vers 102,0 (+0,43 %) et le marché voit encore 70 à 80 % de chances de hausse des taux de la Fed en décembre, ce qui pèse sur l'or, alors que la chute des actions le soutient : le biais reste neutre. FXEmpire garde un signal journalier neutre, avec un pivot support à 4 049 et une résistance à 4 098. Aucun plan n'est annulé : le prix n'a presque pas bougé depuis la dernière mise à jour. L'emploi officiel (NFP) tombe dans moins d'une demi-heure, à 14h30 Paris : tous les plans restent en attente, ne rien ouvrir avant la publication.",
  "setups": [
   {
    "side": "sell",
@@ -182,7 +182,7 @@
   {
    "name": "Dollar",
    "impact": 0,
-   "text": "L'indice dollar tient son rebond vers 102,0 (+0,45 %, Trading Economics), après un plus bas depuis fin septembre vers 101,60 (Mitrade). Le soutien du dollar faible s'atténue."
+   "text": "L'indice dollar tient son rebond vers 101,99 (+0,43 %, Trading Economics), après un plus bas depuis fin septembre vers 101,60 (Mitrade). Le soutien du dollar faible s'atténue."
   },
   {
    "name": "Élections de mi-mandat",
@@ -296,7 +296,7 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : or à 4 064 $ (-0,58 %), dollar 102,01 (+0,45 %), clôture précédente 4 087,7 (6 nov.)",
+   "title": "Trading Economics : or vers 4 062 $ (-0,6 %), dollar 101,99 (+0,43 %), clôture précédente 4 087,7 (6 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
@@ -316,7 +316,7 @@
    "url": "https://rmclub.org/research/gold-macro-report/"
   },
   {
-   "title": "FXEmpire : or à 4 064,60 $ à 11h05 UTC, pivots 4 049,21 / 4 098,07, signal journalier relevé de vendeur à neutre (6 nov.)",
+   "title": "FXEmpire : or à 4 063,80 $ à 12h04 UTC, pivots 4 049,21 / 4 098,07, signal journalier neutre (6 nov.)",
    "url": "https://www.fxempire.com/forecasts/gold"
   },
   {
