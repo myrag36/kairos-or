@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T07:05:00Z",
- "price": 4046,
- "change": -1.0,
- "priceTime": "6 nov. · 8h05 Paris",
+ "updatedAt": "2026-11-06T08:05:00Z",
+ "price": 4052,
+ "change": -0.8,
+ "priceTime": "6 nov. · 9h05 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre",
- "summary": "L'or recule vers 4 046 $ (FXEmpire, 7h05 UTC), en baisse d'environ 1 % (Kitco, Trading Economics), après un plus bas de nuit à 4 035,5 (Kitco). La remontée du pétrole (Brent vers 99,6 $) ravive la crainte d'inflation (Reuters), et Goldman Sachs abaisse sa cible de fin 2026 à 4 150 $. En face, les chances de hausse des taux en décembre tombent à 66–68 % (CME FedWatch via Reuters et Mitrade), contre environ 80 % hier : le biais reste neutre. Le plan d'achat 4 100–4 115 est annulé (l'or est passé nettement sous 4 085) et remplacé par une vente sous l'ancien support 4 100. L'emploi officiel (NFP) tombe à 14h30 Paris : tous les plans restent en attente, taille réduite.",
+ "summary": "L'or reste vers 4 052 $ (FXEmpire, 8h02 UTC), en baisse d'environ 0,8 % (Trading Economics), au-dessus du plus bas de nuit 4 035,5 (Kitco). Le pétrole reste haut (Brent vers 98,9 $) après une attaque contre un navire près du détroit d'Ormuz (Mitrade), ce qui entretient la crainte d'inflation. En face, la chute des actions (Nasdaq -5,5 % jeudi selon TraderFactor, Nikkei -5,7 % selon Trading Economics) et un rendement à 10 ans au plus bas de deux mois (4,82 %, Mitrade) limitent la baisse : le biais reste neutre. Aucun plan n'est annulé : l'or n'a touché aucune zone d'entrée depuis la dernière mise à jour. L'emploi officiel (NFP) tombe à 14h30 Paris : tous les plans restent en attente, taille réduite.",
  "setups": [
   {
    "side": "sell",
@@ -38,7 +38,7 @@
     4035,
     4000
    ],
-   "note": "Nouveau plan, remplace l'achat 4 100–4 115 annulé : l'or est passé sous 4 085 et a touché 4 035,5 cette nuit (Kitco). TradingKey place la première résistance à 4 100 et juge l'élan haussier essoufflé. Stop au-dessus du plus haut de la nuit 4 107,9 (Kitco) et de 4 118. Objectif 1 sur le plus bas de la nuit et le support 4 030 (TradingKey), objectif 2 sur le seuil clé 4 000. Une clôture 1 h au-dessus de 4 118 annule le plan. Un NFP faible (sous 30 000 emplois selon Mitrade) ferait remonter l'or : ne rien ouvrir avant la publication.",
+   "note": "Plan gardé : l'or est vers 4 052, sous la zone, après un plus bas de nuit à 4 035,5 (Kitco). TradingKey place la première résistance à 4 100, FXEmpire un pivot à 4 098 et juge l'élan haussier essoufflé. Stop au-dessus du plus haut de la nuit 4 107,9 (Kitco) et de 4 118. Objectif 1 sur le plus bas de la nuit et le support 4 030 (TradingKey), objectif 2 sur le seuil clé 4 000. Une clôture 1 h au-dessus de 4 118 annule le plan. Un NFP faible (sous 30 000 emplois selon Mitrade) ferait remonter l'or : ne rien ouvrir avant la publication.",
    "invalidAbove": 4118
   },
   {
@@ -55,7 +55,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé : l'or est vers 4 046, à environ 50 $ au-dessus de la zone. Le seuil de 4 000 est le plancher clé (Mitrade, TradingKey) ; Mitrade voit un test de 4 000 puis 3 975 si le NFP dépasse 100 000 emplois. Objectif 1 sous 4 046, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade, TradingKey 3 975). Une clôture 1 h sous 3 958 annule le plan.",
+   "note": "Plan gardé : l'or est vers 4 052, à environ 50 $ au-dessus de la zone. Le seuil de 4 000 est le plancher clé (Mitrade, TradingKey) ; Mitrade voit un test de 4 000 puis 3 975 si le NFP dépasse 100 000 emplois. Objectif 1 sous 4 046, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade, TradingKey 3 975). Une clôture 1 h sous 3 958 annule le plan.",
    "invalidBelow": 3958
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 200 $ au-dessus. Mitrade place un support 3 829–3 849. Avant elle : 4 000, 3 975, 3 900 (Mitrade) et le plus bas d'un an 3 869,85 (30 oct.). Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 200 $ au-dessus (vers 4 052). Mitrade place un support 3 829–3 849. Avant elle : 4 000, 3 975, 3 900 (Mitrade) et le plus bas d'un an 3 869,85 (30 oct.). Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -110,22 +110,22 @@
   {
    "p": 4098,
    "kind": "res",
-   "label": "Zone de vente 4 090–4 105 : ancien support 4 100 devenu résistance (TradingKey)"
+   "label": "Zone de vente 4 090–4 105 : ancien support 4 100 devenu résistance (TradingKey), pivot 4 098 (FXEmpire)"
   },
   {
    "p": 4078,
    "kind": "res",
-   "label": "Ancienne résistance 4 074–4 083 (Mitrade)"
+   "label": "Ancienne résistance 4 074–4 083, support Mitrade 4 065–4 075"
   },
   {
    "p": 4049,
    "kind": "res",
-   "label": "Pivot résistance 4 049 (FXEmpire)"
+   "label": "Pivot 4 049 (FXEmpire), seuil de liquidité 4 050 (TraderFactor)"
   },
   {
    "p": 4033,
    "kind": "sup",
-   "label": "Plus bas de la nuit 4 035,5 (Kitco), support 4 030 (TradingKey), objectif 1 de la vente"
+   "label": "Plus bas de la nuit 4 035,5 (Kitco), support 4 025–4 036 (Mitrade) et 4 030 (TradingKey), objectif 1 de la vente"
   },
   {
    "p": 4012,
@@ -157,12 +157,12 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -1,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Les chances de hausse en décembre tombent à 66–68 % (CME FedWatch via Mitrade, Reuters et TradingKey), contre environ 80 % hier. Beth Hammack (Fed) reste favorable à une hausse graduelle (FXStreet). Réunion des 8–9 décembre."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Les chances de hausse en décembre sont estimées à 66–69 % (CME FedWatch via Mitrade et Reuters) ; Trading Economics cite encore environ 80 %. Beth Hammack (Fed) reste favorable à une hausse graduelle (FXStreet). Réunion des 8–9 décembre."
   },
   {
    "name": "Rendement américain à 10 ans",
    "impact": 0,
-   "text": "Le rendement américain reste vers 4,84 % (Trading Economics, Mitrade), plus bas de deux mois, loin du pic d'octobre à 5,36 % (Mitrade). Pression modérée sur l'or."
+   "text": "Le rendement américain reste vers 4,82–4,83 % (Mitrade, Trading Economics), plus bas de deux mois, loin du pic d'octobre à 5,36 % (Mitrade). Pression modérée sur l'or."
   },
   {
    "name": "Banque d'Angleterre",
@@ -192,12 +192,12 @@
   {
    "name": "Pétrole et Golfe",
    "impact": -1,
-   "text": "Le pétrole continue de remonter : Brent vers 99,6 $ (+1,3 %), WTI vers 91,5 $ (+1,1 %) (Trading Economics). Selon Reuters, cette hausse relance la crainte d'inflation et pèse sur l'or (Ilya Spivak, Tastylive)."
+   "text": "Le pétrole reste haut : Brent vers 98,9 $, WTI vers 91 $ (Trading Economics), après une attaque contre un navire commercial près du détroit d'Ormuz (Mitrade). Selon Reuters, cette hausse relance la crainte d'inflation et pèse sur l'or."
   },
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870, puis rebond d'environ 250 $ sur la semaine jusqu'à 4 146,6 hier (Mitrade). L'or a clôturé jeudi sous 4 100 (TradingKey) et recule vers 4 046, plus bas de nuit 4 035,5 (Kitco). Résistances : 4 100, 4 150, 4 200 (TradingKey). Supports : 4 030, 4 000, 3 975 (TradingKey) ; une clôture sous 3 975 ouvre 3 900 (Mitrade). Signal journalier FXEmpire : neutre. Moyenne 50 jours 4 206, 200 jours 4 469 (FXEmpire)."
+   "text": "Plus bas d'un an le 30 octobre vers 3 870, puis rebond d'environ 250 $ sur la semaine jusqu'à 4 146,6 hier (Mitrade). L'or a clôturé jeudi sous 4 100 (TradingKey) et se stabilise vers 4 052, plus bas de nuit 4 035,5 (Kitco). RSI 1 h à 53 (Mitrade), neutre. Résistances : 4 100, 4 150, 4 200 (TradingKey). Supports : 4 030, 4 000, 3 975 (TradingKey) ; une clôture sous 3 975 ouvre 3 900 (Mitrade). Signal journalier FXEmpire : neutre. Moyenne 50 jours 4 206, 200 jours 4 469 (FXEmpire)."
   },
   {
    "name": "Achats des banques centrales",
@@ -210,6 +210,11 @@
    "text": "Record de 4 256 tonnes détenues fin septembre (World Gold Council), plus de 50 t entrées en septembre selon ANZ : les investisseurs de long terme n'ont pas vendu. Le World Gold Council a toutefois abaissé sa prévision de demande d'investissement pour 2026 à 200 t (contre 400 t), à cause de ventes de lingots et pièces plus faibles."
   },
   {
+   "name": "Chute des actions",
+   "impact": 0,
+   "text": "Jeudi, le Nasdaq a perdu environ 5,5 % et le S&P 500 4,4 % (TraderFactor), les semi-conducteurs 12 % (Mitrade). Ce vendredi, le Nikkei recule de 5,7 % (Trading Economics). La peur soutient l'or comme valeur refuge, mais peut aussi forcer des ventes pour couvrir des pertes (appels de marge)."
+  },
+  {
    "name": "Sentiment",
    "impact": 0,
    "text": "Goldman Sachs abaisse sa cible de fin 2026 à 4 150 $ (contre 4 650) ; KCM Trade évoque des ventes forcées pour appels de marge (Reuters). Citi vise toujours 4 500 $ à 3 mois (Mitrade). Argent à 51,5 $ (-0,5 %). L'or reste en route pour sa meilleure semaine depuis fin août (Reuters)."
@@ -217,7 +222,7 @@
  ],
  "noTrade": [
   "Ne rien ouvrir avant le NFP (14h30 Paris) : pas de position 15 minutes avant et après.",
-  "Ne pas vendre dans 4 090–4 105 sans bougie 1 h de rejet nette, ni courir après le prix sous 4 050.",
+  "Ne pas vendre dans 4 090–4 105 sans bougie 1 h de rejet nette, ni courir après le prix vers 4 050.",
   "Ne pas vendre avant 4 180–4 200 pour le plan haut.",
   "Ne pas acheter avant le test de 3 985–4 000 ou de 3 830–3 850, et jamais sans bougie de rejet.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée.",
@@ -291,20 +296,28 @@
  ],
  "sources": [
   {
-   "title": "FXEmpire : or à 4 046,04 $ (-0,48 %) à 7h05 UTC, pivots 4 012,48 / 4 049,21, signal journalier neutre (6 nov.)",
+   "title": "FXEmpire : or à 4 052,20 $ (-0,33 %) à 8h02 UTC, pivots 4 049,21 / 4 098,07, signal journalier neutre (6 nov.)",
    "url": "https://www.fxempire.com/forecasts/gold"
   },
   {
-   "title": "Kitco : or à 4 047,90–4 049,90 $ (-39,30, -0,96 %) à 2h02 heure de New York, fourchette 4 035,50–4 107,90 (6 nov.)",
+   "title": "Kitco : or à 4 045,30–4 047,30 $ (-41,90, -1,03 %) à 2h28 heure de New York, fourchette 4 035,50–4 107,90 (6 nov.)",
    "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "Trading Economics : or vers 4 054,5 $ (-0,81 %), dollar 101,9, 10 ans 4,833 %, Brent 98,9 $, Nikkei -5,7 % (6 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "Mitrade : Wall Street chute, rendements en baisse, supports 4 065–4 075 / 4 025–4 036, RSI 1 h 53, 66–69 % de hausse en décembre, attaque près d'Ormuz (6 nov.)",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/wall-street-plunges-yields-tumble-gold"
+  },
+  {
+   "title": "TraderFactor : NFP en vue, Nasdaq -5,5 % jeudi, supports or 4 050 / 4 000, résistances 4 130 / 4 180 (6 nov., 4h10 UTC)",
+   "url": "https://traderfactor.com/forex-market-today-nfp-in-focus-as-dollar-weakens/"
   },
   {
    "title": "Business Recorder (Reuters) : l'or perd plus de 1 % à 4 044,09 $ (5h01 GMT) avec le pétrole, 68 % de hausse en décembre, Goldman cible 4 150 $ (6 nov.)",
    "url": "https://www.brecorder.com/news/40447728/gold-drops-over-1-on-higher-oil-prices-us-payrolls-data-in-focus"
-  },
-  {
-   "title": "Trading Economics : or vers 4 046–4 049 $ (-1 %), dollar 101,89, 10 ans 4,836 %, Brent 99,6 $, WTI 91,5 $ (6 nov.)",
-   "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
    "title": "Mitrade : semaine à +250 $ avant le NFP, 66 % de hausse en décembre, consensus 65 000 / 4,2 %, plancher 4 000 puis 3 975 (6 nov.)",
@@ -317,18 +330,6 @@
   {
    "title": "FXStreet : Hammack (Fed), une hausse graduelle des taux est la meilleure voie (5 nov.)",
    "url": "https://fxstreet.com/news/feds-hammack-gradual-rate-hike-path-best-way-forward-for-policy-202611051359"
-  },
-  {
-   "title": "FXEmpire : or à 4 120,10 $ à 13h12 GMT, moyenne 50 jours 4 205,91, 200 jours 4 468,56, sommets 4 199 / 4 217 (5 nov., 13h43 GMT)",
-   "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-price-forecast-gold-rally-targets-50-day-moving-average-1642606"
-  },
-  {
-   "title": "1Trader : or vers 4 131 $, résistances 4 187 / 4 227, supports 4 104 / 4 068 / 3 975, Banque d'Angleterre à 12h GMT (5 nov.)",
-   "url": "https://1trader.com/en/gold-price-2026-11-05/"
-  },
-  {
-   "title": "FinanceFeeds : or à 4 135 $, zone 4 104–4 115 franchie, seuils 4 225 / 4 000, NFP attendu à 65 000 (5 nov., 7h GMT)",
-   "url": "https://financefeeds.com/gold-price-today-4135-thursday-before-6-november-jobs-report-dollar-near-one-month-low-bull-4225-bear-4000/"
   }
  ]
 }
