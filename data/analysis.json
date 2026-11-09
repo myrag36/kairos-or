@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T19:08:00Z",
- "price": 4103,
- "change": 0.8,
- "priceTime": "9 nov. · 20h00 Paris",
+ "updatedAt": "2026-11-09T20:08:00Z",
+ "price": 4138,
+ "change": 1.7,
+ "priceTime": "9 nov. · 21h00 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre (attente du CPI)",
- "summary": "L'or reste stable vers 4 103 $ (+0,8 %, Kitco à 19h25 Paris ; Trading Economics 4 103), dans la fourchette du jour de 4 053 à 4 135 $. Le pétrole chute toujours (WTI vers 87,6 $, Brent vers 93,4 $, -5 %) et l'indice dollar recule vers 101,8 (-0,46 %), ce qui soutient le métal ; la banque centrale chinoise a acheté 25,8 tonnes en octobre. En face, une hausse des taux de la Fed en décembre reste très probable, autour de 81 % (CME FedWatch), et le rendement à 10 ans est vers 4,88 %. Le biais reste neutre et les quatre plans sont gardés : l'achat vers 4 070–4 082 reste le scénario principal, à environ 20 $ sous le prix. Le chiffre d'inflation CPI tombe demain mardi à 14h30 Paris et décidera de la suite : doux, retour vers 4 148–4 150 ; chaud, risque vers 4 000 puis 3 950 (Kitco, FinanceFeeds).",
+ "summary": "L'or accélère en fin de séance vers 4 138 $ (+1,7 %, Kitco à 21h03 Paris ; Trading Economics 4 138) et touche un nouveau plus haut du jour à 4 140, au-dessus du plus haut de la semaine passée 4 138,8. Le pétrole chute toujours (WTI vers 87,7 $, Brent vers 93,9 $) et l'indice dollar recule vers 101,8 (-0,45 %), ce qui soutient le métal. En face, une hausse des taux de la Fed en décembre reste très probable, autour de 81 % (CME FedWatch), et le rendement à 10 ans est vers 4,88 %. Le biais reste neutre et les quatre plans sont gardés : l'or arrive sous la résistance 4 148–4 150, il ne faut pas acheter si haut, et la vente reste prévue plus haut vers 4 180–4 200. Le chiffre d'inflation CPI tombe demain mardi à 14h30 Paris et décidera de la suite : doux, cassure de 4 150 ; chaud, risque vers 4 000 (FinanceFeeds).",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 4 103 (Kitco, 19h25), sous la zone ; le plus haut du jour 4 135 (Kitco) reste en dessous. La résistance 4 148–4 150 (Kitco, FXEmpire), puis 4 200 (Kitco) puis 4 187–4 227 (Mitrade) et la moyenne mobile 50 jours vers 4 206 renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan. Prudence avant le CPI de mardi.",
+   "note": "Plan gardé : l'or est vers 4 138 (Kitco, 21h03), environ 40 $ sous la zone ; le plus haut du jour 4 140 reste en dessous. La résistance 4 148–4 150 (Kitco, FXEmpire), puis 4 200 (Kitco) puis 4 187–4 227 (Mitrade) et la moyenne mobile 50 jours vers 4 206 renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan. Prudence avant le CPI de mardi.",
    "invalidAbove": 4228
   },
   {
@@ -38,7 +38,7 @@
     4135,
     4150
    ],
-   "note": "Plan gardé : l'or tient vers 4 103 (Kitco, 19h25), à environ 20 $ au-dessus de la zone ; le plus bas du jour 4 053 n'a pas cassé 4 045. Mitrade propose d'acheter les replis tant que 4 025–4 036 tient. Objectif 1 sur le plus haut de jeudi 4 134,8, objectif 2 sur la résistance 4 150 (FXEmpire, FinanceFeeds). Stop sous le support 4 050–4 051 (FXEmpire, Kitco) et le pivot 4 049. Une clôture 1 h sous 4 045 annule le plan. Pas d'entrée juste avant le CPI de mardi 14h30 Paris.",
+   "note": "Plan gardé : l'or monte vers 4 138 (Kitco, 21h03), à environ 55 $ au-dessus de la zone ; pas d'entrée tant qu'il n'y a pas de repli. RoboForex place aussi une résistance à 4 085, devenue support si elle tient. Mitrade propose d'acheter les replis tant que 4 025–4 036 tient. Objectif 1 sur le plus haut de jeudi 4 134,8, objectif 2 sur la résistance 4 150 (FXEmpire, FinanceFeeds). Stop sous le support 4 050–4 051 (FXEmpire, Kitco) et le pivot 4 049. Une clôture 1 h sous 4 045 annule le plan. Pas d'entrée juste avant le CPI de mardi 14h30 Paris.",
    "invalidBelow": 4045
   },
   {
@@ -55,7 +55,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé : l'or est vers 4 103, à environ 105 $ au-dessus. FXEmpire voit 4 000 puis 3 950 si 4 050 casse ; FinanceFeeds place le scénario baissier à 4 000 en cas de CPI chaud. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Taille réduite.",
+   "note": "Plan gardé : l'or est vers 4 138, à environ 140 $ au-dessus. FXEmpire voit 4 000 puis 3 950 si 4 050 casse ; FinanceFeeds place le scénario baissier à 4 000 en cas de CPI chaud. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Taille réduite.",
    "invalidBelow": 3958
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 255 $ au-dessus (vers 4 103). Mitrade place une base vers 3 885–3 904 et le plus bas d'un an est 3 869,85 (30 oct.). Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 290 $ au-dessus (vers 4 138). Mitrade place une base vers 3 885–3 904, RoboForex un support clé à 3 895, et le plus bas d'un an est 3 869,85 (30 oct.). Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -100,7 +100,7 @@
   {
    "p": 4135,
    "kind": "res",
-   "label": "Plus haut de jeudi 4 134,8 (FinanceFeeds), plus haut de la semaine 4 138,8 (Forexuro), objectif 1 de l'achat"
+   "label": "Plus haut du jour 4 140,4 (Kitco), plus haut de jeudi 4 134,8 (FinanceFeeds), plus haut de la semaine 4 138,8 (Forexuro), objectif 1 de l'achat"
   },
   {
    "p": 4109,
@@ -145,7 +145,7 @@
   {
    "p": 3895,
    "kind": "sup",
-   "label": "Base 3 885–3 904 (Mitrade), plus bas d'un an 3 869,85 (30 oct.)"
+   "label": "Base 3 885–3 904 (Mitrade), support clé 3 895 (RoboForex), plus bas d'un an 3 869,85 (30 oct.)"
   },
   {
    "p": 3840,
@@ -182,7 +182,7 @@
   {
    "name": "Dollar",
    "impact": 0,
-   "text": "L'indice dollar a pris 0,71 % vendredi, à un plus haut d'une semaine après le NFP (FXEmpire). Ce lundi, il recule de 0,46 % vers 101,8 (Trading Economics), l'euro vers 1,1186 (investingLive). Ce repli aide le rebond de l'or."
+   "text": "L'indice dollar a pris 0,71 % vendredi après le NFP (FXEmpire). Ce lundi, il recule de 0,45 % vers 101,8 (Trading Economics). Ce repli aide le rebond de l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -192,12 +192,12 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 0,
-   "text": "Le pétrole baisse : Donald Trump juge de nouvelles attaques contre l'Iran « très peu probables » tant que les discussions avancent (FinanceFeeds). Le WTI recule vers 87,6 $ (-3,5 %) et le Brent vers 93,4 $ (-5 %) (Trading Economics). Moins de crainte d'inflation, mais aussi moins de prime de guerre."
+   "text": "Le pétrole baisse : Donald Trump juge de nouvelles attaques contre l'Iran « très peu probables » tant que les discussions avancent (FinanceFeeds). Le WTI recule vers 87,7 $ (-3,4 %) et le Brent vers 93,9 $ (-4,5 %) (Trading Economics). Moins de crainte d'inflation, mais aussi moins de prime de guerre."
   },
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Rebond depuis le plus bas d'un an vers 3 870 (30 oct.). Après un recul vers 4 030 vendredi, l'or a touché 4 123–4 130 dans la nuit et revient vers 4 103 (Kitco, 19h25 Paris ; plus bas du jour 4 053, plus haut 4 135). Plus haut de la semaine passée 4 138,8 (Forexuro). RSI journalier à 50,3, neutre (JournalArta) ; or sous sa moyenne 100 jours, moyenne 200 jours vers 4 460 (FXEmpire). Résistances : 4 135, 4 148–4 150, 4 200, puis 4 187–4 227. Supports : 4 088, 4 070–4 082, 4 050, 4 025–4 036, 4 000. Signal FXEmpire neutre."
+   "text": "Rebond depuis le plus bas d'un an vers 3 870 (30 oct.). Après un recul vers 4 030 vendredi, l'or monte vers 4 138 ce soir (Kitco, 21h03 Paris ; plus bas du jour 4 053, plus haut 4 140,4), juste au-dessus du plus haut de la semaine passée 4 138,8 (Forexuro). RSI journalier à 50,3 en matinée, neutre (JournalArta) ; or sous sa moyenne 100 jours, moyenne 200 jours vers 4 460 (FXEmpire). RoboForex reste baissier en journalier tant que 4 085 n'est pas dépassé durablement, avec 4 150 puis 4 227 au-dessus. Résistances : 4 148–4 150, 4 200, puis 4 187–4 227. Supports : 4 088, 4 070–4 082, 4 050, 4 025–4 036, 4 000."
   },
   {
    "name": "Achats des banques centrales",
@@ -221,7 +221,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 4 100 en plein milieu : attendre un repli vers 4 070–4 082 et une bougie de rejet.",
+  "Ne pas acheter vers 4 140 sous la résistance 4 150 : attendre un repli vers 4 070–4 082 et une bougie de rejet.",
   "Ne pas vendre avant 4 180–4 200 et sans bougie 1 h de rejet nette.",
   "Ne pas ouvrir de position juste avant le CPI de mardi 14h30 Paris : attendre la réaction.",
   "Ne pas acheter vers 3 985–4 000 ou 3 830–3 850 sans bougie de rejet.",
@@ -303,11 +303,11 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or spot à 4 102,60 $ (+32,50 $, +0,80 %) à 13h26 New York, fourchette du jour 4 053,40–4 135,10 (9 nov.)",
+   "title": "Kitco : or spot à 4 138,50 $ (+68,40 $, +1,68 %) à 15h03 New York, fourchette du jour 4 053,40–4 140,40 (9 nov.)",
    "url": "https://www.kitco.com/charts/gold"
   },
   {
-   "title": "Trading Economics : or vers 4 103 $ (+0,80 %), plus haut depuis le 21 octobre à 4 120 $, dollar 101,8 (-0,46 %), WTI 87,6 $, Brent 93,4 $, 81 % de hausse Fed, Chine +25,8 t en octobre (9 nov.)",
+   "title": "Trading Economics : or vers 4 138 $ (+1,66 %), dollar 101,83 (-0,45 %), WTI 87,7 $, Brent 93,9 $, 81 % de hausse Fed, rendement 4,88 % (9 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
@@ -365,6 +365,10 @@
   {
    "title": "JournalArta : l'or rebondit sur un dollar plus faible, RSI journalier 50,3, 79,6 % de hausse selon CME FedWatch (9 nov.)",
    "url": "https://journalarta.com/en/2026/11/09/gold-price-jumps-soft-dollar-above-4020-monday/"
+  },
+  {
+   "title": "RoboForex : prévision XAU/USD de la semaine, biais baissier en journalier, résistance 4 085, support 3 895, objectifs 4 150 / 4 227 au-dessus (9 nov.)",
+   "url": "https://roboforex.com/beginners/analytics/forex-forecast/gold/xau-usd-gold-weekly-forecast-2026-11-09/"
   }
  ]
 }
