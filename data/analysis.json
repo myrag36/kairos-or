@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T08:10:00Z",
- "price": 4100,
- "change": 0.9,
- "priceTime": "9 nov. · 8h30 Paris",
+ "updatedAt": "2026-11-09T09:10:00Z",
+ "price": 4095,
+ "change": 0.6,
+ "priceTime": "9 nov. · 8h43 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre (attente du CPI)",
- "summary": "L'or tient vers 4 100 $ ce lundi matin (+0,9 %, Goldreporter à 8h30), après un pic vers 4 123–4 130 dans la nuit (Reuters, Discovery Alert). Le dollar recule un peu, le rendement à 10 ans baisse à 4,85 % et le pétrole recule après les propos de Donald Trump sur l'Iran (Goldreporter). En face, une hausse des taux de la Fed en décembre reste très probable : environ 80 % (79,6 % CME FedWatch, 81 % Reuters). L'or est en haut de sa zone 4 000–4 100 : le biais reste neutre, les quatre plans sont gardés et l'achat vers 4 070–4 082 reste le scénario principal. Aujourd'hui, des membres de la Fed parlent (Barkin, Bowman, Goolsbee) ; le chiffre d'inflation CPI tombe demain mardi à 14h30 Paris et décidera de la suite (4 150 si doux, 4 000 si chaud selon FinanceFeeds).",
+ "summary": "L'or recule un peu vers 4 095 $ (+0,6 %, FXEmpire à 8h43 Paris), après un pic vers 4 123 $ (+1,4 %) dans la nuit (Reuters). La baisse du pétrole (Brent vers 97 $, NordFX) calme les craintes d'inflation et le dollar faiblit un peu. En face, une hausse des taux de la Fed en décembre reste très probable : 78 à 81 % selon les sources (NordFX, CME FedWatch via Reuters). L'or reste dans sa zone 4 000–4 150 : le biais reste neutre, les quatre plans sont gardés et l'achat vers 4 070–4 082 reste le scénario principal, à environ 15 $ du prix. Le chiffre d'inflation CPI tombe demain mardi à 14h30 Paris et décidera de la suite (4 150 si doux, 4 000 si chaud selon FinanceFeeds).",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 4 100 (Goldreporter, 8h30), sous la zone ; le haut récent vers 4 140 (OCBC) reste en dessous. La résistance 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) et la moyenne mobile 50 jours vers 4 206 renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan. Prudence avant le CPI de mardi.",
+   "note": "Plan gardé : l'or est vers 4 095 (FXEmpire, 8h43), sous la zone ; le haut récent vers 4 140 (OCBC) reste en dessous. La résistance 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) et la moyenne mobile 50 jours vers 4 206 renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan. Prudence avant le CPI de mardi.",
    "invalidAbove": 4228
   },
   {
@@ -38,7 +38,7 @@
     4135,
     4150
    ],
-   "note": "Plan gardé : l'or recule de 4 123–4 130 (nuit) vers 4 100 (Goldreporter, 8h30) et se rapproche de la zone, à environ 20 $. Mitrade propose d'acheter les replis tant que 4 025–4 036 tient. Objectif 1 sur le plus haut de jeudi 4 134,8, objectif 2 sur la résistance 4 150 (FXEmpire, FinanceFeeds). Stop sous le support 4 050 (FXEmpire) et le pivot 4 049. Une clôture 1 h sous 4 045 annule le plan. Pas d'entrée juste avant le CPI de mardi 14h30 Paris.",
+   "note": "Plan gardé : l'or recule de 4 123 (nuit, Reuters) vers 4 095 (FXEmpire, 8h43) et se rapproche de la zone, à environ 15 $. Mitrade propose d'acheter les replis tant que 4 025–4 036 tient. Objectif 1 sur le plus haut de jeudi 4 134,8, objectif 2 sur la résistance 4 150 (FXEmpire, FinanceFeeds). Stop sous le support 4 050 (FXEmpire) et le pivot 4 049. Une clôture 1 h sous 4 045 annule le plan. Pas d'entrée juste avant le CPI de mardi 14h30 Paris.",
    "invalidBelow": 4045
   },
   {
@@ -55,7 +55,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé : l'or est vers 4 100, à environ 100 $ au-dessus. FXEmpire voit 4 000 puis 3 950 si 4 050 casse ; FinanceFeeds place le scénario baissier à 4 000 en cas de CPI chaud. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Taille réduite.",
+   "note": "Plan gardé : l'or est vers 4 095, à environ 95 $ au-dessus. FXEmpire voit 4 000 puis 3 950 si 4 050 casse ; FinanceFeeds place le scénario baissier à 4 000 en cas de CPI chaud. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Taille réduite.",
    "invalidBelow": 3958
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 250 $ au-dessus (vers 4 100). Mitrade place une base vers 3 885–3 904 et le plus bas d'un an est 3 869,85 (30 oct.). Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 250 $ au-dessus (vers 4 095). Mitrade place une base vers 3 885–3 904 et le plus bas d'un an est 3 869,85 (30 oct.). Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -152,7 +152,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2. Après le NFP, environ 80 % de chances de hausse en décembre : 81 % selon Reuters, 79,6 % selon CME FedWatch (contre 71–73 % avant). Williams et Daly (Fed) ont tenu un discours ferme. Réunion des 8–9 décembre."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2. Après le NFP, environ 80 % de chances de hausse en décembre : 81 % selon Reuters, 79,6 % selon CME FedWatch, 78 % selon NordFX (contre 71–73 % avant). Williams et Daly (Fed) ont tenu un discours ferme. Réunion des 8–9 décembre."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -187,12 +187,12 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 0,
-   "text": "Le pétrole baisse : Donald Trump juge de nouvelles attaques contre l'Iran « très peu probables » tant que les discussions avancent (FinanceFeeds). Brent entre 97,7 $ (Discovery Alert, nuit) et 99,5 $ (-1,6 %, Goldreporter) selon les sources, WTI vers 90,5 $. Moins de crainte d'inflation, mais aussi moins de prime de guerre."
+   "text": "Le pétrole baisse : Donald Trump juge de nouvelles attaques contre l'Iran « très peu probables » tant que les discussions avancent (FinanceFeeds). Brent entre 97,7 $ (Discovery Alert, nuit) et 99,5 $ (-1,6 %, Goldreporter) selon les sources, WTI vers 90,5 $. Moins de crainte d'inflation, mais aussi moins de prime de guerre. NordFX : Brent vers 97 $ (-1,5 %) après une chute de plus de 13 % la semaine dernière."
   },
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Rebond depuis le plus bas d'un an vers 3 870 (30 oct.). Après un recul vers 4 030 vendredi, l'or a touché 4 123–4 130 dans la nuit puis revient vers 4 100, en haut de la zone 4 000–4 100 (Goldreporter). RSI journalier à 50,3, neutre (JournalArta) ; or sous sa moyenne 100 jours, moyenne 200 jours vers 4 460 (FXEmpire). Résistances : 4 135, 4 150, puis 4 187–4 227. Supports : 4 070–4 082, 4 050, 4 025–4 036, 4 000. Signal FXEmpire neutre."
+   "text": "Rebond depuis le plus bas d'un an vers 3 870 (30 oct.). Après un recul vers 4 030 vendredi, l'or a touché 4 123–4 130 dans la nuit puis revient vers 4 095 (FXEmpire, 8h43). RSI journalier à 50,3, neutre (JournalArta) ; or sous sa moyenne 100 jours, moyenne 200 jours vers 4 460 (FXEmpire). Résistances : 4 135, 4 150, puis 4 187–4 227. Supports : 4 070–4 082, 4 050, 4 025–4 036, 4 000. Signal FXEmpire neutre."
   },
   {
    "name": "Achats des banques centrales",
@@ -216,7 +216,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 4 100 en plein milieu : attendre un repli vers 4 070–4 082 et une bougie de rejet.",
+  "Ne pas acheter vers 4 095 en plein milieu : attendre un repli vers 4 070–4 082 et une bougie de rejet.",
   "Ne pas vendre avant 4 180–4 200 et sans bougie 1 h de rejet nette.",
   "Ne pas ouvrir de position juste avant le CPI de mardi 14h30 Paris : attendre la réaction.",
   "Ne pas acheter vers 3 985–4 000 ou 3 830–3 850 sans bougie de rejet.",
@@ -298,8 +298,16 @@
  ],
  "sources": [
   {
-   "title": "Goldreporter : l'or à 4 100,50 $ lundi 8h30 (+0,9 %), Brent et rendement 10 ans en baisse, zone 4 000–4 100 (9 nov.)",
-   "url": "https://www.goldreporter.de/goldpreis-heute-4100-dollar-09-11-2026/marktbericht-gold/262922/"
+   "title": "FXEmpire : or à 4 094,64 $ (+0,59 %) à 7h43 UTC, +5,1 % sur une semaine (9 nov.)",
+   "url": "https://www.fxempire.com/commodities/gold"
+  },
+  {
+   "title": "Business Recorder (Reuters) : l'or prend 1,4 % à 4 123,46 $ à 4h28 GMT, pétrole en baisse, 81 % de hausse Fed (9 nov.)",
+   "url": "https://www.brecorder.com/news/40448085/gold-rises-over-1-as-softer-oil-prices-ease-inflation-worries"
+  },
+  {
+   "title": "NordFX : or vers 4 114 $ (+1,1 %), Brent vers 97 $, 78 % de hausse Fed en décembre (9 nov.)",
+   "url": "https://nordfx.com/market-news/market-pulse-november-09-2026"
   },
   {
    "title": "Discovery Alert : l'or à 4 129,69 $ (+1,6 %) vers 2h20 GMT malgré 77–80 % de hausse Fed, CPI en test (9 nov.)",
