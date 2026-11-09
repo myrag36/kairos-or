@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T20:05:00Z",
- "price": 4061,
- "change": -0.6,
- "priceTime": "6 nov. · 21h05 Paris",
- "bias": "sell",
- "biasLabel": "Vendeur (modéré)",
- "summary": "L'emploi américain d'octobre est très fort : 165 000 postes créés contre 65 000 attendus, chômage à 4,1 % et salaire horaire +0,4 % (Trading Economics). Une hausse des taux de la Fed en décembre reste probable (environ 80 % selon CME FedWatch) et le dollar tient vers 102,30 (+0,75 %, Trading Economics). L'or rend une partie de son rebond du soir : il revient vers 4 061 $ (FXEmpire à 20h05 UTC, environ -0,6 % sur la journée), juste au-dessus du pivot 4 049 et sous la résistance 4 098. Le biais reste vendeur modéré tant que l'or reste sous l'ancien support 4 100 ; FXEmpire voit un risque de test de 4 000. Aucun plan n'est annulé : la vente sur rebond vers 4 090–4 105 reste le plan principal, l'achat vers 4 000 n'est à tenter qu'avec un rejet net. Le marché ferme pour le week-end vers 23h Paris : prudence avec une position ouverte.",
+ "updatedAt": "2026-11-09T07:10:00Z",
+ "price": 4112,
+ "change": 1.0,
+ "priceTime": "9 nov. · 8h10 Paris",
+ "bias": "neutral",
+ "biasLabel": "Neutre (attente du CPI)",
+ "summary": "L'or rebondit ce lundi matin vers 4 112 $ (+1 % environ, FXEmpire à 6h46 UTC) après une clôture vendredi vers 4 070 $ (Kitco). Le dollar recule un peu et le pétrole baisse après les propos de Donald Trump jugeant de nouvelles attaques contre l'Iran « très peu probables » (FinanceFeeds, FXEmpire). En face, une hausse des taux de la Fed en décembre est jugée encore plus probable : environ 80 % selon CME FedWatch (Reuters, 81 %). L'or repasse au-dessus de 4 100 : le biais vendeur passe à neutre, et la vente sous 4 100 est remplacée par un achat sur repli vers 4 070–4 082. Le chiffre d'inflation CPI tombe demain mardi à 14h30 Paris : il décidera de la suite (4 150 si doux, 4 000 si chaud selon FinanceFeeds).",
  "setups": [
   {
    "side": "sell",
@@ -21,25 +21,25 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 4 061 (FXEmpire, 20h05 UTC), loin sous la zone ; le plus haut du jour 4 107,9 (Kitco) et celui d'hier 4 146,6 (Mitrade) restent en dessous. La moyenne mobile 50 jours vers 4 206 (FXEmpire) et la résistance 4 200 (FXEmpire) renforcent la résistance 4 187–4 227. Objectif 1 vers 4 120, objectif 2 vers l'ancienne résistance 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 4 112 (FXEmpire, 6h46 UTC), sous la zone ; le haut récent vers 4 148 (Mitrade) reste en dessous. La résistance 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) et la moyenne mobile 50 jours vers 4 206 renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan. Prudence avant le CPI de mardi.",
    "invalidAbove": 4228
   },
   {
-   "side": "sell",
-   "name": "Vente sous 4 100",
+   "side": "buy",
+   "name": "Achat sur repli vers 4 075",
    "status": "active",
    "zone": [
-    4090,
-    4105
+    4070,
+    4082
    ],
-   "trigger": "Attendre une remontée dans 4 090–4 105 (ancien support 4 100 devenu résistance, TradingKey) puis une bougie 1 h de rejet : longue mèche haute ou clôture baissière franche sous 4 090.",
-   "stop": 4120,
+   "trigger": "Attendre un repli dans 4 070–4 082 (ancienne résistance Mitrade 4 074–4 082, clôture de vendredi 4 070, pivot FXEmpire 4 069) puis une bougie 1 h avec longue mèche basse qui clôture au-dessus de 4 082.",
+   "stop": 4042,
    "tps": [
-    4035,
-    4000
+    4135,
+    4150
    ],
-   "note": "Plan principal, dans le sens du biais. Après le NFP fort (165 000 postes), l'or est remonté vers 4 074 puis revient vers 4 061, à environ 30 $ sous la zone : surveiller un nouveau rebond et son rejet. TradingKey place la première résistance à 4 100, FXEmpire une résistance à 4 098 et un support à 4 049. Stop au-dessus du plus haut du jour 4 107,9 (Kitco) et de 4 118. Objectif 1 sur le plus bas du jour 4 029,5 (Kitco) et le support 4 030 (TradingKey), objectif 2 sur le seuil clé 4 000. Une clôture 1 h au-dessus de 4 118 annule le plan.",
-   "invalidAbove": 4118
+   "note": "Remplace la vente sous 4 100 : l'or est remonté vers 4 120–4 130 ce matin (Reuters 4 123 à 4h28 UTC, FXEmpire), au-dessus de son seuil d'annulation 4 118. Mitrade propose d'acheter les replis tant que 4 025–4 036 tient. Objectif 1 sur le plus haut de jeudi 4 134,8, objectif 2 sur la résistance 4 150 (FXEmpire, FinanceFeeds). Stop sous le support 4 050 (FXEmpire) et le pivot 4 049. Une clôture 1 h sous 4 045 annule le plan. Pas d'entrée juste avant le CPI de mardi 14h30 Paris.",
+   "invalidBelow": 4045
   },
   {
    "side": "buy",
@@ -55,7 +55,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé mais prudence : avec un NFP au-dessus de 100 000, Mitrade voyait un test de 4 000 puis 3 975, donc la zone peut être cassée. L'or est vers 4 061, à environ 60 $ au-dessus ; FXEmpire voit aussi un risque de test de 4 000. Objectif 1 sous 4 039 (support Fibonacci Tradingpedia), objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade, TradingKey 3 975). Une clôture 1 h sous 3 958 annule le plan. Taille réduite, contre le biais.",
+   "note": "Plan gardé : l'or est vers 4 112, à environ 115 $ au-dessus. FXEmpire voit 4 000 puis 3 950 si 4 050 casse ; FinanceFeeds place le scénario baissier à 4 000 en cas de CPI chaud. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Taille réduite.",
    "invalidBelow": 3958
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 210 $ au-dessus (vers 4 061). Mitrade place un support 3 829–3 849 ; FXEmpire voit une baisse vers 3 800 sous 3 880. Avant elle : 4 000, 3 975, 3 900 (Mitrade) et le plus bas d'un an 3 869,85 (30 oct.). Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 260 $ au-dessus (vers 4 112). Mitrade place une base vers 3 885–3 904 et le plus bas d'un an est 3 869,85 (30 oct.). Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -80,12 +80,12 @@
   {
    "p": 4225,
    "kind": "res",
-   "label": "Résistance 4 187–4 227 (Mitrade), seuil haussier FinanceFeeds 4 225, stop de la vente haute (4 235)"
+   "label": "Résistance 4 187–4 227 (Mitrade), stop de la vente haute (4 235)"
   },
   {
    "p": 4206,
    "kind": "res",
-   "label": "Moyenne mobile 50 jours 4 205,91 (FXEmpire)"
+   "label": "Moyenne mobile 50 jours vers 4 206 (FXEmpire, 6 nov.)"
   },
   {
    "p": 4190,
@@ -93,59 +93,54 @@
    "label": "Zone de vente 4 180–4 200"
   },
   {
-   "p": 4147,
+   "p": 4150,
    "kind": "res",
-   "label": "Plus haut d'hier 4 146,6 (Mitrade), plus haut depuis le 20 octobre"
+   "label": "Résistance 4 150 (FXEmpire, FinanceFeeds), 4 145–4 157 (Mitrade), objectif 2 de l'achat"
   },
   {
-   "p": 4118,
+   "p": 4135,
    "kind": "res",
-   "label": "Ancien support 4 118, invalidation de la vente sous 4 100"
+   "label": "Plus haut de jeudi 4 134,8 (FinanceFeeds), objectif 1 de l'achat"
   },
   {
-   "p": 4108,
+   "p": 4109,
    "kind": "res",
-   "label": "Plus haut de la nuit 4 107,9 (Kitco), stop de la vente au-dessus (4 120)"
+   "label": "Pivot R1 4 108,5 (FXEmpire), ancien seuil 4 100"
   },
   {
-   "p": 4098,
-   "kind": "res",
-   "label": "Zone de vente 4 090–4 105 : ancien support 4 100 devenu résistance (TradingKey), résistance 4 098 (FXEmpire)"
-  },
-  {
-   "p": 4078,
-   "kind": "res",
-   "label": "Ancienne résistance 4 074–4 083, résistance Fibonacci 4 080 (Tradingpedia), support Mitrade 4 065–4 075"
-  },
-  {
-   "p": 4049,
+   "p": 4076,
    "kind": "sup",
-   "label": "Support pivot 4 049 (FXEmpire), résistance 4 051 (FinanceFeeds), seuil de liquidité 4 050 (TraderFactor)"
+   "label": "Zone d'achat 4 070–4 082 : ancienne résistance 4 074–4 082 (Mitrade), clôture de vendredi 4 070 (Kitco), pivot 4 069 (FXEmpire)"
+  },
+  {
+   "p": 4050,
+   "kind": "sup",
+   "label": "Support 4 050 (FXEmpire), invalidation de l'achat sous 4 045"
   },
   {
    "p": 4030,
    "kind": "sup",
-   "label": "Plus bas du jour 4 029,5 (Kitco), support 4 025–4 036 (Mitrade), 4 030 (TradingKey) et 4 022 (FinanceFeeds), objectif 1 de la vente"
-  },
-  {
-   "p": 4012,
-   "kind": "sup",
-   "label": "Pivot support 4 012,5 (FXEmpire), support Fibonacci 4 006 (Tradingpedia)"
+   "label": "Support 4 025–4 036 (Mitrade), pivot S1 4 031 (FXEmpire)"
   },
   {
    "p": 3992,
    "kind": "sup",
-   "label": "Zone d'achat 3 985–4 000 : plancher clé 4 000 (Mitrade, TradingKey)"
+   "label": "Zone d'achat 3 985–4 000 : plancher clé 4 000 (FXEmpire, FinanceFeeds)"
   },
   {
    "p": 3975,
    "kind": "sup",
-   "label": "Support 3 975 (Mitrade, TradingKey), stop de l'achat en dessous (3 958)"
+   "label": "Support 3 970–3 980 (Mitrade), stop de l'achat en dessous (3 958)"
   },
   {
-   "p": 3900,
+   "p": 3950,
    "kind": "sup",
-   "label": "Support 3 900 (Mitrade), plus bas d'un an 3 869,85 (30 oct.)"
+   "label": "Support 3 950 (FXEmpire)"
+  },
+  {
+   "p": 3895,
+   "kind": "sup",
+   "label": "Base 3 885–3 904 (Mitrade), plus bas d'un an 3 869,85 (30 oct.)"
   },
   {
    "p": 3840,
@@ -157,7 +152,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2 : deux membres voulaient une hausse. Avant le NFP, environ 80 % de chances de hausse en décembre (CME FedWatch via Trading Economics) ; le chiffre fort renforce ce scénario. Beth Hammack (Fed) reste favorable à une hausse graduelle (FXStreet). Réunion des 8–9 décembre."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2. Après le NFP, environ 80 % de chances de hausse en décembre : 81 % selon Reuters, 79,6 % selon CME FedWatch (contre 71–73 % avant). Williams et Daly (Fed) ont tenu un discours ferme. Réunion des 8–9 décembre."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -172,7 +167,7 @@
   {
    "name": "Croissance et inflation US",
    "impact": -1,
-   "text": "ISM des services d'octobre à 54,5 (54,8 attendu, 54,9 en septembre), prix payés à 73 (74 avant), emploi à 51,4. ISM manufacturier à 55,5, prix payés à 75,2. PIB T3 à 3,4 %, PCE de septembre à 3,6 %. L'économie reste solide et les prix élevés, ce qui garde la hausse de taux sur la table. Moral des ménages Michigan (première estimation de novembre) à 51, attentes d'inflation en baisse (Kitco)."
+   "text": "PIB T3 à 3,4 %, PCE de septembre à 3,6 %, ISM services 54,5. CPI de septembre +0,6 % sur un mois (+0,3 % hors énergie et alimentation). Pour octobre, RBC attend +0,3 % ; le modèle de la Fed de Cleveland +0,24 % (FinanceFeeds). L'économie reste solide et les prix élevés."
   },
   {
    "name": "Emploi américain",
@@ -181,8 +176,8 @@
   },
   {
    "name": "Dollar",
-   "impact": -1,
-   "text": "L'indice dollar tient vers 102,30 (+0,75 %, Trading Economics) après le NFP, loin de son plus bas depuis fin septembre vers 101,60 (Mitrade). Un dollar plus fort pèse sur l'or."
+   "impact": 0,
+   "text": "L'indice dollar a pris 0,71 % vendredi, à un plus haut d'une semaine après le NFP, puis recule légèrement ce lundi (FXEmpire, JournalArta). Ce repli aide le rebond de l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -191,13 +186,13 @@
   },
   {
    "name": "Pétrole et Golfe",
-   "impact": -1,
-   "text": "Le pétrole reste haut malgré un léger recul : Brent vers 97,8 $, WTI vers 90 $ (Trading Economics), après une attaque contre un navire près du détroit d'Ormuz (Mitrade). Donald Trump a durci le ton contre l'Iran (Tradingpedia). Cette hausse du pétrole relance la crainte d'inflation et pèse sur l'or."
+   "impact": 0,
+   "text": "Le pétrole baisse : Donald Trump juge de nouvelles attaques contre l'Iran « très peu probables » tant que les discussions avancent (FinanceFeeds). Brent vers 96,5 $, WTI vers 90 $ (Mitrade). Moins de crainte d'inflation, mais aussi moins de prime de guerre."
   },
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Plus bas d'un an le 30 octobre vers 3 870, puis rebond jusqu'à 4 146,6 (Mitrade). L'or repasse sous 4 100, touche 4 029,5 après le NFP (Kitco) remonte vers 4 074 puis revient vers 4 061 en soirée (FXEmpire). Résistances : 4 080, 4 098 (FXEmpire), 4 100, 4 146, 4 200 (FXEmpire). Supports : 4 049 (FXEmpire), 4 000, 3 975 ; une clôture sous 3 975 ouvre 3 900 (Mitrade). Moyenne 20 jours 4 064 (RM Intelligence), 50 jours 4 206 ; sur les contrats à terme, moyenne exponentielle 50 jours 4 178,8 et 200 jours 4 281,8 (FXEmpire). RSI 14 jours à 43 (RM Intelligence). Signal journalier FXEmpire neutre."
+   "text": "Rebond depuis le plus bas d'un an vers 3 870 (30 oct.). Après un recul vers 4 030 vendredi, l'or remonte vers 4 112–4 130 ce lundi. RSI journalier à 50,3, neutre (JournalArta) ; or sous sa moyenne 100 jours, moyenne 200 jours vers 4 460 (FXEmpire). Résistances : 4 135, 4 150, puis 4 187–4 227. Supports : 4 070–4 082, 4 050, 4 025–4 036, 4 000. Signal FXEmpire neutre."
   },
   {
    "name": "Achats des banques centrales",
@@ -212,21 +207,20 @@
   {
    "name": "Chute des actions",
    "impact": 0,
-   "text": "Jeudi, le Nasdaq a perdu environ 5,5 % et le S&P 500 4,4 % (TraderFactor), les semi-conducteurs 12 % (Mitrade). Ce vendredi, le Nikkei recule de 5,7 % (Trading Economics). La peur soutient l'or comme valeur refuge, mais peut aussi forcer des ventes pour couvrir des pertes (appels de marge)."
+   "text": "Après la chute de jeudi (Nasdaq -5,5 %, S&P 500 -4,4 %), les valeurs technologiques rebondissent ce lundi (FXEmpire). OCBC garde en tête le risque d'une nouvelle vente sur l'IA et les semi-conducteurs."
   },
   {
    "name": "Sentiment",
    "impact": 0,
-   "text": "Goldman Sachs abaisse sa cible de fin 2026 à 4 150 $ (contre 4 650) ; KCM Trade évoque des ventes forcées pour appels de marge (Reuters). Citi vise toujours 4 500 $ à 3 mois (Mitrade). Argent à 51,5 $ (-0,5 %). L'or reste en route pour sa meilleure semaine depuis fin août (Reuters)."
+   "text": "Goldman Sachs vise 4 150 $ fin 2026 (contre 4 650). Pour Tai Wong, le CPI sera « un test décisif » pour le rebond ; selon FXStreet, le rebond manque encore d'élan (JournalArta). Blue Line voit une éventuelle cassure de 4 000 comme une dernière purge (FinanceFeeds)."
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 4 061 au milieu de la fourchette : attendre 4 090–4 105 et un rejet pour vendre.",
-  "Ne pas vendre dans 4 090–4 105 sans bougie 1 h de rejet nette.",
-  "Ne pas vendre avant 4 180–4 200 pour le plan haut.",
-  "Ne pas acheter avant le test de 3 985–4 000 ou de 3 830–3 850, et jamais sans bougie de rejet : l'achat va contre le biais.",
-  "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée.",
-  "Réduire la taille : volatilité forte après le NFP et fermeture du week-end vers 23h Paris."
+  "Ne pas acheter vers 4 112 en plein milieu : attendre un repli vers 4 070–4 082 et une bougie de rejet.",
+  "Ne pas vendre avant 4 180–4 200 et sans bougie 1 h de rejet nette.",
+  "Ne pas ouvrir de position juste avant le CPI de mardi 14h30 Paris : attendre la réaction.",
+  "Ne pas acheter vers 3 985–4 000 ou 3 830–3 850 sans bougie de rejet.",
+  "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
  ],
  "calendar": [
   {
@@ -275,7 +269,7 @@
    "at": "2026-11-10T13:30:00Z",
    "event": "Inflation CPI d'octobre",
    "importance": 3,
-   "why": "Inflation chaude = hausse de taux plus probable = pression sur l'or."
+   "why": "Inflation chaude = hausse de taux plus probable = pression sur l'or. RBC attend +0,3 % sur un mois (global et hors énergie), Fed de Cleveland +0,24 % ; septembre était à +0,6 %. Les taux sur 12 mois pourraient manquer (shutdown). Doux = 4 150, chaud = 4 000 (FinanceFeeds)."
   },
   {
    "at": "2026-11-13T13:30:00Z",
@@ -304,60 +298,20 @@
  ],
  "sources": [
   {
-   "title": "FXEmpire : or à 4 061,29 $ à 20h05 UTC, support 4 049,21, résistance 4 098,07, signal journalier neutre (6 nov.)",
-   "url": "https://www.fxempire.com/forecasts/gold"
+   "title": "FinanceFeeds : or à 4 112 $ lundi avant le CPI, scénarios 4 150 / 4 000, 81 % de hausse en décembre (9 nov., 7h GMT)",
+   "url": "https://financefeeds.com/gold-price-today-4112-monday-before-cpi-10-november-bull-4150-bear-4000/"
   },
   {
-   "title": "FXEmpire : l'or risque un test de 4 000 $ après un rapport sur l'emploi fort, résistance 4 200, EMA 50 j 4 178,8 (6 nov.)",
-   "url": "https://www.fxempire.com/forecasts/article/gold-faces-risk-to-4000-support-after-strong-us-payrolls-report-1642989"
+   "title": "FXEmpire : le rebond de l'or met 4 150 $ en vue, supports 4 050 / 4 000 / 3 950, moyenne 200 j vers 4 460 (9 nov., 4h12 UTC)",
+   "url": "https://fxempire.com/forecasts/article/gold-and-silver-price-forecast-rebound-puts-4150-and-55-in-focus-1643222"
   },
   {
-   "title": "Trading Economics : or vers 4 061,6 $ (-0,64 %), dollar 102,30 (+0,75 %), rendement 4,86 %, 80 % de hausse en décembre (CME FedWatch) (6 nov.)",
-   "url": "https://tradingeconomics.com/commodity/gold"
+   "title": "Mitrade : victoire démocrate et CPI, supports 4 025–4 036 / 3 970–3 980, résistances 4 074–4 082 / 4 145–4 157 / 4 187–4 227 (9 nov.)",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-democrats-sweep-midterms-cpi"
   },
   {
-   "title": "Trading Economics : NFP d'octobre à 165 000 (65 000 attendus), chômage 4,1 %, salaire horaire +0,4 % (6 nov.)",
-   "url": "https://tradingeconomics.com/united-states/non-farm-payrolls"
-  },
-  {
-   "title": "Bloomberg : les États-Unis créent 165 000 emplois, au-dessus de toutes les prévisions, le chômage baisse (6 nov.)",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-06/us-adds-165-000-jobs-above-all-forecasts-as-unemployment-falls"
-  },
-  {
-   "title": "Kitco : or à 4 056,90 $ (-0,74 %) à 12h52 heure de New York, fourchette 4 029,50–4 107,90 ; moral Michigan à 51 (6 nov.)",
-   "url": "https://www.kitco.com/charts/gold"
-  },
-  {
-   "title": "FinanceFeeds : or vers 4 044 $ avant le NFP, supports 4 022 / 3 992, résistances 4 051 / 4 089 (6 nov.)",
-   "url": "https://financefeeds.com/gold-price-today-4044-friday-october-jobs-report-after-s-and-p-500-4-4-percent-plunge-bull-4135-bear-3990/"
-  },
-  {
-   "title": "Fortune : or à 4 039 $ à 9h11 heure de New York, -2,01 % sur 24 h (6 nov.)",
-   "url": "https://www.fortune.com/article/current-price-of-gold-11-06-2026/"
-  },
-  {
-   "title": "Tradingpedia : l'or tient au-dessus de 4 000 $ avant le NFP, 70 % de hausse en décembre, supports 4 039 / 4 006, résistance 4 080, RSI 4 h 52,4 (6 nov.)",
-   "url": "https://www.tradingpedia.com/2026/11/06/gold-holds-above-4000-as-dollar-rebounds-pre-nfp/"
-  },
-  {
-   "title": "RM Intelligence : rapport macro or, RSI 14 jours 43, moyennes 20 j 4 064 / 50 j 4 214, DXY 101,76 (6 nov., 6h UTC)",
-   "url": "https://rmclub.org/research/gold-macro-report/"
-  },
-  {
-   "title": "Mitrade : Wall Street chute, rendements en baisse, supports 4 065–4 075 / 4 025–4 036, RSI 1 h 53, 66–69 % de hausse en décembre, attaque près d'Ormuz (6 nov.)",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/wall-street-plunges-yields-tumble-gold"
-  },
-  {
-   "title": "Mitrade : semaine à +250 $ avant le NFP, 66 % de hausse en décembre, consensus 65 000 / 4,2 %, plancher 4 000 puis 3 975 (6 nov.)",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-4100-payrolls-20261106J1103"
-  },
-  {
-   "title": "TradingKey : l'or repasse sous 4 100 $, résistances 4 100 / 4 150 / 4 200, supports 4 030 / 4 000 / 3 975, 68,4 % de hausse (6 nov.)",
-   "url": "https://www.tradingkey.com/analysis/commodities/metal/262288192-gold-forecast-falls-below-4100-nfp-surge-tradingkey"
-  },
-  {
-   "title": "FXStreet : Hammack (Fed), une hausse graduelle des taux est la meilleure voie (5 nov.)",
-   "url": "https://fxstreet.com/news/feds-hammack-gradual-rate-hike-path-best-way-forward-for-policy-202611051359"
+   "title": "JournalArta : l'or rebondit sur un dollar plus faible, RSI journalier 50,3, 79,6 % de hausse selon CME FedWatch (9 nov.)",
+   "url": "https://journalarta.com/en/2026/11/09/gold-price-jumps-soft-dollar-above-4020-monday/"
   }
  ]
 }
