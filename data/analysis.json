@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-09T15:08:00Z",
- "price": 4118,
+ "updatedAt": "2026-11-09T16:08:00Z",
+ "price": 4120,
  "change": 1.2,
- "priceTime": "9 nov. · 16h05 Paris",
+ "priceTime": "9 nov. · 17h00 Paris",
  "bias": "neutral",
  "biasLabel": "Neutre (attente du CPI)",
- "summary": "L'or se stabilise vers 4 118 $ (+1,2 %, Kitco à 16h04 Paris), toujours dans la fourchette du jour de 4 053 à 4 135 $. Le pétrole recule encore (WTI vers 88,3 $, -2,8 %) et le dollar baisse face à toutes les grandes devises, ce qui soutient le métal (investingLive). En face, une hausse des taux de la Fed en décembre reste très probable, autour de 80 %, et le rendement à 10 ans remonte vers 4,87 %. Le biais reste neutre et les quatre plans sont gardés : l'achat vers 4 070–4 082 reste le scénario principal, à environ 36 $ sous le prix. Le chiffre d'inflation CPI tombe demain mardi à 14h30 Paris et décidera de la suite : doux, retour vers 4 139–4 150 ; chaud, risque vers 4 000 puis 3 950 (Forexuro, FinanceFeeds).",
+ "summary": "L'or reste stable vers 4 120 $ (+1,2 %, Kitco à 17h00 Paris), toujours dans la fourchette du jour de 4 053 à 4 135 $. Le pétrole recule (Brent vers 94,8 $ ce matin, WTI sous 90 $) et le dollar baisse un peu, ce qui soutient le métal (Kitco, investingLive). En face, une hausse des taux de la Fed en décembre reste très probable, autour de 79 à 81 %, et le rendement à 10 ans est vers 4,87 %. Le biais reste neutre et les quatre plans sont gardés : l'achat vers 4 070–4 082 reste le scénario principal, à environ 38 $ sous le prix. Le chiffre d'inflation CPI tombe demain mardi à 14h30 Paris et décidera de la suite : doux, retour vers 4 148–4 150 ; chaud, risque vers 4 000 puis 3 950 (Kitco, FinanceFeeds).",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 4 118 (Kitco, 16h04), sous la zone ; le plus haut du jour 4 135 (Kitco) reste en dessous. La résistance 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) et la moyenne mobile 50 jours vers 4 206 renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan. Prudence avant le CPI de mardi.",
+   "note": "Plan gardé : l'or est vers 4 120 (Kitco, 17h00), sous la zone ; le plus haut du jour 4 135 (Kitco) reste en dessous. La résistance 4 148–4 150 (Kitco, FXEmpire), puis 4 200 (Kitco) puis 4 187–4 227 (Mitrade) et la moyenne mobile 50 jours vers 4 206 renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan. Prudence avant le CPI de mardi.",
    "invalidAbove": 4228
   },
   {
@@ -38,7 +38,7 @@
     4135,
     4150
    ],
-   "note": "Plan gardé : l'or tient vers 4 118 (Kitco, 16h04), à environ 36 $ au-dessus de la zone ; le plus bas du jour 4 053 n'a pas cassé 4 045. Mitrade propose d'acheter les replis tant que 4 025–4 036 tient. Objectif 1 sur le plus haut de jeudi 4 134,8, objectif 2 sur la résistance 4 150 (FXEmpire, FinanceFeeds). Stop sous le support 4 050 (FXEmpire) et le pivot 4 049. Une clôture 1 h sous 4 045 annule le plan. Pas d'entrée juste avant le CPI de mardi 14h30 Paris.",
+   "note": "Plan gardé : l'or tient vers 4 120 (Kitco, 17h00), à environ 38 $ au-dessus de la zone ; le plus bas du jour 4 053 n'a pas cassé 4 045. Mitrade propose d'acheter les replis tant que 4 025–4 036 tient. Objectif 1 sur le plus haut de jeudi 4 134,8, objectif 2 sur la résistance 4 150 (FXEmpire, FinanceFeeds). Stop sous le support 4 050–4 051 (FXEmpire, Kitco) et le pivot 4 049. Une clôture 1 h sous 4 045 annule le plan. Pas d'entrée juste avant le CPI de mardi 14h30 Paris.",
    "invalidBelow": 4045
   },
   {
@@ -55,7 +55,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé : l'or est vers 4 118, à environ 120 $ au-dessus. FXEmpire voit 4 000 puis 3 950 si 4 050 casse ; FinanceFeeds place le scénario baissier à 4 000 en cas de CPI chaud. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Taille réduite.",
+   "note": "Plan gardé : l'or est vers 4 120, à environ 120 $ au-dessus. FXEmpire voit 4 000 puis 3 950 si 4 050 casse ; FinanceFeeds place le scénario baissier à 4 000 en cas de CPI chaud. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Taille réduite.",
    "invalidBelow": 3958
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 270 $ au-dessus (vers 4 118). Mitrade place une base vers 3 885–3 904 et le plus bas d'un an est 3 869,85 (30 oct.). Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 270 $ au-dessus (vers 4 120). Mitrade place une base vers 3 885–3 904 et le plus bas d'un an est 3 869,85 (30 oct.). Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -90,12 +90,12 @@
   {
    "p": 4190,
    "kind": "res",
-   "label": "Zone de vente 4 180–4 200"
+   "label": "Zone de vente 4 180–4 200, résistance 4 200 (Kitco)"
   },
   {
    "p": 4150,
    "kind": "res",
-   "label": "Résistance 4 150 (FXEmpire, FinanceFeeds), 4 145–4 157 (Mitrade), objectif 2 de l'achat"
+   "label": "Résistance 4 147,6 (Kitco), 4 150 (FXEmpire, FinanceFeeds), 4 145–4 157 (Mitrade), objectif 2 de l'achat"
   },
   {
    "p": 4135,
@@ -108,6 +108,11 @@
    "label": "Pivot R1 4 108,5 (FXEmpire), ancien seuil 4 100"
   },
   {
+   "p": 4089,
+   "kind": "sup",
+   "label": "Premier support 4 088,5 (Kitco)"
+  },
+  {
    "p": 4076,
    "kind": "sup",
    "label": "Zone d'achat 4 070–4 082 : ancienne résistance 4 074–4 082 (Mitrade), clôture de vendredi 4 070 (Kitco), pivot 4 069 (FXEmpire)"
@@ -115,7 +120,7 @@
   {
    "p": 4050,
    "kind": "sup",
-   "label": "Support 4 050 (FXEmpire), invalidation de l'achat sous 4 045"
+   "label": "Support 4 050 (FXEmpire), 4 051,5 (Kitco), invalidation de l'achat sous 4 045"
   },
   {
    "p": 4030,
@@ -152,7 +157,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2. Après le NFP, environ 80 % de chances de hausse en décembre : 81 % selon Reuters, 79,6 % selon CME FedWatch, 78 % selon NordFX (contre 71–73 % avant). Williams et Daly (Fed) ont tenu un discours ferme. Réunion des 8–9 décembre."
+   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2. Après le NFP, environ 80 % de chances de hausse en décembre : 81 % selon Reuters, 79,6 % selon CME FedWatch, 78 % selon NordFX, 79–81 % selon Kitco (contre 71–73 % avant). Williams et Daly (Fed) ont tenu un discours ferme. Réunion des 8–9 décembre."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -187,12 +192,12 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 0,
-   "text": "Le pétrole baisse : Donald Trump juge de nouvelles attaques contre l'Iran « très peu probables » tant que les discussions avancent (FinanceFeeds). Le WTI passe sous 90 $, vers 88,3 $ (-2,8 %, plus bas 87,5 $, investingLive) ; NordFX voyait le Brent vers 97 $ ce matin. Moins de crainte d'inflation, mais aussi moins de prime de guerre."
+   "text": "Le pétrole baisse : Donald Trump juge de nouvelles attaques contre l'Iran « très peu probables » tant que les discussions avancent (FinanceFeeds). Le WTI passe sous 90 $, vers 88,3 $ (-2,8 %, plus bas 87,5 $, investingLive) ; le Brent recule vers 94,8 $ (Kitco), contre 97 $ selon NordFX plus tôt. Moins de crainte d'inflation, mais aussi moins de prime de guerre."
   },
   {
    "name": "Technique",
    "impact": 0,
-   "text": "Rebond depuis le plus bas d'un an vers 3 870 (30 oct.). Après un recul vers 4 030 vendredi, l'or a touché 4 123–4 130 dans la nuit et se stabilise vers 4 118 (Kitco, 16h04 Paris ; plus bas du jour 4 053, plus haut 4 135). Plus haut de la semaine passée 4 138,8 (Forexuro). RSI journalier à 50,3, neutre (JournalArta) ; or sous sa moyenne 100 jours, moyenne 200 jours vers 4 460 (FXEmpire). Résistances : 4 135, 4 150, puis 4 187–4 227. Supports : 4 070–4 082, 4 050, 4 025–4 036, 4 000. Signal FXEmpire neutre."
+   "text": "Rebond depuis le plus bas d'un an vers 3 870 (30 oct.). Après un recul vers 4 030 vendredi, l'or a touché 4 123–4 130 dans la nuit et se stabilise vers 4 120 (Kitco, 17h00 Paris ; plus bas du jour 4 053, plus haut 4 135). Plus haut de la semaine passée 4 138,8 (Forexuro). RSI journalier à 50,3, neutre (JournalArta) ; or sous sa moyenne 100 jours, moyenne 200 jours vers 4 460 (FXEmpire). Résistances : 4 135, 4 148–4 150, 4 200, puis 4 187–4 227. Supports : 4 088, 4 070–4 082, 4 050, 4 025–4 036, 4 000. Signal FXEmpire neutre."
   },
   {
    "name": "Achats des banques centrales",
@@ -216,7 +221,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 4 118 en plein milieu : attendre un repli vers 4 070–4 082 et une bougie de rejet.",
+  "Ne pas acheter vers 4 120 en plein milieu : attendre un repli vers 4 070–4 082 et une bougie de rejet.",
   "Ne pas vendre avant 4 180–4 200 et sans bougie 1 h de rejet nette.",
   "Ne pas ouvrir de position juste avant le CPI de mardi 14h30 Paris : attendre la réaction.",
   "Ne pas acheter vers 3 985–4 000 ou 3 830–3 850 sans bougie de rejet.",
@@ -298,8 +303,16 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or spot à 4 117,60 $ (+47,50 $, +1,17 %) à 10h04 New York, fourchette du jour 4 053,40–4 135,10 (9 nov.)",
+   "title": "Kitco : or spot à 4 119,80 $ (+49,70 $, +1,22 %) à 11h00 New York, fourchette du jour 4 053,40–4 135,10 (9 nov.)",
    "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "Kitco AM Report : or vers 4 124,74 $ (+1,33 %), Brent vers 94,76 $, 10 ans vers 4,87 %, 79–81 % de hausse Fed, résistances 4 147,62 / 4 200,09, supports 4 088,51 / 4 051,45 (9 nov.)",
+   "url": "https://www.kitco.com/news/article/2026-11-09/gold-silver-rise-iran-diplomacy-pressures-crude-dollar-weakens-kitco-am"
+  },
+  {
+   "title": "BigGo Finance : l'or prend 1,6 % à 4 129,69 $ à 2h20 GMT, 79 % de hausse Fed selon CME FedWatch (9 nov.)",
+   "url": "https://finance.biggo.com/news/341842c4-287b-474a-a833-70731f6da0cc"
   },
   {
    "title": "investingLive : or vers 4 122 $ (+1,27 %), WTI à 88,31 $ (-2,77 %), 10 ans à 4,87 %, dollar en baisse (9 nov., 13h34 UTC)",
