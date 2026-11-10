@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-10T13:10:00Z",
- "price": 4075,
- "change": -1.55,
- "priceTime": "10 nov. · 14h07 Paris",
- "bias": "neutral",
- "biasLabel": "Neutre (attente du CPI)",
- "summary": "L'or reste vers 4 075 $ (-1,55 %, Kitco à 14h07 Paris), plus bas du jour à 4 067,8, toujours sous la résistance 4 147–4 150. Le gouverneur de la Fed Christopher Waller veut une hausse des taux en décembre même si l'inflation a ralenti, et parle d'une hausse d'un demi-point si elle empire : les chances de hausse montent vers 99 % selon Reuters (84 % selon Trading Economics). Le dollar est stable vers 101,8 et le pétrole baisse encore (Brent vers 90,1 $). Le biais reste neutre et les quatre plans sont gardés : l'or est dans la zone d'achat 4 070–4 082, juste au-dessus de la moyenne 20 jours vers 4 061. Le CPI tombe à 14h30 Paris, dans une vingtaine de minutes (attendu +0,3 % sur un mois, +0,2 % hors énergie) : tous les plans sont en attente, pas d'entrée avant la réaction. CPI doux, retour vers 4 150 possible ; CPI chaud, risque vers 4 050 puis 4 000.",
+ "updatedAt": "2026-11-10T14:10:00Z",
+ "price": 4050,
+ "change": -2.17,
+ "priceTime": "10 nov. · 14h58 Paris",
+ "bias": "sell",
+ "biasLabel": "Baissier (CPI plus chaud que prévu)",
+ "summary": "L'or chute vers 4 050 $ (-2,2 %, Kitco à 14h58 Paris), plus bas du jour à 4 040, après le CPI d'octobre plus chaud que prévu. Les prix ont monté de 0,4 % sur un mois (0,3 % attendu) et de 0,3 % hors énergie et alimentation (0,2 % attendu) (StockTitan, Trading Economics). Ce 0,3 % atteint le seuil où Christopher Waller (Fed) veut envisager une hausse d'un demi-point en décembre ; le marché intègre environ 28 points de base de hausse (Trading Economics). Le dollar monte vers 102,0 et le rendement à 10 ans vers 4,95 %. Le biais passe baissier : l'or a cassé la moyenne 20 jours vers 4 061, le plan d'achat 4 070–4 082 est remplacé par une vente sur rebond vers 4 085–4 100, et le prochain support clé est 4 000.",
  "setups": [
   {
    "side": "sell",
@@ -21,25 +21,25 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 4 075 (Kitco, 14h07 Paris), environ 105 $ sous la zone ; le plus haut du jour 4 147 reste en dessous. La résistance 4 150 (TradingKey, FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), puis 4 187–4 227 (Mitrade) et la moyenne mobile 50 jours vers 4 206 renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan. Pas d'entrée juste avant le CPI de 14h30 Paris.",
+   "note": "Plan gardé : l'or est vers 4 050 (Kitco, 14h58 Paris), environ 130 $ sous la zone ; le plus haut du jour 4 147 reste en dessous. La résistance 4 150 (TradingKey, FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), puis 4 187–4 227 (Mitrade) et la moyenne mobile 50 jours vers 4 206 renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
-   "side": "buy",
-   "name": "Achat sur repli vers 4 075",
+   "side": "sell",
+   "name": "Vente sur rebond vers 4 090",
    "status": "watch",
    "zone": [
-    4070,
-    4082
+    4085,
+    4100
    ],
-   "trigger": "Attendre un repli dans 4 070–4 082 (ancienne résistance Mitrade 4 074–4 082, clôture de vendredi 4 070, pivot FXEmpire 4 069) puis une bougie 1 h avec longue mèche basse qui clôture au-dessus de 4 082.",
-   "stop": 4042,
+   "trigger": "Attendre un rebond dans 4 085–4 100 (ancien support 4 088 devenu résistance, sous la moyenne 200 périodes 4 h vers 4 103) puis une bougie 1 h de rejet : longue mèche haute ou clôture baissière sous 4 085.",
+   "stop": 4115,
    "tps": [
-    4135,
-    4150
+    4050,
+    4005
    ],
-   "note": "Plan gardé : l'or est vers 4 075 (Kitco, 14h07 Paris, plus bas du jour 4 067,8), il est dans la zone. La moyenne 20 jours vers 4 061 (InvestingCube) et le retracement 23,6 % vers 4 059 (Tradingpedia) sont justes en dessous ; FXEmpire voit 4 051 comme prochain support. Objectif 1 sur le plus haut de jeudi 4 134,8, objectif 2 sur la résistance 4 150 (TradingKey, FXEmpire, InvestingCube). Stop sous le support 4 050 et la moyenne 100 périodes 4 h vers 4 042 (Tradingpedia). Une clôture 1 h sous 4 045 annule le plan. En attente : pas d'entrée avant le CPI de 14h30 Paris, attendre la réaction et une bougie de rejet.",
-   "invalidBelow": 4045
+   "invalidAbove": 4112,
+   "note": "Nouveau plan : il remplace l'achat 4 070–4 082, invalidé par le CPI chaud (l'or est passé sous la zone, vers 4 050, plus bas 4 040, Kitco). Le support 4 088 (FXEmpire) et la moyenne 20 jours vers 4 061 (InvestingCube) ont cédé. Objectif 1 sur 4 050 (support FXEmpire), objectif 2 juste au-dessus du plancher 4 000 (TradingKey, FXEmpire). Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "buy",
@@ -55,7 +55,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé : l'or est vers 4 075, à environ 75 $ au-dessus. TradingKey et FXEmpire placent un support clé à 4 000, scénario baissier en cas de CPI chaud. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Taille réduite.",
+   "note": "Plan gardé : l'or est vers 4 050 (plus bas du jour 4 040, Kitco), à environ 50 $ au-dessus. TradingKey et FXEmpire placent un support clé à 4 000 : c'est la cible probable après le CPI chaud. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Contre la tendance du jour : taille réduite, bougie de rejet obligatoire.",
    "invalidBelow": 3958
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 225 $ au-dessus (vers 4 075). Mitrade place une base vers 3 885–3 904, RoboForex un support clé à 3 895, et le plus bas récent vers 3 870 (30 oct.) est le plus bas depuis septembre 2025 (Tradingpedia). Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 200 $ au-dessus (vers 4 050). Mitrade place une base vers 3 885–3 904, RoboForex un support clé à 3 895, et le plus bas récent vers 3 870 (30 oct.) est le plus bas depuis septembre 2025 (Tradingpedia). Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -104,28 +104,28 @@
   },
   {
    "p": 4103,
-   "kind": "sup",
-   "label": "Moyenne 200 périodes 4 h vers 4 103 (Tradingpedia), seuil 4 100 (Goldreporter) : cassé ce matin"
+   "kind": "res",
+   "label": "Moyenne 200 périodes 4 h vers 4 103 (Tradingpedia), seuil 4 100 : stop de la vente sur rebond au-dessus (4 115)"
   },
   {
    "p": 4089,
-   "kind": "sup",
-   "label": "Premier support 4 088 (Kitco, FXEmpire) : cassé, plus bas du jour 4 067,8 (Kitco)"
+   "kind": "res",
+   "label": "Ancien support 4 088 (Kitco, FXEmpire) devenu résistance, zone de vente 4 085–4 100"
   },
   {
    "p": 4076,
-   "kind": "sup",
-   "label": "Zone d'achat 4 070–4 082 (prix actuel vers 4 075) : ancienne résistance 4 074–4 082 (Mitrade), clôture de vendredi 4 070 (Kitco), pivot S1 4 079 (FXEmpire)"
+   "kind": "res",
+   "label": "Ancienne zone d'achat 4 070–4 082 (Mitrade), clôture de vendredi 4 070 : cassée après le CPI"
   },
   {
    "p": 4059,
-   "kind": "sup",
-   "label": "Moyenne 20 jours vers 4 061 (InvestingCube), retracement 23,6 % vers 4 059 (Tradingpedia)"
+   "kind": "res",
+   "label": "Moyenne 20 jours vers 4 061 (InvestingCube) : cassée après le CPI"
   },
   {
    "p": 4050,
    "kind": "sup",
-   "label": "Support 4 050 (FXEmpire), 4 051 (FXEmpire, prochain support sous 4 088), moyenne 100 périodes 4 h vers 4 042 (Tradingpedia), invalidation de l'achat sous 4 045"
+   "label": "Support 4 050–4 051 (FXEmpire), plus bas du jour 4 040 (Kitco), objectif 1 de la vente"
   },
   {
    "p": 4030,
@@ -162,12 +162,12 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux maintenus à 3,75–4 % le 28 octobre, vote 10–2. Christopher Waller (Fed) veut monter les taux en décembre même si l'inflation a ralenti, et envisage un demi-point si elle empire (Reuters). Chances de hausse en décembre vers 99 % après ses propos (CME FedWatch via Reuters), 84 % selon Trading Economics. Réunion des 8–9 décembre."
+   "text": "Taux à 3,75–4 %. Christopher Waller penche pour une hausse d'un quart de point en décembre et dit qu'un demi-point « devrait être envisagé » si l'inflation de fond est vers 0,3 % ou plus, ce qu'a montré le CPI d'octobre (StockTitan). Le marché intègre environ 28 points de base de hausse (Trading Economics). Réunion le 9 décembre."
   },
   {
    "name": "Rendement américain à 10 ans",
-   "impact": 0,
-   "text": "Le rendement américain reste vers 4,88–4,89 % (Trading Economics, Goldreporter), loin du pic d'octobre à 5,36 % (Mitrade). Pression modérée sur l'or."
+   "impact": -1,
+   "text": "Le rendement américain monte vers 4,95 % (+0,06, Trading Economics), loin toutefois du pic d'octobre à 5,36 % (Mitrade)."
   },
   {
    "name": "Banque d'Angleterre",
@@ -176,8 +176,8 @@
   },
   {
    "name": "Croissance et inflation US",
-   "impact": -1,
-   "text": "PIB T3 à 3,4 %, PCE de septembre à 3,6 %, ISM services 54,5. CPI de septembre +0,6 % sur un mois, 3,7 % sur un an. Pour octobre, on attend +0,3 % sur un mois et +0,2 % hors énergie et alimentation (TradingKey) ; Natixis +0,29 % et +0,22 % (Mitrade). Pas de chiffre sur un an cette fois (shutdown)."
+   "impact": -2,
+   "text": "CPI d'octobre +0,4 % sur un mois (0,3 % attendu, 0,6 % en septembre), hors énergie et alimentation +0,3 % (0,2 % attendu) (StockTitan, Trading Economics). Pas de chiffre sur un an (shutdown). L'inflation de fond tourne vers 3,7 % en rythme annuel sur trois mois. PIB T3 à 3,4 %, PCE de septembre à 3,6 %."
   },
   {
    "name": "Emploi américain",
@@ -186,8 +186,8 @@
   },
   {
    "name": "Dollar",
-   "impact": 0,
-   "text": "L'indice dollar a reculé lundi (101,88 selon Mitrade) et reste stable vers 101,7 (+0,09 %, InvestingCube). Peu d'effet pour l'instant."
+   "impact": -1,
+   "text": "L'indice dollar monte vers 102,0 (+0,35 %, Trading Economics) après le CPI : pression sur l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -201,8 +201,8 @@
   },
   {
    "name": "Technique",
-   "impact": 0,
-   "text": "Rebond depuis le plus bas vers 3 870 (30 oct.). Lundi, clôture vers 4 140 (+1,7 %, Goldreporter), mais plus haut à 4 147 sous la résistance 4 150 et une ligne de tendance baissière (FXEmpire). Ce matin repli vers 4 075 (Kitco, plus bas du jour 4 067,8), juste au-dessus de la moyenne 20 jours vers 4 061 (InvestingCube), sous le support 4 088 et la moyenne 200 périodes 4 h vers 4 103, au-dessus de la 100 périodes vers 4 042 (Tradingpedia). RSI vers 55–57 (FXEmpire, Tradingpedia). L'or reste sous sa moyenne 200 jours vers 4 460 (FXEmpire). Résistances : 4 150, 4 180, 4 187–4 230, 4 300. Supports : 4 070–4 082, 4 042–4 059, 4 000."
+   "impact": -1,
+   "text": "Rebond depuis le plus bas vers 3 870 (30 oct.), plus haut à 4 147 lundi sous la résistance 4 150. Après le CPI, l'or tombe vers 4 050 (plus bas 4 040, Kitco) : il casse le support 4 088 et la moyenne 20 jours vers 4 061 (InvestingCube). Une clôture journalière sous cette moyenne remet 4 000 en vue. L'or reste sous sa moyenne 200 jours vers 4 460 (FXEmpire). Résistances : 4 061–4 082, 4 088–4 103, 4 150. Supports : 4 040–4 050, 4 000, 3 950."
   },
   {
    "name": "Achats des banques centrales",
@@ -226,9 +226,9 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter dans 4 070–4 082 sans bougie 1 h de rejet ni avant la réaction au CPI ; ne pas acheter au-dessus de 4 088 sous la résistance 4 150. Une clôture journalière sous la moyenne 20 jours (4 061) remettrait 4 000 en vue (InvestingCube).",
-  "Ne pas vendre avant 4 180–4 200 et sans bougie 1 h de rejet nette.",
-  "Ne pas ouvrir de position juste avant le CPI d'aujourd'hui 14h30 Paris (dans une vingtaine de minutes) : attendre la réaction.",
+  "Ne pas acheter maintenant vers 4 040–4 060 : le CPI chaud pousse vers 4 000, attendre ce niveau et une bougie de rejet.",
+  "Ne pas vendre au milieu de la baisse : attendre un rebond vers 4 085–4 100 ou 4 180–4 200 avec une bougie 1 h de rejet.",
+  "Volatilité forte après le CPI : attendre que la première heure soit passée avant toute entrée.",
   "Ne pas acheter vers 3 985–4 000 ou 3 830–3 850 sans bougie de rejet.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
  ],
@@ -279,7 +279,8 @@
    "at": "2026-11-10T13:30:00Z",
    "event": "Inflation CPI d'octobre",
    "importance": 3,
-   "why": "Inflation chaude = hausse de taux plus probable = pression sur l'or. Attendu +0,3 % sur un mois et +0,2 % hors énergie et alimentation (TradingKey) ; septembre était à +0,6 %. Pas de chiffre sur un an (shutdown). Doux = 4 150 puis 4 200, chaud = 4 000."
+   "why": "Inflation chaude = hausse de taux plus probable = pression sur l'or. Attendu +0,3 % sur un mois et +0,2 % hors énergie et alimentation (TradingKey) ; septembre était à +0,6 %. Pas de chiffre sur un an (shutdown). Doux = 4 150 puis 4 200, chaud = 4 000.",
+   "result": "+0,4 % sur un mois (0,3 % attendu), +0,3 % hors énergie (0,2 % attendu) : plus chaud que prévu, l'or chute vers 4 050 $"
   },
   {
    "at": "2026-11-13T13:30:00Z",
@@ -308,8 +309,20 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or spot à 4 075,30 $ (-64,10 $, -1,55 %) à 8h06 New York, fourchette du jour 4 067,80–4 147,40 (10 nov.)",
+   "title": "Kitco : or spot à 4 049,60 $ (-89,80 $, -2,17 %) à 8h58 New York, fourchette du jour 4 040,00–4 147,40 (10 nov.)",
    "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "StockTitan : CPI d'octobre +0,4 % (0,3 % attendu), hors énergie +0,3 % (0,2 % attendu), seuil de Waller pour un demi-point atteint (10 nov., 8h35 New York)",
+   "url": "https://www.stocktitan.net/articles/october-2026-cpi-inflation-report"
+  },
+  {
+   "title": "Trading Economics : or sous 4 060 $ (-2 %), CPI au-dessus des attentes, environ 28 points de base de hausse intégrés, dollar 102,0, rendement 4,95 % (10 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "USAGOLD : l'or recule de 2,1 % à 4 053 $, CPI d'octobre plus chaud que prévu (10 nov.)",
+   "url": "https://www.usagold.com/daily-precious-metals-market-report-november-10-2026/"
   },
   {
    "title": "Business Recorder (Reuters) : l'or recule de 1,6 % vers 4 071 $ à 11h53 GMT, Waller pour une hausse en décembre, environ 99 % de hausse Fed selon CME FedWatch (10 nov.)",
@@ -322,10 +335,6 @@
   {
    "title": "JournalArta : l'or glisse vers 4 065 $ en Asie, attente du CPI, seuil de 4 000 $ surveillé (10 nov.)",
    "url": "https://journalarta.com/en/2026/11/10/gold-slips-investors-await-us-cpi-data-4065-ounce/"
-  },
-  {
-   "title": "Trading Economics : or vers 4 075,7 $ (-1,57 %), dollar 101,78, rendement 4,90 %, Brent 90,1 $, WTI 85,0 $, 84 % de hausse Fed (10 nov.)",
-   "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
    "title": "FXEmpire : l'or tient 4 088 $ avant le CPI, peut-il casser 4 147 ? Supports 4 088 / 4 051, résistances 4 147 / 4 200, RSI 55 (10 nov., 08h22 GMT)",
@@ -350,22 +359,6 @@
   {
    "title": "Mitrade : l'or rebondit, dollar plus faible, CPI en vue, 82,2 % de hausse Fed, supports 4 074–4 082 / 4 025–4 036, résistances 4 145–4 157 / 4 187–4 227 (10 nov.)",
    "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-rebounds-dollar-weakens-cpi-focus"
-  },
-  {
-   "title": "FXEmpire : le rebond de l'or met 4 150 $ en vue, supports 4 050 / 4 000 / 3 950, moyenne 200 j vers 4 460 (9 nov.)",
-   "url": "https://fxempire.com/forecasts/article/gold-and-silver-price-forecast-rebound-puts-4150-and-55-in-focus-1643222"
-  },
-  {
-   "title": "RoboForex : prévision XAU/USD de la semaine, résistance 4 085, support 3 895, objectifs 4 150 / 4 227 (9 nov.)",
-   "url": "https://roboforex.com/beginners/analytics/forex-forecast/gold/xau-usd-gold-weekly-forecast-2026-11-09/"
-  },
-  {
-   "title": "Forexuro : perspectives XAU/USD de la semaine du CPI, résistances 4 106 / 4 138,8, supports 4 000 / 3 950 (7 nov.)",
-   "url": "https://forexuro.com/forecasts/xauusd-week-9-november-2026"
-  },
-  {
-   "title": "FinanceFeeds : scénarios 4 150 / 4 000 avant le CPI (9 nov.)",
-   "url": "https://financefeeds.com/gold-price-today-4112-monday-before-cpi-10-november-bull-4150-bear-4000/"
   }
  ]
 }
