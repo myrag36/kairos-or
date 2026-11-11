@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-11T07:10:00Z",
- "price": 4061,
- "change": 0.7,
- "priceTime": "11 nov. · 08h02 Paris",
+ "updatedAt": "2026-11-11T08:05:00Z",
+ "price": 4057,
+ "change": 0.6,
+ "priceTime": "11 nov. · 09h04 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (rebond technique après le CPI)",
- "summary": "L'or rebondit vers 4 061 $ (+0,7 %, Kitco à 8h02 Paris) après sa chute de 2,6 % d'hier, avec un plus bas de nuit à 4 026 et un plus haut à 4 067. C'est un rebond technique : le RSI 1 h était tombé à 28 (Mitrade), mais le CPI chaud reste en tête et une hausse de la Fed en décembre est jugée certaine, avec 10 à 12 % de chances pour un demi-point (FXEmpire, Mitrade). Le rendement à 10 ans est passé au-dessus de 5 % (Mitrade) et Lorie Logan (Fed de Dallas) n'exclut pas des hausses plus fortes. Le biais reste baissier et les quatre plans restent valables : on attend un rebond vers 4 085–4 100 pour vendre, ou un retour vers 3 985–4 000 pour acheter. Prochain chiffre important : les prix à la production (PPI) vendredi.",
+ "summary": "L'or reste stable vers 4 057 $ (+0,6 %, Kitco à 9h04 Paris), après un plus haut de nuit à 4 068 et un plus bas à 4 026. C'est toujours un rebond technique après la chute de 2,6 % d'hier : le CPI chaud reste en tête et les marchés voient environ 91 % de chances d'une hausse de la Fed en décembre (GoodReturns), avec un rendement à 10 ans au-dessus de 5 % (Mitrade). LiteFinance place un support à 4 036–4 047 puis 3 981–3 996, et les résistances restent 4 070–4 100 (GoodReturns). Le biais reste baissier et les quatre plans restent valables : on attend un rebond vers 4 085–4 100 pour vendre, ou un retour vers 3 985–4 000 pour acheter. Prochain chiffre important : les prix à la production (PPI) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 4 061 (Kitco, 8h02 Paris), environ 120 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), la moyenne mobile 50 jours vers 4 186 (FXEmpire) puis 4 187–4 227 (Mitrade) et 4 170–4 200 (GoodReturns) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 4 057 (Kitco, 9h04 Paris), environ 125 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), la moyenne mobile 50 jours vers 4 186 (FXEmpire) puis 4 187–4 227 (Mitrade) et 4 170–4 200 (GoodReturns) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -39,7 +39,7 @@
     4005
    ],
    "invalidAbove": 4112,
-   "note": "Plan gardé : l'or rebondit vers 4 061 (Kitco, 8h02 Paris), à environ 25 $ de la zone ; c'est le plan le plus proche. FXEmpire place la première résistance à 4 088, GoodReturns à 4 070–4 100, Mitrade à 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus du plancher 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
+   "note": "Plan gardé : l'or plafonne vers 4 057 (plus haut de nuit 4 068, Kitco, 9h04 Paris), à environ 30 $ de la zone ; c'est le plan le plus proche. FXEmpire place la première résistance à 4 088, GoodReturns à 4 070–4 100, Mitrade à 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus du plancher 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "buy",
@@ -55,7 +55,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé : l'or est vers 4 061 (plus bas de nuit 4 026, Kitco, 8h02 Paris), à environ 60 $ de la zone. GoodReturns place un support 3 970–4 000, FXEmpire un pivot S1 vers 3 988 et une zone 3 977–4 010. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Contre la tendance : taille réduite, bougie de rejet obligatoire.",
+   "note": "Plan gardé : l'or est vers 4 057 (plus bas de nuit 4 026, Kitco, 9h04 Paris), à environ 60 $ de la zone. LiteFinance place un support 3 981–3 996, GoodReturns place un support 3 970–4 000, FXEmpire un pivot S1 vers 3 988 et une zone 3 977–4 010. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Contre la tendance : taille réduite, bougie de rejet obligatoire.",
    "invalidBelow": 3958
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 210 $ au-dessus (vers 4 061). Mitrade place une base vers 3 885–3 904, GoodReturns un support 3 880–3 900, et le plus bas récent 3 870 (30 oct.) est le « bas principal » selon FXEmpire. Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 210 $ au-dessus (vers 4 057). Mitrade place une base vers 3 885–3 904, GoodReturns un support 3 880–3 900, et le plus bas récent 3 870 (30 oct.) est le « bas principal » selon FXEmpire. Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -110,7 +110,7 @@
   {
    "p": 4089,
    "kind": "res",
-   "label": "Résistance 4 088 (FXEmpire), 4 074–4 082 (Mitrade), 4 070–4 100 (GoodReturns) : zone de vente 4 085–4 100"
+   "label": "Résistance 4 088 (FXEmpire), 4 074–4 082 (Mitrade), 4 070–4 100 (GoodReturns) : zone de vente 4 085–4 100 ; objectif LiteFinance 4 092"
   },
   {
    "p": 4076,
@@ -118,14 +118,14 @@
    "label": "Ancienne zone d'achat 4 070–4 082 (Mitrade), clôture de vendredi 4 070 : cassée après le CPI"
   },
   {
-   "p": 4059,
+   "p": 4057,
    "kind": "res",
-   "label": "Pivot du jour vers 4 065 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel"
+   "label": "Pivot du jour vers 4 065 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 4 057"
   },
   {
    "p": 4050,
    "kind": "sup",
-   "label": "Pivot 4 051 (FXEmpire), objectif 1 de la vente sur rebond"
+   "label": "Pivot 4 051 (FXEmpire), support 4 036–4 047 (LiteFinance), objectif 1 de la vente sur rebond"
   },
   {
    "p": 4030,
@@ -162,7 +162,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux à 3,75–4 %. Hausse en décembre jugée certaine (CME FedWatch) : 88 % pour un quart de point, 12 % pour un demi-point (Mitrade). Waller laisse la porte ouverte à un demi-point, Lorie Logan (Dallas) parle de hausses plus fortes si besoin, Anna Paulson (Philadelphie) d'un resserrement graduel ; Thomas Barkin (Richmond) préfère attendre. Réunion les 8–9 décembre."
+   "text": "Taux à 3,75–4 %. Hausse en décembre jugée certaine (CME FedWatch) : 88 % pour un quart de point, 12 % pour un demi-point (Mitrade) ; environ 91 % de chances d'une hausse selon GoodReturns, contre 84 % avant le CPI. Waller laisse la porte ouverte à un demi-point, Lorie Logan (Dallas) parle de hausses plus fortes si besoin, Anna Paulson (Philadelphie) d'un resserrement graduel ; Thomas Barkin (Richmond) préfère attendre. Réunion les 8–9 décembre."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -202,7 +202,7 @@
   {
    "name": "Technique",
    "impact": -1,
-   "text": "Après la chute à 4 026, l'or rebondit vers 4 061 (Kitco). Le RSI 1 h est remonté depuis 28 (Mitrade), le RSI journalier est vers 46 (GoodReturns). Le prix reste sous ses moyennes mobiles, dont la 50 jours (4 186) et la 200 jours (4 455) (FXEmpire). Résistances : 4 070–4 100, puis 4 148. Supports : 4 051, 4 022, puis 3 970–4 000. Il faut repasser au-dessus de 4 100 pour stabiliser (GoodReturns)."
+   "text": "Après la chute à 4 026, l'or rebondit vers 4 057, plus haut de nuit 4 068 (Kitco). Le RSI 1 h est remonté depuis 28 (Mitrade), le RSI journalier est vers 46 (GoodReturns). Le prix reste sous ses moyennes mobiles, dont la 50 jours (4 186) et la 200 jours (4 455) (FXEmpire). Résistances : 4 070–4 100, puis 4 148. Supports : 4 051, 4 022, puis 3 970–4 000. Il faut repasser au-dessus de 4 100 pour stabiliser (GoodReturns)."
   },
   {
    "name": "Achats des banques centrales",
@@ -227,7 +227,7 @@
  ],
  "noTrade": [
   "Ne pas acheter maintenant vers 4 040–4 070 : attendre la zone 3 985–4 000 et une bougie 1 h de rejet.",
-  "Ne pas vendre au milieu du rebond vers 4 060 : attendre 4 085–4 100 ou 4 180–4 200 avec une bougie 1 h de rejet.",
+  "Ne pas vendre au milieu du rebond vers 4 057 : attendre 4 085–4 100 ou 4 180–4 200 avec une bougie 1 h de rejet.",
   "Volatilité encore forte après le CPI : pas d'entrée sans bougie 1 h de confirmation.",
   "Ne pas acheter vers 3 985–4 000 ou 3 830–3 850 sans bougie de rejet.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
@@ -309,8 +309,16 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or spot à 4 061,20 $ (+29,40 $, +0,73 %) à 2h02 New York, fourchette 4 025,80–4 066,80 (11 nov.)",
+   "title": "Kitco : or spot à 4 057,20 $ (+25,40 $, +0,63 %) à 3h04 New York, fourchette 4 025,80–4 067,90 (11 nov.)",
    "url": "https://www.kitco.com/charts/gold"
+  },
+  {
+   "title": "LiteFinance : analyse court terme XAUUSD, supports 4 036–4 047 / 3 981–3 996, objectifs 4 092 / 4 148 (11 nov., 09h30)",
+   "url": "https://www.litefinance.org/blog/analysts-opinions/short-term-analysis-for-oil-gold-and-eurusd-for-11112026/"
+  },
+  {
+   "title": "India TV : or spot à 4 063,72 $ (+1,02 %) à 12h30 heure indienne, hausse Fed en décembre toujours attendue (11 nov.)",
+   "url": "https://www.indiatvnews.com/business/news/gold-registers-gains-on-mcx-silver-too-jumps-after-recent-slides-check-city-wise-rates-2026-11-11-1059154"
   },
   {
    "title": "FXEmpire : CPI chaud, chances d'un demi-point en hausse, l'or peut-il tenir 4 051 $ ? Résistances 4 088 / 4 148, supports 4 051 / 4 022, RSI 50 (11 nov., 06h30 GMT)",
