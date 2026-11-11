@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-11T15:05:00Z",
- "price": 4014,
- "change": -0.5,
- "priceTime": "11 nov. · 16h00 Paris",
+ "updatedAt": "2026-11-11T16:05:00Z",
+ "price": 4003,
+ "change": -0.7,
+ "priceTime": "11 nov. · 17h00 Paris",
  "bias": "sell",
- "biasLabel": "Baissier (rebond technique après le CPI)",
- "summary": "L'or rechute vers 4 014 $ (-0,5 %, Kitco à 16h00 Paris) et casse le plus bas de nuit : nouveau plus bas du jour à 4 010, plus haut 4 068. Le dollar accélère vers 102,9 (+0,7 %, Trading Economics), la hausse de la Fed en décembre est entièrement intégrée et Goolsbee (Chicago) juge le CPI « presque inquiétant » (Gulf News). Le biais reste baissier : Pepperstone surveille 4 000, dont la cassure ouvrirait 3 960, et demande un retour au-dessus de 4 100–4 110 pour redevenir haussier. Les quatre plans restent valables : l'achat 3 985–4 000 est maintenant à environ 15 $, mais il faut une bougie 1 h de rejet ; la vente attend toujours un rebond vers 4 085–4 100. Aucun chiffre majeur aujourd'hui ; prochain rendez-vous : les prix à la production (PPI) vendredi.",
+ "biasLabel": "Baissier (l'or teste 4 000 $)",
+ "summary": "L'or glisse vers 4 003 $ (-0,7 %, Kitco à 16h57 Paris) et touche le plancher des 4 000 : plus bas du jour 3 999,80, plus haut 4 068. Le dollar reste au plus haut depuis avril 2025 vers 102,9 (+0,6 %) et le marché voit une hausse de la Fed en décembre comme certaine (Trading Economics). Le biais reste baissier : Pepperstone surveille 4 000, dont la cassure ouvrirait 3 960, et il faut repasser 4 100–4 110 pour redevenir haussier. Les quatre plans restent valables : le prix est maintenant dans la zone d'achat 3 985–4 000, mais seulement avec une bougie 1 h de rejet qui clôture au-dessus de 4 000 ; une clôture sous 3 958 annule ce plan. Aucun chiffre majeur aujourd'hui ; prochain rendez-vous : les prix à la production (PPI) vendredi.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 4 014 (Kitco, 16h00 Paris), environ 165 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), la moyenne mobile 50 jours vers 4 186 (FXEmpire) puis 4 187–4 227 (Mitrade) et 4 170–4 200 (GoodReturns) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 4 003 (Kitco, 16h57 Paris), environ 175 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), la moyenne mobile 50 jours vers 4 186 (FXEmpire) puis 4 187–4 227 (Mitrade) et 4 170–4 200 (GoodReturns) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -39,12 +39,12 @@
     4005
    ],
    "invalidAbove": 4112,
-   "note": "Plan gardé : l'or retombe vers 4 014 (plus haut du jour 4 068, Kitco, 16h00 Paris), à environ 70 $ de la zone. Pepperstone place aussi la résistance clé à 4 100–4 110 (Gulf News). FXEmpire place la première résistance à 4 088, GoodReturns à 4 070–4 100, Mitrade à 4 074–4 082, KuCoin un retracement 23,6 % à 4 080. Objectif 1 sur 4 050, objectif 2 juste au-dessus du plancher 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
+   "note": "Plan gardé : l'or retombe vers 4 003 (plus haut du jour 4 068, Kitco, 16h57 Paris), à environ 80 $ de la zone. Pepperstone place aussi la résistance clé à 4 100–4 110 (Gulf News). FXEmpire place la première résistance à 4 088, GoodReturns à 4 070–4 100, Mitrade à 4 074–4 082, KuCoin un retracement 23,6 % à 4 080. Objectif 1 sur 4 050, objectif 2 juste au-dessus du plancher 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "buy",
    "name": "Achat sur retour vers 4 000",
-   "status": "watch",
+   "status": "active",
    "zone": [
     3985,
     4000
@@ -55,7 +55,7 @@
     4035,
     4110
    ],
-   "note": "Plan gardé : l'or est vers 4 014 (plus bas du jour 4 010, Kitco, 16h00 Paris), à environ 15 $ de la zone : c'est le plan le plus proche. Pepperstone surveille 4 000 de près, une cassure nette viserait 3 960 (Gulf News). LiteFinance place un support 3 981–3 996, GoodReturns place un support 3 970–4 000, FXEmpire un pivot S1 vers 3 988, KuCoin des retracements à 4 008 et 3 975 et une zone 3 977–4 010. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Contre la tendance : taille réduite, bougie de rejet obligatoire.",
+   "note": "Plan gardé : l'or est entré dans la zone (4 003, plus bas du jour 3 999,80, Kitco, 16h57 Paris). N'entrer que sur une bougie 1 h de rejet qui clôture au-dessus de 4 000. Pepperstone surveille 4 000 de près, une cassure nette viserait 3 960 (Gulf News). LiteFinance place un support 3 981–3 996, GoodReturns place un support 3 970–4 000, FXEmpire un pivot S1 vers 3 988, KuCoin des retracements à 4 008 et 3 975 et une zone 3 977–4 010. Objectif 1 sous 4 039, objectif 2 vers 4 100–4 115. Stop sous le support 3 970–3 980 (Mitrade). Une clôture 1 h sous 3 958 annule le plan. Contre la tendance : taille réduite, bougie de rejet obligatoire.",
    "invalidBelow": 3958
   },
   {
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : la zone est loin, l'or est à environ 165 $ au-dessus (vers 4 014). Mitrade place une base vers 3 885–3 904, GoodReturns un support 3 880–3 900, et le plus bas récent 3 870 (30 oct.) est le « bas principal » selon FXEmpire. Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : la zone est loin, l'or est à environ 155 $ au-dessus (vers 4 003). Mitrade place une base vers 3 885–3 904, GoodReturns un support 3 880–3 900, et le plus bas récent 3 870 (30 oct.) est le « bas principal » selon FXEmpire. Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -120,7 +120,7 @@
   {
    "p": 4051,
    "kind": "res",
-   "label": "Pivot du jour 4 062,75 (Forexuro), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 4 014, sous le pivot"
+   "label": "Pivot du jour 4 062,75 (Forexuro), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 4 003, sous le pivot"
   },
   {
    "p": 4050,
@@ -135,7 +135,7 @@
   {
    "p": 3992,
    "kind": "sup",
-   "label": "Zone d'achat 3 985–4 000 : plancher clé 4 000 (TradingKey, Pepperstone), retracement 3 977–4 010 (FXEmpire) ; plus bas du jour 4 010 (Kitco)"
+   "label": "Zone d'achat 3 985–4 000 : plancher clé 4 000 (TradingKey, Pepperstone), retracement 3 977–4 010 (FXEmpire) ; plus bas du jour 3 999,80 (Kitco), prix dans la zone"
   },
   {
    "p": 3975,
@@ -187,7 +187,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Le dollar a pris 0,53 % mardi après le CPI (FXEmpire). Il accélère ce mercredi : indice vers 102,93 (+0,69 %), au plus haut depuis avril 2025 (Trading Economics)."
+   "text": "Le dollar a pris 0,53 % mardi après le CPI (FXEmpire). Il monte encore ce mercredi : indice vers 102,87 (+0,62 %), au plus haut depuis avril 2025 (Trading Economics)."
   },
   {
    "name": "Élections de mi-mandat",
@@ -202,12 +202,12 @@
   {
    "name": "Technique",
    "impact": -1,
-   "text": "Après la chute à 4 026, l'or a rebondi jusqu'à 4 068 puis rechute à 4 010, nouveau plus bas du jour (Kitco, 16h00 Paris). Le RSI journalier était vers 46 (GoodReturns). Le prix reste sous ses moyennes mobiles, dont la 50 jours (4 186) et la 200 jours (4 455) (FXEmpire). Résistances : 4 051–4 063, 4 088–4 110, puis 4 148. Supports : 4 000, puis 3 960–3 970. Il faut repasser au-dessus de 4 100–4 110 pour stabiliser (GoodReturns, Pepperstone)."
+   "text": "Après la chute à 4 026, l'or a rebondi jusqu'à 4 068 puis rechute à 3 999,80, nouveau plus bas du jour, au contact du plancher 4 000 (Kitco, 16h57 Paris). Le RSI journalier était vers 46 (GoodReturns). Le prix reste sous ses moyennes mobiles, dont la 50 jours (4 186) et la 200 jours (4 455) (FXEmpire). Résistances : 4 051–4 063, 4 088–4 110, puis 4 148. Supports : 4 000, puis 3 960–3 970. Il faut repasser au-dessus de 4 100–4 110 pour stabiliser (GoodReturns, Pepperstone)."
   },
   {
    "name": "Achats des banques centrales",
    "impact": 1,
-   "text": "Environ 170 tonnes achetées en 2026. La banque centrale chinoise a acheté environ 25,8 tonnes en octobre, sa plus forte hausse mensuelle depuis septembre 2023 (FXEmpire). Un soutien de fond sur les baisses."
+   "text": "Environ 170 tonnes achetées en 2026. La banque centrale chinoise a acheté environ 25,8 tonnes en octobre, sa plus forte hausse mensuelle depuis septembre 2023 (FXEmpire). Un soutien de fond sur les baisses. Kitco note que la Chine achète de l'or depuis deux ans d'affilée."
   },
   {
    "name": "ETF sur l'or",
@@ -226,8 +226,8 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter maintenant vers 4 010–4 015 : attendre la zone 3 985–4 000 et une bougie 1 h de rejet.",
-  "Ne pas vendre au plus bas du jour vers 4 014 : attendre un rebond vers 4 085–4 100 ou 4 180–4 200 avec une bougie 1 h de rejet.",
+  "Ne pas acheter dans 3 985–4 000 sans bougie 1 h de rejet qui clôture au-dessus de 4 000 : une cassure nette viserait 3 960.",
+  "Ne pas vendre au plus bas du jour vers 4 000 : attendre un rebond vers 4 085–4 100 ou 4 180–4 200 avec une bougie 1 h de rejet.",
   "Volatilité encore forte après le CPI : pas d'entrée sans bougie 1 h de confirmation.",
   "Ne pas acheter vers 3 985–4 000 ou 3 830–3 850 sans bougie de rejet.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
@@ -309,11 +309,11 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or spot à 4 013–4 015 $ (-18,80 $, -0,47 %) à 10h02 New York, fourchette 4 010,10–4 067,90 (11 nov.)",
+   "title": "Kitco : or spot à 4 002,50–4 004,50 $ (-29,30 $, -0,73 %) à 10h57 New York, fourchette 3 999,80–4 067,90 ; « l'or trouve un support solide à 4 000 $ » (11 nov.)",
    "url": "https://www.kitco.com/charts/gold"
   },
   {
-   "title": "Trading Economics : l'or vers 4 013,60 $ (-0,47 %), dollar 102,93 (+0,69 %) au plus haut depuis avril 2025 (11 nov.)",
+   "title": "Trading Economics : l'or vers 4 004 $ (-0,70 %), dollar 102,87 (+0,62 %) au plus haut depuis avril 2025, hausse Fed de décembre vers 100 % (CME FedWatch) (11 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
