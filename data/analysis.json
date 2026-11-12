@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-12T12:05:00Z",
- "price": 3946,
- "change": -1.05,
- "priceTime": "12 nov. · 13h03 Paris",
+ "updatedAt": "2026-11-12T13:08:00Z",
+ "price": 3937,
+ "change": -1.28,
+ "priceTime": "12 nov. · 14h06 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 4 000)",
- "summary": "L'or repart à la baisse après son petit rebond : 3 946 $ (-1,05 %) à 13h03 Paris, dans une fourchette du jour 3 924,30–4 001,20 (Kitco ; 3 946,29 selon Trading Economics). Il repasse sous l'ancien support 3 942–3 944, avec un dollar stable vers 102,9 et un rendement américain vers 5 %. Les marchés voient environ 91 % de chances d'une hausse de la Fed en décembre ; Waller juge un demi-point possible et Logan veut au moins deux hausses de plus (Trading Economics). Le biais reste baissier sous 4 000 : résistances 3 992–4 005 puis 4 022, supports 3 924 puis 3 896–3 900. Aucun plan n'est invalidé ; prochain rendez-vous : les prix à la production (PPI) vendredi à 14h30 Paris.",
+ "summary": "L'or recule encore : 3 937 $ (-1,28 %) à 14h06 Paris, dans une fourchette du jour 3 924,30–4 001,20 (Kitco ; 3 936,63 selon Trading Economics). Il reste sous l'ancien support 3 942–3 944, avec un dollar ferme vers 102,9 et un rendement américain vers 5 %. Les marchés voient environ 91 % de chances d'une hausse de la Fed en décembre ; Waller juge un demi-point possible et Logan veut au moins deux hausses de plus (Trading Economics). Le biais reste baissier sous 4 000 : résistances 3 944, 3 992–4 005 puis 4 022, supports 3 924 puis 3 896–3 900. Aucun plan n'est invalidé ; prochain rendez-vous : les prix à la production (PPI) vendredi à 14h30 Paris.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 3 946 (Kitco, 13h03 Paris), environ 235 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), la moyenne mobile 50 jours vers 4 186 (FXEmpire) puis 4 187–4 227 (Mitrade) et 4 170–4 200 (GoodReturns) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 3 937 (Kitco, 14h06 Paris), environ 235 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), la moyenne mobile 50 jours vers 4 186 (FXEmpire) puis 4 187–4 227 (Mitrade) et 4 170–4 200 (GoodReturns) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -39,7 +39,7 @@
     4005
    ],
    "invalidAbove": 4112,
-   "note": "Plan gardé : l'or est vers 3 946 (Kitco, 13h03 Paris), à environ 140 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110 (Gulf News), FOREX.com à 4 106–4 140 (Kitco). FXEmpire place la première résistance à 4 088, GoodReturns à 4 070–4 100, Mitrade à 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 937 (Kitco, 14h06 Paris), à environ 140 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110 (Gulf News), FOREX.com à 4 106–4 140 (Kitco). FXEmpire place la première résistance à 4 088, GoodReturns à 4 070–4 100, Mitrade à 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "sell",
@@ -56,7 +56,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 946 (Kitco, 13h03 Paris), à environ 50 $ sous la zone ; il n'est pas remonté vers 4 000, donc pas d'entrée. FXEmpire place le pivot à 3 992 et la résistance à 4 022 ; supports 3 896 (FXEmpire) et 3 900 (TD Securities). Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
+   "note": "Plan gardé : l'or est vers 3 937 (Kitco, 14h06 Paris), à environ 60 $ sous la zone ; il n'est pas remonté vers 4 000, donc pas d'entrée. FXEmpire place le pivot à 3 992 et la résistance à 4 022 ; supports 3 896 (FXEmpire) et 3 900 (TD Securities). Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
   },
   {
    "side": "buy",
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : l'or est à environ 95 $ au-dessus de la zone (vers 3 946). Supports intermédiaires 3 896 (FXEmpire), 3 900 (TD Securities), plus bas récent vers 3 870 (FOREX.com). RSI vers 29 (FXEmpire) : la survente peut favoriser un rebond sur un support. Taille réduite, pas d'entrée sans bougie de rejet.",
+   "note": "Plan gardé : l'or est à environ 85 $ au-dessus de la zone (vers 3 937). Supports intermédiaires 3 896 (FXEmpire), 3 900 (TD Securities), plus bas récent vers 3 870 (FOREX.com). RSI vers 29 (FXEmpire) : la survente peut favoriser un rebond sur un support. Taille réduite, pas d'entrée sans bougie de rejet.",
    "invalidBelow": 3815
   }
  ],
@@ -120,7 +120,7 @@
   {
    "p": 4051,
    "kind": "res",
-   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 946, bien en dessous"
+   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 937, bien en dessous"
   },
   {
    "p": 4050,
@@ -145,7 +145,7 @@
   {
    "p": 3945,
    "kind": "res",
-   "label": "Ancien support 3 942–3 944 (FOREX.com, FXEmpire), repassé à 12h puis de nouveau cassé vers 3 946 à 13h03 Paris : objectif 1 de la vente"
+   "label": "Ancien support 3 942–3 944 (FOREX.com, FXEmpire), repassé à 12h puis de nouveau cassé, prix vers 3 937 à 14h06 Paris : objectif 1 de la vente"
   },
   {
    "p": 3925,
@@ -197,7 +197,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Le dollar reste vers 103, au plus haut depuis avril 2025 (India TV, Trading Economics) ; indice à 102,87 ce jeudi (Trading Economics)."
+   "text": "Le dollar reste vers 103, au plus haut depuis avril 2025 (Trading Economics) ; indice à 102,93 ce jeudi (Trading Economics). 5paisa parle d'un plus haut de 19 mois."
   },
   {
    "name": "Élections de mi-mandat",
@@ -212,7 +212,7 @@
   {
    "name": "Technique",
    "impact": -1,
-   "text": "Troisième séance de baisse : plus bas du jour 3 924,30, rebond vers 3 954 vers midi puis retour vers 3 946 à 13h03 Paris (Kitco). Le prix repasse sous l'ancien support 3 944, sans signal de retournement ; la ligne de tendance montante depuis le 3 novembre est cassée et le prix reste sous ses moyennes mobiles (FXEmpire). RSI en survente (FXEmpire). Résistances : 3 944, 3 992, 4 000 puis 4 022. Supports : 3 924, 3 896–3 900 puis 3 870, 3 738 (FXEmpire, TD Securities, FOREX.com)."
+   "text": "Troisième séance de baisse : plus bas du jour 3 924,30, rebond vers 3 954 vers midi puis retour vers 3 937 à 14h06 Paris (Kitco). Le prix repasse sous l'ancien support 3 944, sans signal de retournement ; la ligne de tendance montante depuis le 3 novembre est cassée et le prix reste sous ses moyennes mobiles (FXEmpire). RSI en survente (FXEmpire). Résistances : 3 944, 3 992, 4 000 puis 4 022. Supports : 3 924, 3 896–3 900 puis 3 870, 3 738 (FXEmpire, TD Securities, FOREX.com)."
   },
   {
    "name": "Achats des banques centrales",
@@ -236,8 +236,8 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 3 946 : le rebond s'essouffle sous 4 000, pas de signal de retournement.",
-  "Ne pas vendre en plein milieu vers 3 945 : RSI en survente, attendre une remontée vers 3 995–4 005 ou 4 085–4 100 avec une bougie 1 h de rejet.",
+  "Ne pas acheter vers 3 937 : le rebond s'essouffle sous 4 000, pas de signal de retournement.",
+  "Ne pas vendre en plein milieu vers 3 935 : RSI en survente, attendre une remontée vers 3 995–4 005 ou 4 085–4 100 avec une bougie 1 h de rejet.",
   "Prudence avant le PPI de vendredi 14h30 Paris : pas de nouvelle position dans l'heure qui précède.",
   "Ne pas acheter vers 3 830–3 850 sans bougie de rejet.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
@@ -319,12 +319,16 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or spot à 3 945,00–3 947,00 $ (-42,00 $, -1,05 %) à 7h03 New York, fourchette 3 924,30–4 001,20 (12 nov.)",
+   "title": "Kitco : or spot à 3 936,00–3 938,00 $ (-51,00 $, -1,28 %) à 8h06 New York, fourchette 3 924,30–4 001,20 (12 nov.)",
    "url": "https://www.kitco.com/charts/gold"
   },
   {
-   "title": "Trading Economics : l'or vers 3 946,29 $ (-1,04 %), troisième baisse, 91 % de chances d'une hausse en décembre, Waller et Logan fermes, dollar 102,87, Brent 92,0 $ (12 nov.)",
+   "title": "Trading Economics : l'or à 3 936,63 $ (-1,28 %), troisième baisse, 91 % de chances d'une hausse en décembre, Waller et Logan fermes, dollar 102,93, Brent 92,1 $ (12 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "5paisa : l'or international vers 3 959 $, plus bas depuis plus d'une semaine, inflation US et dollar au plus haut de 19 mois (12 nov.)",
+   "url": "https://www.5paisa.com/blog/gold-rate-today-12-november-2026"
   },
   {
    "title": "FXEmpire : la Fed durcit le ton, l'or peut-il tenir 3 944 $ ? Supports 3 944 / 3 896, résistances 3 992 / 4 022, RSI vers 29 (12 nov., 07h13 GMT)",
