@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-12T20:08:00Z",
- "price": 3882,
- "change": -2.63,
- "priceTime": "12 nov. · 20h45 Paris",
+ "updatedAt": "2026-11-13T07:08:00Z",
+ "price": 3900,
+ "change": 0.62,
+ "priceTime": "13 nov. · 8h05 Paris",
  "bias": "sell",
- "biasLabel": "Baissier (l'or sous 3 900)",
- "summary": "L'or reste sous pression : 3 882 $ (-2,63 %) à 20h45 Paris (Kitco ; 3 881,80 selon Trading Economics), après un plus bas du jour à 3 852,10. Le prix stagne autour de l'ancien plancher d'un an du 30 octobre (3 869,85), sans signal de retournement. Le dollar reste au plus haut depuis 19 mois (indice à 103,18, +0,27 %), le rendement américain vers 5,11 % et les marchés voient environ 90 % de chances d'une hausse de la Fed en décembre (Trading Economics). Le biais reste baissier sous 3 900 : résistances 3 885–3 900, 3 944 puis 3 992–4 005 ; supports 3 844–3 813 puis 3 800 (LiteFinance, CPM Group). Aucun plan n'est invalidé ; prochain rendez-vous : le PPI vendredi à 14h30 Paris.",
+ "biasLabel": "Baissier (l'or sous 3 900–3 970)",
+ "summary": "L'or rebondit un peu ce vendredi matin : 3 900 $ (+0,62 %) selon Trading Economics, après une clôture jeudi à 3 877 $ (-2,76 %) et un plus bas d'un an à 3 852. Ce rebond reste faible : le dollar tient vers 103,1, le rendement américain à 10 ans vers 5,13 % et les marchés voient environ 85 % de chances d'une hausse d'un quart de point de la Fed en décembre et 15 % d'un demi-point (Trading Economics). Le biais reste baissier sous 3 911–3 970 : résistances 3 911, 3 930, 3 950–3 970 puis 4 000 ; supports 3 850, 3 822 puis 3 780–3 800 (TradingKey, TraderFactor, FXEmpire). Aucun plan n'est invalidé : la zone d'achat 3 832–3 850 n'a pas été touchée et les zones de vente sont plus haut. Rendez-vous clé : le PPI à 14h30 Paris, attendu à +0,4 % sur un mois ; pas de nouvelle position dans l'heure qui précède.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 3 882 (Kitco, 20h45 Paris), environ 310 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), la moyenne mobile 50 jours vers 4 186 (FXEmpire) puis 4 187–4 227 (Mitrade) et 4 170–4 200 (GoodReturns) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 074–4 083. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 3 900 (Trading Economics, 8h05 Paris), environ 280 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), la moyenne mobile 50 jours vers 4 186 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -39,7 +39,7 @@
     4005
    ],
    "invalidAbove": 4112,
-   "note": "Plan gardé : l'or est vers 3 882 (Kitco, 20h45 Paris), à environ 215 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110 (Gulf News), FOREX.com à 4 106–4 140 (Kitco). FXEmpire place la première résistance à 4 088, GoodReturns à 4 070–4 100, Mitrade à 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 900 (Trading Economics, 8h05 Paris), à environ 185 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "sell",
@@ -56,7 +56,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 882 (Kitco, 20h45 Paris), à environ 125 $ sous la zone ; il n'est pas remonté vers 4 000, donc pas d'entrée, et le plan passe en surveillance. FXEmpire place le pivot à 3 992 et la résistance à 4 022 ; LiteFinance voit 3 981–3 996 comme limite de la tendance courte, désormais cassée. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
+   "note": "Plan gardé : l'or est vers 3 900 (Trading Economics, 8h05 Paris), à environ 95 $ sous la zone. TradingKey et FXEmpire placent une résistance à 4 000 ; le plus haut de jeudi était 4 001,20 (Kitco). Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
   },
   {
    "side": "buy",
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé : le plus bas du jour 3 852,10 (Kitco) s'est arrêté à 2 $ au-dessus de la zone, et l'or est revenu vers 3 882 (Kitco, 20h45 Paris). LiteFinance vise 3 844–3 813 après la cassure de 3 981–3 996, ce qui confirme la zone ; CPM Group voit un support plus bas vers 3 800. La baisse reste rapide, donc pas d'entrée sans bougie de rejet. Taille réduite.",
+   "note": "Plan gardé : le plus bas de jeudi 3 852 (Kitco, TradingKey) s'est arrêté juste au-dessus de la zone et l'or est remonté vers 3 900. TradingKey place le support à 3 850 puis 3 800, TraderFactor à 3 870 puis 3 822, FXEmpire voit 3 780 en cas de PPI chaud. Le RSI 4 h est en forte survente (FXEmpire), mais la tendance reste baissière : pas d'entrée sans bougie de rejet, taille réduite.",
    "invalidBelow": 3815
   }
  ],
@@ -143,29 +143,39 @@
    "label": "Ancien support 3 970–3 980 (Mitrade), cassé dans la nuit"
   },
   {
+   "p": 3970,
+   "kind": "res",
+   "label": "Résistance 3 950–3 970 (TradingKey), R1 3 970 (FXEmpire, TraderFactor)"
+  },
+  {
    "p": 3945,
    "kind": "res",
    "label": "Ancien support 3 942–3 944 (FOREX.com, FXEmpire), cassé : résistance, objectif 1 de la vente"
   },
   {
-   "p": 3925,
+   "p": 3930,
    "kind": "res",
-   "label": "Ancien plus bas du matin 3 924,30 (Kitco), cassé"
+   "label": "Résistance 3 930 (TradingKey), ancien plus bas du matin de jeudi 3 924"
+  },
+  {
+   "p": 3911,
+   "kind": "res",
+   "label": "Pivot 3 911 (FXEmpire), résistance 3 911 (TraderFactor) : au-dessus, la pression vendeuse se calme"
   },
   {
    "p": 3900,
    "kind": "res",
-   "label": "Ancien support 3 896–3 900 (FXEmpire, TD Securities), cassé vers 14h50 Paris : résistance, objectif 2 de la vente"
+   "label": "Prix actuel vers 3 900 (Trading Economics), ancien support 3 896–3 900 cassé jeudi"
   },
   {
-   "p": 3885,
-   "kind": "res",
-   "label": "Ancien plus bas du jour 3 884,30 et base 3 885–3 904 (Mitrade), cassés : résistance"
+   "p": 3870,
+   "kind": "sup",
+   "label": "Ancien plus bas d'un an 3 870 (30 oct.), support 3 870 (TraderFactor), clôture de jeudi 3 877"
   },
   {
    "p": 3852,
    "kind": "sup",
-   "label": "Plus bas du jour 3 852,10 (Kitco), sous l'ancien plus bas d'un an 3 869,85 (30 oct.)"
+   "label": "Plus bas de jeudi 3 852 (Kitco, TradingKey), proche du retracement 78,6 %"
   },
   {
    "p": 3840,
@@ -173,21 +183,31 @@
    "label": "Support 3 829–3 849 (Mitrade), objectif 3 813–3 844 (LiteFinance) : zone d'achat 3 832–3 850"
   },
   {
+   "p": 3822,
+   "kind": "sup",
+   "label": "Support 3 822 (TraderFactor, S1 FXEmpire)"
+  },
+  {
    "p": 3800,
    "kind": "sup",
-   "label": "Support possible vers 3 800 (CPM Group), sous le stop de l'achat (3 815)"
+   "label": "Support 3 800 (TradingKey, CPM Group), sous le stop de l'achat (3 815)"
+  },
+  {
+   "p": 3780,
+   "kind": "sup",
+   "label": "Support 3 780 (FXEmpire, bas du biseau 4 h), extension 127,2 % à 3 794 (FXEmpire)"
   }
  ],
  "factors": [
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux à 3,75–4 %. Près de 90 % de chances d'une hausse d'un quart de point en décembre et environ 10 % d'un demi-point (CME FedWatch, Trading Economics) ; 13,2 % de chances d'un demi-point selon CME FedWatch (Kitco). TD Securities voit près de 0,75 point de hausses au total. Waller juge un demi-point « peut-être nécessaire », Logan veut au moins deux hausses de plus, Paulson et Bowman restent fermes (Trading Economics). Goolsbee juge le CPI « presque inquiétant » (Investing.com). Les marchés intègrent aussi une hausse en mars 2027 (FXEmpire). Réunion les 8–9 décembre."
+   "text": "Taux à 3,75–4 %. Environ 85 % de chances d'une hausse d'un quart de point en décembre et 15 % d'un demi-point (Trading Economics) ; FXEmpire cite 89 % pour un quart de point. Waller juge un demi-point « peut-être nécessaire », Logan veut au moins deux hausses de plus (Trading Economics). Un PPI chaud renforcerait ces paris (TradingKey). Réunion les 8–9 décembre."
   },
   {
    "name": "Rendement américain à 10 ans",
    "impact": -1,
-   "text": "Le rendement américain monte vers 5,11 % (Trading Economics) ; FXEmpire voit une hausse vers 5,30 % si 5 % est franchi nettement. Pic d'octobre à 5,36 %."
+   "text": "Le rendement américain reste vers 5,13 % (Trading Economics), au-dessus de 5,1 % (TraderFactor). Pic d'octobre à 5,36 %."
   },
   {
    "name": "Banque d'Angleterre",
@@ -207,7 +227,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Le dollar reste au plus haut depuis 19 mois après le CPI chaud ; indice à 103,18 (+0,27 %) ce jeudi en fin de journée (Trading Economics)."
+   "text": "Le dollar reste près de son plus haut depuis 19 mois : indice vers 103,09 (-0,08 %) ce vendredi matin (Trading Economics), 103,18 selon TraderFactor."
   },
   {
    "name": "Élections de mi-mandat",
@@ -217,12 +237,12 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 0,
-   "text": "Le pétrole monte : Brent vers 96 $ (+3,5 %), WTI vers 88,9 $ (+2,8 %) (Trading Economics). Donald Trump a dit que les États-Unis n'avaient pas besoin d'un accord avec l'Iran ; le regain du pétrole nourrit surtout la crainte d'inflation (Trading Economics, FXStreet)."
+   "text": "Brent clôturé jeudi à 95,94 $ (+3,78 %), WTI à 88,69 $ (+2,64 %), après des attaques houthies contre des stations de pipeline saoudiennes et les propos de Donald Trump sur l'Iran (TradingKey). Le pétrole cher nourrit surtout la crainte d'inflation."
   },
   {
    "name": "Technique",
    "impact": -1,
-   "text": "Troisième séance de baisse : plus bas du jour 3 852,10, prix vers 3 882 à 20h45 Paris (Kitco), autour du plus bas d'un an 3 869,85. Le prix a cassé 3 944, 3 896–3 900 puis 3 870, sans signal de retournement ; léger rebond depuis 3 852, sans élan. FXEmpire voit 3 500–3 600 si 3 900 cède. RSI en survente (FXEmpire). Résistances : 3 885–3 900, 3 944, 3 992–4 000. Supports : 3 844–3 813 puis 3 800 (LiteFinance, CPM Group)."
+   "text": "Jeudi : clôture à 3 877 $ (-2,76 %), plus bas 3 852, plus bas depuis 13 mois (TradingKey, FXEmpire). Rebond vers 3 900–3 910 en Asie ce vendredi, sans signal de retournement. RSI journalier sous 50, RSI 4 h en forte survente (FXEmpire). Résistances : 3 911, 3 930, 3 950–3 970, 4 000. Supports : 3 850, 3 822, 3 780–3 800. Une clôture hebdomadaire sous 3 850 ouvrirait 3 500–3 600 (FXEmpire)."
   },
   {
    "name": "Achats des banques centrales",
@@ -237,7 +257,7 @@
   {
    "name": "Chute des actions",
    "impact": 0,
-   "text": "Après la chute de jeudi (Nasdaq -5,5 %, S&P 500 -4,4 %), les valeurs technologiques rebondissent ce lundi (FXEmpire). OCBC garde en tête le risque d'une nouvelle vente sur l'IA et les semi-conducteurs."
+   "text": "Jeudi, S&P 500 -0,35 % et Nasdaq -0,39 % (TraderFactor). Le départ de Jensen Huang de la tête de Nvidia pèse sur la technologie ; résultats de Nvidia le 17 novembre (TraderFactor)."
   },
   {
    "name": "Sentiment",
@@ -246,9 +266,9 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 3 882 : chute rapide autour du plus bas d'un an, pas de signal de retournement.",
-  "Ne pas vendre en plein milieu vers 3 882 après -105 $ dans la journée : RSI en survente, attendre une remontée vers 3 995–4 005 ou 4 085–4 100 avec une bougie 1 h de rejet.",
-  "Prudence avant le PPI de vendredi 14h30 Paris : pas de nouvelle position dans l'heure qui précède.",
+  "Ne pas acheter vers 3 900 : simple rebond technique dans une tendance baissière.",
+  "Ne pas vendre en plein milieu vers 3 900 : RSI 4 h en forte survente, attendre une remontée vers 3 995–4 005 ou 4 085–4 100 avec une bougie 1 h de rejet.",
+  "Prudence avant le PPI de 14h30 Paris : pas de nouvelle position dans l'heure qui précède.",
   "Ne pas acheter vers 3 830–3 850 sans bougie de rejet.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
  ],
@@ -313,7 +333,7 @@
    "at": "2026-11-13T13:30:00Z",
    "event": "Prix à la production PPI",
    "importance": 2,
-   "why": "Confirme ou non le CPI chaud. Attendu +0,4 % sur un mois (1,3 % en septembre) (BeInCrypto). Prix à la production en hausse = demi-point de la Fed plus probable = pression sur l'or."
+   "why": "Confirme ou non le CPI chaud. Attendu +0,4 % sur un mois (1,3 % en septembre) et +0,3 % hors énergie et alimentation (TradingKey, TraderFactor). Chiffre chaud = demi-point de la Fed plus probable = or vers 3 780 (FXEmpire) ; chiffre doux = rebond possible."
   },
   {
    "at": "2026-11-17T13:30:00Z",
@@ -336,36 +356,28 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or spot à 3 882 $ (-105 $, -2,63 %) à 14h45 New York, fourchette 3 852,10–4 001,20 ; Société Générale voit 3,3 milliards $ d'achats possibles au rééquilibrage des indices (12 nov.)",
-   "url": "https://www.kitco.com/charts/gold"
-  },
-  {
-   "title": "Trading Economics : l'or à 3 881,80 $ (-2,66 %), dollar 103,18 (+0,27 %), rendement américain 5,11 %, Brent 96 $, près de 90 % de chances d'une hausse en décembre (12 nov.)",
+   "title": "Trading Economics : l'or à 3 900,35 $ (+0,62 %), dollar 103,09, rendement américain 5,13 %, 85 % de chances d'une hausse en décembre (13 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
-   "title": "FXEmpire : l'or passe sous 4 000 $ après le CPI chaud, 3 900 $ clé, risque vers 3 500–3 600 $, rendement 10 ans à 5 % (12 nov., 10h23 GMT)",
-   "url": "https://www.fxempire.com/forecasts/article/gold-price-forecast-gold-drops-below-4000-as-hot-cpi-lifts-yields-1644144"
+   "title": "FXEmpire : l'or au plus bas depuis 13 mois avant le PPI, support 3 780, résistances 4 000 et 4 150 (13 nov., 4h31 GMT)",
+   "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-gold-hits-13-month-low-before-us-ppi-1644401"
   },
   {
-   "title": "Yahoo Finance / BeInCrypto : l'or repasse sous 4 000 $, OCBC voit 3 870 $, 11,2 % de chances d'un demi-point, PPI attendu à +0,4 % (12 nov.)",
-   "url": "https://finance.yahoo.com/markets/commodities/articles/gold-drops-below-4-000-112247388.html"
+   "title": "FXEmpire : la force du dollar étend les objectifs baissiers, 3 794 puis 3 698 (12 nov., 22h08 GMT)",
+   "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-dollar-strength-extends-downside-targets-1644378"
   },
   {
-   "title": "Discovery Alert : CPM Group voit un support vers 3 800 $ pour l'or (11 nov.)",
-   "url": "https://discoveryalert.com/news/gold-silver-price-outlook-fed-hike-november-2026/"
+   "title": "TradingKey : l'or sous 3 900 $, clôture 3 877,41 ; supports 3 850 et 3 800, résistances 3 930 et 3 950–3 970 ; PPI attendu +0,4 % (13 nov.)",
+   "url": "https://www.tradingkey.com/analysis/commodities/metal/262303668-gold-price-forecast-trump-no-iran-deal-below-3900-october-ppi-rebound-tradingkey"
   },
   {
-   "title": "LiteFinance : l'or teste 3 981–3 996 ; sous ce support, objectif 3 844–3 813 (12 nov.)",
-   "url": "https://www.litefinance.org/blog/analysts-opinions/short-term-analysis-for-oil-gold-and-eurusd-for-12112026/"
+   "title": "TraderFactor : PPI en vue, or vers 3 880, supports 3 870 / 3 822, résistances 3 911 / 3 970 (13 nov., 4h48 UTC)",
+   "url": "https://traderfactor.com/us-ppi-focus-gold-falls-below-3900-dollar-rallies/"
   },
   {
-   "title": "IndexBox : l'or au plus bas de séance après des inscriptions au chômage à 200 000 (195 000 attendues) (12 nov.)",
-   "url": "https://www.indexbox.io/blog/gold-slips-to-session-lows-after-weekly-jobless-claims-top-forecasts/"
-  },
-  {
-   "title": "JournalArta : l'or recule de 2,9 % à 3 871,6 $, l'argent de 3,47 % (12 nov.)",
-   "url": "https://journalarta.com/en/2026/11/12/gold-price-today-spot-gold-drops-2-9-to-3871-6-as-silver-falls-3-47-and-copper-slides/"
+   "title": "Kitco : fourchette de jeudi 3 852,10–4 001,20 (12 nov.)",
+   "url": "https://www.kitco.com/charts/gold"
   }
  ]
 }
