@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-13T11:08:00Z",
- "price": 3890,
+ "updatedAt": "2026-11-13T12:08:00Z",
+ "price": 3895,
  "change": 0.4,
- "priceTime": "13 nov. · 12h05 Paris",
+ "priceTime": "13 nov. · 13h05 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 900–3 970)",
- "summary": "L'or retombe vers 3 890 $ (+0,2 à +0,4 % sur le jour) ce vendredi midi (Swissquote via XAUAD, Trading Economics), après un pic à 3 923 $ dans la matinée ; Reuters notait 3 903 $ vers 11h Paris. Le dollar se raffermit vers 103,26 et le rendement américain reste vers 5,13 % ; les marchés voient 85 à 89 % de chances d'une hausse d'un quart de point de la Fed en décembre, et l'or va vers une baisse de près de 4 % sur la semaine (Trading Economics, Reuters via Rallies). Le biais reste baissier sous 3 903–3 911 puis 3 934–3 970 : supports 3 870, 3 852, 3 823 puis 3 780–3 800 ; RSI journalier vers 34–38, sous les moyennes mobiles (FXEmpire, 1Trader). Aucun plan n'est invalidé : la zone d'achat 3 832–3 850 n'a pas été touchée (plus bas du jour vers 3 866–3 872) et les zones de vente sont plus haut. Rendez-vous clé : le PPI à 14h30 Paris, attendu à +0,4 % sur un mois ; selon Nitesh Shah (WisdomTree), un chiffre chaud pourrait plafonner l'or. Pas de nouvelle position dans l'heure qui précède.",
+ "summary": "L'or tient vers 3 895 $ (+0,4 à +0,5 % sur le jour) ce vendredi en début d'après-midi (Swissquote via XAUAD, Trading Economics), entre un plus haut à 3 923 $ et un plus bas vers 3 872 $. Le dollar reste ferme vers 103,2 et le rendement américain vers 5,14 % ; les marchés voient environ 85 % de chances d'une hausse d'un quart de point de la Fed en décembre et 15 % d'un demi-point, et l'or va vers une baisse de près de 4 % sur la semaine (Trading Economics, Reuters via Rallies). Le biais reste baissier sous 3 903–3 911 puis 3 934–3 970 : supports 3 870, 3 852, 3 823 puis 3 780–3 800 ; RSI journalier vers 34–38, sous les moyennes mobiles (FXEmpire, 1Trader). Aucun plan n'est invalidé : la zone d'achat 3 832–3 850 n'a pas été touchée et les zones de vente sont plus haut. Rendez-vous clé : le PPI à 14h30 Paris, attendu à +0,4 % sur un mois ; tous les plans restent en attente et pas de nouvelle position avant la publication.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 3 890 (Swissquote, Trading Economics, 12h05 Paris), environ 280 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), la moyenne mobile 50 jours vers 4 186 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 3 895 (Swissquote, Trading Economics, 13h05 Paris), environ 280 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), le retracement 38,2 % vers 4 180 (Tradingpedia), la moyenne mobile 50 jours vers 4 186 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -39,7 +39,7 @@
     4005
    ],
    "invalidAbove": 4112,
-   "note": "Plan gardé : l'or est vers 3 890 (Swissquote, Trading Economics, 12h05 Paris), à environ 185 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 895 (Swissquote, Trading Economics, 13h05 Paris), à environ 185 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "sell",
@@ -56,7 +56,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 890 (Swissquote, Trading Economics, 12h05 Paris), à environ 95 $ sous la zone. TradingKey et FXEmpire placent une résistance à 4 000 ; le plus haut de jeudi était 4 001,20 (Kitco). Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
+   "note": "Plan gardé : l'or est vers 3 895 (Swissquote, Trading Economics, 13h05 Paris), à environ 95 $ sous la zone. TradingKey et FXEmpire placent une résistance à 4 000 ; le plus haut de jeudi était 4 001,20 (Kitco). Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
   },
   {
    "side": "buy",
@@ -120,7 +120,7 @@
   {
    "p": 4051,
    "kind": "res",
-   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 882, bien en dessous"
+   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 895, bien en dessous"
   },
   {
    "p": 4050,
@@ -165,7 +165,7 @@
   {
    "p": 3900,
    "kind": "res",
-   "label": "Prix actuel vers 3 890 (Swissquote, Trading Economics), ancien support cassé jeudi, plus haut du jour 3 923 (Swissquote via XAUAD)"
+   "label": "Prix actuel vers 3 895 (Swissquote, Trading Economics), ancien support cassé jeudi, plus haut du jour 3 923 (Swissquote via XAUAD)"
   },
   {
    "p": 3880,
@@ -212,7 +212,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": -1,
-   "text": "Le rendement américain reste vers 5,13 % (Trading Economics), au-dessus de 5,1 % (TraderFactor). Pic d'octobre à 5,36 %."
+   "text": "Le rendement américain reste vers 5,13–5,14 % (Trading Economics), au-dessus de 5,1 % (TraderFactor). Pic d'octobre à 5,36 %."
   },
   {
    "name": "Banque d'Angleterre",
@@ -232,7 +232,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Le dollar reste près de son plus haut depuis 19 mois : indice vers 103,26, en légère hausse ce vendredi midi (Trading Economics)."
+   "text": "Le dollar reste près de son plus haut depuis 19 mois : indice vers 103,2, stable ce vendredi en début d'après-midi (Trading Economics)."
   },
   {
    "name": "Élections de mi-mandat",
@@ -271,9 +271,9 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 3 890 : simple rebond technique dans une tendance baissière.",
-  "Ne pas vendre en plein milieu vers 3 890 : RSI 4 h en forte survente, attendre une remontée vers 3 995–4 005 ou 4 085–4 100 avec une bougie 1 h de rejet.",
-  "Prudence avant le PPI de 14h30 Paris : pas de nouvelle position dans l'heure qui précède.",
+  "Ne pas acheter vers 3 895 : simple rebond technique dans une tendance baissière.",
+  "Ne pas vendre en plein milieu vers 3 895 : RSI 4 h en forte survente, attendre une remontée vers 3 995–4 005 ou 4 085–4 100 avec une bougie 1 h de rejet.",
+  "PPI à 14h30 Paris : pas de nouvelle position avant la publication, attendre la réaction du marché.",
   "Ne pas acheter vers 3 830–3 850 sans bougie de rejet.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
  ],
@@ -369,7 +369,7 @@
    "url": "https://tradingeconomics.com/commodity/gold/news/600917"
   },
   {
-   "title": "XAUAD (cotation Swissquote) : or à 3 890,06 $ (+0,24 %), plus haut 3 923,14, plus bas 3 872,24 (13 nov., 11h05 UTC)",
+   "title": "XAUAD (cotation Swissquote) : or à 3 895,28 $ (+0,38 %), plus haut 3 923,14, plus bas 3 872,24 (13 nov., 12h05 UTC)",
    "url": "https://xauad.com/gold-price-today.html"
   },
   {
@@ -381,7 +381,7 @@
    "url": "https://1trader.com/en/gold-price-2026-11-13/"
   },
   {
-   "title": "Trading Economics : l'or vers 3 890 $ (+0,36 %), dollar 103,26, rendement américain 5,13 %, 85 % de chances d'une hausse en décembre (13 nov.)",
+   "title": "Trading Economics : l'or vers 3 896 $ (+0,5 %), dollar 103,22, rendement américain 5,14 %, 85 % de chances d'une hausse d'un quart de point et 15 % d'un demi-point en décembre (13 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
