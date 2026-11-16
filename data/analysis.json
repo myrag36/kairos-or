@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T12:10:00Z",
- "price": 3875,
- "change": -0.2,
- "priceTime": "16 nov. · 13h10 Paris",
+ "updatedAt": "2026-11-16T13:10:00Z",
+ "price": 3870,
+ "change": -0.3,
+ "priceTime": "16 nov. · 14h10 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 920)",
- "summary": "L'or remonte vers 3 875 $ ce lundi (-0,2 %, Trading Economics et Mitrade), après un plus bas de 3 832 $ dans la nuit, son plus bas depuis octobre 2025. Il est revenu sur le support 3 870 de StoneX et reste dans la fourchette courte 3 870–3 920 ; Mitrade place la première résistance à 3 920–3 930 et les supports à 3 855–3 870 puis 3 815–3 835. Les marchés voient 92 % de chances d'une hausse d'un quart de point de la Fed en décembre (Trading Economics), le dollar reste vers 103,5 et le rendement à 10 ans vers 5,14 %. Kevin Warsh parle plus tard dans la journée (heure non connue), ventes au détail mardi et compte rendu de la Fed mercredi. Le biais reste baissier sous 3 920 ; les quatre plans restent valables, l'achat sur 3 832–3 850 attend toujours une bougie 1 h de rejet (stop 3 815 non touché).",
+ "summary": "L'or reste vers 3 870 $ ce lundi (-0,3 %, Kitco et Trading Economics), après un plus bas de 3 832 $ dans la nuit, son plus bas depuis octobre 2025. Il est posé sur le support 3 870 de StoneX, dans la fourchette courte 3 870–3 920 ; Mitrade place la première résistance à 3 920–3 930 et les supports à 3 855–3 870 puis 3 815–3 835. Les marchés voient 92 % de chances d'une hausse d'un quart de point de la Fed en décembre (Trading Economics), le dollar reste vers 103,5 et les rendements américains vers 5,13 %. Kevin Warsh parle plus tard aujourd'hui à San Francisco lors d'un forum sur l'intelligence artificielle (heure non connue), ventes au détail mardi et compte rendu de la Fed mercredi. Le biais reste baissier sous 3 920 ; les quatre plans restent valables, l'achat sur 3 832–3 850 attend toujours une bougie 1 h de rejet (stop 3 815 non touché).",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 3 875 (Trading Economics, Mitrade, 13h Paris lundi), environ 330 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), la moyenne mobile 50 jours vers 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 3 870 (Kitco, Trading Economics, 14h Paris lundi), environ 330 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), la moyenne mobile 50 jours vers 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -39,7 +39,7 @@
     4005
    ],
    "invalidAbove": 4112,
-   "note": "Plan gardé : l'or est vers 3 875 (Trading Economics, Mitrade, 13h Paris lundi), à environ 240 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 870 (Kitco, Trading Economics, 14h Paris lundi), à environ 240 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "sell",
@@ -56,7 +56,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 875 (Trading Economics, Mitrade, 13h Paris lundi), à environ 150 $ sous la zone. Forexuro place une résistance à 3 994,90, FXEmpire et TradingKey à 4 000. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
+   "note": "Plan gardé : l'or est vers 3 870 (Kitco, Trading Economics, 14h Paris lundi), à environ 150 $ sous la zone. Forexuro place une résistance à 3 994,90, FXEmpire et TradingKey à 4 000. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
   },
   {
    "side": "buy",
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé mais fragile : la zone a été touchée cette nuit (plus bas 3 832,20, Kitco) sans bougie de rejet confirmée, l'or remonte vers 3 875. Le stop 3 815 n'a pas été touché. StoneX note un RSI qui commence à remonter avec des creux plus hauts. Support suivant 3 823 (FXEmpire), puis 3 800 (Forexuro). Contre la tendance : n'entrer que sur une bougie 1 h à longue mèche basse qui clôture au-dessus de 3 850, taille réduite. Une cassure de 3 815 annule le plan.",
+   "note": "Plan gardé mais fragile : la zone a été touchée cette nuit (plus bas 3 832,20, Kitco) sans bougie de rejet confirmée, l'or tient vers 3 870. Le stop 3 815 n'a pas été touché. StoneX note un RSI qui commence à remonter avec des creux plus hauts. Support suivant 3 823 (FXEmpire), puis 3 800 (Forexuro). Contre la tendance : n'entrer que sur une bougie 1 h à longue mèche basse qui clôture au-dessus de 3 850, taille réduite. Une cassure de 3 815 annule le plan.",
    "invalidBelow": 3815
   }
  ],
@@ -120,7 +120,7 @@
   {
    "p": 4051,
    "kind": "res",
-   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 875, bien en dessous"
+   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 870, bien en dessous"
   },
   {
    "p": 4050,
@@ -165,7 +165,7 @@
   {
    "p": 3900,
    "kind": "res",
-   "label": "Ancien support cassé jeudi, plus haut du jour 3 902,30 (Kitco) ; prix actuel vers 3 875"
+   "label": "Ancien support cassé jeudi, plus haut du jour 3 902,30 (Kitco) ; prix actuel vers 3 870"
   },
   {
    "p": 3880,
@@ -217,7 +217,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux à 3,75–4 %. 92 % de chances d'une hausse d'un quart de point en décembre et 8 % d'un demi-point (CME FedWatch via Trading Economics, 16 nov.), 90 / 10 % selon Reuters (16 nov.). Schmid juge l'inflation « trop chaude », Collins voit des taux plus hauts que prévu, Williams juge d'autres hausses probables. Kevin Warsh parle plus tard aujourd'hui, compte rendu de la Fed mercredi. Réunion les 8–9 décembre. Le vice-président Jefferson semble aussi favorable à d'autres hausses (Reuters)."
+   "text": "Taux à 3,75–4 %. 92 % de chances d'une hausse d'un quart de point en décembre et 8 % d'un demi-point (CME FedWatch via Trading Economics, 16 nov.), 90 / 10 % selon Reuters (16 nov.). Schmid juge l'inflation « trop chaude », Collins voit des taux plus hauts que prévu, Williams juge d'autres hausses probables. Kevin Warsh parle plus tard aujourd'hui à un forum sur l'IA à San Francisco (ad-hoc-news), sans décision attendue, compte rendu de la Fed mercredi. Réunion les 8–9 décembre. Le vice-président Jefferson semble aussi favorable à d'autres hausses (Reuters)."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -252,7 +252,7 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 0,
-   "text": "Le pétrole reste cher : brut vers 89 $ lundi (Trading Economics), après des attaques houthies contre des installations saoudiennes la semaine passée (TradingKey). Il nourrit surtout la crainte d'inflation."
+   "text": "Le pétrole reste cher : brut vers 87,6 $ lundi (-1,1 %, Trading Economics), après des attaques houthies contre des installations saoudiennes la semaine passée (TradingKey). Des médias rapportent des frappes de drones iraniennes sur des bases américaines à Bahreïn, sans achat refuge sur l'or (ad-hoc-news). Il nourrit surtout la crainte d'inflation."
   },
   {
    "name": "Technique",
@@ -262,7 +262,7 @@
   {
    "name": "Achats des banques centrales",
    "impact": 1,
-   "text": "Environ 170 tonnes achetées en 2026. La banque centrale chinoise a acheté environ 25,8 tonnes en octobre, sa plus forte hausse mensuelle depuis septembre 2023 (FXEmpire). Un soutien de fond sur les baisses. Kitco note que la Chine achète de l'or depuis deux ans d'affilée. Les banques centrales ont acheté 675 tonnes depuis le début de l'année, +6 % sur un an ; les achats ont tendance à reprendre sous 4 000 $ (Kitco, investingLive)."
+   "text": "Environ 170 tonnes achetées en 2026. La banque centrale chinoise a acheté environ 25,8 tonnes en octobre, sa plus forte hausse mensuelle depuis septembre 2023 (FXEmpire). Un soutien de fond sur les baisses. Kitco note que la Chine achète de l'or depuis deux ans d'affilée. Les banques centrales ont acheté 675 tonnes depuis le début de l'année, +6 % sur un an ; les achats ont tendance à reprendre sous 4 000 $ (Kitco, investingLive). La Chine a relevé ses réserves d'or pour le 24e mois de suite fin octobre (ad-hoc-news)."
   },
   {
    "name": "ETF sur l'or",
@@ -281,7 +281,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas vendre vers 3 875 : le prix est près du plus bas d'un an, sur le support 3 870, attendre une remontée vers 3 995–4 005 ou 4 085–4 100 avec une bougie 1 h de rejet.",
+  "Ne pas vendre vers 3 870 : le prix est près du plus bas d'un an, sur le support 3 870, attendre une remontée vers 3 995–4 005 ou 4 085–4 100 avec une bougie 1 h de rejet.",
   "Ne pas acheter vers 3 832–3 850 sans bougie 1 h de rejet qui clôture au-dessus de 3 850.",
   "Discours de Kevin Warsh plus tard aujourd'hui (heure non connue) : éviter d'ouvrir une position juste avant, mouvements brusques possibles.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
@@ -377,11 +377,15 @@
  ],
  "sources": [
   {
+   "title": "ad-hoc-news : l'or tient vers 3 870 $, Warsh parle d'IA à San Francisco aujourd'hui (16 nov.)",
+   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-holds-near-3-870-as-warsh-s-ai-remarks-take-center-stage/70520885"
+  },
+  {
    "title": "Mitrade : l'or vers 3 875 $ (-0,25 %), supports 3 855–3 870 / 3 815–3 835 / 3 780–3 800, résistances 3 920–3 930 / 3 957–3 972 / 4 018–4 034 (16 nov.)",
    "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-weekly-loss-yields-fed-tightening"
   },
   {
-   "title": "Kitco : or à 3 861,90 $ (-0,55 %), fourchette du jour 3 832,20–3 902,30 (16 nov., 5h16 New York)",
+   "title": "Kitco : or à 3 870,40 $ (-0,33 %), fourchette du jour 3 832,20–3 902,30 (16 nov., 7h23 New York)",
    "url": "https://www.kitco.com/charts/gold"
   },
   {
@@ -397,7 +401,7 @@
    "url": "https://www.litefinance.org/blog/analysts-opinions/short-term-analysis-for-oil-gold-and-eurusd-for-16112026/"
   },
   {
-   "title": "Trading Economics : or vers 3 875 $ (-0,17 %), plus bas 3 852 depuis octobre 2025 ; 92 % / 8 % pour un quart / demi-point, dollar 103,5, rendement 5,14 %, Warsh plus tard dans la journée (16 nov.)",
+   "title": "Trading Economics : or vers 3 871 $ (-0,28 %), plus bas 3 852 depuis octobre 2025 ; 92 % / 8 % pour un quart / demi-point, dollar 103,46, rendement 5,13 %, Warsh plus tard dans la journée (16 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
