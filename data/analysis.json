@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T14:10:00Z",
- "price": 3863,
- "change": -0.5,
- "priceTime": "16 nov. · 15h00 Paris",
+ "updatedAt": "2026-11-16T15:10:00Z",
+ "price": 3880,
+ "change": -0.1,
+ "priceTime": "16 nov. · 16h00 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 920)",
- "summary": "L'or recule vers 3 863 $ ce lundi (-0,5 %, Kitco à 15h Paris ; 3 868 $ selon Trading Economics), après un plus bas de 3 832 $ dans la nuit, son plus bas depuis octobre 2025. Il est juste sous le support 3 870 de StoneX ; la résistance reste 3 920–3 930 (Mitrade) et les supports 3 852 puis 3 815–3 835. Les marchés voient 92 % de chances d'une hausse d'un quart de point de la Fed en décembre (Trading Economics), le dollar reste vers 103,5 et le rendement à 10 ans vers 5,14 %. L'or ne profite pas d'une enquête Empire State de New York plus faible (Kitco). Kevin Warsh parle à 18h Paris (12h New York) à la Fed de San Francisco (Admirals, Seoul Economic Daily) ; ventes au détail mardi et compte rendu de la Fed mercredi. Le biais reste baissier sous 3 920 ; les quatre plans restent valables, l'achat sur 3 832–3 850 attend toujours une bougie 1 h de rejet (stop 3 815 non touché).",
+ "summary": "L'or remonte vers 3 880 $ ce lundi après-midi (Trading Economics, quasi stable sur la journée ; RoboForex donne aussi 3 880), après un plus bas de 3 832 $ dans la nuit, son plus bas depuis octobre 2025. Il repasse au-dessus du support 3 870 de StoneX mais reste sous la résistance 3 920–3 930 (Mitrade, RoboForex 3 922) ; supports 3 852 puis 3 815–3 835. Les marchés voient 92 à 94 % de chances d'une hausse d'un quart de point de la Fed en décembre (Trading Economics, Reuters), le dollar reste vers 103,5 et le rendement à 10 ans vers 5,14 %. Kevin Warsh parle à 18h Paris (17h UTC) à la Fed de San Francisco : mouvements brusques possibles, les plans restent en attente ; ventes au détail mardi et compte rendu de la Fed mercredi. Le biais reste baissier sous 3 920 ; les quatre plans restent valables, aucun stop ni seuil d'annulation n'a été touché.",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 3 863 (Kitco, 15h Paris lundi), environ 330 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), la moyenne mobile 50 jours vers 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 3 880 (Trading Economics, 16h Paris lundi), environ 300 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), la moyenne mobile 50 jours vers 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -39,7 +39,7 @@
     4005
    ],
    "invalidAbove": 4112,
-   "note": "Plan gardé : l'or est vers 3 863 (Kitco, 15h Paris lundi), à environ 240 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 880 (Trading Economics, 16h Paris lundi), à environ 205 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "sell",
@@ -56,7 +56,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 863 (Kitco, 15h Paris lundi), à environ 150 $ sous la zone. Forexuro place une résistance à 3 994,90, FXEmpire et TradingKey à 4 000. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
+   "note": "Plan gardé : l'or est vers 3 880 (Trading Economics, 16h Paris lundi), à environ 115 $ sous la zone. Forexuro place une résistance à 3 994,90, FXEmpire et TradingKey à 4 000. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
   },
   {
    "side": "buy",
@@ -72,7 +72,7 @@
     3900,
     3940
    ],
-   "note": "Plan gardé mais fragile : la zone a été touchée cette nuit (plus bas 3 832,20, Kitco) sans bougie de rejet confirmée, l'or est vers 3 863 (Kitco, 15h Paris). Le stop 3 815 n'a pas été touché. StoneX note un RSI qui commence à remonter avec des creux plus hauts. Support suivant 3 823 (FXEmpire), puis 3 800 (Forexuro). Contre la tendance : n'entrer que sur une bougie 1 h à longue mèche basse qui clôture au-dessus de 3 850, taille réduite. Une cassure de 3 815 annule le plan.",
+   "note": "Plan gardé mais fragile : la zone a été touchée cette nuit (plus bas 3 832,20, Kitco) et l'or est remonté vers 3 880 (Trading Economics) sans entrée confirmée par notre signal. Le stop 3 815 n'a pas été touché. StoneX note un RSI qui remonte avec des creux plus hauts ; RoboForex voit le stochastique proche de la survente. Support suivant 3 823 (FXEmpire), puis 3 795–3 800 (IC Markets, Forexuro). Contre la tendance : n'entrer que sur un nouveau test de la zone et une bougie 1 h à longue mèche basse qui clôture au-dessus de 3 850, taille réduite. Une cassure de 3 815 annule le plan.",
    "invalidBelow": 3815
   }
  ],
@@ -120,7 +120,7 @@
   {
    "p": 4051,
    "kind": "res",
-   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 863, bien en dessous"
+   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 880, bien en dessous"
   },
   {
    "p": 4050,
@@ -150,12 +150,12 @@
   {
    "p": 3945,
    "kind": "res",
-   "label": "Ancien support 3 942–3 944 (FOREX.com, FXEmpire), cassé : résistance, objectif 1 de la vente"
+   "label": "Ancien support 3 942–3 944 (FOREX.com, FXEmpire), pivot 3 943 (IC Markets), 3 947 (RoboForex) : résistance, objectif 1 de la vente"
   },
   {
    "p": 3930,
    "kind": "res",
-   "label": "Résistance 3 920 (StoneX, haut de la fourchette courte), 3 920–3 930 (Mitrade), 3 930 (TradingKey)"
+   "label": "Résistance 3 920 (StoneX, haut de la fourchette courte), 3 922 (RoboForex), 3 920–3 930 (Mitrade), 3 930 (TradingKey)"
   },
   {
    "p": 3911,
@@ -174,13 +174,13 @@
   },
   {
    "p": 3870,
-   "kind": "res",
-   "label": "Support 4 h 3 870,24 (StoneX), support 3 855–3 870 (Mitrade) : l'or est repassé juste dessous (3 863) ; une cassure nette vise 3 791 (StoneX)"
+   "kind": "sup",
+   "label": "Support 4 h 3 870,24 (StoneX), support 3 855–3 870 (Mitrade) : l'or est repassé au-dessus (3 880) ; une cassure nette vise 3 791 (StoneX)"
   },
   {
    "p": 3852,
-   "kind": "res",
-   "label": "Ancien plus bas de jeudi 3 852 (FXEmpire), cassé lundi : résistance ; une clôture dessous ouvre 3 823 (FXEmpire)"
+   "kind": "sup",
+   "label": "Support clé 3 852 (FXEmpire, RoboForex 3 852,51), plus bas de jeudi ; une clôture dessous ouvre 3 823 (FXEmpire)"
   },
   {
    "p": 3840,
@@ -195,7 +195,7 @@
   {
    "p": 3800,
    "kind": "sup",
-   "label": "Support 3 800 (TradingKey, CPM Group), sous le stop de l'achat (3 815)"
+   "label": "Support 3 800 (TradingKey, CPM Group, objectif RoboForex), 3 795 (IC Markets), sous le stop de l'achat (3 815)"
   },
   {
    "p": 3791,
@@ -217,7 +217,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux à 3,75–4 %. 92 % de chances d'une hausse d'un quart de point en décembre et 8 % d'un demi-point (CME FedWatch via Trading Economics, 16 nov.), 90 / 10 % selon Reuters (16 nov.). Schmid juge l'inflation « trop chaude », Collins voit des taux plus hauts que prévu, Williams juge d'autres hausses probables. Kevin Warsh ouvre à 12h New York (17h UTC) une conférence de la Fed de San Francisco sur la productivité et l'emploi (Admirals), sans décision attendue, compte rendu de la Fed mercredi. Réunion les 8–9 décembre. Le vice-président Jefferson semble aussi favorable à d'autres hausses (Reuters)."
+   "text": "Taux à 3,75–4 %. 92 % de chances d'une hausse d'un quart de point en décembre et 8 % d'un demi-point (CME FedWatch via Trading Economics, 16 nov.), 94 / 6 % selon Reuters (Business Recorder, 16 nov.). Schmid juge l'inflation « trop chaude », Collins voit des taux plus hauts que prévu, Williams juge d'autres hausses probables. Kevin Warsh ouvre à 12h New York (17h UTC) une conférence de la Fed de San Francisco sur la productivité et l'emploi (Admirals), sans décision attendue, compte rendu de la Fed mercredi. Réunion les 8–9 décembre. Le vice-président Jefferson semble aussi favorable à d'autres hausses (Reuters)."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -257,7 +257,7 @@
   {
    "name": "Technique",
    "impact": -1,
-   "text": "Semaine passée -4,5 % (Reuters via FXEmpire), clôture vendredi vers 3 874–3 882. Lundi : plus bas 3 832,20, plus bas depuis plus d'un an (Kitco, Trading Economics). Prix sous les moyennes 50 jours (vers 4 150) et 200 jours, RSI vers 33 (FXEmpire). Résistances : 3 852, 3 903, 3 934 puis 3 995–4 000. Supports : 3 823, 3 800, 3 760. LiteFinance : tendance courte baissière, cible 3 844–3 813 puis 3 747–3 737, résistance 3 953–3 964. StoneX : fourchette courte 3 870–3 920, RSI qui remonte, MACD qui se rapproche de son signal en zone négative."
+   "text": "Semaine passée -4,5 % (Reuters via FXEmpire), clôture vendredi vers 3 874–3 882. Lundi : plus bas 3 832,20, plus bas depuis plus d'un an (Kitco, Trading Economics). Prix sous les moyennes 50 jours (vers 4 150) et 200 jours, RSI vers 33 (FXEmpire). Résistances : 3 852, 3 903, 3 934 puis 3 995–4 000. Supports : 3 823, 3 800, 3 760. LiteFinance : tendance courte baissière, cible 3 844–3 813 puis 3 747–3 737, résistance 3 953–3 964. StoneX : fourchette courte 3 870–3 920, RSI qui remonte, MACD qui se rapproche de son signal en zone négative. Lundi après-midi, l'or remonte vers 3 880 (Trading Economics). RoboForex : support 3 852,51, résistances 3 922 puis 3 947 et 3 998, objectif 3 800, stochastique vers la survente. IC Markets : biais baissier, pivot 3 943, support 3 795, résistance 3 997."
   },
   {
    "name": "Achats des banques centrales",
@@ -281,8 +281,8 @@
   }
  ],
  "noTrade": [
-  "Ne pas vendre vers 3 863 : le prix est près du plus bas d'un an, juste sous le support 3 870, attendre une remontée vers 3 995–4 005 ou 4 085–4 100 avec une bougie 1 h de rejet.",
-  "Ne pas acheter vers 3 832–3 850 sans bougie 1 h de rejet qui clôture au-dessus de 3 850.",
+  "Ne pas vendre vers 3 880 : le prix est près du plus bas d'un an, au-dessus du support 3 870, attendre une remontée vers 3 995–4 005 ou 4 085–4 100 avec une bougie 1 h de rejet.",
+  "Ne pas acheter vers 3 880 : c'est au milieu de la fourchette 3 852–3 920 ; attendre un nouveau test de 3 832–3 850 avec une bougie 1 h de rejet qui clôture au-dessus de 3 850.",
   "Discours de Kevin Warsh à 18h Paris (17h UTC) : éviter d'ouvrir une position juste avant, mouvements brusques possibles.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
  ],
@@ -383,6 +383,22 @@
  ],
  "sources": [
   {
+   "title": "RoboForex : l'or vers 3 880 $, support 3 852,51, résistances 3 922 / 3 947 / 3 998, objectif 3 800, 10 ans vers 5,15 % (16 nov.)",
+   "url": "https://roboforex.com/beginners/analytics/forex-forecast/gold/xau-usd-gold-forecast-2026-11-16/"
+  },
+  {
+   "title": "IC Markets : analyse technique, or baissier, pivot 3 943, support 3 795, résistance 3 997 (16 nov., 9h42 UTC)",
+   "url": "https://www.icmarkets-vno.com/blog/technical-outlook-and-review-16-november-ic/"
+  },
+  {
+   "title": "Business Recorder (Reuters) : l'or à 3 892 $ à 0h50 GMT, 94 % / 6 % pour un quart / demi-point en décembre, Warsh plus tard (16 nov.)",
+   "url": "https://www.brecorder.com/news/40449130/gold-edges-higher-as-investors-await-warsh-remarks-for-rate-signals"
+  },
+  {
+   "title": "Saxo : Warsh parle aujourd'hui à 17h GMT, rendement à 10 ans à 5,14 % (16 nov.)",
+   "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026"
+  },
+  {
    "title": "Kitco : or à 3 862,90 $ (-0,53 %), fourchette du jour 3 832,20–3 902,30, enquête Empire State plus faible (16 nov., 8h58 New York)",
    "url": "https://www.kitco.com/charts/gold"
   },
@@ -415,7 +431,7 @@
    "url": "https://www.litefinance.org/blog/analysts-opinions/short-term-analysis-for-oil-gold-and-eurusd-for-16112026/"
   },
   {
-   "title": "Trading Economics : or vers 3 868 $ (-0,35 %), plus bas 3 852 depuis octobre 2025 ; 92 % / 8 % pour un quart / demi-point, dollar 103,50, rendement 5,14 % (16 nov.)",
+   "title": "Trading Economics : or vers 3 880 $ (quasi stable), plus bas 3 852 depuis octobre 2025 ; 92 % / 8 % pour un quart / demi-point, dollar 103,52, rendement 5,14 % (16 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
