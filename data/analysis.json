@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-16T09:10:00Z",
+ "updatedAt": "2026-11-16T10:05:00Z",
  "price": 3858,
  "change": -0.6,
- "priceTime": "16 nov. · 10h10 Paris",
+ "priceTime": "16 nov. · 11h05 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 852–3 870 puis 3 900–3 911)",
- "summary": "L'or reste vers 3 858 $ ce lundi (-0,6 %, Trading Economics) après un plus bas de 3 832 $ dans la nuit, son plus bas depuis octobre 2025 (Kitco, Trading Economics). Il tient juste au-dessus de l'ancien plus bas 3 852 : selon FXEmpire, une clôture dessous ouvre 3 823, puis 3 760 plus large. Les marchés voient 92 % de chances d'une hausse d'un quart de point de la Fed en décembre (CME FedWatch via Trading Economics), le dollar reste vers 103,44 et le rendement à 10 ans vers 5,14 %. Kevin Warsh parle plus tard dans la journée (heure non connue), ventes au détail mardi et compte rendu de la Fed mercredi. Le biais reste baissier sous 3 870–3 911 ; les quatre plans restent valables, l'achat sur 3 832–3 850 attend toujours une bougie 1 h de rejet (stop 3 815 non touché).",
+ "summary": "L'or reste vers 3 858 $ ce lundi (-0,6 %, Trading Economics), après un plus bas de 3 832 $ dans la nuit, son plus bas depuis octobre 2025 (Kitco, Trading Economics). Il tient juste au-dessus de l'ancien plus bas 3 852 : selon FXEmpire, une clôture dessous ouvre 3 823 ; LiteFinance voit toujours une tendance courte baissière avec une zone cible 3 844–3 813. Les marchés voient 90 à 92 % de chances d'une hausse d'un quart de point de la Fed en décembre (CME FedWatch via Reuters et Trading Economics), le dollar reste vers 103,5 et le rendement à 10 ans vers 5,14 %. Kevin Warsh parle plus tard dans la journée (heure non connue), ventes au détail mardi et compte rendu de la Fed mercredi. Le biais reste baissier sous 3 870–3 911 ; les quatre plans restent valables, l'achat sur 3 832–3 850 attend toujours une bougie 1 h de rejet (stop 3 815 non touché).",
  "setups": [
   {
    "side": "sell",
@@ -21,7 +21,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 3 858 (Trading Economics, 10h Paris lundi), environ 330 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), la moyenne mobile 50 jours vers 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 3 858 (Trading Economics, 11h Paris lundi), environ 330 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), la moyenne mobile 50 jours vers 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -39,7 +39,7 @@
     4005
    ],
    "invalidAbove": 4112,
-   "note": "Plan gardé : l'or est vers 3 858 (Trading Economics, 10h Paris lundi), à environ 240 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 858 (Trading Economics, 11h Paris lundi), à environ 240 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "sell",
@@ -56,7 +56,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 858 (Trading Economics, 10h Paris lundi), à environ 150 $ sous la zone. Forexuro place une résistance à 3 994,90, FXEmpire et TradingKey à 4 000. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
+   "note": "Plan gardé : l'or est vers 3 858 (Trading Economics, 11h Paris lundi), à environ 150 $ sous la zone. Forexuro place une résistance à 3 994,90, FXEmpire et TradingKey à 4 000. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
   },
   {
    "side": "buy",
@@ -212,7 +212,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux à 3,75–4 %. 92 % de chances d'une hausse d'un quart de point en décembre et 8 % d'un demi-point (CME FedWatch via Trading Economics, 16 nov.), 94 / 6 % selon Reuters et Investing.com. Schmid juge l'inflation « trop chaude », Collins voit des taux plus hauts que prévu, Williams juge d'autres hausses probables. Kevin Warsh parle plus tard aujourd'hui, compte rendu de la Fed mercredi. Réunion les 8–9 décembre."
+   "text": "Taux à 3,75–4 %. 92 % de chances d'une hausse d'un quart de point en décembre et 8 % d'un demi-point (CME FedWatch via Trading Economics, 16 nov.), 90 / 10 % selon Reuters (16 nov.). Schmid juge l'inflation « trop chaude », Collins voit des taux plus hauts que prévu, Williams juge d'autres hausses probables. Kevin Warsh parle plus tard aujourd'hui, compte rendu de la Fed mercredi. Réunion les 8–9 décembre. Le vice-président Jefferson semble aussi favorable à d'autres hausses (Reuters)."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -237,7 +237,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Le dollar reste près de son plus haut depuis avril 2025 (FXEmpire) : indice vers 103,44 (Trading Economics, 16 nov.)."
+   "text": "Le dollar reste près de son plus haut depuis avril 2025 (Reuters, FXEmpire) : indice vers 103,52 (Trading Economics, 16 nov.)."
   },
   {
    "name": "Élections de mi-mandat",
@@ -252,7 +252,7 @@
   {
    "name": "Technique",
    "impact": -1,
-   "text": "Semaine passée -4,5 % (Reuters via FXEmpire), clôture vendredi vers 3 874–3 882. Lundi : plus bas 3 832,20, plus bas depuis plus d'un an (Kitco, Trading Economics). Prix sous les moyennes 50 jours (vers 4 150) et 200 jours, RSI vers 33 (FXEmpire). Résistances : 3 852, 3 903, 3 934 puis 3 995–4 000. Supports : 3 823, 3 800, 3 760."
+   "text": "Semaine passée -4,5 % (Reuters via FXEmpire), clôture vendredi vers 3 874–3 882. Lundi : plus bas 3 832,20, plus bas depuis plus d'un an (Kitco, Trading Economics). Prix sous les moyennes 50 jours (vers 4 150) et 200 jours, RSI vers 33 (FXEmpire). Résistances : 3 852, 3 903, 3 934 puis 3 995–4 000. Supports : 3 823, 3 800, 3 760. LiteFinance : tendance courte baissière, cible 3 844–3 813 puis 3 747–3 737, résistance 3 953–3 964."
   },
   {
    "name": "Achats des banques centrales",
@@ -372,6 +372,14 @@
  ],
  "sources": [
   {
+   "title": "Reuters via MarketScreener : l'or recule à 3 867,39 $ (-0,3 %) à 4h59 GMT, dollar près de son plus haut depuis avril 2025, 90 % / 10 % pour un quart / demi-point, Warsh plus tard (16 nov.)",
+   "url": "https://www.marketscreener.com/news/gold-dips-on-firmer-dollar-ahead-of-warsh-comments-ce785edede8af721"
+  },
+  {
+   "title": "LiteFinance : analyse courte de l'or, tendance baissière, cibles 3 844–3 813 puis 3 747–3 737, résistance 3 953–3 964 (16 nov.)",
+   "url": "https://www.litefinance.org/blog/analysts-opinions/short-term-analysis-for-oil-gold-and-eurusd-for-16112026/"
+  },
+  {
    "title": "Kitco : or à 3 847,80 $ (-0,92 %), fourchette du jour 3 832,20–3 902,30 (16 nov., 1h59 New York)",
    "url": "https://www.kitco.com/charts/gold"
   },
@@ -382,10 +390,6 @@
   {
    "title": "FXEmpire : or à 3 863,57 $ (-0,94 %), 16 nov. 3h37 UTC",
    "url": "https://www.fxempire.com/commodities/gold"
-  },
-  {
-   "title": "Reuters via Business Recorder : l'or attend Warsh, 94 % de chances d'une hausse d'un quart de point en décembre (16 nov.)",
-   "url": "https://www.brecorder.com/news/40449130/gold-edges-higher-as-investors-await-warsh-remarks-for-rate-signals"
   },
   {
    "title": "Investing.com : l'or sous 3 900 $, paris de hausse de la Fed en décembre, Warsh en vue (16 nov.)",
