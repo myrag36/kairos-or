@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-19T11:05:00Z",
- "price": 3720,
- "change": -0.5,
- "priceTime": "19 nov. · 12h05 Paris",
+ "updatedAt": "2026-11-19T12:05:00Z",
+ "price": 3719,
+ "change": -0.2,
+ "priceTime": "19 nov. · 13h05 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 850)",
- "summary": "L'or tourne vers 3 720 $ ce jeudi à 12h05 Paris (3 722 $, -0,54 % selon Rio Times ; contrat à terme à 3 736 $, -0,15 % sur Yahoo Finance), toujours près du plus bas de 14 mois à 3 693 $ touché en Asie. Le dollar reste ferme (indice vers 103,9–104) et le 10 ans reste vers 5,07 %, après un compte rendu de la Fed où presque tous les membres jugent une nouvelle hausse appropriée. FedWatch donne toujours environ 90 % pour une hausse d'un quart de point en décembre. Le biais reste vendeur sous 3 850 : résistances 3 755–3 767 puis 3 800–3 805, supports 3 693–3 699 puis 3 666–3 680 et 3 630–3 650. Les quatre plans de vente sont gardés ; inscriptions au chômage et indice de la Fed de Philadelphie à 14h30 Paris.",
+ "summary": "L'or tient vers 3 719 $ ce jeudi à 13h05 Paris (-0,18 % sur la journée selon Trading Economics), juste au-dessus du plus bas de 14 mois à 3 693 $ touché en Asie (Reuters via Business Recorder). Le dollar reste près de son plus haut depuis avril 2025 (indice vers 103,7–103,8) et les taux américains restent au-dessus de 5 %, après un compte rendu de la Fed où presque tous les membres jugent une nouvelle hausse appropriée. FedWatch donne toujours environ 90 % pour une hausse d'un quart de point en décembre et 10 % pour un demi-point. Le biais reste vendeur sous 3 850 : résistances 3 755–3 767 puis 3 800–3 805, supports 3 693–3 699 puis 3 666–3 680 et 3 630–3 650. Les quatre plans de vente sont gardés ; inscriptions au chômage et indice de la Fed de Philadelphie à 14h30 Paris.",
  "setups": [
   {
    "side": "sell",
@@ -22,7 +22,7 @@
     3760
    ],
    "invalidAbove": 3862,
-   "note": "Plan gardé : l'or est vers 3 720 (12h05 Paris jeudi), sous la zone : le plan reste valable car il attend un rebond avant l'entrée. Mitrade place sa deuxième résistance à 3 833–3 852, IC Markets un support cassé vers 3 830. LiteFinance vend déjà plus bas, vers 3 790–3 800 (stop 3 823). Stop au-dessus du pivot 3 859, à 3 866. Objectif 1 vers 3 790, objectif 2 sur 3 760. Ne pas vendre au plus bas, attendre la zone. Une clôture 1 h au-dessus de 3 862 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 719 (13h05 Paris jeudi), sous la zone : le plan reste valable car il attend un rebond avant l'entrée. Mitrade place sa deuxième résistance à 3 833–3 852, IC Markets un support cassé vers 3 830. LiteFinance vend déjà plus bas, vers 3 790–3 800 (stop 3 823). Stop au-dessus du pivot 3 859, à 3 866. Objectif 1 vers 3 790, objectif 2 sur 3 760. Ne pas vendre au plus bas, attendre la zone. Une clôture 1 h au-dessus de 3 862 annule le plan."
   },
   {
    "side": "sell",
@@ -38,7 +38,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 3 720 (12h05 Paris jeudi), environ 480 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), la moyenne mobile 50 jours vers 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 3 719 (13h05 Paris jeudi), environ 480 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), la moyenne mobile 50 jours vers 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -56,7 +56,7 @@
     4005
    ],
    "invalidAbove": 4112,
-   "note": "Plan gardé : l'or est vers 3 720 (12h05 Paris jeudi), à environ 385 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 719 (13h05 Paris jeudi), à environ 385 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "sell",
@@ -73,7 +73,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 720 (12h05 Paris jeudi), à environ 295 $ sous la zone. Forexuro place une résistance à 3 994,90, FXEmpire et TradingKey à 4 000. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
+   "note": "Plan gardé : l'or est vers 3 719 (13h05 Paris jeudi), à environ 295 $ sous la zone. Forexuro place une résistance à 3 994,90, FXEmpire et TradingKey à 4 000. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
   }
  ],
  "levels": [
@@ -120,7 +120,7 @@
   {
    "p": 4051,
    "kind": "res",
-   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 725, bien en dessous"
+   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 719, bien en dessous"
   },
   {
    "p": 4050,
@@ -225,7 +225,7 @@
   {
    "p": 3705,
    "kind": "sup",
-   "label": "Prix vers 3 720 jeudi 12h05 ; support 3 707 (FXEmpire), plus bas de 14 mois 3 693 en Asie (FXEmpire, LiteFinance, ANC), plus bas de séance 3 695 (Rio Times) ; support 3 699 (ATFX)"
+   "label": "Prix vers 3 719 jeudi 13h05 ; support 3 707 (FXEmpire), plus bas de 14 mois 3 693 en Asie (FXEmpire, LiteFinance, ANC), plus bas de séance 3 695 (Rio Times) ; support 3 699 (ATFX)"
   },
   {
    "p": 3690,
@@ -267,7 +267,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "L'indice du dollar a touché 104, plus haut depuis avril 2025, après le compte rendu de la Fed (Goodreturns, Mitrade) ; il a fini mercredi en hausse de 0,44 % à 103,945 (Rio Times). L'euro vers 1,0963, près d'un plus bas de 19 mois. Un dollar fort pèse sur l'or."
+   "text": "L'indice du dollar a touché 104, plus haut depuis avril 2025, après le compte rendu de la Fed (Goodreturns, Mitrade) ; il a fini mercredi en hausse de 0,44 % à 103,945 (Rio Times). L'euro vers 1,0963, près d'un plus bas de 19 mois. Un dollar fort pèse sur l'or. Jeudi midi, l'indice recule un peu vers 103,7 (-0,14 %, Trading Economics)."
   },
   {
    "name": "Élections de mi-mandat",
@@ -282,7 +282,7 @@
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Jeudi 12h05 Paris : l'or tourne vers 3 720 (Rio Times 3 722, plus haut 3 760, plus bas 3 695), après être passé sous 3 700 en matinée européenne (FXStreet), après un rebond à 3 734 vers 7h30 Paris (ANC) et un plus bas de 14 mois à 3 693 en Asie (FXEmpire, LiteFinance). Il a perdu environ 3,3 % mercredi et 3,7 % sur la semaine (NordFX). FXEmpire : RSI 1 h vers 43, prix sous ses moyennes mobiles, pivot 3 755, résistance 3 791, supports 3 707 puis 3 678. Goodreturns : RSI du contrat à terme vers 28, supports 3 670–3 700 puis 3 570–3 600, résistances 3 770–3 800. LiteFinance : vente vers 3 790–3 800, objectifs 3 746 puis 3 693, zone cible 3 630–3 650. Trading Central : RSI 14 jours vers 31, bande de Bollinger basse vers 3 770, moyenne 20 jours vers 3 975. FX.co voit une survente extrême et un achat possible au-dessus de 3 690, sans stop donné. TraderFactor : il faut repasser durablement 3 850 pour changer le ton. Argent vers 44,8 $. TraderFactor : supports 3 720–3 700, résistances 3 767 puis 3 800. ATFX : supports 3 699 puis 3 666, résistances 3 805 puis 3 838, biais baissier."
+   "text": "Jeudi 13h05 Paris : l'or tient vers 3 719 (Trading Economics, -0,18 %), après 3 722 (Rio Times, plus haut 3 760, plus bas 3 695), après être passé sous 3 700 en matinée européenne (FXStreet), après un rebond à 3 734 vers 7h30 Paris (ANC) et un plus bas de 14 mois à 3 693 en Asie (FXEmpire, LiteFinance). Il a perdu environ 3,3 % mercredi et 3,7 % sur la semaine (NordFX). FXEmpire : RSI 1 h vers 43, prix sous ses moyennes mobiles, pivot 3 755, résistance 3 791, supports 3 707 puis 3 678. Goodreturns : RSI du contrat à terme vers 28, supports 3 670–3 700 puis 3 570–3 600, résistances 3 770–3 800. LiteFinance : vente vers 3 790–3 800, objectifs 3 746 puis 3 693, zone cible 3 630–3 650. Trading Central : RSI 14 jours vers 31, bande de Bollinger basse vers 3 770, moyenne 20 jours vers 3 975. FX.co voit une survente extrême et un achat possible au-dessus de 3 690, sans stop donné. TraderFactor : il faut repasser durablement 3 850 pour changer le ton. Argent vers 44,8 $. TraderFactor : supports 3 720–3 700, résistances 3 767 puis 3 800. ATFX : supports 3 699 puis 3 666, résistances 3 805 puis 3 838, biais baissier."
   },
   {
    "name": "Achats des banques centrales",
@@ -306,7 +306,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas vendre vers 3 720 : l'or est en survente (RSI vers 28–31) près du plus bas de 14 mois ; attendre une remontée vers 3 830–3 850 avec une bougie 1 h de rejet.",
+  "Ne pas vendre vers 3 719 : l'or est en survente (RSI vers 28–31) près du plus bas de 14 mois ; attendre une remontée vers 3 830–3 850 avec une bougie 1 h de rejet.",
   "Ne pas acheter pour l'instant : la tendance est baissière et le rebond de la nuit vers 3 734 a déjà été effacé.",
   "Inscriptions au chômage et indice de la Fed de Philadelphie à 14h30 Paris : pas de nouvelle entrée juste avant, attendre une bougie 1 h clôturée après.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
@@ -417,6 +417,18 @@
   }
  ],
  "sources": [
+  {
+   "title": "Trading Economics : l'or se stabilise au-dessus de 3 700 $ (3 718,79 $, -0,18 %), dollar 103,7, FedWatch 90 % / 10 % (19 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "Business Recorder (Reuters) : l'or près d'un plus bas de 14 mois, 3 722,84 $ à 4h52 GMT, plus bas 3 693,13 $ (19 nov.)",
+   "url": "https://www.brecorder.com/news/40449691/gold-holds-near-14-month-low-as-fed-hike-bets-weigh"
+  },
+  {
+   "title": "Conservative Daily News : l'or passe sous 3 700 $, dollar 103,82, chômage et Fed de Philadelphie à 14h30 Paris (19 nov.)",
+   "url": "https://conservativedailynews.com/2026/11/gold-dips-below-3700-to-a-14-month-low-as-fed-hike-bets-and-a-strong-dollar-weigh/"
+  },
   {
    "title": "Rio Times : bilan économique du 19 nov., or à 3 722 $ (-0,54 %, plus bas 3 695), dollar 103,945, Brent 89,15 $",
    "url": "https://www.riotimesonline.com/global-economy-briefing-november-19-2026/"
