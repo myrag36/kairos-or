@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-18T20:05:00Z",
- "price": 3725,
- "change": -3.4,
- "priceTime": "18 nov. · 21h05 Paris",
+ "updatedAt": "2026-11-19T07:10:00Z",
+ "price": 3735,
+ "change": 0.3,
+ "priceTime": "19 nov. · 8h10 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 850)",
- "summary": "L'or recule encore vers 3 725 $ ce mercredi à 21h05 Paris (-3,5 % selon FXEmpire à 3 727 ; 3 722 et -3,3 % selon Trading Economics), au plus bas depuis plus d'un an. Il glisse juste sous la zone 3 730–3 760 ; sous 3 730, FXEmpire vise 3 500–3 600, avec des supports vers 3 710 puis 3 600. Le dollar monte vers 103,9 et le marché voit environ 95 % de chances d'une hausse d'un quart de point en décembre. Le compte rendu de la Fed est sorti à 20h Paris, mais aucun article lu ne détaille encore son contenu : la petite baisse depuis ne suffit pas à conclure, les plans restent en attente. Les quatre plans de vente sont gardés : aucun n'est annulé, le plus proche attend une remontée vers 3 830–3 850.",
+ "summary": "L'or reprend un peu d'air vers 3 735 $ ce jeudi à 8h10 Paris (3 737, +0,3 % selon Trading Economics), après un nouveau plus bas de 14 mois vers 3 703–3 719 $ dans la nuit (FX Leaders, Mitrade). Le compte rendu de la Fed confirme le ton dur : presque tous les membres attendent une nouvelle hausse en décembre, et deux ont parlé d'un demi-point. Le dollar reste fort vers 103,8 et le 10 ans vers 5,07 %, et le marché voit 90 à 95 % de chances d'une hausse d'un quart de point. Ce petit rebond ne change pas la tendance : le biais reste vendeur sous 3 850, avec des supports vers 3 680–3 700 puis 3 600. Les quatre plans de vente sont gardés : aucun n'est annulé, le plus proche attend une remontée vers 3 830–3 850. Inscriptions au chômage et indice de la Fed de Philadelphie à 14h30 Paris.",
  "setups": [
   {
    "side": "sell",
@@ -22,7 +22,7 @@
     3760
    ],
    "invalidAbove": 3862,
-   "note": "Plan gardé : l'or est vers 3 725 (21h05 Paris), sous la zone et sous l'objectif 2 : le plan reste valable car il attend un rebond avant l'entrée. IC Markets place aussi un support cassé vers 3 830 (plus bas de 2026 et ligne de tendance), LiteFinance une ancienne zone 3 813–3 844 cassée. Ancien support devenu résistance, sous le pivot 3 859 (FXEmpire) : stop au-dessus, à 3 866. Objectif 1 vers 3 790 (support 3 781 cassé, résistance FXEmpire 3 805), objectif 2 sur le support 3 760 (FXEmpire). RSI en survente : ne pas vendre au plus bas, attendre le rebond. Une clôture 1 h au-dessus de 3 862 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 735 (8h10 Paris jeudi), sous la zone : le plan reste valable car il attend un rebond avant l'entrée. Mitrade place sa deuxième résistance à 3 833–3 852, IC Markets un support cassé vers 3 830 (plus bas de 2026 et ligne de tendance). Ancien support devenu résistance, sous le pivot 3 859 (FXEmpire) : stop au-dessus, à 3 866. Objectif 1 vers 3 790 (résistance Mitrade 3 787–3 797), objectif 2 sur 3 760. Le rebond de la nuit part d'une survente : ne pas vendre au plus bas, attendre la zone. Une clôture 1 h au-dessus de 3 862 annule le plan."
   },
   {
    "side": "sell",
@@ -38,7 +38,7 @@
     4120,
     4075
    ],
-   "note": "Plan gardé : l'or est vers 3 725 (21h05 Paris mercredi), environ 455 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), la moyenne mobile 50 jours vers 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
+   "note": "Plan gardé : l'or est vers 3 735 (8h10 Paris jeudi), environ 445 $ sous la zone. La résistance 4 135–4 197 (FXEmpire), la moyenne mobile 50 jours vers 4 150 (FXEmpire) puis 4 187–4 227 (Mitrade) renforcent la zone. Objectif 1 vers 4 120, objectif 2 vers 4 075. Stop au-dessus de 4 227. Une clôture 1 h au-dessus de 4 228 annule le plan.",
    "invalidAbove": 4228
   },
   {
@@ -56,7 +56,7 @@
     4005
    ],
    "invalidAbove": 4112,
-   "note": "Plan gardé : l'or est vers 3 725 (21h05 Paris mercredi), à environ 360 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 735 (8h10 Paris jeudi), à environ 350 $ de la zone. Pepperstone place la résistance clé à 4 100–4 110, FXEmpire la première résistance à 4 088, Mitrade 4 074–4 082. Objectif 1 sur 4 050, objectif 2 juste au-dessus de 4 000. Stop au-dessus de la moyenne 200 périodes 4 h vers 4 103 (Tradingpedia). Une clôture 1 h au-dessus de 4 112 annule le plan."
   },
   {
    "side": "sell",
@@ -73,7 +73,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 725 (21h05 Paris mercredi), à environ 270 $ sous la zone. Forexuro place une résistance à 3 994,90, FXEmpire et TradingKey à 4 000. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
+   "note": "Plan gardé : l'or est vers 3 735 (8h10 Paris jeudi), à environ 260 $ sous la zone. Forexuro place une résistance à 3 994,90, FXEmpire et TradingKey à 4 000. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Dans le sens du biais, mais pas d'entrée sans bougie de rejet."
   }
  ],
  "levels": [
@@ -195,7 +195,7 @@
   {
    "p": 3802,
    "kind": "res",
-   "label": "Résistance 3 805 (FXEmpire, pivot du jour 3 804,83), pivot 1 h 3 802, seuil 3 800 cassé dans la nuit ; objectif 1 de la vente vers 3 790"
+   "label": "Résistance 3 805 (FXEmpire, pivot du jour 3 804,83), pivot 1 h 3 802, seuil 3 800 cassé dans la nuit ; objectif 1 de la vente vers 3 790 ; résistance 3 787–3 797 (Mitrade, R1)"
   },
   {
    "p": 3781,
@@ -210,7 +210,7 @@
   {
    "p": 3760,
    "kind": "res",
-   "label": "Support 4 h 3 730–3 760 sur une ligne de tendance baissière (FXEmpire), objectif 2 de la vente (touché, le prix est vers 3 725) ; sous 3 730, FXEmpire vise 3 500–3 600 ; supports 3 762 / 3 731 (ATFX), 3 750–3 770 (Mitrade) ; plus bas du jour 3 757 (Reuters)"
+   "label": "Support 4 h 3 730–3 760 sur une ligne de tendance baissière (FXEmpire), objectif 2 de la vente ; résistance Mitrade 3 750 en séance, bande de Bollinger basse vers 3 770 (KuCoin) ; supports 3 762 / 3 731 (ATFX)"
   },
   {
    "p": 3751,
@@ -220,12 +220,17 @@
   {
    "p": 3742,
    "kind": "sup",
-   "label": "Zone cible 3 737–3 747 (LiteFinance) atteinte ; support 3 731 (ATFX), bas de la ligne de tendance 4 h 3 730 (FXEmpire) : le prix passe juste dessous, vers 3 725"
+   "label": "Prix vers 3 735 jeudi matin ; zone 3 719–3 720 qui a tenu en séance (Mitrade), bas de la ligne de tendance 4 h 3 730 (FXEmpire)"
   },
   {
-   "p": 3713,
+   "p": 3705,
    "kind": "sup",
-   "label": "Support 3 708–3 718 (World Gold Council, cité par KuCoin), puis 3 605 et 3 500"
+   "label": "Plus bas de 14 mois vers 3 703 dans la nuit (FX Leaders), 3 719,10 selon Mitrade ; support 3 708–3 718 (World Gold Council, cité par KuCoin)"
+  },
+  {
+   "p": 3690,
+   "kind": "sup",
+   "label": "Support 3 680–3 700 (Mitrade, S1), puis 3 630–3 650 (S2)"
   },
   {
    "p": 3620,
@@ -237,12 +242,12 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux à 3,75–4 %. Mercredi à 7h53 GMT, CME FedWatch donne 96,7 % pour un quart de point en décembre et 3,3 % pour un demi-point, et environ 72 % pour une autre hausse le 27 janvier (ActionForex). John Williams (Fed de New York) juge que les taux devront sans doute encore monter (FXEmpire). En octobre, Lisa Cook et Beth Hammack voulaient déjà une hausse immédiate (TraderFactor). Musalem, Jefferson et Schmid penchent aussi vers d'autres hausses. Selon MUFG, les marchés voient de plus en plus trois hausses de suite (FXStreet). Compte rendu de la Fed ce soir 20h Paris, réunion les 8–9 décembre. Les marchés voient des hausses d'un quart de point en décembre et janvier, puis une autre d'ici avril ; ANZ n'exclut pas un demi-point en décembre (Reuters via Investing.com). Mercredi vers 13h GMT, Christopher Waller estime que la Fed devrait monter d'un demi-point maintenant ou annoncer des hausses plus rapides (titre FXStreet). USAGOLD (13h45 GMT) cite 95,7 % pour un quart de point en décembre selon CME FedWatch. Alberto Musalem (Fed de Saint-Louis) juge que plusieurs hausses pourraient être nécessaires (KuCoin)."
+   "text": "Taux à 3,75–4 %. Le compte rendu de la réunion d'octobre, publié mercredi soir, montre que presque tous les membres attendent une nouvelle hausse en décembre, et que deux ont évoqué un demi-point (Mitrade). Le vote d'octobre était à 10 contre 2 pour garder les taux, après une hausse d'un quart de point en septembre (KuCoin). Waller veut un demi-point maintenant ou des hausses plus rapides ; Williams et Musalem jugent d'autres hausses nécessaires. CME FedWatch : 90 % pour un quart de point en décembre et 10 % pour un demi-point (Trading Economics, KuCoin), 95 % selon Mitrade. Réunion les 8–9 décembre."
   },
   {
    "name": "Rendement américain à 10 ans",
    "impact": -1,
-   "text": "Le rendement à 10 ans est vers 5,09 % et le 2 ans vers 4,79 % à 9h GMT, en léger recul sur la journée mais en hausse d'environ 22 points de base sur la semaine (ActionForex). Pic d'octobre à 5,36 %. Selon CMS Prime, le 10 ans reste bloqué vers 5,14 % (Trading and Investment News, 18 nov.). En fin de journée, Trading Economics affiche le 10 ans vers 5,06 % (5,064)."
+   "text": "Le 10 ans est vers 5,07 % jeudi matin (5,073 selon Trading Economics, 5,065 selon Mitrade), le 2 ans a fini vers 4,80 %. Pic d'octobre à 5,36 %. Des taux aussi hauts pèsent sur l'or."
   },
   {
    "name": "Banque d'Angleterre",
@@ -262,7 +267,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "Le dollar reste près de son plus haut depuis 19 mois : indice vers 103,88 (+0,38 %, Trading Economics), 103,74 selon FXEmpire. Un dollar fort pèse sur l'or."
+   "text": "Le dollar reste près de ses plus hauts depuis plus d'un an : indice vers 103,86 (Trading Economics), 103,82 selon Mitrade. Un dollar fort pèse sur l'or."
   },
   {
    "name": "Élections de mi-mandat",
@@ -272,12 +277,12 @@
   {
    "name": "Pétrole et Golfe",
    "impact": 1,
-   "text": "Le pétrole recule : Brent vers 92,3 $ et brut américain vers 83,4 $ (Investing.com), LiteFinance note un brut à 83 $. Les combats reprennent près d'Ormuz : des drones iraniens ont frappé des radars américains à Bahreïn et les États-Unis ont attaqué des bases de missiles sur l'île de Qeshm (Mitrade). Pas d'achat refuge sur l'or pour l'instant, mais un risque de hausse soudaine."
+   "text": "Le brut américain a perdu 3,2 % mercredi, vers 83,3 $, après une hausse des stocks de 3,4 millions de barils (Mitrade). Les combats près d'Ormuz continuent (drones iraniens sur Bahreïn, frappes américaines sur l'île de Qeshm, Mitrade) : pas d'achat refuge sur l'or pour l'instant, mais un risque de hausse soudaine."
   },
   {
    "name": "Technique",
    "impact": -2,
-   "text": "FXEmpire (20h05 GMT) : 3 726,96 $ (-3,52 %), sous la résistance 3 750,71 ; Trading Economics : 3 721,62 (-3,32 %). Le prix passe juste sous le bas de la ligne de tendance 4 h 3 730 (FXEmpire), sous lequel il visait 3 500–3 600. TradingNews : plus bas de séance 3 757 en matinée, supports 3 700 puis 3 570–3 600. Mining.com.au : plus bas de séance cité à 3 743 (-2,4 %) en cours d'après-midi. Argent vers 45 $ (-4 à -5 %), platine et palladium en baisse : ventes sur tous les métaux. Plus tôt, l'or était vers 3 747 (-2,7 %, Trading Economics : 3 744,31 au plus bas cité), sous le pivot du jour 3 750,71 (FXEmpire). FXEmpire (12h57 GMT) : 3 745 (-3,05 %), indicateurs très majoritairement vendeurs, moyenne mobile exponentielle courte vers 4 107,5, support technique plus proche de 3 500 mis en avant. Mitrade : RSI 1 h vers 30–32, supports 3 750–3 770 puis 3 680–3 700. KuCoin (13h57) cite un plus bas vers 3 757 puis 3 769,68, et des supports 3 708–3 718, 3 605 et 3 500 (World Gold Council). USAGOLD donnait 3 782,85 $ (-1,9 %) vers 13h45 GMT. Fourchette de la semaine 3 659–4 039 (FXEmpire). Argent à 45,79 $ (-3,4 %), platine -3,4 % : ventes sur tous les métaux. ActionForex (9h14 GMT) : RSI 4 h en survente, prix sous la moyenne 55 périodes ; supports 3 637 puis 3 607–3 600, résistance 3 891 ; la baisse dépasse ce qu'expliquent le dollar et les taux (ventes sur toutes les matières premières). FXEmpire (9h18 GMT) : signal « vente forte » en journalier, support 3 751, résistance 3 805. LiteFinance : la zone 3 813–3 844 est cassée, prochaine cible 3 737–3 747, résistance 3 867–3 876. FXEmpire (6h30 GMT) : RSI vers 26, survente, prix sous ses moyennes mobiles. FXEmpire (4h18 GMT) : support 4 h 3 730–3 760 sur une ligne de tendance baissière, sous lequel il vise 3 500–3 600 ; il faut repasser 4 000 pour un rebond sérieux. TraderFactor : supports 3 780 puis 3 750, il faut une remontée durable au-dessus de 3 850 pour changer le ton. Moyenne 50 jours vers 4 134–4 150 (FXEmpire). Mitrade : repère bas 3 670–3 680. ANZ voit un support vers 3 600 (Reuters)."
+   "text": "Jeudi matin : l'or vers 3 735 (Trading Economics : 3 737,13, +0,31 %), après un plus bas de 14 mois vers 3 703 (FX Leaders) ou 3 719,10 (Mitrade). Mercredi, il a fini en baisse d'environ 3,3 % vers 3 722,60 (Mitrade). Mitrade : RSI 1 h tombé vers 21–23 puis remonté vers 40 ; supports 3 680–3 700, 3 630–3 650 puis 3 600 ; résistances 3 750, 3 787–3 797, 3 833–3 852 puis 3 920–3 930. KuCoin : RSI 14 jours vers 31, bande de Bollinger basse vers 3 770, moyenne 20 jours vers 3 975, moyenne 100 jours vers 4 190 ; un test de 3 350–3 450 est évoqué à moyen terme. FXEmpire : sous 3 730, cible 3 500–3 600 ; il faut repasser 4 000 pour un rebond sérieux. TraderFactor : il faut une remontée durable au-dessus de 3 850 pour changer le ton. Argent vers 44,9 $ (-4,95 % mercredi, Mitrade). ANZ voit un support vers 3 600 (Reuters)."
   },
   {
    "name": "Achats des banques centrales",
@@ -301,9 +306,9 @@
   }
  ],
  "noTrade": [
-  "Ne pas vendre vers 3 725 : RSI en survente, le prix est au plus bas ; attendre une remontée vers 3 830–3 850 avec une bougie 1 h de rejet.",
-  "Ne pas acheter pour l'instant : la tendance est baissière et aucun signal de retournement n'est apparu ; l'achat 3 832–3 850 a été annulé.",
-  "Compte rendu de la Fed publié à 20h Paris, contenu pas encore détaillé par la presse : pas de nouvelle entrée avant une bougie 1 h clôturée qui montre la direction.",
+  "Ne pas vendre vers 3 735 : l'or sort d'une survente et rebondit ; attendre une remontée vers 3 830–3 850 avec une bougie 1 h de rejet.",
+  "Ne pas acheter pour l'instant : la tendance est baissière et le petit rebond de la nuit n'est pas un signal de retournement.",
+  "Inscriptions au chômage et indice de la Fed de Philadelphie à 14h30 Paris : pas de nouvelle entrée juste avant, attendre une bougie 1 h clôturée après.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
  ],
  "calendar": [
@@ -396,7 +401,13 @@
    "event": "Compte rendu de la Fed (minutes)",
    "importance": 2,
    "why": "Détaille le débat sur une hausse en décembre. Un ton dur peut pousser l'or vers 3 760 puis 3 730 ; un ton plus prudent peut lancer un rebond vers 3 830–3 850.",
-   "result": "Publié ; aucun article lu n'en détaille encore le contenu. Une heure après, l'or recule un peu plus, vers 3 725 $ (FXEmpire, Trading Economics)"
+   "result": "Ton dur : presque tous les membres attendent une hausse en décembre, deux ont parlé d'un demi-point (Mitrade). L'or touche un plus bas de 14 mois vers 3 703–3 719 $ puis remonte vers 3 735 $"
+  },
+  {
+   "at": "2026-11-19T13:30:00Z",
+   "event": "Inscriptions hebdomadaires au chômage et indice de la Fed de Philadelphie",
+   "importance": 2,
+   "why": "Annoncés pour ce jeudi (Mitrade). Emploi et activité solides = hausse de taux confortée = pression sur l'or ; chiffres faibles = rebond possible."
   },
   {
    "at": "2026-12-09T19:00:00Z",
@@ -407,56 +418,28 @@
  ],
  "sources": [
   {
-   "title": "FXEmpire : or à 3 726,96 $ (-3,52 %) à 20h05 GMT, résistance 3 750,71, fourchette de la semaine 3 659–4 039 (18 nov.)",
-   "url": "https://www.fxempire.com/forecasts/gold"
+   "title": "Mitrade : l'or casse un plus bas de 14 mois après un compte rendu dur de la Fed ; plus bas 3 719,10, supports 3 680–3 700 / 3 630–3 650, résistances 3 787–3 797 / 3 833–3 852 (19 nov.)",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-breaks-14-low-hawkish-fed-minutes"
   },
   {
-   "title": "TradingNews : l'or casse 3 800 $, plus bas 3 757 ; dollar 103,74, 10 ans 5,10 %, compte rendu de la Fed à 14h ET (18 nov.)",
-   "url": "https://www.tradingnews.com/news/gold-xau-usd-breaks-3800-to-14-month-low-3757-reclaiming-3890-puts-4050-usd-target-in-play"
+   "title": "KuCoin (FX678) : le compte rendu de la Fed confirme d'autres hausses, l'or vers 3 735 $ en Asie ; RSI 14 jours 31, FedWatch 90 / 10 % (19 nov.)",
+   "url": "https://www.kucoin.com/news/flash/fed-minutes-confirm-further-rate-hikes-gold-hits-2025-low"
   },
   {
-   "title": "Trading Economics : l'or à 3 721,62 $ (-3,32 %), indice dollar 103,88, 95 % pour un quart de point en décembre (18 nov.)",
+   "title": "Trading Economics : l'or à 3 737,13 $ (+0,31 %), dollar 103,86, 10 ans 5,07 %, FedWatch 90 / 10 % (19 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold"
   },
   {
-   "title": "Kitco (Reuters) : l'or perd 2 %, plus bas d'un an, signaux durs de la Fed et dollar fort ; FedWatch 95 / 5 % (18 nov., 13h45 GMT)",
-   "url": "http://www.kitco.com/news/off-the-wire/2026-11-18/gold-drops-2-over-one-year-low-hawkish-fed-signals-boost-dollar"
+   "title": "FX Leaders : l'or rebondit depuis 3 703 $ après le compte rendu dur de la Fed (19 nov., titre)",
+   "url": "https://www.fxleaders.com/news/2026/11/19/gold-price-forecast-xau-usd-rebounds-from-3703-after-hawkish-fed-minutes/"
   },
   {
-   "title": "FXEmpire : prévisions or, le support 3 500 $ en ligne de mire ; 3 745,03 $ (-3,05 %) à 12h57 GMT (18 nov.)",
+   "title": "FXStreet : 3 700 $ cassé, les vendeurs gardent la main après une Fed dure (19 nov., titre)",
+   "url": "https://www.fxstreet.com/analysis/3-700-breached-gold-sellers-extend-control-on-hawkish-fed-outlook-202611190357"
+  },
+  {
+   "title": "FXEmpire : prévisions or, le support 3 500 $ en ligne de mire (18 nov.)",
    "url": "https://fxempire.com/forecasts/article/gold-price-forecast-3500-support-in-focus-as-selling-deepens-1645414"
-  },
-  {
-   "title": "Mining.com.au : l'or au plus bas de 14 mois, jusqu'à 3 743 $ (-2,4 %), dollar au plus haut de 19 mois, Williams et Musalem (18 nov., 15h40 GMT)",
-   "url": "https://mining.com.au/gold-price-sinks-to-14-month-low-on-growing-fed-hike-fears/"
-  },
-  {
-   "title": "24/7 Wall St : l'or au plus bas de 14 mois, paris sur d'autres hausses de la Fed ; dollar 103,65, 10 ans vers 5,09 % (18 nov., 16h43 GMT)",
-   "url": "https://247wallst.com/investing/2026/11/18/gold-is-at-a-14-month-low-as-traders-bet-on-more-fed-hikes/"
-  },
-  {
-   "title": "Mitrade : l'or glisse, hausse de la Fed et Ormuz ; supports 3 815–3 835 / 3 750–3 770 / 3 680–3 700, FedWatch 94 / 6 % (18 nov.)",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-slides-fed-hike-fomc-hormuz"
-  },
-  {
-   "title": "KuCoin (Coinpaper) : l'or au plus bas de 14 mois sous 3 800 $, plus bas 3 757 puis 3 769,68 ; supports 3 708–3 718, 3 605, 3 500 ; Williams et Musalem (18 nov., 13h57)",
-   "url": "https://www.kucoin.com/news/flash/gold-price-falls-to-14-month-low-below-3-800-amid-fed-rate-hike-expectations"
-  },
-  {
-   "title": "USAGOLD : l'or passe sous 3 800 $, 3 782,85 $ (-1,91 %), FedWatch 95,7 % pour un quart de point en décembre, compte rendu de la Fed à 14h ET (18 nov., 13h46 GMT)",
-   "url": "https://www.usagold.com/daily-precious-metals-market-report-november-18-2026/"
-  },
-  {
-   "title": "FXStreet : Waller, la Fed devrait monter d'un demi-point maintenant ou accélérer les hausses (18 nov., titre)",
-   "url": "https://www.fxstreet.com/news/feds-waller-fed-should-hike-50-bps-now-or-signal-faster-rate-increases-202611181301"
-  },
-  {
-   "title": "Trading and Investment News (Reuters) : l'or au plus bas d'un an avant le compte rendu de la Fed ; 3 777,83 $ à 6h27 GMT, FedWatch 96,7 / 3,3 %, 10 ans vers 5,14 % (18 nov., 11h54 GMT)",
-   "url": "https://www.tradingandinvestmentnews.co.uk/gold-price-fomc-minutes/"
-  },
-  {
-   "title": "5paisa (Reuters) : l'or au plus bas d'un an en attendant le compte rendu de la Fed ; FedWatch 95,7 / 4,3 % (18 nov.)",
-   "url": "https://www.5paisa.com/blog/gold-one-year-low-markets-await-fed-minutes-november-18-2026"
   }
  ]
 }
