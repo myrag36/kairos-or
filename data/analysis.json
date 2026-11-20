@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T19:05:00Z",
- "price": 3506,
- "change": -3.3,
- "priceTime": "20 nov. · 20h05 Paris",
+ "updatedAt": "2026-11-20T20:05:00Z",
+ "price": 3518,
+ "change": -3.0,
+ "priceTime": "20 nov. · 21h05 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or touche un nouveau plus bas en soirée ce vendredi : 3 506 $ (-3,31 %) selon Trading Economics, qui affiche aussi 3 519 $ (-2,95 %), le plus bas depuis septembre 2025 (TokenPost). La Fed reste dure : le CME FedWatch donne 99 % de chances d'une hausse d'un quart de point en décembre et Waller évoque un demi-point ; le dollar reste fort vers 103,88. La semaine perd près de 9 à 10 %, la pire depuis mars, avec des ventes liées à la chute des valeurs de l'IA (Finway, TokenPost). Supports 3 500–3 520 puis 3 450–3 475 ; résistances 3 570–3 590, 3 625–3 650 puis 3 685–3 700 (Mitrade) ; RSI 1 h vers 16–18, très survendu. Le biais reste vendeur et les quatre plans sont gardés : le prix est dans la zone d'achat prudent 3 505–3 520 mais sans signal de reprise, et une clôture hebdomadaire sous 3 500 ouvrirait 3 300–3 400.",
+ "summary": "L'or reste collé à son plus bas en fin de séance ce vendredi : 3 518 $ (-2,97 %) selon Trading Economics, après un creux vers 3 506 $ et un plus bas Reuters à 3 513,54 $, le plus bas depuis septembre 2025. La Fed reste dure : le CME FedWatch donne 99,3 % de chances d'une hausse d'un quart de point en décembre et Waller évoque un demi-point ; le dollar reste fort vers 103,8. La semaine perd environ 8 à 9 %, la pire depuis mars (ANC, Trading Economics). Supports 3 500–3 520 puis 3 450–3 475 ; résistances 3 570–3 590, 3 625–3 650 puis 3 685–3 700 (Mitrade), et 3 640 puis 3 678 selon Kitco. Le biais reste vendeur et les quatre plans sont gardés : le prix est dans la zone d'achat prudent 3 505–3 520 sans signal de reprise, et la clôture hebdomadaire autour de 3 500 sera décisive.",
  "setups": [
   {
    "side": "sell",
@@ -22,7 +22,7 @@
     3525
    ],
    "invalidAbove": 3670,
-   "note": "Plan gardé : l'or est retombé vers 3 506–3 519 (vendredi soir, Trading Economics), environ 120 $ sous la zone ; résistance Mitrade 3 625–3 650. Attendre un rebond et le signal de rejet. Stop au-dessus de l'ancien plus bas de jeudi 3 667, à 3 675. Objectif 1 vers 3 580 (support Mitrade 3 570–3 590), objectif 2 vers 3 525, juste au-dessus du support 3 500–3 520. Une clôture 1 h au-dessus de 3 670 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 518 (vendredi soir, Trading Economics), environ 110 $ sous la zone ; résistance Mitrade 3 625–3 650. Attendre un rebond et le signal de rejet. Stop au-dessus de l'ancien plus bas de jeudi 3 667, à 3 675. Objectif 1 vers 3 580 (support Mitrade 3 570–3 590), objectif 2 vers 3 525, juste au-dessus du support 3 500–3 520. Une clôture 1 h au-dessus de 3 670 annule le plan."
   },
   {
    "side": "sell",
@@ -39,7 +39,7 @@
     3760
    ],
    "invalidAbove": 3862,
-   "note": "Plan gardé : l'or est vers 3 525 (vendredi vers 18h GMT), environ 305 $ sous la zone : le plan reste valable car il attend un rebond avant l'entrée. Mitrade place une résistance à 3 830–3 840, FXEmpire 3 850. Stop au-dessus du pivot 3 859, à 3 866. Objectif 1 vers 3 790, objectif 2 sur 3 760. Ne pas vendre au plus bas, attendre la zone. Une clôture 1 h au-dessus de 3 862 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 518 (vendredi soir), environ 310 $ sous la zone : le plan reste valable car il attend un rebond avant l'entrée. Mitrade place une résistance à 3 830–3 840, FXEmpire 3 850. Stop au-dessus du pivot 3 859, à 3 866. Objectif 1 vers 3 790, objectif 2 sur 3 760. Ne pas vendre au plus bas, attendre la zone. Une clôture 1 h au-dessus de 3 862 annule le plan."
   },
   {
    "side": "sell",
@@ -56,7 +56,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 525 (vendredi vers 18h GMT), environ 470 $ sous la zone, peu probable à court terme. Ancien plancher 4 000 devenu résistance. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Pas d'entrée sans bougie de rejet."
+   "note": "Plan gardé : l'or est vers 3 518 (vendredi soir), environ 480 $ sous la zone, peu probable à court terme. Ancien plancher 4 000 devenu résistance. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Pas d'entrée sans bougie de rejet."
   },
   {
    "side": "buy",
@@ -73,7 +73,7 @@
     3590
    ],
    "invalidBelow": 3475,
-   "note": "Plan gardé : l'or est dans la zone vers 3 506–3 519 (Trading Economics, vendredi soir), au-dessus du seuil d'annulation 3 475. Achat contre la tendance, en taille réduite, seulement après une bougie 1 h de reprise nette (longue mèche basse ou clôture haussière au-dessus de 3 520). Stop sous le support 3 450–3 475 (Mitrade), à 3 470. Objectif 1 vers 3 555, objectif 2 vers 3 590 (haut du support 3 570–3 590). Une clôture 1 h sous 3 475 annule le plan."
+   "note": "Plan gardé : l'or est dans la zone vers 3 518 (Trading Economics, vendredi soir), plus bas du jour 3 513,54 (Reuters), au-dessus du seuil d'annulation 3 475. Achat contre la tendance, en taille réduite, seulement après une bougie 1 h de reprise nette (longue mèche basse ou clôture haussière au-dessus de 3 520). Stop sous le support 3 450–3 475 (Mitrade), à 3 470. Objectif 1 vers 3 555, objectif 2 vers 3 590 (haut du support 3 570–3 590). Une clôture 1 h sous 3 475 annule le plan."
   }
  ],
  "levels": [
@@ -230,12 +230,12 @@
   {
    "p": 3667,
    "kind": "res",
-   "label": "Ancien plus bas de 14 mois à 3 667 (jeudi), cassé dans la nuit : résistance, stop de la vente sur rebond au-dessus (3 675)"
+   "label": "Ancien plus bas de 14 mois à 3 667 (jeudi), cassé dans la nuit : résistance, stop de la vente sur rebond au-dessus (3 675) ; résistance Kitco 3 678"
   },
   {
    "p": 3620,
    "kind": "res",
-   "label": "Clôture de jeudi vers 3 625 (Mitrade), résistance 3 625–3 650 (Mitrade), pivot 3 652 (FXEmpire) : zone de vente 3 625–3 650"
+   "label": "Clôture de jeudi vers 3 625 (Mitrade), résistance 3 625–3 650 (Mitrade), pivot 3 652 (FXEmpire) : zone de vente 3 625–3 650 ; résistance Kitco 3 640"
   },
   {
    "p": 3597,
@@ -250,7 +250,7 @@
   {
    "p": 3546,
    "kind": "sup",
-   "label": "S1 3 545,63 (FXEmpire), cassé en fin de journée : prix vers 3 525 (Trading Economics, -2,80 %)"
+   "label": "S1 3 545,63 (FXEmpire), cassé en fin de journée : prix vers 3 518 (Trading Economics, -2,97 %)"
   },
   {
    "p": 3518,
@@ -272,7 +272,7 @@
   {
    "name": "Rendement américain à 10 ans",
    "impact": -1,
-   "text": "Le 10 ans recule un peu vendredi, vers 4,99–5,04 % (Trading Economics, Mitrade), autour de 5 % depuis le 12 novembre. Des taux aussi hauts pèsent sur l'or. Vers 4,99 % en début d'après-midi (Trading Economics), après une clôture jeudi vers 5,05 % (Tradeweb via Mitrade), quatrième baisse de suite. Vers 4,975 % vers 13h GMT (Trading Economics). Vers 5,046 % selon ATFX, 5,04 % selon Mitrade. FXStreet (via FinanceFeeds) note une baisse de plus de 13 points de base sur la semaine, sous 5 %. Vers 4,965 % en fin de journée (Trading Economics)."
+   "text": "Le 10 ans recule un peu vendredi, vers 4,99–5,04 % (Trading Economics, Mitrade), autour de 5 % depuis le 12 novembre. Des taux aussi hauts pèsent sur l'or. Vers 4,99 % en début d'après-midi (Trading Economics), après une clôture jeudi vers 5,05 % (Tradeweb via Mitrade), quatrième baisse de suite. Vers 4,975 % vers 13h GMT (Trading Economics). Vers 5,046 % selon ATFX, 5,04 % selon Mitrade. FXStreet (via FinanceFeeds) note une baisse de plus de 13 points de base sur la semaine, sous 5 %. Vers 4,965 % en fin de journée (Trading Economics). Vers 4,94 % en fin d'après-midi (Yahoo Finance via ANC)."
   },
   {
    "name": "Banque d'Angleterre",
@@ -292,7 +292,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "L'indice du dollar reste près d'un plus haut de 19 mois (Reuters via Rallies, FXEmpire), vers 103,74 vendredi matin (-0,15 %, Trading Economics), après avoir touché 104 après le compte rendu de la Fed. Un dollar fort pèse sur l'or. GoodReturns note une quatrième hausse de suite du dollar, près de 104. Vers 103,86–103,89 en milieu de matinée (Trading Economics, 1trader), stable. Vers 103,87 à la mi-journée (Trading Economics), en route pour une quatrième semaine de hausse. Vers 103,90 en début d'après-midi (Trading Economics), stable. Vers 103,72 en début d'après-midi (-0,17 %, Trading Economics). Vers 103,75 en fin de journée (-0,14 %, Trading Economics)."
+   "text": "L'indice du dollar reste près d'un plus haut de 19 mois (Reuters via Rallies, FXEmpire), vers 103,74 vendredi matin (-0,15 %, Trading Economics), après avoir touché 104 après le compte rendu de la Fed. Un dollar fort pèse sur l'or. GoodReturns note une quatrième hausse de suite du dollar, près de 104. Vers 103,86–103,89 en milieu de matinée (Trading Economics, 1trader), stable. Vers 103,87 à la mi-journée (Trading Economics), en route pour une quatrième semaine de hausse. Vers 103,90 en début d'après-midi (Trading Economics), stable. Vers 103,72 en début d'après-midi (-0,17 %, Trading Economics). Vers 103,75 en fin de journée (-0,14 %, Trading Economics). Vers 103,81 en soirée (-0,09 %, Trading Economics)."
   },
   {
    "name": "Élections de mi-mandat",
@@ -307,7 +307,7 @@
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Vendredi matin : l'or rebondit vers 3 580 après un plus bas depuis septembre 2025 à 3 513,54–3 513,70 (Investing.com, Kitco), plage du jour 3 513,70–3 652,20 (Kitco) ; environ -9 % sur la semaine. FXEmpire : RSI journalier vers 24, moyennes mobiles en baisse au-dessus du prix, support 3 518 puis 3 421 en cas de clôture dessous, résistances 3 597 puis 3 699. Mitrade : supports 3 570–3 590, 3 500–3 520 et 3 450–3 475, résistances 3 625–3 650, 3 685–3 700 et 3 746–3 766. 1trader : résistances 3 650 et 3 706, supports 3 500, 3 475 et 3 447. La tendance reste baissière ; le rebond depuis 3 514 est pour l'instant un simple rebond de survente. Fin de matinée : l'or vers 3 571 (-1,0 %, FXEmpire 09h46 GMT) ; points pivots FXEmpire : S1 3 546, pivot 3 652, R1 3 714 ; l'indicateur technique FXEmpire compte 17 signaux de vente pour 5 d'achat. FXEmpire rappelle que le plus bas du 30 oct. à 3 870 a été cassé le 12 nov. et place le support suivant à 3 312 (plus bas d'août 2025) en cas de cassure nette. Mi-journée : l'or remonte vers 3 589 (-0,96 %, Kitco 10h37 GMT), toujours dans le support Mitrade 3 570–3 590 et sous la résistance 3 625–3 650. Début d'après-midi : l'or reperd un peu de terrain vers 3 576 (-1,4 %, Trading Economics), en bas du support 3 570–3 590. Mitrade place le premier obstacle à la hausse à 3 600, puis 3 670–3 680, et rappelle que 3 500 n'est pas encore un plancher solide. Vers 13h GMT : l'or vers 3 568–3 572 (-1,5 %, Kitco et Trading Economics), au bas du support 3 570–3 590, toujours au-dessus de 3 518. Vers 15h GMT : l'or stable vers 3 572 (-1,43 %, Kitco), plage du jour inchangée 3 513,70–3 652,20 ; ATFX place les supports à 3 505 puis 3 418 et les résistances à 3 676 puis 3 786. Vers 15h GMT : l'or vers 3 569 (-1,56 %, Kitco), au milieu de sa plage du jour. FXStreet (via FinanceFeeds) : RSI journalier vers 25, ADX au-dessus de 30 (tendance baissière qui se renforce), moyennes 50, 100 et 200 jours à 4 091, 4 180 et 4 408, résistances 3 600 puis 3 700, support 3 500. Vers 17h GMT : l'or rechute vers 3 539 (-2,41 %, Trading Economics), sous le support 3 570–3 590 et sous S1 3 546, à environ 25 $ du plus bas de la nuit. Mitrade : RSI 1 h vers 16–18, en forte survente, sans divergence haussière pour l'instant ; supports 3 500–3 520 puis 3 450–3 475. Vers 18h GMT : l'or glisse vers 3 525 (-2,80 %, Trading Economics), juste au-dessus du support 3 500–3 520. FXEmpire juge le RSI journalier en survente extrême et prévient qu'une clôture hebdomadaire sous 3 500 pourrait mener vers 3 300 ; The National voit 3 600 puis 3 700 à reprendre à la hausse, et 3 800–3 850 devenu résistance."
+   "text": "Vendredi matin : l'or rebondit vers 3 580 après un plus bas depuis septembre 2025 à 3 513,54–3 513,70 (Investing.com, Kitco), plage du jour 3 513,70–3 652,20 (Kitco) ; environ -9 % sur la semaine. FXEmpire : RSI journalier vers 24, moyennes mobiles en baisse au-dessus du prix, support 3 518 puis 3 421 en cas de clôture dessous, résistances 3 597 puis 3 699. Mitrade : supports 3 570–3 590, 3 500–3 520 et 3 450–3 475, résistances 3 625–3 650, 3 685–3 700 et 3 746–3 766. 1trader : résistances 3 650 et 3 706, supports 3 500, 3 475 et 3 447. La tendance reste baissière ; le rebond depuis 3 514 est pour l'instant un simple rebond de survente. Fin de matinée : l'or vers 3 571 (-1,0 %, FXEmpire 09h46 GMT) ; points pivots FXEmpire : S1 3 546, pivot 3 652, R1 3 714 ; l'indicateur technique FXEmpire compte 17 signaux de vente pour 5 d'achat. FXEmpire rappelle que le plus bas du 30 oct. à 3 870 a été cassé le 12 nov. et place le support suivant à 3 312 (plus bas d'août 2025) en cas de cassure nette. Mi-journée : l'or remonte vers 3 589 (-0,96 %, Kitco 10h37 GMT), toujours dans le support Mitrade 3 570–3 590 et sous la résistance 3 625–3 650. Début d'après-midi : l'or reperd un peu de terrain vers 3 576 (-1,4 %, Trading Economics), en bas du support 3 570–3 590. Mitrade place le premier obstacle à la hausse à 3 600, puis 3 670–3 680, et rappelle que 3 500 n'est pas encore un plancher solide. Vers 13h GMT : l'or vers 3 568–3 572 (-1,5 %, Kitco et Trading Economics), au bas du support 3 570–3 590, toujours au-dessus de 3 518. Vers 15h GMT : l'or stable vers 3 572 (-1,43 %, Kitco), plage du jour inchangée 3 513,70–3 652,20 ; ATFX place les supports à 3 505 puis 3 418 et les résistances à 3 676 puis 3 786. Vers 15h GMT : l'or vers 3 569 (-1,56 %, Kitco), au milieu de sa plage du jour. FXStreet (via FinanceFeeds) : RSI journalier vers 25, ADX au-dessus de 30 (tendance baissière qui se renforce), moyennes 50, 100 et 200 jours à 4 091, 4 180 et 4 408, résistances 3 600 puis 3 700, support 3 500. Vers 17h GMT : l'or rechute vers 3 539 (-2,41 %, Trading Economics), sous le support 3 570–3 590 et sous S1 3 546, à environ 25 $ du plus bas de la nuit. Mitrade : RSI 1 h vers 16–18, en forte survente, sans divergence haussière pour l'instant ; supports 3 500–3 520 puis 3 450–3 475. Vers 18h GMT : l'or glisse vers 3 525 (-2,80 %, Trading Economics), juste au-dessus du support 3 500–3 520. FXEmpire juge le RSI journalier en survente extrême et prévient qu'une clôture hebdomadaire sous 3 500 pourrait mener vers 3 300 ; The National voit 3 600 puis 3 700 à reprendre à la hausse, et 3 800–3 850 devenu résistance. Vers 20h GMT : l'or vers 3 518 (-2,97 %, Trading Economics), après un creux vers 3 506, toujours au-dessus du support 3 500. Kitco voit 3 500 comme prochain support, et les résistances à 3 640 puis 3 678 ; FOREX.com vise 3 500 et place une résistance plus lourde à 3 837–3 870 (ANC)."
   },
   {
    "name": "Achats des banques centrales",
@@ -331,7 +331,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas vendre vers 3 506 : l'or est très survendu (RSI 1 h vers 16–18, Mitrade) sur le support 3 500–3 520 ; attendre un rebond vers 3 625–3 650 avec une bougie 1 h de rejet.",
+  "Ne pas vendre vers 3 518 : l'or est très survendu (RSI 1 h vers 16–18, Mitrade) sur le support 3 500–3 520 ; attendre un rebond vers 3 625–3 650 avec une bougie 1 h de rejet.",
   "Ne pas acheter avant un signal clair sur 3 505–3 520 : la tendance reste baissière, l'achat est contre la tendance et en taille réduite.",
   "Prudence avant la clôture de la semaine (22h GMT) : liquidité plus faible, mouvements brusques possibles autour de 3 500, et une clôture dessous annoncerait une nouvelle baisse.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
@@ -451,8 +451,12 @@
  ],
  "sources": [
   {
-   "title": "Trading Economics : l'or tombe à 3 506,02 $ (-3,31 %), affiche aussi 3 519,25 $ (-2,95 %), FedWatch 99 %, dollar 103,88 (20 nov., soir)",
+   "title": "Trading Economics : l'or à 3 518,23 $ (-2,97 %), FedWatch 99 %, dollar 103,81 (20 nov., soir)",
    "url": "https://tradingeconomics.com/commodity/gold"
+  },
+  {
+   "title": "ANC : pire semaine depuis mars, plus bas 3 513,54 $, FedWatch 99,3 %, résistances Kitco 3 640 / 3 678, support 3 500 (20 nov., 16h20 GMT)",
+   "url": "https://ancstockinvestments.com/blog/2026/11/20/gold-price-this-week-worst-drop-since-march/"
   },
   {
    "title": "TokenPost : l'or à 3 525 $, plus bas depuis septembre 2025, près de 10 % de baisse sur la semaine (20 nov.)",
