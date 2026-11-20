@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-20T13:10:00Z",
- "price": 3570,
- "change": -1.5,
- "priceTime": "20 nov. · 14h00 Paris",
+ "updatedAt": "2026-11-20T14:05:00Z",
+ "price": 3569,
+ "change": -1.55,
+ "priceTime": "20 nov. · 15h00 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or reste faible vers 3 570 $ ce vendredi en début d'après-midi (3 568 $ à 12h54 GMT, -1,55 % selon Kitco ; 3 572 $, -1,49 % selon Trading Economics), après un plus bas de la nuit à 3 513,70 $, le plus bas depuis septembre 2025. La semaine reste en baisse d'environ 9 % : la Fed reste dure (Waller juge qu'un demi-point pourrait être envisagé en décembre) et le dollar se tient vers 103,70, près d'un plus haut de 19 mois (Trading Economics). Le marché voit environ 90 % de chances d'une hausse d'un quart de point le 9 décembre (CME FedWatch via Trading Economics). Supports 3 570–3 590 puis 3 500–3 520 et 3 450–3 475 ; résistances 3 600, 3 625–3 650 puis 3 670–3 700 (Mitrade). Le biais reste vendeur et les quatre plans sont gardés : le prix est entre les zones, aucune entrée, aucun stop ni niveau d'annulation touché ; moral des ménages Michigan à 16h00 Paris, discours de Waller et Cook dans la journée.",
+ "summary": "L'or reste stable vers 3 570 $ ce vendredi en milieu d'après-midi (3 568 $ à 14h03 GMT, -1,55 % selon Kitco ; vers 3 570 $ selon FinanceFeeds à 13h15 GMT), après un plus bas de la nuit à 3 513,70 $, le plus bas depuis septembre 2025. La semaine reste en baisse d'environ 8 à 9 %, la pire depuis mars : la Fed reste dure (Paulson et Goolsbee veulent encore monter les taux, Waller évoque un demi-point) et le CME FedWatch donne jusqu'à 99 % de chances d'une hausse le 9 décembre (FinanceFeeds). Le recul du rendement à 10 ans sous 5 % n'aide pas encore l'or, pénalisé par des ventes forcées après la chute des Bourses. Supports 3 570–3 590 puis 3 500–3 520 ; résistances 3 600, 3 625–3 650 puis 3 700 (Mitrade, FinanceFeeds). Le biais reste vendeur et les quatre plans sont gardés : le prix est entre les zones, aucune entrée ni stop touché ; moral des ménages Michigan à 16h00 Paris, discours de Waller et Cook dans la journée.",
  "setups": [
   {
    "side": "sell",
@@ -245,7 +245,7 @@
   {
    "p": 3580,
    "kind": "sup",
-   "label": "Prix vers 3 570 vendredi début d'après-midi (Kitco 3 568 à 12h54 GMT, Trading Economics 3 572) ; support Mitrade 3 570–3 590"
+   "label": "Prix vers 3 570 vendredi milieu d'après-midi (Kitco 3 568 à 14h03 GMT, FinanceFeeds 3 570) ; support Mitrade 3 570–3 590"
   },
   {
    "p": 3546,
@@ -267,7 +267,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -2,
-   "text": "Taux à 3,75–4 %. Le compte rendu de la réunion d'octobre, publié mercredi soir, montre que presque tous les membres attendent une nouvelle hausse en décembre, et que deux ont évoqué un demi-point (Mitrade). Le vote d'octobre était à 10 contre 2 pour garder les taux, après une hausse d'un quart de point en septembre (KuCoin). Waller veut un demi-point maintenant ou des hausses plus rapides ; Williams et Musalem jugent d'autres hausses nécessaires. CME FedWatch : 90 % pour un quart de point en décembre et 10 % pour un demi-point (Trading Economics, KuCoin), 95 % selon Mitrade. Réunion les 8–9 décembre. Danske Bank attend des hausses d'un quart de point en décembre, janvier et mars (FXStreet). Jeudi après-midi : 91 % pour un quart de point et 9 % pour un demi-point (Rallies). Vendredi : CME FedWatch à 93,9 % pour un quart de point et 6,1 % pour un demi-point (FXEmpire), 97,3 % et 2,7 % selon Investing.com. Anna Paulson (Fed de Philadelphie) juge une nouvelle hausse nécessaire ; Waller et Cook parlent ce vendredi. Waller a prévenu que l'inflation va dans la mauvaise direction et qu'un demi-point pourrait être envisagé en décembre (Trading Economics)."
+   "text": "Taux à 3,75–4 %. Le compte rendu de la réunion d'octobre, publié mercredi soir, montre que presque tous les membres attendent une nouvelle hausse en décembre, et que deux ont évoqué un demi-point (Mitrade). Le vote d'octobre était à 10 contre 2 pour garder les taux, après une hausse d'un quart de point en septembre (KuCoin). Waller veut un demi-point maintenant ou des hausses plus rapides ; Williams et Musalem jugent d'autres hausses nécessaires. CME FedWatch : 90 % pour un quart de point en décembre et 10 % pour un demi-point (Trading Economics, KuCoin), 95 % selon Mitrade. Réunion les 8–9 décembre. Danske Bank attend des hausses d'un quart de point en décembre, janvier et mars (FXStreet). Jeudi après-midi : 91 % pour un quart de point et 9 % pour un demi-point (Rallies). Vendredi : CME FedWatch à 93,9 % pour un quart de point et 6,1 % pour un demi-point (FXEmpire), 97,3 % et 2,7 % selon Investing.com. Anna Paulson (Fed de Philadelphie) juge une nouvelle hausse nécessaire ; Waller et Cook parlent ce vendredi. Waller a prévenu que l'inflation va dans la mauvaise direction et qu'un demi-point pourrait être envisagé en décembre (Trading Economics). Vendredi après-midi : 99,3 % pour un quart de point selon CME FedWatch (FinanceFeeds) ; Goolsbee juge que l'inflation ne reviendra pas seule à 2 %."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -450,7 +450,11 @@
  ],
  "sources": [
   {
-   "title": "Kitco : or spot 3 568 $ (-56,20 $, -1,55 %), plage du jour 3 513,70–3 652,20 $ (20 nov., 12h54 GMT)",
+   "title": "FinanceFeeds : l'or vers 3 570 $, pire semaine depuis mars, FedWatch 99,3 %, résistances 3 600 et 3 700, support 3 500, RSI vers 25 (20 nov., 13h15 GMT)",
+   "url": "https://financefeeds.com/gold-price-today-3570-friday-worst-week-since-march-fed-hike-bets-bull-3700-bear-3500/"
+  },
+  {
+   "title": "Kitco : or spot 3 568,20 $ (-56 $, -1,55 %), plage du jour 3 513,70–3 652,20 $ (20 nov., 14h03 GMT)",
    "url": "https://www.kitco.com/charts/gold"
   },
   {
