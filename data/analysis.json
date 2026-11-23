@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T11:10:00Z",
- "price": 3605,
- "change": 1.9,
- "priceTime": "23 nov. · 12h10 Paris",
+ "updatedAt": "2026-11-23T12:10:00Z",
+ "price": 3620,
+ "change": 2.3,
+ "priceTime": "23 nov. · 13h10 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or garde son rebond de lundi, vers 3 604–3 615 $ selon les dernières cotations publiées (Kitco, Mitrade), soit environ +1,9 % sur la journée. Le plus haut du jour se situe entre 3 630 et 3 641 $, dans la résistance 3 630–3 650 (Mitrade, Goodreturns), et le prix ne l'a pas cassée. Les paris sur la Fed se calment : environ 93 % pour un quart de point en décembre et 7 % pour un statu quo (CME FedWatch via Goodreturns), le dollar recule vers 103,76 et le 10 ans vers 4,92 %. Le biais reste vendeur tant que l'or reste sous 3 700 : le RSI journalier est encore vers 21 (Goodreturns) et FXEmpire voit une résistance vers 3 700 ; les quatre plans sont gardés, aucun stop ni seuil d'annulation n'a été touché. À suivre : PMI américains à 14h45 UTC aujourd'hui, puis PIB et inflation PCE mercredi.",
+ "summary": "L'or garde son rebond de lundi, entre 3 604 et 3 622 $ selon les dernières cotations publiées (Kitco, Mitrade), soit environ +1,9 à +2,4 % sur la journée. Le plus haut du jour reste entre 3 630 et 3 641 $, dans la résistance 3 630–3 650 (Mitrade), et le prix ne l'a pas cassée. Les paris sur la Fed se calment : environ 93 % pour un quart de point en décembre et 7 % pour un statu quo (CME FedWatch via Goodreturns) ; le dollar recule vers 103,75 et le 10 ans vers 4,92–4,94 %, et Bessent a mis en garde contre une Fed trop dure. Le biais reste vendeur tant que l'or reste sous 3 700 (ligne de tendance baissière, FXEmpire) ; les quatre plans sont gardés, aucun stop ni seuil d'annulation n'a été touché. À suivre : PMI américains à 14h45 UTC aujourd'hui, puis PIB et inflation PCE mercredi.",
  "setups": [
   {
    "side": "sell",
@@ -22,7 +22,7 @@
     3525
    ],
    "invalidAbove": 3670,
-   "note": "Plan gardé (l'or vers 3 604–3 615, sous la zone) : le plus haut de la séance a touché 3 641 dans la zone (InvestingCube), puis l'or est revenu vers 3 612–3 625 ; TradingPedia place une résistance à 3 655 (retracement 23,6 %). Entrer seulement sur une bougie 1 h de rejet dans 3 625–3 650, pas après coup. Stop au-dessus de l'ancien plus bas 3 667, à 3 675. Objectif 1 vers 3 580 (support Mitrade 3 570–3 590), objectif 2 vers 3 525, au-dessus du support 3 500–3 520. Une clôture 1 h au-dessus de 3 670 annule le plan."
+   "note": "Plan gardé (l'or vers 3 604–3 622, juste sous la zone) : le plus haut de la séance a touché 3 641 dans la zone (InvestingCube), puis l'or est revenu vers 3 612–3 625 ; TradingPedia place une résistance à 3 655 (retracement 23,6 %). Entrer seulement sur une bougie 1 h de rejet dans 3 625–3 650, pas après coup. Stop au-dessus de l'ancien plus bas 3 667, à 3 675. Objectif 1 vers 3 580 (support Mitrade 3 570–3 590), objectif 2 vers 3 525, au-dessus du support 3 500–3 520. Une clôture 1 h au-dessus de 3 670 annule le plan."
   },
   {
    "side": "sell",
@@ -238,9 +238,9 @@
    "label": "Résistance 3 630–3 650 (Mitrade), 3 651 (FXEmpire), retracement 23,6 % à 3 655 (TradingPedia), 3 656 (ATFX) : plus haut de la séance 3 641 (InvestingCube), zone de vente 3 625–3 650, objectif 2 de l'achat"
   },
   {
-   "p": 3605,
+   "p": 3620,
    "kind": "sup",
-   "label": "Prix actuel vers 3 604–3 615 (Kitco, Mitrade) ; R1 3 609 (FXEmpire), support 3 601 (InvestingCube), seuil 3 600"
+   "label": "Prix actuel vers 3 604–3 622 (Kitco, Mitrade) ; R1 3 609 (FXEmpire), seuil 3 600 (Mitrade), support 3 601 (InvestingCube)"
   },
   {
    "p": 3595,
@@ -462,6 +462,10 @@
   }
  ],
  "sources": [
+  {
+   "title": "Mitrade : l'or repasse au-dessus de 3 600 $, vers 3 622 $ (+2,4 %), résistances 3 760 et 3 870, Bessent met en garde la Fed (23 nov.)",
+   "url": "https://www.mitrade.com/au/insights/commodity-analysis/gold-price/gold-price-reclaims-3600"
+  },
   {
    "title": "Goodreturns (direct) : l'or au comptant bondit de 2 % au-dessus de 3 610 $, résistances 3 600–3 630 / 3 700–3 730, RSI journalier vers 21, dollar 103,76 (23 nov.)",
    "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-23-11-2026-live-updates-mcx-gold-silver-price-24k-22k-18k-gold-prices-1548905.html"
