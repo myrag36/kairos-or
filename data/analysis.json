@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T12:10:00Z",
+ "updatedAt": "2026-11-23T13:10:00Z",
  "price": 3620,
- "change": 2.3,
- "priceTime": "23 nov. · 13h10 Paris",
+ "change": 2.4,
+ "priceTime": "23 nov. · 14h10 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or garde son rebond de lundi, entre 3 604 et 3 622 $ selon les dernières cotations publiées (Kitco, Mitrade), soit environ +1,9 à +2,4 % sur la journée. Le plus haut du jour reste entre 3 630 et 3 641 $, dans la résistance 3 630–3 650 (Mitrade), et le prix ne l'a pas cassée. Les paris sur la Fed se calment : environ 93 % pour un quart de point en décembre et 7 % pour un statu quo (CME FedWatch via Goodreturns) ; le dollar recule vers 103,75 et le 10 ans vers 4,92–4,94 %, et Bessent a mis en garde contre une Fed trop dure. Le biais reste vendeur tant que l'or reste sous 3 700 (ligne de tendance baissière, FXEmpire) ; les quatre plans sont gardés, aucun stop ni seuil d'annulation n'a été touché. À suivre : PMI américains à 14h45 UTC aujourd'hui, puis PIB et inflation PCE mercredi.",
+ "summary": "L'or garde son rebond de lundi, entre 3 604 et 3 625 $ selon les dernières cotations publiées (Kitco, Mitrade, ad-hoc-news), soit environ +1,9 à +2,6 % sur la journée. Le prix reste sous la résistance 3 630–3 650 (Mitrade) : le plus haut du jour vers 3 630–3 641 n'a pas été dépassé. Les paris sur la Fed se calment : environ 93 % pour un quart de point en décembre et 7 % pour un statu quo (CME FedWatch), le demi-point n'est plus anticipé ; le dollar recule vers 103,75 et le 10 ans reste sous 5 %. Le biais reste vendeur tant que l'or reste sous 3 700 (ligne de tendance baissière, FXEmpire) ; les quatre plans sont gardés, aucun stop ni seuil d'annulation n'a été touché. À suivre : PMI américains à 14h45 UTC (15h45 Paris), puis PIB et inflation PCE mercredi.",
  "setups": [
   {
    "side": "sell",
@@ -267,7 +267,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -1,
-   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine."
+   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine. La probabilité d'un demi-point de décembre est tombée à 0 %, contre environ 10 % dix jours plus tôt (CoinDesk via bloomingbit)."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -493,6 +493,10 @@
   {
    "title": "TradingKey : l'or au comptant reprend 3 600 $ alors que les paris sur la Fed se calment (23 nov.)",
    "url": "https://www.tradingkey.com/analysis/commodities/metal/262317208-spot-gold-rebounds-reclaim-3600-fed-rate-hike-expectations-cool-tradingkey"
+  },
+  {
+   "title": "ad-hoc-news : l'or prend 2,4 à 2,6 % alors que les paris de hausse de décembre reculent, FedWatch 93 % (23 nov.)",
+   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-climbs-2-4-prozent-2-6-prozent-as-traders-trim-december-rate-hike-bets-and-ai-doubts-revive/70546280"
   }
  ]
 }
