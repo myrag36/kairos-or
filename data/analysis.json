@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T15:10:00Z",
+ "updatedAt": "2026-11-23T16:10:00Z",
  "price": 3669,
  "change": 3.7,
  "priceTime": "23 nov. · 15h38 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or accélère son rebond : vers 3 669 $ à 14h38 UTC, soit +3,7 % sur la journée, avec un plus haut à 3 690,20 (Kitco). Les PMI américains de novembre sortent plus faibles que prévu : services 54,7 (55,7 attendu), industrie 54,5 (54,9 attendu), composite 54,6 contre 55,9 (investingLive), ce qui soutient l'or. Le dollar recule vers 103,6 et le marché attend toujours une hausse de la Fed en décembre, mais moins agressive (Kitco). Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700, mais ce seuil est tout proche. La vente sur rebond vers 3 640 est annulée (plus haut 3 690, au-dessus du stop 3 675) et remplacée par une vente plus haut, dans 3 700–3 730.",
+ "summary": "L'or tient son rebond : vers 3 669 $ à 14h38 UTC, +3,7 % sur la journée, plus haut 3 690,20 (Kitco) ; Reuters donnait 3 676,78 $ (+4,1 %) à 14h22 GMT, porté par des achats à bon compte après une chute de plus de 9 % la semaine passée. Les PMI américains de novembre sont plus faibles que prévu (services 54,7 contre 55,7 attendu) et le marché ne prévoit plus qu'un quart de point de hausse en décembre, environ 92 % de probabilité, le demi-point étant écarté (World Today Journal). Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700, seuil tout proche. Aucun plan n'est touché depuis la dernière mise à jour : la vente dans 3 700–3 730 attend toujours un rejet. Prudence avant le PCE de mercredi.",
  "setups": [
   {
    "side": "sell",
@@ -22,7 +22,7 @@
     3600
    ],
    "invalidAbove": 3766,
-   "note": "Nouveau plan : il remplace la vente sur rebond vers 3 640, annulée car l'or est monté à 3 690,20 (Kitco), au-dessus du stop 3 675. Stop au-dessus de la résistance Mitrade 3 746–3 766, à 3 770. Objectif 1 vers 3 650 (ancienne résistance 3 630–3 650, Trade Nation 3 651), objectif 2 vers 3 600 (support Trade Nation 3 595). Une clôture 1 h au-dessus de 3 766 annule le plan : retour possible vers 3 780–3 820 (InvestingCube, LiteFinance). Vente contre un rebond fort : taille réduite."
+   "note": "Plan gardé : l'or n'a pas encore atteint la zone (plus haut du jour 3 690,20, Kitco). Stop au-dessus de la résistance Mitrade 3 746–3 766, à 3 770. Objectif 1 vers 3 650 (ancienne résistance 3 630–3 650, Trade Nation 3 651), objectif 2 vers 3 600 (support Trade Nation 3 595). Une clôture 1 h au-dessus de 3 766 annule le plan : retour possible vers 3 780–3 820 (InvestingCube, LiteFinance). Vente contre un rebond fort : taille réduite."
   },
   {
    "side": "sell",
@@ -272,7 +272,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -1,
-   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine. La probabilité d'un demi-point de décembre est tombée à 0 %, contre environ 10 % dix jours plus tôt (CoinDesk via bloomingbit)."
+   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine. La probabilité d'un demi-point de décembre est tombée à 0 %, contre environ 10 % dix jours plus tôt (CoinDesk via bloomingbit). Lundi : environ 92 % pour un quart de point en décembre, demi-point totalement écarté (World Today Journal) ; Scott Bessent, secrétaire au Trésor, met en garde la Fed contre un excès de hausses (TradingKey)."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -312,7 +312,7 @@
   {
    "name": "Technique",
    "impact": -2,
-   "text": "Vendredi matin : l'or rebondit vers 3 580 après un plus bas depuis septembre 2025 à 3 513,54–3 513,70 (Investing.com, Kitco), plage du jour 3 513,70–3 652,20 (Kitco) ; environ -9 % sur la semaine. FXEmpire : RSI journalier vers 24, moyennes mobiles en baisse au-dessus du prix, support 3 518 puis 3 421 en cas de clôture dessous, résistances 3 597 puis 3 699. Mitrade : supports 3 570–3 590, 3 500–3 520 et 3 450–3 475, résistances 3 625–3 650, 3 685–3 700 et 3 746–3 766. 1trader : résistances 3 650 et 3 706, supports 3 500, 3 475 et 3 447. La tendance reste baissière ; le rebond depuis 3 514 est pour l'instant un simple rebond de survente. Fin de matinée : l'or vers 3 571 (-1,0 %, FXEmpire 09h46 GMT) ; points pivots FXEmpire : S1 3 546, pivot 3 652, R1 3 714 ; l'indicateur technique FXEmpire compte 17 signaux de vente pour 5 d'achat. FXEmpire rappelle que le plus bas du 30 oct. à 3 870 a été cassé le 12 nov. et place le support suivant à 3 312 (plus bas d'août 2025) en cas de cassure nette. Mi-journée : l'or remonte vers 3 589 (-0,96 %, Kitco 10h37 GMT), toujours dans le support Mitrade 3 570–3 590 et sous la résistance 3 625–3 650. Début d'après-midi : l'or reperd un peu de terrain vers 3 576 (-1,4 %, Trading Economics), en bas du support 3 570–3 590. Mitrade place le premier obstacle à la hausse à 3 600, puis 3 670–3 680, et rappelle que 3 500 n'est pas encore un plancher solide. Vers 13h GMT : l'or vers 3 568–3 572 (-1,5 %, Kitco et Trading Economics), au bas du support 3 570–3 590, toujours au-dessus de 3 518. Vers 15h GMT : l'or stable vers 3 572 (-1,43 %, Kitco), plage du jour inchangée 3 513,70–3 652,20 ; ATFX place les supports à 3 505 puis 3 418 et les résistances à 3 676 puis 3 786. Vers 15h GMT : l'or vers 3 569 (-1,56 %, Kitco), au milieu de sa plage du jour. FXStreet (via FinanceFeeds) : RSI journalier vers 25, ADX au-dessus de 30 (tendance baissière qui se renforce), moyennes 50, 100 et 200 jours à 4 091, 4 180 et 4 408, résistances 3 600 puis 3 700, support 3 500. Vers 17h GMT : l'or rechute vers 3 539 (-2,41 %, Trading Economics), sous le support 3 570–3 590 et sous S1 3 546, à environ 25 $ du plus bas de la nuit. Mitrade : RSI 1 h vers 16–18, en forte survente, sans divergence haussière pour l'instant ; supports 3 500–3 520 puis 3 450–3 475. Vers 18h GMT : l'or glisse vers 3 525 (-2,80 %, Trading Economics), juste au-dessus du support 3 500–3 520. FXEmpire juge le RSI journalier en survente extrême et prévient qu'une clôture hebdomadaire sous 3 500 pourrait mener vers 3 300 ; The National voit 3 600 puis 3 700 à reprendre à la hausse, et 3 800–3 850 devenu résistance. Vers 20h GMT : l'or vers 3 518 (-2,97 %, Trading Economics), après un creux vers 3 506, toujours au-dessus du support 3 500. Kitco voit 3 500 comme prochain support, et les résistances à 3 640 puis 3 678 ; FOREX.com vise 3 500 et place une résistance plus lourde à 3 837–3 870 (ANC). Lundi fin de matinée : l'or tient au-dessus de 3 600 ; TradingPedia : RSI 4 h vers 37, sorti de la survente, MACD 4 h juste positif, résistances 3 655, 3 750 et 3 826, moyenne 200 périodes 4 h vers 3 990 ; ANC voit une résistance vers 3 693 (plus bas du 19 nov.) puis 3 800. Lundi midi : l'or vers 3 604–3 615, plage du jour 3 539,80–3 630,20 sur Kitco ; Goodreturns place les résistances à 3 600–3 630 puis 3 700–3 730, les supports à 3 500–3 470 puis 3 380–3 350, RSI journalier vers 21 ; FXEmpire voit 3 400–3 500 comme zone de support clé. Lundi 13h GMT : l'or vers 3 616–3 621, plage du jour 3 539,80–3 637,90 (Kitco via FinanceFeeds) ; InvestingCube : résistance 3 641 puis objectifs 3 709 et 3 780 en cas de cassure, support 3 506, cible basse 3 440 ; note technique journalière « vente », moyennes mobiles « vente forte ». Lundi 14h38 UTC : l'or vers 3 669 (+3,7 %), plus haut du jour 3 690,20 (Kitco). Trade Nation : résistances 3 651 puis 3 695, supports 3 595 puis 3 503 ; l'élan journalier ne confirme pas encore un retournement. LiteFinance : RSI 4 h vers 35 sorti de la survente, marteau près de 3 580,75, résistances 3 643, 3 730 et 3 820."
+   "text": "Vendredi matin : l'or rebondit vers 3 580 après un plus bas depuis septembre 2025 à 3 513,54–3 513,70 (Investing.com, Kitco), plage du jour 3 513,70–3 652,20 (Kitco) ; environ -9 % sur la semaine. FXEmpire : RSI journalier vers 24, moyennes mobiles en baisse au-dessus du prix, support 3 518 puis 3 421 en cas de clôture dessous, résistances 3 597 puis 3 699. Mitrade : supports 3 570–3 590, 3 500–3 520 et 3 450–3 475, résistances 3 625–3 650, 3 685–3 700 et 3 746–3 766. 1trader : résistances 3 650 et 3 706, supports 3 500, 3 475 et 3 447. La tendance reste baissière ; le rebond depuis 3 514 est pour l'instant un simple rebond de survente. Fin de matinée : l'or vers 3 571 (-1,0 %, FXEmpire 09h46 GMT) ; points pivots FXEmpire : S1 3 546, pivot 3 652, R1 3 714 ; l'indicateur technique FXEmpire compte 17 signaux de vente pour 5 d'achat. FXEmpire rappelle que le plus bas du 30 oct. à 3 870 a été cassé le 12 nov. et place le support suivant à 3 312 (plus bas d'août 2025) en cas de cassure nette. Mi-journée : l'or remonte vers 3 589 (-0,96 %, Kitco 10h37 GMT), toujours dans le support Mitrade 3 570–3 590 et sous la résistance 3 625–3 650. Début d'après-midi : l'or reperd un peu de terrain vers 3 576 (-1,4 %, Trading Economics), en bas du support 3 570–3 590. Mitrade place le premier obstacle à la hausse à 3 600, puis 3 670–3 680, et rappelle que 3 500 n'est pas encore un plancher solide. Vers 13h GMT : l'or vers 3 568–3 572 (-1,5 %, Kitco et Trading Economics), au bas du support 3 570–3 590, toujours au-dessus de 3 518. Vers 15h GMT : l'or stable vers 3 572 (-1,43 %, Kitco), plage du jour inchangée 3 513,70–3 652,20 ; ATFX place les supports à 3 505 puis 3 418 et les résistances à 3 676 puis 3 786. Vers 15h GMT : l'or vers 3 569 (-1,56 %, Kitco), au milieu de sa plage du jour. FXStreet (via FinanceFeeds) : RSI journalier vers 25, ADX au-dessus de 30 (tendance baissière qui se renforce), moyennes 50, 100 et 200 jours à 4 091, 4 180 et 4 408, résistances 3 600 puis 3 700, support 3 500. Vers 17h GMT : l'or rechute vers 3 539 (-2,41 %, Trading Economics), sous le support 3 570–3 590 et sous S1 3 546, à environ 25 $ du plus bas de la nuit. Mitrade : RSI 1 h vers 16–18, en forte survente, sans divergence haussière pour l'instant ; supports 3 500–3 520 puis 3 450–3 475. Vers 18h GMT : l'or glisse vers 3 525 (-2,80 %, Trading Economics), juste au-dessus du support 3 500–3 520. FXEmpire juge le RSI journalier en survente extrême et prévient qu'une clôture hebdomadaire sous 3 500 pourrait mener vers 3 300 ; The National voit 3 600 puis 3 700 à reprendre à la hausse, et 3 800–3 850 devenu résistance. Vers 20h GMT : l'or vers 3 518 (-2,97 %, Trading Economics), après un creux vers 3 506, toujours au-dessus du support 3 500. Kitco voit 3 500 comme prochain support, et les résistances à 3 640 puis 3 678 ; FOREX.com vise 3 500 et place une résistance plus lourde à 3 837–3 870 (ANC). Lundi fin de matinée : l'or tient au-dessus de 3 600 ; TradingPedia : RSI 4 h vers 37, sorti de la survente, MACD 4 h juste positif, résistances 3 655, 3 750 et 3 826, moyenne 200 périodes 4 h vers 3 990 ; ANC voit une résistance vers 3 693 (plus bas du 19 nov.) puis 3 800. Lundi midi : l'or vers 3 604–3 615, plage du jour 3 539,80–3 630,20 sur Kitco ; Goodreturns place les résistances à 3 600–3 630 puis 3 700–3 730, les supports à 3 500–3 470 puis 3 380–3 350, RSI journalier vers 21 ; FXEmpire voit 3 400–3 500 comme zone de support clé. Lundi 13h GMT : l'or vers 3 616–3 621, plage du jour 3 539,80–3 637,90 (Kitco via FinanceFeeds) ; InvestingCube : résistance 3 641 puis objectifs 3 709 et 3 780 en cas de cassure, support 3 506, cible basse 3 440 ; note technique journalière « vente », moyennes mobiles « vente forte ». Lundi 14h38 UTC : l'or vers 3 669 (+3,7 %), plus haut du jour 3 690,20 (Kitco). Trade Nation : résistances 3 651 puis 3 695, supports 3 595 puis 3 503 ; l'élan journalier ne confirme pas encore un retournement. LiteFinance : RSI 4 h vers 35 sorti de la survente, marteau près de 3 580,75, résistances 3 643, 3 730 et 3 820. Reuters : 3 676,78 $ (+4,1 %) à 14h22 GMT. VT Markets (via World Today Journal) : support 3 500–3 526, zone de reprise 3 600–3 665, résistances 3 750 (38,2 %), 3 826 (50 %), 3 903 (61,8 %), moyenne exponentielle 200 périodes vers 3 990."
   },
   {
    "name": "Achats des banques centrales",
@@ -469,6 +469,18 @@
  ],
  "sources": [
   {
+   "title": "MarketScreener (Reuters) : l'or monte, achats à bon compte après une forte baisse hebdomadaire, 3 676,78 $ (+4,1 %) à 14h22 GMT (23 nov.)",
+   "url": "https://www.marketscreener.com/news/gold-rises-as-bargain-hunters-step-in-after-steep-weekly-drop-ce7851dada81f426"
+  },
+  {
+   "title": "World Today Journal : l'or +2,9 %, 92 % pour un quart de point en décembre, résistances 3 750 / 3 826 / 3 903 (23 nov.)",
+   "url": "https://world-today-journal.com/spot-gold-climbs-2-9-after-tech-selloff-fuels-safe-haven-demand/"
+  },
+  {
+   "title": "TradingKey : l'or reprend 3 600 $, Bessent met en garde la Fed (23 nov.)",
+   "url": "https://www.tradingkey.com/analysis/commodities/metal/262317208-spot-gold-rebounds-reclaim-3600-fed-rate-hike-expectations-cool-tradingkey"
+  },
+  {
    "title": "Kitco : or au comptant 3 668,60 $ (+3,69 %), plage 3 539,80–3 690,20 (23 nov., 9h38 heure de New York)",
    "url": "https://www.kitco.com/price/precious-metals"
   },
@@ -499,18 +511,6 @@
   {
    "title": "Mitrade : l'or repasse au-dessus de 3 600 $, vers 3 622 $ (+2,4 %), résistances 3 760 et 3 870, Bessent met en garde la Fed (23 nov.)",
    "url": "https://www.mitrade.com/au/insights/commodity-analysis/gold-price/gold-price-reclaims-3600"
-  },
-  {
-   "title": "Goodreturns (direct) : l'or au comptant bondit de 2 % au-dessus de 3 610 $, résistances 3 600–3 630 / 3 700–3 730, RSI journalier vers 21, dollar 103,76 (23 nov.)",
-   "url": "https://www.goodreturns.in/news/gold-rates-silver-rates-today-23-11-2026-live-updates-mcx-gold-silver-price-24k-22k-18k-gold-prices-1548905.html"
-  },
-  {
-   "title": "Kitco : or au comptant 3 604,20 $ (+1,87 %), plage 3 539,80–3 630,20",
-   "url": "https://www.kitco.com/price/precious-metals"
-  },
-  {
-   "title": "FXEmpire : un dollar fort freine le rebond avant le PCE, résistance 3 700, supports 3 400–3 500 (23 nov., 04h13 UTC)",
-   "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-strong-dollar-caps-rebound-before-pce-1646416"
   }
  ]
 }
