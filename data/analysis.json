@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T17:10:00Z",
+ "updatedAt": "2026-11-23T18:10:00Z",
  "price": 3668,
  "change": 3.7,
  "priceTime": "23 nov. · 16h21 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or garde son rebond : 3 668,20 $ à 15h21 UTC, plus de 3 % sur la journée, plus haut du jour toujours 3 690,20 (Kitco). Les achats à bon compte l'emportent sur des PMI américains plus faibles que prévu, et le marché ne voit plus qu'un quart de point de hausse de la Fed en décembre, environ 94 % de probabilité (CME FedWatch via FXStreet). Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; la moyenne 20 jours vers 3 913 reste loin au-dessus (FXStreet). Aucun plan n'est touché depuis la dernière mise à jour : la vente dans 3 700–3 730 attend toujours un rejet. Prudence avant le PCE de mercredi.",
+ "summary": "L'or garde son rebond : dernier prix vérifié 3 668,20 $ (Kitco, 15h21 UTC), plus de 3 % sur la journée, plus haut du jour 3 690,20. Les achats à bon compte l'emportent sur des PMI américains plus faibles que prévu, et le marché ne voit plus qu'un quart de point de hausse de la Fed en décembre, environ 94 % de probabilité (CME FedWatch via FXStreet). En fin de journée, FXStreet titre que l'or consolide ses gains alors que le dollar remonte vers un plus haut de 19 mois : un frein au rebond. Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché, la vente dans 3 700–3 730 attend toujours un rejet. Prudence avant le PCE de mercredi.",
  "setups": [
   {
    "side": "sell",
@@ -297,7 +297,7 @@
   {
    "name": "Dollar",
    "impact": -1,
-   "text": "L'indice du dollar recule un peu d'un plus haut de 19 mois, vers 103,6–103,8 lundi matin (ANC, ATFX), après avoir touché 104 après le compte rendu de la Fed. Un dollar fort freine encore le rebond de l'or (FXEmpire). Vers 103,76 lundi (Goodreturns). En début d'après-midi, l'indice remonte vers 104,04 (+0,22 %, InvestingCube) : nouveau frein possible pour l'or. Vers 14h UTC, l'indice recule vers 103,6 (Kitco) : un frein en moins pour l'or."
+   "text": "L'indice du dollar recule un peu d'un plus haut de 19 mois, vers 103,6–103,8 lundi matin (ANC, ATFX), après avoir touché 104 après le compte rendu de la Fed. Un dollar fort freine encore le rebond de l'or (FXEmpire). Vers 103,76 lundi (Goodreturns). En début d'après-midi, l'indice remonte vers 104,04 (+0,22 %, InvestingCube) : nouveau frein possible pour l'or. Vers 14h UTC, l'indice recule vers 103,6 (Kitco) : un frein en moins pour l'or. En fin de journée, FXStreet titre que le dollar grimpe vers un nouveau plus haut de 19 mois pendant que l'or consolide ses gains."
   },
   {
    "name": "Élections de mi-mandat",
@@ -523,6 +523,10 @@
   {
    "title": "Mitrade : l'or repasse au-dessus de 3 600 $, vers 3 622 $ (+2,4 %), résistances 3 760 et 3 870, Bessent met en garde la Fed (23 nov.)",
    "url": "https://www.mitrade.com/au/insights/commodity-analysis/gold-price/gold-price-reclaims-3600"
+  },
+  {
+   "title": "FXStreet – Gold consolidates gains as US Dollar climbs to fresh 19-month high",
+   "url": "https://www.fxstreet.com/news/gold-jumps-over-2-as-half-point-fed-hike-bets-fade-us-pce-in-focus-202611231116"
   }
  ]
 }
