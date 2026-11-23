@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T07:10:00Z",
+ "updatedAt": "2026-11-23T08:15:00Z",
  "price": 3604,
  "change": 1.9,
- "priceTime": "23 nov. · 08h10 Paris",
+ "priceTime": "23 nov. · 09h15 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or rebondit ce lundi matin vers 3 604 $ (+1,9 %, Mitrade), après une clôture vendredi vers 3 532–3 538 $ et un plus bas à 3 503 $ défendu deux fois. Les paris sur la Fed se calment un peu : environ 88,6 % pour un quart de point en décembre, le demi-point n'est plus attendu (ATFX) ; le 10 ans est vers 4,94 % et le dollar vers 103,8. Le rebond bute sous la résistance 3 630–3 650 (mèche haute vers 3 630, Mitrade), puis 3 685–3 700 et la ligne de tendance baissière vers 3 700 (FXEmpire). Le biais reste vendeur tant que l'or reste sous 3 700. L'achat sur 3 500–3 520 a atteint ses deux objectifs et est remplacé par un achat sur repli vers 3 575–3 595 ; les trois ventes sont gardées. À suivre : PMI américains à 14h45 UTC aujourd'hui et l'inflation PCE mercredi.",
+ "summary": "L'or reste vers 3 604 $ ce lundi matin (+1,9 %, Mitrade ; 3 603,77 $ selon Discovery Alert), après un plus bas à 3 503 $ vendredi. Les paris sur la Fed se calment : environ 93 % pour un quart de point en décembre contre près de 100 % la semaine passée (Trading Economics, Discovery Alert), 88,6 % selon ATFX ; le 10 ans est vers 4,94 %. Le rebond bute sous la résistance 3 630–3 650, puis 3 685–3 700 et la ligne de tendance baissière vers 3 700 (Mitrade, FXEmpire). Le biais reste vendeur tant que l'or reste sous 3 700 ; les quatre plans sont gardés, aucun n'a été touché. À suivre : PMI américains à 14h45 UTC aujourd'hui, puis PIB et inflation PCE mercredi.",
  "setups": [
   {
    "side": "sell",
@@ -267,7 +267,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -1,
-   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 88,6 % pour un quart de point et 11,4 % pour un statu quo, le demi-point n'est plus anticipé (ATFX) ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine."
+   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -462,6 +462,14 @@
   }
  ],
  "sources": [
+  {
+   "title": "Trading Economics : l'or bondit de 2 % vers 3 600 $, 93 % de probabilité d'une hausse d'un quart de point en décembre (23 nov.)",
+   "url": "https://tradingeconomics.com/commodity/gold/news/603349"
+  },
+  {
+   "title": "Discovery Alert : l'or à 3 603,77 $ (+2 %), FedWatch vers 93 %, PCE d'octobre le 25 nov. (23 nov., 06h55 UTC)",
+   "url": "https://discoveryalert.com/news/gold-price-rebound-bottom-doubt-november-2026/"
+  },
   {
    "title": "Mitrade : l'or rebondit au-dessus de 3 600 $ (3 603,72 $, +1,85 %), supports 3 570–3 590 / 3 500–3 520, résistances 3 630–3 650 / 3 685–3 700, RSI 1 h 55–56 (23 nov.)",
    "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-rebounds-above-3600-stock-correction"
