@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-23T08:15:00Z",
- "price": 3604,
- "change": 1.9,
- "priceTime": "23 nov. · 09h15 Paris",
+ "updatedAt": "2026-11-23T09:10:00Z",
+ "price": 3612,
+ "change": 2.1,
+ "priceTime": "23 nov. · 09h50 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or reste vers 3 604 $ ce lundi matin (+1,9 %, Mitrade ; 3 603,77 $ selon Discovery Alert), après un plus bas à 3 503 $ vendredi. Les paris sur la Fed se calment : environ 93 % pour un quart de point en décembre contre près de 100 % la semaine passée (Trading Economics, Discovery Alert), 88,6 % selon ATFX ; le 10 ans est vers 4,94 %. Le rebond bute sous la résistance 3 630–3 650, puis 3 685–3 700 et la ligne de tendance baissière vers 3 700 (Mitrade, FXEmpire). Le biais reste vendeur tant que l'or reste sous 3 700 ; les quatre plans sont gardés, aucun n'a été touché. À suivre : PMI américains à 14h45 UTC aujourd'hui, puis PIB et inflation PCE mercredi.",
+ "summary": "L'or monte vers 3 612 $ ce lundi matin (InvestingCube, 08h49 UTC), soit environ +2,1 % sur la clôture de vendredi à 3 537,90 $ (Mitrade), après un plus bas à 3 503 $. Le plus haut de la séance touche 3 641 $ (InvestingCube), dans la résistance 3 630–3 650 (Mitrade), puis le prix revient vers 3 612 $. Les paris sur la Fed se calment : le marché passe d'un demi-point à un quart de point pour décembre (Mitrade), environ 93 % selon CME FedWatch ; le 10 ans est vers 4,94 %. Le biais reste vendeur tant que l'or reste sous 3 700 ; les quatre plans sont gardés, aucun stop ni seuil d'annulation n'a été touché. À suivre : PMI américains à 14h45 UTC aujourd'hui, puis PIB et inflation PCE mercredi.",
  "setups": [
   {
    "side": "sell",
@@ -22,7 +22,7 @@
     3525
    ],
    "invalidAbove": 3670,
-   "note": "Plan gardé : l'or est vers 3 604 ce lundi matin, juste sous la zone ; la mèche haute a testé 3 630 (Mitrade) et FXEmpire place la première résistance à 3 651. Attendre une bougie 1 h de rejet dans 3 625–3 650 avant d'entrer. Stop au-dessus de l'ancien plus bas 3 667, à 3 675. Objectif 1 vers 3 580 (support Mitrade 3 570–3 590), objectif 2 vers 3 525, au-dessus du support 3 500–3 520. Une clôture 1 h au-dessus de 3 670 annule le plan."
+   "note": "Plan gardé : le plus haut de la séance a touché 3 641 dans la zone (InvestingCube), puis l'or est revenu vers 3 612. Entrer seulement sur une bougie 1 h de rejet dans 3 625–3 650, pas après coup. Stop au-dessus de l'ancien plus bas 3 667, à 3 675. Objectif 1 vers 3 580 (support Mitrade 3 570–3 590), objectif 2 vers 3 525, au-dessus du support 3 500–3 520. Une clôture 1 h au-dessus de 3 670 annule le plan."
   },
   {
    "side": "sell",
@@ -39,7 +39,7 @@
     3760
    ],
    "invalidAbove": 3862,
-   "note": "Plan gardé : l'or est vers 3 604 (lundi matin), environ 230 $ sous la zone ; le plan attend un rebond avant l'entrée. Mitrade cite 3 830–3 840 comme résistance, ATFX 3 827. Stop au-dessus du pivot 3 859, à 3 866. Objectif 1 vers 3 790, objectif 2 sur 3 760. Une clôture 1 h au-dessus de 3 862 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 612 (lundi matin), environ 220 $ sous la zone ; le plan attend un rebond avant l'entrée. Mitrade cite 3 830–3 840 comme résistance, ATFX 3 827. Stop au-dessus du pivot 3 859, à 3 866. Objectif 1 vers 3 790, objectif 2 sur 3 760. Une clôture 1 h au-dessus de 3 862 annule le plan."
   },
   {
    "side": "sell",
@@ -56,7 +56,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 604 (lundi matin), environ 390 $ sous la zone, peu probable à court terme. Ancien plancher 4 000 devenu résistance, objectif haut cité par FXEmpire. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan."
+   "note": "Plan gardé : l'or est vers 3 612 (lundi matin), environ 385 $ sous la zone, peu probable à court terme. Ancien plancher 4 000 devenu résistance, objectif haut cité par FXEmpire. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan."
   },
   {
    "side": "buy",
@@ -73,7 +73,7 @@
     3650
    ],
    "invalidBelow": 3556,
-   "note": "Nouveau plan : l'ancien achat sur 3 505–3 520 a atteint ses deux objectifs (3 555 puis 3 590) avec le rebond vers 3 604. Achat contre le biais de fond, en taille réduite. Stop sous le pivot 3 556 (FXEmpire), à 3 550. Objectif 1 vers 3 630 (mèche haute de ce matin), objectif 2 vers 3 650 (résistance Mitrade 3 630–3 650, FXEmpire 3 651). Une clôture 1 h sous 3 556 annule le plan : retour probable vers 3 503."
+   "note": "Plan gardé (l'or est vers 3 612, au-dessus de la zone) : l'ancien achat sur 3 505–3 520 a atteint ses deux objectifs (3 555 puis 3 590) avec le rebond vers 3 604. Achat contre le biais de fond, en taille réduite. Stop sous le pivot 3 556 (FXEmpire), à 3 550. Objectif 1 vers 3 630 (mèche haute de ce matin), objectif 2 vers 3 650 (résistance Mitrade 3 630–3 650, FXEmpire 3 651). Une clôture 1 h sous 3 556 annule le plan : retour probable vers 3 503."
   }
  ],
  "levels": [
@@ -225,7 +225,7 @@
   {
    "p": 3700,
    "kind": "res",
-   "label": "Résistance 3 685–3 700 (Mitrade), 3 699 (FXEmpire), ancien seuil 3 700"
+   "label": "Résistance 3 685–3 700 (Mitrade), 3 687 (InvestingCube), 3 699 (FXEmpire), ancien seuil 3 700"
   },
   {
    "p": 3667,
@@ -235,12 +235,12 @@
   {
    "p": 3651,
    "kind": "res",
-   "label": "Résistance 3 630–3 650 (Mitrade), 3 651 (FXEmpire), 3 656 (ATFX) : mèche haute vers 3 630 ce matin, zone de vente 3 625–3 650, objectif 2 de l'achat"
+   "label": "Résistance 3 630–3 650 (Mitrade), 3 651 (FXEmpire), 3 656 (ATFX) : plus haut de la séance 3 641 (InvestingCube), zone de vente 3 625–3 650, objectif 2 de l'achat"
   },
   {
-   "p": 3604,
+   "p": 3612,
    "kind": "sup",
-   "label": "Prix actuel vers 3 604 (Mitrade, +1,9 %) ; R1 3 609 (FXEmpire)"
+   "label": "Prix actuel vers 3 612 (InvestingCube, 08h49 UTC) ; R1 3 609 (FXEmpire), support 3 601 (InvestingCube)"
   },
   {
    "p": 3595,
@@ -331,8 +331,8 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 3 604 au milieu du rebond : attendre un repli vers 3 575–3 595 avec une bougie 1 h de reprise.",
-  "Ne pas vendre avant un signal de rejet dans 3 625–3 650 : le RSI 1 h est revenu vers 55 (Mitrade), le rebond peut encore pousser.",
+  "Ne pas acheter vers 3 612 au milieu du rebond : attendre un repli vers 3 575–3 595 avec une bougie 1 h de reprise.",
+  "Ne pas vendre avant un signal de rejet dans 3 625–3 650 : la mèche vers 3 641 ne suffit pas, attendre une bougie 1 h clôturée en rejet (RSI 1 h vers 55, Mitrade).",
   "Prudence autour des PMI américains (14h45 UTC) et avant l'inflation PCE de mercredi : mouvements brusques possibles.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
  ],
@@ -462,6 +462,10 @@
   }
  ],
  "sources": [
+  {
+   "title": "InvestingCube : rebond de soulagement avant le PCE, or vers 3 612 $, plus haut 3 641 $, résistance 3 687, support 3 601 (23 nov., 08h57 GMT)",
+   "url": "https://www.investingcube.com/commodities/gold-xau-usd-relief-rally-ahead-of-pce-price-index-data/"
+  },
   {
    "title": "Trading Economics : l'or bondit de 2 % vers 3 600 $, 93 % de probabilité d'une hausse d'un quart de point en décembre (23 nov.)",
    "url": "https://tradingeconomics.com/commodity/gold/news/603349"
