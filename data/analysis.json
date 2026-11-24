@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T14:10:00Z",
- "price": 3634,
- "change": 0.0,
- "priceTime": "24 nov. · 15h Paris",
+ "updatedAt": "2026-11-24T15:10:00Z",
+ "price": 3616,
+ "change": -0.4,
+ "priceTime": "24 nov. · 16h Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or reste stable ce mardi après-midi, vers 3 634 $ (FXMAG, Mitrade), quasi inchangé sur la journée après un creux à 3 613 cette nuit (Kitco via FinanceFeeds). Le rebond de lundi a calé sous 3 651 (FX Leaders) et 3 685–3 700 reste la première résistance (Mitrade, FinanceFeeds) ; le RSI 14 jours est vers 33 et le prix reste sous la moyenne 50 jours vers 4 064 (FXStreet via ANC). Le dollar reste vers 104,3 et CME FedWatch donne 93 à 96 % pour une hausse d'un quart de point en décembre. Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché, ils sont tous gardés. La confiance des consommateurs tombe dans l'heure (15h UTC) : plans en attente, prudence aussi avant l'inflation PCE et le PIB demain à 13h30 UTC.",
+ "summary": "L'or recule un peu ce mardi après-midi, vers 3 616 $ (-0,4 %, FXEmpire à 15h01 UTC), après 3 643 $ en fin de matinée (investingLive). La confiance des consommateurs américains bondit à 103,3 contre 92,5 attendu et 91,9 en octobre (Conference Board) : une économie solide conforte la hausse de taux de la Fed en décembre, ce qui pèse sur l'or. Le prix reste sous la résistance 3 685–3 700 (FinanceFeeds, ANC), avec un RSI 14 jours vers 33 et une moyenne 50 jours vers 4 064 (FXStreet via ANC) ; CME FedWatch donne 93 à 96 % pour un quart de point en décembre. Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché, ils sont tous gardés. Prudence avant l'inflation PCE et le PIB demain à 13h30 UTC : un achat ne se tente que sur repli vers 3 575–3 595 avec signal de reprise.",
  "setups": [
   {
    "side": "sell",
@@ -243,9 +243,9 @@
    "label": "Ancienne résistance 3 630–3 650 (Mitrade), 3 651 (Trade Nation, FXEmpire), 3 643 (LiteFinance) : franchie, devient support ; objectif 1 de la vente 3 700–3 730 ; résistance clé 3 648–3 662 (LiteFinance)"
   },
   {
-   "p": 3624,
+   "p": 3616,
    "kind": "sup",
-   "label": "Prix actuel vers 3 624 (MQL5, fin de matinée), -0,3 % ; plage de la nuit 3 619–3 679 (Kitco)"
+   "label": "Prix actuel vers 3 616 (FXEmpire, 15h01 UTC), -0,4 % ; pivot 3 627, S1 3 564, R1 3 695 (FXEmpire, séance du 23 nov.)"
   },
   {
    "p": 3595,
@@ -272,7 +272,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -1,
-   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine. La probabilité d'un demi-point de décembre est tombée à 0 %, contre environ 10 % dix jours plus tôt (CoinDesk via bloomingbit). Lundi : environ 92 % pour un quart de point en décembre, demi-point totalement écarté (World Today Journal) ; Scott Bessent, secrétaire au Trésor, met en garde la Fed contre un excès de hausses (TradingKey). Lundi après-midi : environ 94 % pour un quart de point, le demi-point écarté alors qu'il dépassait 11 % une semaine plus tôt ; des hausses restent possibles en janvier et mars (FXStreet via Mitrade). Mardi matin : 95 % pour un quart de point et 4,9 % pour un demi-point selon CME FedWatch (Reuters via FXEmpire), environ 97 % selon ATFX ; John Williams a tenu lundi un discours ferme (FXEmpire). Mardi 07h45 UTC : 93,5 % pour un quart de point et 6,5 % pour un demi-point selon CME FedWatch (ANC) ; Williams juge que la Fed « a encore du travail » sur l'inflation. Mardi 09h UTC : environ 96 % pour un quart de point selon CME FedWatch (1Trader) ; Williams voit l'inflation à 3,5 % fin 2026 et à 2 % seulement en 2028 (FXStreet via Mitrade). Mardi midi : 96 % pour un quart de point et 4 % pour un demi-point (Rallies), environ 95 % selon Ednews. Mardi 14h UTC : pas de changement, Borowski (FXMAG) juge qu'un PCE plus bas que prévu aiderait le rebond, un PCE plus haut relancerait les ventes."
+   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine. La probabilité d'un demi-point de décembre est tombée à 0 %, contre environ 10 % dix jours plus tôt (CoinDesk via bloomingbit). Lundi : environ 92 % pour un quart de point en décembre, demi-point totalement écarté (World Today Journal) ; Scott Bessent, secrétaire au Trésor, met en garde la Fed contre un excès de hausses (TradingKey). Lundi après-midi : environ 94 % pour un quart de point, le demi-point écarté alors qu'il dépassait 11 % une semaine plus tôt ; des hausses restent possibles en janvier et mars (FXStreet via Mitrade). Mardi matin : 95 % pour un quart de point et 4,9 % pour un demi-point selon CME FedWatch (Reuters via FXEmpire), environ 97 % selon ATFX ; John Williams a tenu lundi un discours ferme (FXEmpire). Mardi 07h45 UTC : 93,5 % pour un quart de point et 6,5 % pour un demi-point selon CME FedWatch (ANC) ; Williams juge que la Fed « a encore du travail » sur l'inflation. Mardi 09h UTC : environ 96 % pour un quart de point selon CME FedWatch (1Trader) ; Williams voit l'inflation à 3,5 % fin 2026 et à 2 % seulement en 2028 (FXStreet via Mitrade). Mardi midi : 96 % pour un quart de point et 4 % pour un demi-point (Rallies), environ 95 % selon Ednews. Mardi 14h UTC : pas de changement, Borowski (FXMAG) juge qu'un PCE plus bas que prévu aiderait le rebond, un PCE plus haut relancerait les ventes. Mardi 15h UTC : la confiance des consommateurs à 103,3 (Conference Board), bien au-dessus des attentes, conforte la hausse de décembre."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -336,7 +336,7 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 3 620 au milieu de la plage : attendre un repli vers 3 575–3 595 avec une bougie 1 h de reprise.",
+  "Ne pas acheter vers 3 616 au milieu de la plage : attendre un repli vers 3 575–3 595 avec une bougie 1 h de reprise.",
   "Ne pas vendre avant un signal de rejet dans 3 700–3 730 : une clôture 1 h au-dessus de 3 766 annule l'idée de vente.",
   "Prudence avant l'inflation PCE de mercredi 13h30 UTC et le jeudi férié de Thanksgiving (marchés américains fermés).",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
@@ -458,7 +458,8 @@
    "at": "2026-11-24T15:00:00Z",
    "event": "Confiance des consommateurs (Conference Board) et indice de la Fed de Richmond",
    "importance": 1,
-   "why": "Confiance attendue à 92,1 contre 91,7 avant (1Trader). Santé de l'économie américaine avant l'inflation PCE de mercredi (ATFX)."
+   "why": "Confiance attendue à 92,1 contre 91,7 avant (1Trader). Santé de l'économie américaine avant l'inflation PCE de mercredi (ATFX).",
+   "result": "Confiance à 103,3 (92,5 attendu, 91,9 en octobre) : bien plus forte que prévu, l'or recule vers 3 616 $"
   },
   {
    "at": "2026-11-25T13:30:00Z",
@@ -549,6 +550,14 @@
   {
    "title": "IC Markets : perspectives techniques du 24 nov., or pivot 3 698,97, support 3 595,24",
    "url": "https://www.icmarkets.com.au/blog/technical-outlook-and-review-24-november-ic-markets/"
+  },
+  {
+   "title": "US Consumer Confidence Surged in November (Conference Board)",
+   "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-surged-in-november-302949447.html"
+  },
+  {
+   "title": "Morning Kickstart : Nvidia slips, USD mostly lower (investingLive)",
+   "url": "https://investinglive.com/technical-analysis/morning-kickstart-nvidia-slips-after-monday-s-surge-nasdaq-100-futures-fall-450-points-usd-mostly-lower"
   }
  ]
 }
