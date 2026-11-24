@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T16:10:00Z",
+ "updatedAt": "2026-11-24T17:10:00Z",
  "price": 3602,
  "change": -0.9,
  "priceTime": "24 nov. · 16h Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or glisse vers 3 602 $ cet après-midi, en baisse de près de 1 % sur la journée (Kitco, vers 15h UTC), après 3 616 $ plus tôt (FXEmpire). La confiance des consommateurs américains a bondi à 103,3 contre environ 92 attendu (Conference Board) : une économie solide conforte la hausse de taux de la Fed en décembre, ce qui pèse sur l'or. Les analystes surveillent le support de 3 600 $ (Kitco) ; le prix reste loin sous la résistance 3 685–3 700, avec un RSI 14 jours vers 33. Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché, ils sont tous gardés, l'achat sur repli 3 575–3 595 se rapproche mais attend un signal de reprise. Prudence avant l'inflation PCE et le PIB demain à 13h30 UTC.",
+ "summary": "L'or reste vers 3 602 $ en fin d'après-midi, en baisse de près de 1 % sur la journée (Kitco, vers 15h UTC) ; aucune cotation plus récente n'a été trouvée. La confiance des consommateurs américains a bondi à 103,3 contre environ 92 attendu (Conference Board) : une économie solide conforte la hausse de taux de la Fed en décembre (environ 95 % selon CME FedWatch), ce qui pèse sur l'or. Le support de 3 595–3 600 est le niveau clé (Kitco, FXEmpire) ; dessous, l'objectif des vendeurs est 3 503. Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché, ils sont tous gardés. Prudence avant l'inflation PCE et le PIB demain à 13h30 UTC.",
  "setups": [
   {
    "side": "sell",
@@ -475,6 +475,14 @@
   }
  ],
  "sources": [
+  {
+   "title": "Kitco AM Report : l'or peine à prolonger son rebond, 3 621,70 $ à 13h37 UTC, supports 3 595 / 3 503 (24 nov.)",
+   "url": "https://www.kitco.com/news/article/2026-11-24/gold-struggles-extend-rebound-fed-rate-hike-bets-pressure-silver-kitco-am"
+  },
+  {
+   "title": "Fortune : l'or à 3 631 $ à 9h50 heure de New York, -0,58 % (24 nov.)",
+   "url": "https://fortune.com/article/current-price-of-gold-11-24-202/"
+  },
   {
    "title": "Kitco : l'or teste le support de 3 600 $ après le bond de la confiance des consommateurs, 3 602 $ (24 nov.)",
    "url": "https://www.kitco.com/news/article/2026-11-24/gold-price-testing-support-near-3600-us-consumer-confidence-sees-sharp-rise"
