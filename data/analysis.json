@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T11:15:00Z",
+ "updatedAt": "2026-11-24T12:10:00Z",
  "price": 3624,
  "change": -0.3,
- "priceTime": "24 nov. · fin de matinée Paris",
+ "priceTime": "24 nov. · midi Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or reste calme ce mardi en fin de matinée : vers 3 624 $ selon un point technique publié à 10h38 (MQL5), soit environ -0,3 % sur la journée, toujours dans la plage de nuit 3 619–3 679 (Kitco). Le rebond de lundi a calé sous 3 651 (FX Leaders) et les signaux horaire et journalier restent vendeurs ; seul le très court terme montre un peu d'achat (MQL5). Le dollar reste près de son plus haut de 19 mois (vers 104,3) et CME FedWatch donne 95 % pour une hausse d'un quart de point en décembre (Reuters). Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché, ils sont tous gardés. Prudence avant la confiance des consommateurs à 15h UTC et surtout l'inflation PCE demain à 13h30 UTC.",
+ "summary": "L'or reste calme ce mardi vers midi : autour de 3 620–3 635 $ selon les dernières cotations publiées (3 619,95 à 6h35 UTC selon Reuters via ANC, 3 624 vers 10h40), soit environ -0,3 % sur la journée, toujours dans la plage de nuit 3 619–3 679 (Kitco). Le rebond de lundi a calé sous 3 651 (FX Leaders) et la zone de 3 700 a plafonné la hausse (ANC) ; le RSI 14 jours reste bas, vers 33. Le dollar reste près de son plus haut de 19 mois (vers 104,3) et CME FedWatch donne 93,5 à 96 % pour une hausse d'un quart de point en décembre. Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché, ils sont tous gardés. Prudence avant la confiance des consommateurs à 15h UTC et surtout l'inflation PCE demain à 13h30 UTC.",
  "setups": [
   {
    "side": "sell",
@@ -272,7 +272,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -1,
-   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine. La probabilité d'un demi-point de décembre est tombée à 0 %, contre environ 10 % dix jours plus tôt (CoinDesk via bloomingbit). Lundi : environ 92 % pour un quart de point en décembre, demi-point totalement écarté (World Today Journal) ; Scott Bessent, secrétaire au Trésor, met en garde la Fed contre un excès de hausses (TradingKey). Lundi après-midi : environ 94 % pour un quart de point, le demi-point écarté alors qu'il dépassait 11 % une semaine plus tôt ; des hausses restent possibles en janvier et mars (FXStreet via Mitrade). Mardi matin : 95 % pour un quart de point et 4,9 % pour un demi-point selon CME FedWatch (Reuters via FXEmpire), environ 97 % selon ATFX ; John Williams a tenu lundi un discours ferme (FXEmpire). Mardi 07h45 UTC : 93,5 % pour un quart de point et 6,5 % pour un demi-point selon CME FedWatch (ANC) ; Williams juge que la Fed « a encore du travail » sur l'inflation. Mardi 09h UTC : environ 96 % pour un quart de point selon CME FedWatch (1Trader) ; Williams voit l'inflation à 3,5 % fin 2026 et à 2 % seulement en 2028 (FXStreet via Mitrade)."
+   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine. La probabilité d'un demi-point de décembre est tombée à 0 %, contre environ 10 % dix jours plus tôt (CoinDesk via bloomingbit). Lundi : environ 92 % pour un quart de point en décembre, demi-point totalement écarté (World Today Journal) ; Scott Bessent, secrétaire au Trésor, met en garde la Fed contre un excès de hausses (TradingKey). Lundi après-midi : environ 94 % pour un quart de point, le demi-point écarté alors qu'il dépassait 11 % une semaine plus tôt ; des hausses restent possibles en janvier et mars (FXStreet via Mitrade). Mardi matin : 95 % pour un quart de point et 4,9 % pour un demi-point selon CME FedWatch (Reuters via FXEmpire), environ 97 % selon ATFX ; John Williams a tenu lundi un discours ferme (FXEmpire). Mardi 07h45 UTC : 93,5 % pour un quart de point et 6,5 % pour un demi-point selon CME FedWatch (ANC) ; Williams juge que la Fed « a encore du travail » sur l'inflation. Mardi 09h UTC : environ 96 % pour un quart de point selon CME FedWatch (1Trader) ; Williams voit l'inflation à 3,5 % fin 2026 et à 2 % seulement en 2028 (FXStreet via Mitrade). Mardi midi : 96 % pour un quart de point et 4 % pour un demi-point (Rallies), environ 95 % selon Ednews."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -474,6 +474,14 @@
   }
  ],
  "sources": [
+  {
+   "title": "Ednews : l'or tient au-dessus de 3 600 $ grâce au rebond de la tech, 3 631 $ à 05h26 GMT (24 nov.)",
+   "url": "https://ednews.net/en/gold-holds-above-3600-as-tech-rebound-eases-selling-pressure/"
+  },
+  {
+   "title": "Rallies : l'or glisse avant l'inflation US, FedWatch 96 % pour un quart de point (24 nov.)",
+   "url": "https://rallies.ai/news/gold-slips-with-spotlight-on-us-inflation-data-b959464ace01ac98"
+  },
   {
    "title": "MQL5 : analyse technique du 24 nov., or à 3 624,20, signaux horaire et journalier vendeurs",
    "url": "https://www.mql5.com/en/blogs/post/781971"
