@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T12:10:00Z",
- "price": 3624,
- "change": -0.3,
- "priceTime": "24 nov. · midi Paris",
+ "updatedAt": "2026-11-24T13:15:00Z",
+ "price": 3633,
+ "change": 0.0,
+ "priceTime": "24 nov. · 14h Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or reste calme ce mardi vers midi : autour de 3 620–3 635 $ selon les dernières cotations publiées (3 619,95 à 6h35 UTC selon Reuters via ANC, 3 624 vers 10h40), soit environ -0,3 % sur la journée, toujours dans la plage de nuit 3 619–3 679 (Kitco). Le rebond de lundi a calé sous 3 651 (FX Leaders) et la zone de 3 700 a plafonné la hausse (ANC) ; le RSI 14 jours reste bas, vers 33. Le dollar reste près de son plus haut de 19 mois (vers 104,3) et CME FedWatch donne 93,5 à 96 % pour une hausse d'un quart de point en décembre. Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché, ils sont tous gardés. Prudence avant la confiance des consommateurs à 15h UTC et surtout l'inflation PCE demain à 13h30 UTC.",
+ "summary": "L'or reste calme ce mardi en début d'après-midi : vers 3 630–3 635 $ selon les cotations affichées (Mitrade, Business Recorder), à peu près stable sur la journée après un creux à 3 613 cette nuit (Kitco via FinanceFeeds). Le rebond de lundi a calé sous 3 651 (FX Leaders) et 3 685–3 700 reste la première résistance (Mitrade) ; le RSI 14 jours est vers 33 (1Trader). Le dollar reste vers 104,3 et CME FedWatch donne 93 à 96 % pour une hausse d'un quart de point en décembre. Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché, ils sont tous gardés. Prudence avant la confiance des consommateurs à 15h UTC et surtout l'inflation PCE et le PIB demain à 13h30 UTC.",
  "setups": [
   {
    "side": "sell",
@@ -73,7 +73,7 @@
     3650
    ],
    "invalidBelow": 3556,
-   "note": "Plan gardé : l'or vers 3 624 (fin de matinée), à environ 27 $ au-dessus de la zone. Achat contre le biais de fond, en taille réduite, seulement si l'or revient dans 3 575–3 595 (support Mitrade 3 572–3 591, pivot FXEmpire 3 595, IC Markets 3 595,24, ATFX 3 578, bande de Bollinger basse 3 585 selon 1Trader ; premier objectif de vente LiteFinance 3 582). Stop sous le pivot 3 556, à 3 550. Objectif 1 vers 3 630, objectif 2 vers 3 650. Une clôture 1 h sous 3 556 annule le plan : retour probable vers 3 503."
+   "note": "Plan gardé : l'or vers 3 624 (fin de matinée), à environ 27 $ au-dessus de la zone. Achat contre le biais de fond, en taille réduite, seulement si l'or revient dans 3 575–3 595 (support Mitrade 3 572–3 591, pivot FXEmpire 3 595, IC Markets 3 595,24, ATFX 3 578, bande de Bollinger basse 3 585 selon 1Trader ; premier objectif de vente LiteFinance 3 582). Stop sous le pivot 3 556, à 3 550. Objectif 1 vers 3 630, objectif 2 vers 3 650. Une clôture 1 h sous 3 556 annule le plan : retour probable vers 3 503. Mise à jour 14h Paris : support confirmé 3 572–3 591 (Mitrade) et 3 585 (bas de Bollinger, 1Trader) ; plan gardé."
   }
  ],
  "levels": [
@@ -474,6 +474,10 @@
   }
  ],
  "sources": [
+  {
+   "title": "Business Recorder (Reuters) : l'or remonte sur achats à bon compte, PCE attendu (24 nov.)",
+   "url": "https://www.brecorder.com/news/40450474/gold-edges-up-on-bargain-buying-after-selloff-us-inflation-data-awaited"
+  },
   {
    "title": "Ednews : l'or tient au-dessus de 3 600 $ grâce au rebond de la tech, 3 631 $ à 05h26 GMT (24 nov.)",
    "url": "https://ednews.net/en/gold-holds-above-3600-as-tech-rebound-eases-selling-pressure/"
