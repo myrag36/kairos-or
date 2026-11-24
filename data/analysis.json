@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T09:10:00Z",
+ "updatedAt": "2026-11-24T10:10:00Z",
  "price": 3622,
  "change": -0.3,
  "priceTime": "24 nov. · 08h40 Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or reste calme ce mardi matin : dernier prix daté vers 3 622 $ à 07h40 UTC (Swissquote via ANC), -0,3 %, dans une plage de nuit 3 619–3 679 (Kitco). Le rebond de lundi a été rejeté sous 3 651 (FX Leaders) et bute sous 3 650–3 700 : LiteFinance voit 3 648–3 662 comme la résistance clé de la tendance baissière courte. Le dollar reste près de son plus haut de 19 mois (vers 104,3), le 10 ans vers 4,92–4,95 %, et CME FedWatch donne 93,5 à 96 % pour une hausse d'un quart de point en décembre (ANC, 1Trader). Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché. Prudence avant la confiance des consommateurs à 15h UTC et surtout l'inflation PCE demain à 13h30 UTC.",
+ "summary": "L'or reste calme ce mardi matin : dernier prix daté vers 3 622 $ à 07h40 UTC (Swissquote via ANC), -0,3 %, dans une plage de nuit 3 619–3 679 (Kitco) ; aucune cotation plus récente trouvée. Le rebond de lundi a été rejeté sous 3 651 (FX Leaders) et bute sous 3 650–3 700 : TraderFactor place les résistances à 3 675 puis 3 700 et le support à 3 600–3 626, avec 3 550 en cas de cassure de 3 600. Le dollar reste près de son plus haut de 19 mois (vers 104,3), le 10 ans vers 4,92 %, et CME FedWatch donne 95 % pour une hausse d'un quart de point en décembre (Reuters via SANA). Le biais reste vendeur tant que l'or ne clôture pas au-dessus de 3 700 ; aucun plan n'est touché. Prudence avant la confiance des consommateurs à 15h UTC et surtout l'inflation PCE demain à 13h30 UTC.",
  "setups": [
   {
    "side": "sell",
@@ -474,6 +474,14 @@
   }
  ],
  "sources": [
+  {
+   "title": "TraderFactor : l'or et les actions rebondissent, support 3 600–3 626, résistances 3 675 / 3 700 (24 nov.)",
+   "url": "https://traderfactor.com/gold-stocks-rebound-nvidia-surges-pmis-cool/"
+  },
+  {
+   "title": "SANA (Reuters) : l'or à 3 635 $ à 04h49 GMT, FedWatch 95 % (24 nov.)",
+   "url": "https://sana.sy/en/economic/2361360/"
+  },
   {
    "title": "FX Leaders : l'or rejeté à 3 651 $ avant l'inflation PCE (24 nov.)",
    "url": "https://www.fxleaders.com/news/2026/11/24/gold-price-forecast-xau-usd-rejected-at-3651-ahead-of-pce-inflation/"
