@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-25T14:15:00Z",
- "price": 3500,
- "change": -1.5,
- "priceTime": "25 nov. · 15h Paris",
+ "updatedAt": "2026-11-25T15:05:00Z",
+ "price": 3480,
+ "change": -2.0,
+ "priceTime": "25 nov. · 16h Paris",
  "bias": "sell",
  "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or est passé brièvement sous 3 500 $ après les chiffres américains de 14h30 Paris, avec un plus bas vers 3 484 $ sur le graphique 4 h, et tourne autour de 3 500 $ (CoinGape), soit environ -1,5 % par rapport à la clôture de mardi à 3 552,50 $ : c'est son plus bas depuis septembre 2025. L'inflation PCE d'octobre est conforme à 3,8 % sur un an, mais l'inflation de fond monte à 3,3 % (3,2 % attendu, FXStreet) et la croissance du 3e trimestre est révisée à 4,3 % contre 3,4 % (FXStreet) : la hausse de taux de la Fed en décembre est confortée. Le plan d'achat sur 3 500–3 520 est annulé, car le seuil 3 490 a été franchi ; il est remplacé par une vente sur rebond vers 3 545–3 560, l'ancien support devenu résistance. Les trois ventes plus hautes (3 700, 3 840, 4 000) restent valables. Le biais reste vendeur ; le RSI 4 h est en survente vers 29,7 (CoinGape), donc un rebond technique reste possible : on attend le rebond pour vendre, on ne vend pas le creux.",
+ "summary": "L'or reste sous 3 500 $ après les chiffres américains : 3 484 $ selon Kitco et 3 471,52 $ à 15h Paris selon USA Today, soit environ -2 % par rapport à la clôture de mardi à 3 552,50 $, au plus bas depuis septembre 2025. L'inflation de fond PCE monte à 3,3 % sur un an et la croissance du 3e trimestre est révisée à 4,3 % (Kitco) : la Fed garde de la place pour monter ses taux en décembre et début 2027. Les quatre plans de vente restent valables, aucun n'est remplacé : le plus proche attend un rebond vers 3 545–3 560, l'ancien support devenu résistance. Le biais reste vendeur ; le RSI 1 h est en survente vers 28 (Mitrade), donc un rebond technique reste possible : on attend le rebond pour vendre, on ne vend pas le creux. Prochain repère : le Livre beige de la Fed à 20h Paris, puis Thanksgiving jeudi avec une liquidité faible.",
  "setups": [
   {
    "side": "sell",
@@ -22,7 +22,7 @@
     3600
    ],
    "invalidAbove": 3766,
-   "note": "Plan gardé (en attente avant la confiance des consommateurs de 15h UTC) : l'or n'a pas atteint la zone, vers 3 634 à 14h UTC (plus haut de la nuit 3 679, vers 3 624 en fin de matinée, rejet à 3 651 selon FX Leaders). Résistances confirmées ce matin : 3 685–3 700 (Mitrade), 3 697 (FXEmpire), 3 730,95 (IC Markets) ; LiteFinance place son stop de vente à 3 695. Stop au-dessus de la résistance Mitrade 3 746–3 766, à 3 770. Objectif 1 vers 3 650 (FXEmpire 3 651), objectif 2 vers 3 600 (pivot 3 595). Une clôture 1 h au-dessus de 3 766 annule le plan. Taille réduite. Mise à jour 19h Paris : l'or vers 3 578, environ 120 $ sous la zone ; plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, environ 140 $ sous la zone ; plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé."
+   "note": "Plan gardé (en attente avant la confiance des consommateurs de 15h UTC) : l'or n'a pas atteint la zone, vers 3 634 à 14h UTC (plus haut de la nuit 3 679, vers 3 624 en fin de matinée, rejet à 3 651 selon FX Leaders). Résistances confirmées ce matin : 3 685–3 700 (Mitrade), 3 697 (FXEmpire), 3 730,95 (IC Markets) ; LiteFinance place son stop de vente à 3 695. Stop au-dessus de la résistance Mitrade 3 746–3 766, à 3 770. Objectif 1 vers 3 650 (FXEmpire 3 651), objectif 2 vers 3 600 (pivot 3 595). Une clôture 1 h au-dessus de 3 766 annule le plan. Taille réduite. Mise à jour 19h Paris : l'or vers 3 578, environ 120 $ sous la zone ; plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, environ 140 $ sous la zone ; plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé. Mise à jour 16h Paris (25 nov.) : l'or vers 3 472–3 484, toujours loin sous la zone ; plan gardé."
   },
   {
    "side": "sell",
@@ -39,7 +39,7 @@
     3760
    ],
    "invalidAbove": 3862,
-   "note": "Plan gardé : l'or est vers 3 624 (fin de matinée), environ 210 $ sous la zone ; le plan attend un fort rebond. Mitrade garde 3 830–3 840 en résistance, ATFX 3 827. Stop au-dessus du pivot 3 859, à 3 866. Objectif 1 vers 3 790, objectif 2 sur 3 760. Une clôture 1 h au-dessus de 3 862 annule le plan. Mise à jour 19h Paris : l'or vers 3 578, plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé."
+   "note": "Plan gardé : l'or est vers 3 624 (fin de matinée), environ 210 $ sous la zone ; le plan attend un fort rebond. Mitrade garde 3 830–3 840 en résistance, ATFX 3 827. Stop au-dessus du pivot 3 859, à 3 866. Objectif 1 vers 3 790, objectif 2 sur 3 760. Une clôture 1 h au-dessus de 3 862 annule le plan. Mise à jour 19h Paris : l'or vers 3 578, plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé. Mise à jour 16h Paris (25 nov.) : l'or vers 3 472–3 484, toujours loin sous la zone ; plan gardé."
   },
   {
    "side": "sell",
@@ -56,7 +56,7 @@
     3905
    ],
    "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 624 (fin de matinée), environ 375 $ sous la zone, peu probable à court terme. Ancien plancher 4 000 devenu résistance. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Mise à jour 19h Paris : l'or vers 3 578, plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé."
+   "note": "Plan gardé : l'or est vers 3 624 (fin de matinée), environ 375 $ sous la zone, peu probable à court terme. Ancien plancher 4 000 devenu résistance. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Mise à jour 19h Paris : l'or vers 3 578, plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé. Mise à jour 16h Paris (25 nov.) : l'or vers 3 472–3 484, toujours loin sous la zone ; plan gardé."
   },
   {
    "side": "sell",
@@ -73,7 +73,7 @@
     3455
    ],
    "invalidAbove": 3600,
-   "note": "Nouveau plan (25 nov., 15h Paris), qui remplace l'achat sur 3 500–3 520 : le seuil d'annulation 3 490 de l'achat a été franchi après le PCE (plus bas 4 h vers 3 484 selon CoinGape). Les chiffres américains confortent la hausse de la Fed (inflation de fond 3,3 %, croissance 4,3 %). Stop au-dessus de la résistance 3 600 (CoinGape, TradingKey), à 3 606. Objectif 1 vers 3 505 (retour sur 3 500), objectif 2 vers 3 455 (support 3 450 selon CoinGape et Mitrade). Ratio gain/risque d'environ 1,9 sur l'objectif 2 depuis 3 552. Une clôture 1 h au-dessus de 3 600 annule le plan. Le RSI est en survente : ne pas vendre sans le rebond et le signal de rejet. Taille réduite."
+   "note": "Nouveau plan (25 nov., 15h Paris), qui remplace l'achat sur 3 500–3 520 : le seuil d'annulation 3 490 de l'achat a été franchi après le PCE (plus bas 4 h vers 3 484 selon CoinGape). Les chiffres américains confortent la hausse de la Fed (inflation de fond 3,3 %, croissance 4,3 %). Stop au-dessus de la résistance 3 600 (CoinGape, TradingKey), à 3 606. Objectif 1 vers 3 505 (retour sur 3 500), objectif 2 vers 3 455 (support 3 450 selon CoinGape et Mitrade). Ratio gain/risque d'environ 1,9 sur l'objectif 2 depuis 3 552. Une clôture 1 h au-dessus de 3 600 annule le plan. Le RSI est en survente : ne pas vendre sans le rebond et le signal de rejet. Taille réduite. Mise à jour 16h Paris : l'or vers 3 472–3 484 (USA Today, Kitco), sous 3 500 ; pas de rebond dans la zone, plan gardé en attente. L'objectif 2 (3 455) est proche du prix : si l'or tombe sous 3 450 avant tout rebond, le plan perd de son intérêt."
   }
  ],
  "levels": [
@@ -254,18 +254,23 @@
   },
   {
    "p": 3500,
-   "kind": "sup",
-   "label": "Prix actuel vers 3 500 (CoinGape, après le PCE) : seuil rond et support clé (Pepperstone, TradingKey), cassé brièvement ; objectif 1 de la vente sur rebond vers 3 505"
+   "kind": "res",
+   "label": "Seuil rond 3 500 (Pepperstone, TradingKey), cassé après le PCE : l'or n'arrive pas à le tenir (Kitco) ; objectif 1 de la vente sur rebond vers 3 505"
   },
   {
    "p": 3484,
    "kind": "sup",
-   "label": "Plus bas 4 h vers 3 484 après le PCE (CoinGape) : sous le seuil 3 490, l'ancien achat 3 500–3 520 est annulé"
+   "label": "Plus bas 4 h vers 3 484 après le PCE (CoinGape), dernier cours Kitco 3 484,20 : sous le seuil 3 490, l'ancien achat 3 500–3 520 est annulé"
   },
   {
    "p": 3475,
    "kind": "sup",
    "label": "Extension de Fibonacci 3 475 (FXEmpire), 3 450–3 475 (Mitrade), 3 447 testé plusieurs fois ; sous 3 518 en clôture, objectif 3 421 (FXEmpire) ; clôture hebdomadaire sous 3 500 : 3 300–3 400 possible (FXEmpire, The National)"
+  },
+  {
+   "p": 3472,
+   "kind": "sup",
+   "label": "Prix actuel vers 3 471,52 à 15h Paris (USA Today), nouveau plus bas depuis septembre 2025"
   },
   {
    "p": 3450,
@@ -282,7 +287,7 @@
   {
    "name": "Fed et taux directeurs",
    "impact": -1,
-   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine. La probabilité d'un demi-point de décembre est tombée à 0 %, contre environ 10 % dix jours plus tôt (CoinDesk via bloomingbit). Lundi : environ 92 % pour un quart de point en décembre, demi-point totalement écarté (World Today Journal) ; Scott Bessent, secrétaire au Trésor, met en garde la Fed contre un excès de hausses (TradingKey). Lundi après-midi : environ 94 % pour un quart de point, le demi-point écarté alors qu'il dépassait 11 % une semaine plus tôt ; des hausses restent possibles en janvier et mars (FXStreet via Mitrade). Mardi matin : 95 % pour un quart de point et 4,9 % pour un demi-point selon CME FedWatch (Reuters via FXEmpire), environ 97 % selon ATFX ; John Williams a tenu lundi un discours ferme (FXEmpire). Mardi 07h45 UTC : 93,5 % pour un quart de point et 6,5 % pour un demi-point selon CME FedWatch (ANC) ; Williams juge que la Fed « a encore du travail » sur l'inflation. Mardi 09h UTC : environ 96 % pour un quart de point selon CME FedWatch (1Trader) ; Williams voit l'inflation à 3,5 % fin 2026 et à 2 % seulement en 2028 (FXStreet via Mitrade). Mardi midi : 96 % pour un quart de point et 4 % pour un demi-point (Rallies), environ 95 % selon Ednews. Mardi 14h UTC : pas de changement, Borowski (FXMAG) juge qu'un PCE plus bas que prévu aiderait le rebond, un PCE plus haut relancerait les ventes. Mardi 15h UTC : la confiance des consommateurs à 103,3 (Conference Board), bien au-dessus des attentes, conforte la hausse de décembre. Mardi soir : une hausse d'un quart de point est entièrement intégrée, 2 % de chance d'un demi-point (Rallies) ; environ 95 % selon Anadolu. Mercredi matin : 96,4 % pour un quart de point et 3,6 % pour un demi-point selon CME FedWatch (FXEmpire), environ 95 % selon Mitrade. Mercredi 07h30 UTC : toujours 96,4 % pour un quart de point et 3,6 % pour un demi-point (CME FedWatch via CNBC, FinanceFeeds). Mercredi 07h50 UTC : toujours 96,4 % pour un quart de point (CME FedWatch via ANC) ; John Williams (Fed de New York) estime qu'une inflation persistante appelle une politique plus stricte (Investing.com via Yahoo). Mercredi : 96,4 % pour un quart de point et 3,6 % pour un demi-point (CME FedWatch via CNBC, avant le PCE) ; 98 % pour un quart de point selon la mise à jour CME du 24 nov. (Coin Turk)."
+   "text": "Taux à 3,75–4 %, hausse d'un quart de point en septembre. Le compte rendu d'octobre montre que presque tous les membres attendent une hausse en décembre (réunion les 8–9 déc.). Vendredi, CME FedWatch donnait 99,3 % pour un quart de point et Waller évoquait un demi-point. Lundi matin, les attentes se calment : environ 93 % pour un quart de point et 7 % pour un statu quo selon CME FedWatch (Trading Economics), 88,6 % selon ATFX ; le demi-point n'est plus anticipé ; les swaps ne prévoient plus une hausse certaine (FXEmpire). Toujours une pression sur l'or, mais moins forte qu'en fin de semaine. La probabilité d'un demi-point de décembre est tombée à 0 %, contre environ 10 % dix jours plus tôt (CoinDesk via bloomingbit). Lundi : environ 92 % pour un quart de point en décembre, demi-point totalement écarté (World Today Journal) ; Scott Bessent, secrétaire au Trésor, met en garde la Fed contre un excès de hausses (TradingKey). Lundi après-midi : environ 94 % pour un quart de point, le demi-point écarté alors qu'il dépassait 11 % une semaine plus tôt ; des hausses restent possibles en janvier et mars (FXStreet via Mitrade). Mardi matin : 95 % pour un quart de point et 4,9 % pour un demi-point selon CME FedWatch (Reuters via FXEmpire), environ 97 % selon ATFX ; John Williams a tenu lundi un discours ferme (FXEmpire). Mardi 07h45 UTC : 93,5 % pour un quart de point et 6,5 % pour un demi-point selon CME FedWatch (ANC) ; Williams juge que la Fed « a encore du travail » sur l'inflation. Mardi 09h UTC : environ 96 % pour un quart de point selon CME FedWatch (1Trader) ; Williams voit l'inflation à 3,5 % fin 2026 et à 2 % seulement en 2028 (FXStreet via Mitrade). Mardi midi : 96 % pour un quart de point et 4 % pour un demi-point (Rallies), environ 95 % selon Ednews. Mardi 14h UTC : pas de changement, Borowski (FXMAG) juge qu'un PCE plus bas que prévu aiderait le rebond, un PCE plus haut relancerait les ventes. Mardi 15h UTC : la confiance des consommateurs à 103,3 (Conference Board), bien au-dessus des attentes, conforte la hausse de décembre. Mardi soir : une hausse d'un quart de point est entièrement intégrée, 2 % de chance d'un demi-point (Rallies) ; environ 95 % selon Anadolu. Mercredi matin : 96,4 % pour un quart de point et 3,6 % pour un demi-point selon CME FedWatch (FXEmpire), environ 95 % selon Mitrade. Mercredi 07h30 UTC : toujours 96,4 % pour un quart de point et 3,6 % pour un demi-point (CME FedWatch via CNBC, FinanceFeeds). Mercredi 07h50 UTC : toujours 96,4 % pour un quart de point (CME FedWatch via ANC) ; John Williams (Fed de New York) estime qu'une inflation persistante appelle une politique plus stricte (Investing.com via Yahoo). Mercredi : 96,4 % pour un quart de point et 3,6 % pour un demi-point (CME FedWatch via CNBC, avant le PCE) ; 98 % pour un quart de point selon la mise à jour CME du 24 nov. (Coin Turk). Mercredi après le PCE : selon Kitco, la croissance de 4,3 % et l'inflation de fond à 3,3 % laissent à la Fed la place de monter ses taux en décembre et début 2027."
   },
   {
    "name": "Rendement américain à 10 ans",
@@ -351,8 +356,8 @@
   }
  ],
  "noTrade": [
-  "Ne pas acheter vers 3 500 par anticipation : le seuil 3 490 a cédé après le PCE et le biais reste vendeur ; l'ancien plan d'achat est annulé.",
-  "Ne pas vendre en plein creux vers 3 500 : le RSI est en survente (29,7 en 4 h) et un rebond technique est possible ; vendre seulement sur rebond vers 3 545–3 560 avec un signal de rejet.",
+  "Ne pas acheter sous 3 500 par anticipation : le seuil a cédé après le PCE, l'or reste vers 3 472–3 484 et le biais reste vendeur.",
+  "Ne pas vendre en plein creux vers 3 480 : le RSI 1 h est en survente (vers 28, Mitrade) et un rebond technique est possible ; vendre seulement sur rebond vers 3 545–3 560 avec un signal de rejet.",
   "Ne pas vendre avant un signal de rejet dans 3 700–3 730 : une clôture 1 h au-dessus de 3 766 annule cette idée de vente.",
   "Marchés nerveux après le PCE et le PIB ; Livre beige de la Fed à 19h UTC (20h Paris) ; jeudi férié de Thanksgiving, marchés américains fermés et liquidité faible.",
   "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
@@ -693,6 +698,18 @@
   {
    "title": "Morning Kickstart : Nvidia slips, USD mostly lower (investingLive)",
    "url": "https://investinglive.com/technical-analysis/morning-kickstart-nvidia-slips-after-monday-s-surge-nasdaq-100-futures-fall-450-points-usd-mostly-lower"
+  },
+  {
+   "title": "Kitco : l'or recule encore, PIB du 3e trimestre révisé à 4,3 %, PCE contenu (25 nov.)",
+   "url": "https://www.kitco.com/news/article/2026-11-25/gold-prices-drop-1-us-q3-gdp-revised-43-contained-pce-inflation"
+  },
+  {
+   "title": "USA Today via AOL : prix de l'or le 25 nov. 2026, 3 471,52 $ à 9h ET",
+   "url": "https://www.aol.com/articles/gold-price-today-november-25-110850000.html"
+  },
+  {
+   "title": "Mitrade : l'or chute, BCA sort avant le PCE (supports et résistances du 25 nov.)",
+   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-tumbles-bca-exits-before-pce"
   }
  ]
 }
