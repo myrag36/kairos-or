@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-27T13:10:00Z",
-  "price": 3683,
-  "change": 2.4,
-  "priceTime": "27 nov. · 14h05 Paris (3 682,85 $, +2,39 % sur la veille selon JM Bullion ; LiteFinance donne 3 668 $ ce matin)",
+  "updatedAt": "2026-11-27T14:10:00Z",
+  "price": 3655,
+  "change": 1.6,
+  "priceTime": "27 nov. · 15h05 Paris (3 654,95 $, +1,62 % sur la veille selon JM Bullion)",
   "bias": "sell",
   "biasLabel": "Baissier (l'or sous 3 700)",
-  "summary": "L'or tient son rebond ce vendredi : 3 682,85 $ à 14h05 Paris, +2,4 % sur la journée (JM Bullion), après 3 668–3 678 $ en matinée (LiteFinance, Mitrade). Il reste coincé sous la résistance 3 673–3 693 et sous le seuil 3 700, où passe la moyenne 200 heures (3 680–3 700 selon FXEmpire) ; un analyste cité par FXStreet voit un plafond vers 3 750 $ tant que la Fed reste dure. Le fond reste lourd : la hausse de la Fed le 9 décembre est jugée à 93 % à 99 % (CME FedWatch, LiteFinance, Mitrade), l'inflation PCE de fond est à 3,3 %, le 10 ans vers 4,92 % et le dollar vers 103,7. Le biais reste vendeur tant que l'or est sous 3 700 : on attend un rejet dans 3 700–3 730 pour vendre, ou un repli vers 3 600–3 612 pour un achat prudent. Séance courte de Black Friday aux États-Unis (actions fermées à 18h GMT) : liquidité faible, mouvements brusques possibles.",
+  "summary": "L'or recule un peu depuis son pic du jour : 3 654,95 $ à 15h05 Paris, encore +1,6 % sur la journée (JM Bullion), contre 3 683 $ une heure plus tôt. Le rebond a de nouveau calé sous 3 680–3 700, où passe la moyenne 200 heures (FXEmpire) : c'est le plafond à surveiller. Le fond reste lourd : la hausse de la Fed le 9 décembre est jugée à 96,2 % (CME FedWatch via Trading and Investment News), après une inflation PCE de 3,8 % sur un an. Tant que l'or reste sous 3 700, le biais reste vendeur ; un repli vers 3 600–3 612 serait une zone d'achat de court terme, avec 3 500 comme support clé pour la semaine (FXEmpire). Séance courte aux États-Unis pour le Black Friday : liquidité faible, mouvements brusques possibles.",
   "setups": [
     {
       "side": "sell",
@@ -531,7 +531,7 @@
   ],
   "sources": [
     {
-      "title": "JM Bullion : or spot à 3 682,85 $, +2,39 % à 8h05 heure de New York (27 nov.)",
+      "title": "JM Bullion : cours de l'or, 3 654,95 $ à 9h05 heure de New York, +1,62 % (27 nov.)",
       "url": "https://www.jmbullion.com/charts/gold-price/"
     },
     {
@@ -551,7 +551,7 @@
       "url": "https://www.mitrade.com/au/insights/commodity-analysis/gold-price/gold-price-nears-3700"
     },
     {
-      "title": "FXEmpire : l'or et l'argent rebondissent, moyenne 200 h vers 3 680–3 700, résistance 3 700, supports 3 500 et 3 430 (27 nov.)",
+      "title": "FXEmpire : l'or rebondit avec l'argent, résistance horaire 3 680–3 700 sur la moyenne 200 heures, support 3 500 (27 nov.)",
       "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-leads-rebound-as-ratio-falls-1647648"
     },
     {
@@ -601,6 +601,10 @@
     {
       "title": "ANC : l'or à 3 640,84 $ à 6h09 GMT (Reuters), RHB voit résistance 3 750 et supports 3 500 puis 3 350 (27 nov.)",
       "url": "https://ancstockinvestments.com/blog/2026/11/27/gold-heads-for-weekly-gain-after-one-year-low/"
+    },
+    {
+      "title": "Trading and Investment News : hausse de la Fed à 96,2 % (CME FedWatch), PCE à 3,8 %, l'or vers un gain hebdomadaire de 1 % (27 nov.)",
+      "url": "https://www.tradingandinvestmentnews.co.uk/gold-price-rate-hike-weekly-gain/"
     }
   ]
 }
