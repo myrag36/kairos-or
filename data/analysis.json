@@ -1,590 +1,598 @@
 {
- "updatedAt": "2026-11-27T11:10:00Z",
- "price": 3678,
- "change": 3.1,
- "priceTime": "27 nov. · 12h10 Paris (dernier cours trouvé : 3 678,34 $, +3,14 %, sur le bandeau Mitrade ; 3 675,25 $ à 8h31 GMT selon le flux FXEmpire cité par Mitrade)",
- "bias": "sell",
- "biasLabel": "Baissier (l'or sous 3 700)",
- "summary": "L'or garde son rebond ce vendredi : environ 3 675–3 678 $, soit +3 % sur la journée (Mitrade, Investing.com/Reuters) ; aucun cours plus récent n'a été trouvé. Il bute juste sous la résistance 3 673–3 693 puis le seuil 3 700, où se trouve aussi la moyenne 200 heures (3 680–3 700 selon FXEmpire). Le fond reste lourd : la hausse de la Fed le 9 décembre est jugée à 96 % à 99 % (CME FedWatch, Mitrade), l'inflation PCE hors énergie et alimentation est à 3,3 % sur un an (3,2 % attendu), le 10 ans vers 4,92 % et le dollar vers 103,7. Le biais reste vendeur tant que l'or est sous 3 700 : on attend un rejet dans 3 700–3 730 pour vendre, ou un repli vers 3 600–3 612 pour un achat prudent. Séance courte de Black Friday aux États-Unis (actions fermées à 18h GMT) : liquidité faible, Trade Nation craint un faux départ du rebond.",
- "setups": [
-  {
-   "side": "sell",
-   "name": "Vente sur rejet de 3 700–3 730",
-   "status": "watch",
-   "zone": [
-    3700,
-    3730
-   ],
-   "trigger": "Attendre que l'or monte dans 3 700–3 730 (seuil 3 700, résistance Mitrade 3 685–3 700, Goodreturns 3 700–3 730, LiteFinance 3 729,82, Trade Nation 3 695) puis une bougie 1 h de rejet : longue mèche haute ou clôture baissière sous 3 700.",
-   "stop": 3770,
-   "tps": [
-    3650,
-    3600
-   ],
-   "invalidAbove": 3766,
-   "note": "Plan gardé (en attente avant la confiance des consommateurs de 15h UTC) : l'or n'a pas atteint la zone, vers 3 634 à 14h UTC (plus haut de la nuit 3 679, vers 3 624 en fin de matinée, rejet à 3 651 selon FX Leaders). Résistances confirmées ce matin : 3 685–3 700 (Mitrade), 3 697 (FXEmpire), 3 730,95 (IC Markets) ; LiteFinance place son stop de vente à 3 695. Stop au-dessus de la résistance Mitrade 3 746–3 766, à 3 770. Objectif 1 vers 3 650 (FXEmpire 3 651), objectif 2 vers 3 600 (pivot 3 595). Une clôture 1 h au-dessus de 3 766 annule le plan. Taille réduite. Mise à jour 19h Paris : l'or vers 3 578, environ 120 $ sous la zone ; plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, environ 140 $ sous la zone ; plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé. Mise à jour 16h Paris (25 nov.) : l'or vers 3 472–3 484, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (25 nov.) : pas de nouveau cours après 3 472–3 484, l'or reste sous la zone ; plan gardé. Mise à jour 18h Paris (25 nov.) : l'or vers 3 471–3 477, toujours sous la zone ; plan gardé. Mise à jour 19h Paris (25 nov.) : pas de nouveau cours net, l'or reste vers 3 471–3 484, sous la zone ; plan gardé. Mise à jour 20h Paris (25 nov.) : l'or vers 3 450 (plus bas vers 3 428), encore plus loin sous la zone ; plan gardé. Mise à jour 21h Paris (25 nov.) : l'or vers 3 455, toujours sous la zone ; plan gardé. Mise à jour 8h Paris (26 nov.) : l'or vers 3 567 après un rebond à 3 603 ; toujours sous la zone ; plan gardé. Mise à jour 9h Paris (26 nov.) : l'or vers 3 565, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 11h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 12h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (26 nov.) : l'or vers 3 578, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (26 nov.) : pas de cours plus récent que 3 560–3 569, l'or reste loin sous la zone ; plan gardé. Mise à jour 16h Paris (26 nov.) : l'or vers 3 568, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (26 nov.) : l'or vers 3 570 (Kitco), toujours loin sous la zone ; plan gardé. Mise à jour 18h Paris (26 nov.) : l'or vers 3 565–3 572, toujours loin sous la zone ; plan gardé. Mise à jour 19h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 20h Paris (26 nov.) : l'or vers 3 571, toujours loin sous la zone ; plan gardé. Mise à jour 21h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 8h Paris (27 nov.) : l'or rebondit vers 3 650 (plus haut vers 3 667), toujours sous la zone ; pas de clôture au-dessus du seuil d'annulation, plan gardé. Mise à jour 9h Paris (27 nov.) : pas de cours plus récent que 3 630–3 650, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (27 nov.) : l'or vers 3 672, à moins de 30 $ du bas de la zone ; plan gardé, surveiller la réaction sous 3 693–3 700. Mise à jour 11h Paris (27 nov.) : pas de cours plus récent que 3 672, sous la zone ; plan gardé, surveiller la réaction sous 3 693–3 700. Mise à jour 12h Paris : l'or vers 3 678, zone non atteinte, plan gardé."
-  },
-  {
-   "side": "sell",
-   "name": "Vente sur retour vers 3 840",
-   "status": "watch",
-   "zone": [
-    3830,
-    3850
-   ],
-   "trigger": "Attendre une remontée dans 3 830–3 850 (ancien support 3 832–3 852 devenu résistance, R2 FXEmpire 3 821, résistance TraderFactor 3 830–3 850) puis une bougie 1 h de rejet : longue mèche haute ou clôture baissière sous 3 830.",
-   "stop": 3866,
-   "tps": [
-    3790,
-    3760
-   ],
-   "invalidAbove": 3862,
-   "note": "Plan gardé : l'or est vers 3 624 (fin de matinée), environ 210 $ sous la zone ; le plan attend un fort rebond. Mitrade garde 3 830–3 840 en résistance, ATFX 3 827. Stop au-dessus du pivot 3 859, à 3 866. Objectif 1 vers 3 790, objectif 2 sur 3 760. Une clôture 1 h au-dessus de 3 862 annule le plan. Mise à jour 19h Paris : l'or vers 3 578, plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé. Mise à jour 16h Paris (25 nov.) : l'or vers 3 472–3 484, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (25 nov.) : pas de nouveau cours après 3 472–3 484, l'or reste sous la zone ; plan gardé. Mise à jour 18h Paris (25 nov.) : l'or vers 3 471–3 477, toujours sous la zone ; plan gardé. Mise à jour 19h Paris (25 nov.) : pas de nouveau cours net, l'or reste vers 3 471–3 484, sous la zone ; plan gardé. Mise à jour 20h Paris (25 nov.) : l'or vers 3 450 (plus bas vers 3 428), encore plus loin sous la zone ; plan gardé. Mise à jour 21h Paris (25 nov.) : l'or vers 3 455, toujours sous la zone ; plan gardé. Mise à jour 8h Paris (26 nov.) : l'or vers 3 567 après un rebond à 3 603 ; toujours sous la zone ; plan gardé. Mise à jour 9h Paris (26 nov.) : l'or vers 3 565, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 11h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 12h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (26 nov.) : l'or vers 3 578, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (26 nov.) : pas de cours plus récent que 3 560–3 569, l'or reste loin sous la zone ; plan gardé. Mise à jour 16h Paris (26 nov.) : l'or vers 3 568, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 18h Paris (26 nov.) : l'or vers 3 565–3 572, toujours loin sous la zone ; plan gardé. Mise à jour 19h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 20h Paris (26 nov.) : l'or vers 3 571, toujours loin sous la zone ; plan gardé. Mise à jour 21h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 8h Paris (27 nov.) : l'or rebondit vers 3 650 (plus haut vers 3 667), toujours sous la zone ; pas de clôture au-dessus du seuil d'annulation, plan gardé. Mise à jour 9h Paris (27 nov.) : pas de cours plus récent que 3 630–3 650, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (27 nov.) : l'or vers 3 672, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (27 nov.) : l'or vers 3 672, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris : l'or vers 3 678, zone non atteinte, plan gardé."
-  },
-  {
-   "side": "sell",
-   "name": "Vente sur retour vers 4 000",
-   "status": "watch",
-   "zone": [
-    3995,
-    4005
-   ],
-   "trigger": "Attendre une remontée dans 3 995–4 005 (ancien plancher 4 000 devenu résistance, plus haut de la nuit 4 001,20) puis une bougie 1 h de rejet : longue mèche haute ou clôture baissière sous 3 995.",
-   "stop": 4025,
-   "tps": [
-    3945,
-    3905
-   ],
-   "invalidAbove": 4020,
-   "note": "Plan gardé : l'or est vers 3 624 (fin de matinée), environ 375 $ sous la zone, peu probable à court terme. Ancien plancher 4 000 devenu résistance. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Mise à jour 19h Paris : l'or vers 3 578, plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé. Mise à jour 16h Paris (25 nov.) : l'or vers 3 472–3 484, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (25 nov.) : pas de nouveau cours après 3 472–3 484, l'or reste sous la zone ; plan gardé. Mise à jour 18h Paris (25 nov.) : l'or vers 3 471–3 477, toujours sous la zone ; plan gardé. Mise à jour 19h Paris (25 nov.) : pas de nouveau cours net, l'or reste vers 3 471–3 484, sous la zone ; plan gardé. Mise à jour 20h Paris (25 nov.) : l'or vers 3 450 (plus bas vers 3 428), encore plus loin sous la zone ; plan gardé. Mise à jour 21h Paris (25 nov.) : l'or vers 3 455, toujours sous la zone ; plan gardé. Mise à jour 8h Paris (26 nov.) : l'or vers 3 567 après un rebond à 3 603 ; toujours sous la zone ; plan gardé. Mise à jour 9h Paris (26 nov.) : l'or vers 3 565, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 11h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 12h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (26 nov.) : l'or vers 3 578, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (26 nov.) : pas de cours plus récent que 3 560–3 569, l'or reste loin sous la zone ; plan gardé. Mise à jour 16h Paris (26 nov.) : l'or vers 3 568, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 18h Paris (26 nov.) : l'or vers 3 565–3 572, toujours loin sous la zone ; plan gardé. Mise à jour 19h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 20h Paris (26 nov.) : l'or vers 3 571, toujours loin sous la zone ; plan gardé. Mise à jour 21h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 8h Paris (27 nov.) : l'or rebondit vers 3 650 (plus haut vers 3 667), toujours sous la zone ; pas de clôture au-dessus du seuil d'annulation, plan gardé. Mise à jour 9h Paris (27 nov.) : pas de cours plus récent que 3 630–3 650, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (27 nov.) : l'or vers 3 672, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (27 nov.) : l'or vers 3 672, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris : l'or vers 3 678, zone non atteinte, plan gardé."
-  },
-  {
-   "side": "buy",
-   "name": "Achat sur retour vers 3 605",
-   "status": "watch",
-   "zone": [
-    3600,
-    3612
-   ],
-   "trigger": "Attendre un repli dans 3 600–3 612 (sortie de biseau 3 606 selon StoneX, retracement 50 % vers 3 608 selon FXBrokerTrust, ancienne résistance 3 600–3 620 selon Mitrade) puis une bougie 1 h haussière : longue mèche basse ou clôture au-dessus de 3 612.",
-   "stop": 3578,
-   "tps": [
-    3650,
-    3690
-   ],
-   "invalidBelow": 3585,
-   "note": "Nouveau plan (27 nov., 8h Paris), qui remplace la vente sur rejet de 3 600 : l'or a dépassé 3 635 (plus haut vers 3 667, 3 650 à 6h45 GMT), seuil d'annulation franchi et stop de 3 640 touché. Plan à contre-sens du biais, donc taille réduite : on joue seulement la cassure de 3 606 si elle tient en retest. Stop sous le plus bas de vendredi des contrats à terme (3 578,8) et sous la zone 3 600, à 3 578. Objectif 1 vers 3 650 (prix de ce matin), objectif 2 vers 3 690 (objectif StoneX, bas de la résistance 3 673–3 693 de Mitrade). Ratio gain/risque d'environ 3 sur l'objectif 2 depuis 3 606. Une clôture 1 h sous 3 585 annule le plan. Mise à jour 9h Paris (27 nov.) : pas de cours plus récent que 3 630–3 650, l'or n'est pas revenu dans la zone 3 600–3 612 ; plan gardé. Mise à jour 10h Paris (27 nov.) : l'or vers 3 672, au-dessus de la zone 3 600–3 612 ; pas de repli, plan gardé. Mise à jour 11h Paris (27 nov.) : pas de cours plus récent que 3 672, l'or reste au-dessus de la zone 3 600–3 612 ; plan gardé. Mise à jour 12h Paris : l'or vers 3 678, zone non atteinte, plan gardé."
-  }
- ],
- "levels": [
-  {
-   "p": 4225,
-   "kind": "res",
-   "label": "Résistance 4 187–4 227 (Mitrade), 4 200–4 230 (TradingKey), stop de la vente haute (4 235)"
-  },
-  {
-   "p": 4186,
-   "kind": "res",
-   "label": "Moyenne mobile 50 jours vers 4 186 (FXEmpire, 10 nov.), retracement 61,8 % à 4 197"
-  },
-  {
-   "p": 4185,
-   "kind": "res",
-   "label": "Zone de vente 4 180–4 200, retracement 38,2 % vers 4 180 (Tradingpedia), résistance 4 200 (Kitco)"
-  },
-  {
-   "p": 4150,
-   "kind": "res",
-   "label": "Résistance 4 147,6–4 150 (FXEmpire, TradingKey), 4 145–4 157 (Mitrade), plus haut récent 4 147 (Kitco), objectif 2 de l'achat"
-  },
-  {
-   "p": 4135,
-   "kind": "res",
-   "label": "Résistance 4 135 (bas de la zone 4 135–4 197, FXEmpire), plus haut de la semaine passée 4 138,8 (Forexuro)"
-  },
-  {
-   "p": 4103,
-   "kind": "res",
-   "label": "Moyenne 200 périodes 4 h vers 4 103 (Tradingpedia), seuil 4 100 : stop de la vente sur rebond au-dessus (4 115) ; R1 Forexuro 4 108,70"
-  },
-  {
-   "p": 4089,
-   "kind": "res",
-   "label": "Résistance 4 088 (FXEmpire), 4 074–4 082 (Mitrade), 4 070–4 100 (GoodReturns) : zone de vente 4 085–4 100 ; objectif LiteFinance 4 092"
-  },
-  {
-   "p": 4076,
-   "kind": "res",
-   "label": "Ancienne zone d'achat 4 070–4 082 (Mitrade), clôture de vendredi 4 070 : cassée après le CPI"
-  },
-  {
-   "p": 4051,
-   "kind": "res",
-   "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 668, bien en dessous"
-  },
-  {
-   "p": 4050,
-   "kind": "sup",
-   "label": "Pivot 4 051 (FXEmpire), support 4 036–4 047 (LiteFinance), objectif 1 de la vente sur rebond"
-  },
-  {
-   "p": 4020,
-   "kind": "res",
-   "label": "Ligne de tendance 4 022 (FXEmpire), ancien plus bas 4 026 : stop de la vente sur retour au-dessus (4 025) ; retracement 61,8 % à 4 035,58 (FXEmpire)"
-  },
-  {
-   "p": 4000,
-   "kind": "res",
-   "label": "Ancien plancher 4 000 devenu résistance, plus haut du jour 4 001,20 (Kitco), pivot 3 992 (FXEmpire) : zone de vente 3 995–4 005"
-  },
-  {
-   "p": 3975,
-   "kind": "res",
-   "label": "Ancien support 3 970–3 980 (Mitrade), cassé dans la nuit"
-  },
-  {
-   "p": 3970,
-   "kind": "res",
-   "label": "Résistance 3 965 (StoneX), 3 950–3 970 (TradingKey), R1 3 970 (FXEmpire, TraderFactor)"
-  },
-  {
-   "p": 3945,
-   "kind": "res",
-   "label": "Ancien support 3 942–3 944 (FOREX.com, FXEmpire), pivot 3 943 (IC Markets), 3 947 (RoboForex) : résistance, objectif 1 de la vente"
-  },
-  {
-   "p": 3930,
-   "kind": "res",
-   "label": "Résistance 3 920 (StoneX, haut de la fourchette courte), 3 922 (RoboForex), 3 920–3 930 (Mitrade), 3 930 (TradingKey)"
-  },
-  {
-   "p": 3911,
-   "kind": "res",
-   "label": "Pivot 3 903–3 911 (FXEmpire), résistance 3 911 (TraderFactor) : au-dessus, la pression vendeuse se calme ; puis 3 934 (FXEmpire)"
-  },
-  {
-   "p": 3900,
-   "kind": "res",
-   "label": "Résistance 3 900 (FXStreet), plus haut du jour 3 891,60 (Kitco) ; plus hauts descendants 3 922 puis 3 888 (Mitrade) ; résistance 3 891 (ActionForex)"
-  },
-  {
-   "p": 3880,
-   "kind": "res",
-   "label": "Ancien support 3 880 (Kedia Advisory), pivot journalier 3 891,8 (FXEmpire) ; pivot et résistance 3 888 (FXEmpire)"
-  },
-  {
-   "p": 3870,
-   "kind": "res",
-   "label": "Ancien support 3 855–3 870 (Mitrade), support 4 h 3 870,24 (StoneX) : cassé ; résistance 3 867–3 876 (LiteFinance)"
-  },
-  {
-   "p": 3859,
-   "kind": "res",
-   "label": "Pivot journalier 3 859 (FXEmpire), résistance 3 859 (TraderFactor), seuil 3 850 à reprendre pour calmer la baisse : stop de la vente sur retour au-dessus (3 866)"
-  },
-  {
-   "p": 3840,
-   "kind": "res",
-   "label": "Ancien support 3 832–3 852 (plus bas de lundi 3 832,20, FXEmpire 3 852) devenu résistance, 3 830–3 850 (TraderFactor) : zone de vente 3 830–3 850 ; support cassé 3 830,74 (IC Markets), 3 815–3 835 (Mitrade) ; retracement 50 % à 3 826 (TradingPedia)"
-  },
-  {
-   "p": 3821,
-   "kind": "res",
-   "label": "Résistance 3 821 (FXEmpire), 3 827 (TraderFactor), S1 3 826,81 de mardi"
-  },
-  {
-   "p": 3802,
-   "kind": "res",
-   "label": "Résistance 3 790–3 800 (LiteFinance, zone de vente), 3 791 (FXEmpire), 3 780 (Kitco) ; résistance 3 805 (FXEmpire) ; objectif 1 de la vente vers 3 790"
-  },
-  {
-   "p": 3781,
-   "kind": "res",
-   "label": "Ancien support 3 781 (FXEmpire), 3 780 (TraderFactor) : cassé en fin de matinée"
-  },
-  {
-   "p": 3766,
-   "kind": "res",
-   "label": "Ancien support 3 766 (FXEmpire) : cassé vers 13h GMT"
-  },
-  {
-   "p": 3766,
-   "kind": "res",
-   "label": "Résistance 3 746–3 766 (Mitrade) : stop de la vente 3 700–3 730 au-dessus (3 770) ; objectifs InvestingCube 3 709 puis 3 780"
-  },
-  {
-   "p": 3760,
-   "kind": "res",
-   "label": "Support 4 h 3 730–3 760 sur une ligne de tendance baissière (FXEmpire), objectif 2 de la vente ; résistance Mitrade 3 750 en séance, bande de Bollinger basse vers 3 770 (KuCoin) ; supports 3 762 / 3 731 (ATFX) ; retracement 38,2 % à 3 750 (TradingPedia)"
-  },
-  {
-   "p": 3751,
-   "kind": "res",
-   "label": "Pivot et résistance 3 755 (FXEmpire), 3 750 (Kitco), haut de l'ancienne zone 3 737–3 747 cassée (LiteFinance)"
-  },
-  {
-   "p": 3742,
-   "kind": "sup",
-   "label": "Ancienne zone 3 737–3 747 cassée (LiteFinance), clôture précédente 3 742 (Rio Times), bas de la ligne de tendance 4 h 3 730 (FXEmpire)"
-  },
-  {
-   "p": 3700,
-   "kind": "res",
-   "label": "Seuil 3 700, résistance 3 685–3 700 (Mitrade), 3 695 (Trade Nation), 3 700–3 730 (Goodreturns), 3 729,82 (LiteFinance), ligne de tendance baissière vers 3 700 (FXEmpire) : zone de vente 3 700–3 730 ; plus haut du jour 3 690,20 (Kitco)"
-  },
-  {
-   "p": 3690,
-   "kind": "res",
-   "label": "Résistance 3 673–3 693 (Mitrade), objectif 3 690 de la sortie de biseau (StoneX) : objectif 2 de l'achat vers 3 605"
-  },
-  {
-   "p": 3667,
-   "kind": "res",
-   "label": "Ancien plus bas de 14 mois à 3 667, cassé à la hausse ce lundi : l'or y revient vers 3 669 ; résistance Kitco 3 678"
-  },
-  {
-   "p": 3665,
-   "kind": "res",
-   "label": "Moyenne 200 heures vers 3 665 (FXBrokerTrust), plus haut de vendredi matin vers 3 667 (Investing.com)"
-  },
-  {
-   "p": 3651,
-   "kind": "res",
-   "label": "Ancienne résistance 3 630–3 650 (Mitrade), 3 651 (Trade Nation, FXEmpire), 3 643 (LiteFinance) : franchie, devient support ; objectif 1 de la vente 3 700–3 730 ; résistance clé 3 648–3 662 (LiteFinance)"
-  },
-  {
-   "p": 3651,
-   "kind": "res",
-   "label": "Haut de la zone de base 3 651 (FXEmpire via FinanceFeeds), 3 634 qui a plafonné mardi (TradingNews) : stop de la vente vers 3 600 au-dessus (3 640)"
-  },
-  {
-   "p": 3606,
-   "kind": "sup",
-   "label": "Sortie de biseau 3 606 (StoneX), retracement 50 % vers 3 608 (FXBrokerTrust), ancienne résistance 3 600–3 620 (Mitrade) : zone d'achat 3 600–3 612"
-  },
-  {
-   "p": 3567,
-   "kind": "sup",
-   "label": "Clôture de jeudi vers 3 567 (CNBC via FinanceFeeds), plus bas de vendredi 3 558 (Investing.com)"
-  },
-  {
-   "p": 3552,
-   "kind": "sup",
-   "label": "Clôture de mardi 3 552,50 : objectif 1 de la vente vers 3 600"
-  },
-  {
-   "p": 3505,
-   "kind": "sup",
-   "label": "Support 3 500–3 520 (Mitrade), 3 503 bas de la zone de base (FXEmpire) : objectif 2 de la vente vers 3 600"
-  },
-  {
-   "p": 3475,
-   "kind": "sup",
-   "label": "Extension de Fibonacci 3 475 (FXEmpire), 3 450–3 475 (Mitrade), 3 447 testé plusieurs fois ; sous 3 518 en clôture, objectif 3 421 (FXEmpire) ; clôture hebdomadaire sous 3 500 : 3 300–3 400 possible (FXEmpire, The National)"
-  },
-  {
-   "p": 3446,
-   "kind": "sup",
-   "label": "Plus bas de mercredi vers 3 446 (FinanceFeeds, TradingNews), plus bas depuis août–septembre 2025 ; support 3 440–3 460 (Mitrade)"
-  },
-  {
-   "p": 3400,
-   "kind": "sup",
-   "label": "Support 3 380–3 400 (Mitrade), 3 400 seuil rond (TradingNews) ; puis 3 350–3 380"
-  }
- ],
- "factors": [
-  {
-   "name": "Fed et taux directeurs",
-   "impact": -1,
-   "text": "Taux à 3,75–4 %. La hausse d'un quart de point les 8–9 décembre est jugée presque certaine : 96,2 % (FXBrokerTrust) à 99,4 % (Mitrade) vendredi matin. Les marchés voient aussi 64,3 % de chances d'un taux à 4,25–4,50 % fin janvier (FXBrokerTrust)."
-  },
-  {
-   "name": "Rendement américain à 10 ans",
-   "impact": -1,
-   "text": "Le 10 ans est vers 4,92 % vendredi (FinanceFeeds, Investing.com). Des taux hauts pèsent sur l'or."
-  },
-  {
-   "name": "Banque d'Angleterre",
-   "impact": 0,
-   "text": "Hausse du taux de 3,75 % à 4 %, vote 8–1 (Catherine Mann voulait 4,25 %), première hausse depuis août 2023 (Trading Economics). L'or garde ses gains (Kitco) : effet limité."
-  },
-  {
-   "name": "Croissance et inflation US",
-   "impact": -2,
-   "text": "CPI d'octobre +0,4 % sur un mois (0,3 % attendu, 0,6 % en septembre), hors énergie et alimentation +0,3 % (0,2 % attendu) (StockTitan, Trading Economics). Pas de chiffre sur un an (shutdown). L'inflation de fond tourne vers 3,7 % en rythme annuel sur trois mois. PIB T3 à 3,4 %, PCE de septembre à 3,6 %. Ventes de logements anciens en baisse de 5,5 % en octobre, à 3,75 millions (Kitco). PPI d'octobre +0,3 % sur un mois (0,4 % attendu, septembre révisé à 1,4 %), 6,5 % sur un an (6,6 % attendu), plus haut depuis novembre 2022 ; hors alimentation, énergie et commerce +0,5 % pour le deuxième mois de suite, 4,9 % sur un an (ActionForex). Enquête Empire State de New York de novembre à 7,8 (17,6 attendu, 25,5 avant), sans rebond de l'or (Mitrade). Ventes au détail d'octobre +0,2 % sur un mois (0,1 à 0,2 % attendu), groupe de contrôle +0,6 % (0,4 % attendu), contrôle de septembre relevé à 0,5 % (Reuters via Investing.com, 17 nov.). Prix à l'importation +1,1 % (0,7 % attendu) et production industrielle -0,4 % en octobre (FXEmpire, TraderFactor). Indice de la Fed de Philadelphie de novembre à 6,3 (20 attendu, 20,9 avant), plus bas de six mois, mais prix payés en hausse à 58,2 contre 43,2 (Newsquawk) : activité plus faible, inflation toujours présente. Moral des ménages Michigan final de novembre à 51,5 (51,5 attendu, 48 en octobre), attentes d'inflation à un an en baisse de 4,7 % à 3,7 % et à long terme de 3,5 % à 3,3 % (Kitco) : un peu moins de pression sur l'inflation, sans effet sur l'or pour l'instant. PMI flash de novembre plus faibles que prévu : services 54,7 (55,7 attendu, 57,9 avant), industrie 54,5 (54,9 attendu), composite 54,6 (55,9 avant) ; les prix restent élevés selon S&P Global (investingLive). Mercredi 13h30 UTC : PCE d'octobre à 3,8 % sur un an, conforme (3,6 % avant, CoinGape) ; PCE de fond à 3,3 % sur un an, au-dessus des 3,2 % attendus (FXStreet) ; PIB du 3e trimestre révisé à 4,3 % contre 3,4 % (FXStreet, investingLive). Croissance forte et inflation de fond tenace : la hausse de la Fed en décembre est confortée. Commandes de biens durables d'octobre +0,2 % (0,4 % attendu), biens d'équipement hors défense et aviation +1,2 % (0,4 % attendu) ; ventes de logements neufs d'octobre +14,2 % à 701 000 (650 000 attendues) : l'or tombe à son plus bas de séance (Kitco)."
-  },
-  {
-   "name": "Emploi américain",
-   "impact": -1,
-   "text": "NFP d'octobre à 165 000 postes (65 000 attendus), septembre révisé de 29 000 à 60 000, août et septembre relevés de 84 000 au total. Chômage à 4,1 % (4,2 % attendu), salaire horaire +0,4 % sur un mois (+0,3 % attendu) (Trading Economics, Bloomberg). Inscriptions au chômage à 189 000, ADP à 86 000. Un marché du travail aussi solide justifie une hausse des taux. Inscriptions au chômage de la semaine à 200 000 (195 000 attendues, 191 000 révisé la semaine d'avant) ; inscriptions continues à 1,697 million (IndexBox). Jeudi 19 nov. : inscriptions au chômage à 203 000 (197 000 à 199 000 attendues, 202 000 révisé avant), inscriptions continues en forte hausse à 1,763 million (1,71 million attendu) (ActionForex, Newsquawk). Un peu de détente, sans effet sur l'or pour l'instant."
-  },
-  {
-   "name": "Dollar",
-   "impact": -1,
-   "text": "L'indice du dollar vers 103,7 (CNBC via FinanceFeeds) reste ferme (Mitrade). Un dollar fort freine le rebond de l'or."
-  },
-  {
-   "name": "Élections de mi-mandat",
-   "impact": 1,
-   "text": "Les démocrates gagnent les deux chambres du Congrès (FinanceFeeds, Mitrade). Moins de dépenses publiques attendues, dollar et rendements en baisse : l'or a pris 3,4 % mercredi, sa plus forte hausse depuis le 19 août, et continue ce jeudi."
-  },
-  {
-   "name": "Pétrole et Golfe",
-   "impact": 1,
-   "text": "Brent vers 92 $ et WTI vers 83 $ vendredi (Mitrade, Trading Economics). Le trafic dans le détroit d'Ormuz reste très perturbé après des attaques contre trois navires d'ADNOC, le blocus américain des ports iraniens continue et les discussions de paix n'avancent pas (Mitrade). Pas d'achat refuge sur l'or pour l'instant, mais un risque de hausse soudaine. Lundi : Donald Trump dit vouloir reprendre la guerre contre l'Iran au début de l'année prochaine faute d'accord, et les Gardiens de la révolution disent avoir abattu un drone américain au-dessus d'Ormuz (TradingPedia). Lundi soir : le pétrole recule, Brent vers 88 $ et WTI vers 80 $ (Eurasia Business News). Mardi matin : WTI vers 79,8 $ (ATFX), Brent vers 89,4 $ après -3,5 % lundi (Mitrade). Mercredi : attaques contre des navires près d'Ormuz et pourparlers États-Unis–Iran bloqués, ce qui soutient surtout le dollar (FXStreet via ANC). Mardi soir : WTI et Brent +2,3 % après l'attaque d'un pétrolier dans le détroit d'Ormuz (Mitrade). Jeudi : les Houthis revendiquent des attaques à Riyad et sur une raffinerie saoudienne, la coalition frappe Hodeidah ; effet surtout en soutien du dollar (Tradingpedia)."
-  },
-  {
-   "name": "Technique",
-   "impact": -1,
-   "text": "Vendredi matin, l'or rebondit vers 3 650 (plage 3 558–3 667, Investing.com) et sort du biseau baissier 4 h à 3 606 (StoneX, objectif 3 690). RSI 1 h vers 54 (Mitrade). Mais l'or reste sous la moyenne 200 heures vers 3 665 et sous 3 700 ; plus bas de 15 mois mercredi vers 3 427–3 446. La tendance de fond reste baissière. FXEmpire place la moyenne 200 heures dans 3 680–3 700 et la moyenne 50 jours vers 4 000 ; son tableau de signaux reste vendeur (15 vente, 5 achat)."
-  },
-  {
-   "name": "Achats des banques centrales",
-   "impact": 1,
-   "text": "Environ 170 tonnes achetées en 2026. La banque centrale chinoise a acheté environ 25,8 tonnes en octobre, sa plus forte hausse mensuelle depuis septembre 2023 (FXEmpire). Un soutien de fond sur les baisses. Kitco note que la Chine achète de l'or depuis deux ans d'affilée. Les banques centrales ont acheté 675 tonnes depuis le début de l'année, +6 % sur un an ; les achats ont tendance à reprendre sous 4 000 $ (Kitco, investingLive). La Chine a relevé ses réserves d'or pour le 24e mois de suite fin octobre (ad-hoc-news). Les exportations d'or suisses ont chuté de 34 % en octobre, à 109,7 tonnes (Reuters via Rallies). Les banques centrales ont acheté environ 321 t au 3e trimestre (FinanceFeeds, TradingNews)."
-  },
-  {
-   "name": "ETF sur l'or",
-   "impact": 1,
-   "text": "Record de 4 256 tonnes détenues fin septembre (World Gold Council), plus de 50 t entrées en septembre selon ANZ : les investisseurs de long terme n'ont pas vendu. Le World Gold Council a toutefois abaissé sa prévision de demande d'investissement pour 2026 à 200 t (contre 400 t), à cause de ventes de lingots et pièces plus faibles. ANZ prévient que ces avoirs ETF élevés laissent de la place à des ventes si la Fed durcit encore (Reuters via Rallies). Le fonds GLD a perdu 1,37 milliard de dollars de sorties sur 30 jours (TradingNews). Environ 20 t de sorties des ETF mondiaux la semaine dernière, menées par GLD (TradingNews)."
-  },
-  {
-   "name": "Chute des actions",
-   "impact": -1,
-   "text": "Jeudi, le Dow Jones a perdu 2,19 %, le S&P 500 2,02 % (sixième baisse de suite) et le Nasdaq 2,25 % (Mitrade) ; le Nikkei chute de 4,77 % vendredi (Investing.com). Des investisseurs vendent de l'or pour couvrir des appels de marge (Investing.com) : la chute des actions pèse sur l'or au lieu de le soutenir. Les pertes sur les valeurs de l'IA poussent des investisseurs à vendre de l'or pour couvrir d'autres pertes (Reuters via Cryptometer). Pepperstone parle d'une « tempête parfaite » de vents contraires et de liquidations forcées (The National). Le CME a relevé mardi soir la marge sur l'or de 5 % à 6 % (argent de 8 % à 9 %) : risque de nouvelles ventes forcées (ANC). Mercredi en séance : Nasdaq -4,01 %, S&P 500 -2,72 %, Dow -1,41 %, argent -5,7 % (Longbridge via KuCoin) : les ventes forcées continuent."
-  },
-  {
-   "name": "Sentiment",
-   "impact": 0,
-   "text": "Goldman Sachs vise 4 150 $ fin 2026 (contre 4 650). Pour Tai Wong, le CPI sera « un test décisif » pour le rebond ; selon FXStreet, le rebond manque encore d'élan (JournalArta). Blue Line voit une éventuelle cassure de 4 000 comme une dernière purge (FinanceFeeds). Standard Chartered voit au contraire un rebond vers 4 650 $ d'ici la fin d'année (Kitco). Goldman Sachs voit l'or revenir à 5 600 $ en 2028 (Kitco, 17 nov.). Pour Dilin Wu (Pepperstone), il faut rester prudent avant de parler de plancher : de nouvelles ventes forcées restent possibles (ANC)."
-  },
-  {
-   "name": "Droits de douane",
-   "impact": 1,
-   "text": "Washington prépare de nouveaux droits de douane sur la Chine, l'Union européenne et plus d'une dizaine d'autres pays (Bloomberg via BigGo et FinanceFeeds) ; rien n'est encore en vigueur (TraderFactor). Un regain de tensions commerciales peut soutenir l'or comme valeur refuge."
-  }
- ],
- "noTrade": [
-  "Ne pas acheter en pleine hausse vers 3 650–3 665 : attendre un repli vers 3 600–3 612 avec un signal haussier.",
-  "Ne pas vendre le rebond avant un signal de rejet dans 3 700–3 730 : une clôture 1 h au-dessus de 3 766 annule cette idée de vente.",
-  "Black Friday : séance courte aux États-Unis, liquidité faible, mouvements brusques possibles.",
-  "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
- ],
- "calendar": [
-  {
-   "at": "2026-11-04T13:15:00Z",
-   "event": "Emploi privé ADP d'octobre",
-   "importance": 2,
-   "why": "Avant-goût du NFP de vendredi. Consensus 69 000 (90 000 le mois dernier). Chiffre faible = bon pour l'or.",
-   "result": "86 000 postes (67 000 attendus) : plus fort que prévu, l'or tient vers 4 045 $"
-  },
-  {
-   "at": "2026-11-04T15:00:00Z",
-   "event": "Indice ISM des services d'octobre",
-   "importance": 2,
-   "why": "Surveillé par les marchés (Mitrade). Services solides et prix élevés = hausse de taux plus probable = pression sur l'or.",
-   "result": "54,5 (54,8 attendu), prix payés 73 : un peu plus faible que prévu, l'or tient vers 4 039 $"
-  },
-  {
-   "at": "2026-11-05T12:00:00Z",
-   "event": "Décision de la Banque d'Angleterre",
-   "importance": 1,
-   "why": "Hausse attendue de 3,75 % à 4 %, vote attendu 7–2 (1Trader). Effet indirect sur l'or via le dollar.",
-   "result": "Taux relevé à 4 %, vote 8–1 : conforme à l'attente de hausse, l'or tient vers 4 120 $"
-  },
-  {
-   "at": "2026-11-05T13:30:00Z",
-   "event": "Inscriptions hebdomadaires au chômage",
-   "importance": 2,
-   "why": "Dernier chiffre de l'emploi avant le NFP. Hausse des inscriptions = bon pour l'or. Consensus 196 000, 195 000 la semaine d'avant.",
-   "result": "189 000 (196 000 attendus) : emploi solide, l'or tient vers 4 126 $"
-  },
-  {
-   "at": "2026-11-06T13:30:00Z",
-   "event": "Rapport sur l'emploi (NFP)",
-   "importance": 3,
-   "why": "L'événement clé avant la Fed de décembre. Consensus 65 000 emplois (29 000 en septembre), chômage 4,2 %, salaire horaire +0,3 % sur un mois (Mitrade, TradingKey). Plus de 100 000 = test de 4 000 possible ; moins de 30 000 ou chômage à 4,3 % = hausse de l'or (Mitrade).",
-   "result": "165 000 postes (65 000 attendus), chômage 4,1 %, salaire +0,4 % : très fort, l'or recule vers 4 047 $"
-  },
-  {
-   "at": "2026-11-06T15:00:00Z",
-   "event": "Moral des ménages Michigan (novembre, première estimation)",
-   "importance": 2,
-   "why": "Attentes d'inflation des ménages surveillées par la Fed. Attentes en baisse = un peu moins de pression sur l'or.",
-   "result": "51, attentes d'inflation en baisse : l'or se stabilise vers 4 050 $"
-  },
-  {
-   "at": "2026-11-10T13:30:00Z",
-   "event": "Inflation CPI d'octobre",
-   "importance": 3,
-   "why": "Inflation chaude = hausse de taux plus probable = pression sur l'or. Attendu +0,3 % sur un mois et +0,2 % hors énergie et alimentation (TradingKey) ; septembre était à +0,6 %. Pas de chiffre sur un an (shutdown). Doux = 4 150 puis 4 200, chaud = 4 000.",
-   "result": "+0,4 % sur un mois (0,3 % attendu), +0,3 % hors énergie (0,2 % attendu) : plus chaud que prévu, l'or chute vers 4 020 $"
-  },
-  {
-   "at": "2026-11-12T13:30:00Z",
-   "event": "Inscriptions hebdomadaires au chômage",
-   "importance": 2,
-   "why": "Hausse des inscriptions = un peu bon pour l'or. Consensus 195 000.",
-   "result": "200 000 (195 000 attendues), 191 000 la semaine d'avant : un peu plus faible, mais l'or continue de chuter vers 3 890 $"
-  },
-  {
-   "at": "2026-11-13T13:30:00Z",
-   "event": "Prix à la production PPI",
-   "importance": 2,
-   "why": "Confirme ou non le CPI chaud. Attendu +0,4 % sur un mois (1,3 % en septembre) et +0,3 % hors énergie et alimentation (TradingKey, TraderFactor). Chiffre chaud = demi-point de la Fed plus probable = or vers 3 780 (FXEmpire) ; chiffre doux = rebond possible.",
-   "result": "+0,3 % sur un mois (0,4 % attendu), 6,5 % sur un an (6,6 % attendu), cœur hors commerce +0,5 % : mitigé, l'or ne rebondit pas et reste vers 3 880 $"
-  },
-  {
-   "at": "2026-11-16T17:00:00Z",
-   "event": "Discours de Kevin Warsh, président de la Fed (San Francisco)",
-   "importance": 2,
-   "why": "Ouverture d'une conférence de la Fed de San Francisco sur la productivité et l'emploi. Un ton dur sur l'inflation = pression sur l'or ; un ton prudent = rebond possible.",
-   "result": "Discours sur l'IA, aucun signal sur les taux (Reuters) : pas de réaction nette, l'or reste vers 3 855 $"
-  },
-  {
-   "at": "2026-11-17T13:30:00Z",
-   "event": "Ventes au détail et production industrielle d'octobre",
-   "importance": 2,
-   "why": "Santé du consommateur américain. Attendu +0,1 à +0,2 % sur un mois après +0,8 %, hors automobiles +0,4 % (Centrino, TradingKey). Chiffre fort = hausse de taux confortée = pression sur l'or (Forexuro).",
-   "result": "+0,2 % sur un mois (0,1 à 0,2 % attendu), groupe de contrôle +0,6 % (0,4 % attendu), septembre inchangé à +0,8 % (Reuters) : consommation solide, l'or reste faible vers 3 852 $"
-  },
-  {
-   "at": "2026-11-18T07:00:00Z",
-   "event": "Inflation CPI britannique d'octobre",
-   "importance": 1,
-   "why": "Effet indirect sur l'or via le dollar et la livre (Forexuro).",
-   "result": "Inflation britannique à 3,6 % sur un an en octobre (titre Investing.com), un peu sous les attentes selon Mitrade : effet limité, l'or reste vers 3 790 $"
-  },
-  {
-   "at": "2026-11-18T19:00:00Z",
-   "event": "Compte rendu de la Fed (minutes)",
-   "importance": 2,
-   "why": "Détaille le débat sur une hausse en décembre. Un ton dur peut pousser l'or vers 3 760 puis 3 730 ; un ton plus prudent peut lancer un rebond vers 3 830–3 850.",
-   "result": "Ton dur : presque tous les membres attendent une hausse en décembre, deux ont parlé d'un demi-point (Mitrade). L'or touche un plus bas de 14 mois vers 3 703–3 719 $ puis remonte vers 3 735 $"
-  },
-  {
-   "at": "2026-11-19T13:30:00Z",
-   "event": "Inscriptions hebdomadaires au chômage et indice de la Fed de Philadelphie",
-   "importance": 2,
-   "why": "Annoncés pour ce jeudi (Mitrade). Inscriptions attendues vers 197 000–200 000 (200 000 la semaine d'avant), Philadelphie vers 20–23 (20,9 avant) selon TraderFactor. Emploi et activité solides = hausse de taux confortée = pression sur l'or ; chiffres faibles = rebond possible.",
-   "result": "Inscriptions à 203 000 (197 000 à 199 000 attendues), continues 1,763 million ; Philadelphie à 6,3 (20 attendu), prix payés 58,2 : plutôt faible, mais l'or reste vers 3 715 $"
-  },
-  {
-   "at": "2026-11-20T15:00:00Z",
-   "event": "Moral des ménages Michigan (novembre, chiffre final) et discours de Waller et Cook (Fed)",
-   "importance": 2,
-   "why": "Moral des ménages à 10h heure de New York (FXEmpire) ; Waller et Cook parlent ce vendredi, heure non précisée. Attentes d'inflation en baisse ou ton plus prudent = rebond possible de l'or ; ton dur = pression sur l'or.",
-   "result": "Moral 51,5 (51,5 attendu, 48 avant), attentes d'inflation à un an à 3,7 % contre 4,7 % (Kitco) : conforme, l'or reste vers 3 569 $"
-  },
-  {
-   "at": "2026-11-23T14:45:00Z",
-   "event": "PMI flash américains de novembre (industrie et services)",
-   "importance": 2,
-   "why": "Activité solide = hausse de taux confortée = pression sur l'or ; chiffres faibles = rebond prolongé possible (ATFX, Mitrade).",
-   "result": "Services 54,7 (55,7 attendu), industrie 54,5 (54,9 attendu), composite 54,6 (55,9 avant) : plus faible que prévu, l'or monte vers 3 669 $"
-  },
-  {
-   "at": "2026-11-24T15:00:00Z",
-   "event": "Confiance des consommateurs (Conference Board) et indice de la Fed de Richmond",
-   "importance": 1,
-   "why": "Confiance attendue à 92,1 contre 91,7 avant (1Trader). Santé de l'économie américaine avant l'inflation PCE de mercredi (ATFX).",
-   "result": "Confiance à 103,3 (environ 92 attendu, 91,9 en octobre) : bien plus forte que prévu, l'or recule vers 3 602 $"
-  },
-  {
-   "at": "2026-11-25T13:30:00Z",
-   "event": "Inflation PCE d'octobre, PIB du 3e trimestre (2e estimation), commandes de biens durables et inscriptions au chômage",
-   "importance": 3,
-   "why": "PCE attendu à +0,3 % sur un mois et 3,8 % sur un an (3,6 % avant) ; PCE de fond +0,3 % sur un mois et 3,2 % sur un an (3,1 % avant), consensus CME/Econoday (TraderFactor). PIB du 3e trimestre : 3,4 % en première estimation. Plus fort que prévu = hausse de la Fed confortée = pression sur l'or ; plus faible = rebond possible vers 3 615 puis 3 680.",
-   "result": "PCE 3,8 % sur un an (conforme), PCE de fond 3,3 % (3,2 % attendu), PIB du 3e trimestre révisé à 4,3 % (3,4 % avant) : chiffres fermes, l'or passe brièvement sous 3 500 $ (plus bas vers 3 484) puis tourne vers 3 500 $ ; biens durables +0,2 % (0,4 % attendu), ventes de logements neufs +14,2 % à 701 000 : l'or tombe vers 3 428 (Kitco)"
-  },
-  {
-   "at": "2026-11-25T19:00:00Z",
-   "event": "Livre beige de la Fed",
-   "importance": 1,
-   "why": "Tableau de l'économie par région avant la réunion de décembre (TraderFactor). Ton prudent = petit soutien pour l'or."
-  },
-  {
-   "at": "2026-11-26T00:00:00Z",
-   "event": "Thanksgiving : marchés américains fermés",
-   "importance": 1,
-   "why": "Liquidité faible sur l'or toute la journée, séance courte vendredi."
-  },
-  {
-   "at": "2026-11-27T18:00:00Z",
-   "event": "Black Friday : séance courte aux États-Unis",
-   "importance": 1,
-   "why": "Marchés américains fermés plus tôt : liquidité faible sur l'or, mouvements brusques possibles (TraderFactor)."
-  },
-  {
-   "at": "2026-12-04T13:30:00Z",
-   "event": "Rapport sur l'emploi (NFP) de novembre",
-   "importance": 3,
-   "why": "Dernier grand chiffre avant la Fed (TradingNews). Emploi fort = hausse confortée = pression sur l'or ; emploi faible = rebond possible."
-  },
-  {
-   "at": "2026-12-09T19:00:00Z",
-   "event": "Décision de la Fed",
-   "importance": 3,
-   "why": "Réunion des 8–9 décembre. Hausse d'un quart de point jugée quasi certaine (93,9 % selon FXEmpire, 97,3 % selon Investing.com) : une surprise douce ferait bondir l'or."
-  }
- ],
- "sources": [
-  {
-   "title": "Mitrade : l'or approche 3 700 $, 3 675,25 $ à 8h31 GMT, résistances 3 700 puis 3 800, supports 3 600 et 3 500 (27 nov.)",
-   "url": "https://www.mitrade.com/au/insights/commodity-analysis/gold-price/gold-price-nears-3700"
-  },
-  {
-   "title": "FXEmpire : l'or et l'argent rebondissent, moyenne 200 h vers 3 680–3 700, résistance 3 700, supports 3 500 et 3 430 (27 nov.)",
-   "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-leads-rebound-as-ratio-falls-1647648"
-  },
-  {
-   "title": "Shafaq News/Reuters : l'or monte avec la pause des marchés américains (27 nov.)",
-   "url": "https://shafaq.com/en/Economy/Gold-prices-climb-as-US-holiday-eases-selloff"
-  },
-  {
-   "title": "FinanceFeeds : l'or à 3 650 $, 10 ans à 4,918 %, dollar à 103,73, PCE sous-jacent 3,3 % (27 nov.)",
-   "url": "https://financefeeds.com/gold-price-today-3650-friday-rebound-from-15-month-low-silver-up-6-percent-bull-3742-bear-3567/"
-  },
-  {
-   "title": "Tradingpedia : l'or bloqué sous 3 600, Fibonacci 3 595 et 3 701, moyenne 200 h vers 3 693 (26 nov.)",
-   "url": "https://www.tradingpedia.com/2026/11/26/gold-stalls-below-3600-on-strong-u-s-data-rate-bets/"
-  },
-  {
-   "title": "FXBrokerTrust : l'or vers 3 569 $, compte rendu ferme de la BCE, plus haut du jour 3 607, plus bas de l'après-midi 3 552 (26 nov.)",
-   "url": "https://www.fxbrokertrust.com/insights/spot-gold-rebounds-to-near-3570-as-hawkish-ecb-minutes-cap-gains"
-  },
-  {
-   "title": "FinScans : l'or à 3 569 $, hausse de la Fed à 97,5 %, supports 3 500 et 3 453 (26 nov.)",
-   "url": "https://finscans.com/news/2026/11/26/gold-stagnates-at-3569-as-fed-rate-hike-odds-hit-975-for"
-  },
-  {
-   "title": "ad-hoc-news : l'or rebondit de 4,4 % depuis son plus bas d'un an, 3 575 $ à 15h15, hausse de la Fed à 94,6 % (26 nov.)",
-   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-bounces-4-4-prozent-off-one-year-low-as-december-rate-fears-keep-a-lid-on-the-rebound/70558759"
-  },
-  {
-   "title": "FinanceFeeds : l'or à 3 650 $ vendredi, rebond depuis un plus bas de 15 mois, 10 ans à 4,92 % (27 nov.)",
-   "url": "https://financefeeds.com/gold-price-today-3650-friday-rebound-from-15-month-low-silver-up-6-percent-bull-3742-bear-3567/"
-  },
-  {
-   "title": "FXBrokerTrust : l'or repasse au-dessus de 3 600 $, moyenne 200 heures vers 3 665 (27 nov.)",
-   "url": "https://www.fxbrokertrust.com/insights/spot-gold-rises-above-3600-as-analyst-urges-caution"
-  },
-  {
-   "title": "Mitrade : niveaux de l'or, résistances 3 600–3 620 et 3 673–3 693, hausse de la Fed à 99,4 % (27 nov.)",
-   "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-dips-holiday-trading-recession-fears"
-  },
-  {
-   "title": "TraderFactor : l'or et le pétrole pour le Black Friday (27 nov.)",
-   "url": "https://traderfactor.com/forex-market-today-gold-oil-black-friday-trading/"
-  },
-  {
-   "title": "Investing.com/Reuters : l'or bondit de 3 % à 3 672 $ à 8h33 GMT, hausse de la Fed à 96,2 %, dollar à 103,81 (27 nov.)",
-   "url": "https://au.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-4798147"
-  },
-  {
-   "title": "ANC : l'or à 3 640,84 $ à 6h09 GMT (Reuters), RHB voit résistance 3 750 et supports 3 500 puis 3 350 (27 nov.)",
-   "url": "https://ancstockinvestments.com/blog/2026/11/27/gold-heads-for-weekly-gain-after-one-year-low/"
-  }
- ]
+  "updatedAt": "2026-11-27T12:10:00Z",
+  "price": 3678,
+  "change": 3.1,
+  "priceTime": "27 nov. · 13h10 Paris (aucun cours plus récent trouvé que 3 678,34 $, +3,14 %, sur le bandeau Mitrade ; LiteFinance donne 3 671,07 $ ce matin)",
+  "bias": "sell",
+  "biasLabel": "Baissier (l'or sous 3 700)",
+  "summary": "L'or garde son rebond ce vendredi : environ 3 675–3 678 $, soit +3 % sur la journée (Mitrade, Investing.com/Reuters) ; aucun cours plus récent n'a été trouvé à 13h Paris (LiteFinance : 3 671 $). Il bute juste sous la résistance 3 673–3 693 puis le seuil 3 700, où se trouve aussi la moyenne 200 heures (3 680–3 700 selon FXEmpire). Le fond reste lourd : la hausse de la Fed le 9 décembre est jugée à 96 % à 99 % (CME FedWatch, Mitrade), l'inflation PCE hors énergie et alimentation est à 3,3 % sur un an (3,2 % attendu), le 10 ans vers 4,92 % et le dollar vers 103,7. Le biais reste vendeur tant que l'or est sous 3 700 : on attend un rejet dans 3 700–3 730 pour vendre, ou un repli vers 3 600–3 612 pour un achat prudent. Séance courte de Black Friday aux États-Unis (actions fermées à 18h GMT) : liquidité faible, Trade Nation craint un faux départ du rebond.",
+  "setups": [
+    {
+      "side": "sell",
+      "name": "Vente sur rejet de 3 700–3 730",
+      "status": "watch",
+      "zone": [
+        3700,
+        3730
+      ],
+      "trigger": "Attendre que l'or monte dans 3 700–3 730 (seuil 3 700, résistance Mitrade 3 685–3 700, Goodreturns 3 700–3 730, LiteFinance 3 729,82, Trade Nation 3 695) puis une bougie 1 h de rejet : longue mèche haute ou clôture baissière sous 3 700.",
+      "stop": 3770,
+      "tps": [
+        3650,
+        3600
+      ],
+      "invalidAbove": 3766,
+      "note": "Plan gardé (en attente avant la confiance des consommateurs de 15h UTC) : l'or n'a pas atteint la zone, vers 3 634 à 14h UTC (plus haut de la nuit 3 679, vers 3 624 en fin de matinée, rejet à 3 651 selon FX Leaders). Résistances confirmées ce matin : 3 685–3 700 (Mitrade), 3 697 (FXEmpire), 3 730,95 (IC Markets) ; LiteFinance place son stop de vente à 3 695. Stop au-dessus de la résistance Mitrade 3 746–3 766, à 3 770. Objectif 1 vers 3 650 (FXEmpire 3 651), objectif 2 vers 3 600 (pivot 3 595). Une clôture 1 h au-dessus de 3 766 annule le plan. Taille réduite. Mise à jour 19h Paris : l'or vers 3 578, environ 120 $ sous la zone ; plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, environ 140 $ sous la zone ; plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé. Mise à jour 16h Paris (25 nov.) : l'or vers 3 472–3 484, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (25 nov.) : pas de nouveau cours après 3 472–3 484, l'or reste sous la zone ; plan gardé. Mise à jour 18h Paris (25 nov.) : l'or vers 3 471–3 477, toujours sous la zone ; plan gardé. Mise à jour 19h Paris (25 nov.) : pas de nouveau cours net, l'or reste vers 3 471–3 484, sous la zone ; plan gardé. Mise à jour 20h Paris (25 nov.) : l'or vers 3 450 (plus bas vers 3 428), encore plus loin sous la zone ; plan gardé. Mise à jour 21h Paris (25 nov.) : l'or vers 3 455, toujours sous la zone ; plan gardé. Mise à jour 8h Paris (26 nov.) : l'or vers 3 567 après un rebond à 3 603 ; toujours sous la zone ; plan gardé. Mise à jour 9h Paris (26 nov.) : l'or vers 3 565, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 11h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 12h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (26 nov.) : l'or vers 3 578, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (26 nov.) : pas de cours plus récent que 3 560–3 569, l'or reste loin sous la zone ; plan gardé. Mise à jour 16h Paris (26 nov.) : l'or vers 3 568, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (26 nov.) : l'or vers 3 570 (Kitco), toujours loin sous la zone ; plan gardé. Mise à jour 18h Paris (26 nov.) : l'or vers 3 565–3 572, toujours loin sous la zone ; plan gardé. Mise à jour 19h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 20h Paris (26 nov.) : l'or vers 3 571, toujours loin sous la zone ; plan gardé. Mise à jour 21h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 8h Paris (27 nov.) : l'or rebondit vers 3 650 (plus haut vers 3 667), toujours sous la zone ; pas de clôture au-dessus du seuil d'annulation, plan gardé. Mise à jour 9h Paris (27 nov.) : pas de cours plus récent que 3 630–3 650, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (27 nov.) : l'or vers 3 672, à moins de 30 $ du bas de la zone ; plan gardé, surveiller la réaction sous 3 693–3 700. Mise à jour 11h Paris (27 nov.) : pas de cours plus récent que 3 672, sous la zone ; plan gardé, surveiller la réaction sous 3 693–3 700. Mise à jour 12h Paris : l'or vers 3 678, zone non atteinte, plan gardé. Mise à jour 13h Paris : pas de cours plus récent que 3 671–3 678, zone non atteinte, plan gardé."
+    },
+    {
+      "side": "sell",
+      "name": "Vente sur retour vers 3 840",
+      "status": "watch",
+      "zone": [
+        3830,
+        3850
+      ],
+      "trigger": "Attendre une remontée dans 3 830–3 850 (ancien support 3 832–3 852 devenu résistance, R2 FXEmpire 3 821, résistance TraderFactor 3 830–3 850) puis une bougie 1 h de rejet : longue mèche haute ou clôture baissière sous 3 830.",
+      "stop": 3866,
+      "tps": [
+        3790,
+        3760
+      ],
+      "invalidAbove": 3862,
+      "note": "Plan gardé : l'or est vers 3 624 (fin de matinée), environ 210 $ sous la zone ; le plan attend un fort rebond. Mitrade garde 3 830–3 840 en résistance, ATFX 3 827. Stop au-dessus du pivot 3 859, à 3 866. Objectif 1 vers 3 790, objectif 2 sur 3 760. Une clôture 1 h au-dessus de 3 862 annule le plan. Mise à jour 19h Paris : l'or vers 3 578, plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé. Mise à jour 16h Paris (25 nov.) : l'or vers 3 472–3 484, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (25 nov.) : pas de nouveau cours après 3 472–3 484, l'or reste sous la zone ; plan gardé. Mise à jour 18h Paris (25 nov.) : l'or vers 3 471–3 477, toujours sous la zone ; plan gardé. Mise à jour 19h Paris (25 nov.) : pas de nouveau cours net, l'or reste vers 3 471–3 484, sous la zone ; plan gardé. Mise à jour 20h Paris (25 nov.) : l'or vers 3 450 (plus bas vers 3 428), encore plus loin sous la zone ; plan gardé. Mise à jour 21h Paris (25 nov.) : l'or vers 3 455, toujours sous la zone ; plan gardé. Mise à jour 8h Paris (26 nov.) : l'or vers 3 567 après un rebond à 3 603 ; toujours sous la zone ; plan gardé. Mise à jour 9h Paris (26 nov.) : l'or vers 3 565, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 11h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 12h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (26 nov.) : l'or vers 3 578, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (26 nov.) : pas de cours plus récent que 3 560–3 569, l'or reste loin sous la zone ; plan gardé. Mise à jour 16h Paris (26 nov.) : l'or vers 3 568, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 18h Paris (26 nov.) : l'or vers 3 565–3 572, toujours loin sous la zone ; plan gardé. Mise à jour 19h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 20h Paris (26 nov.) : l'or vers 3 571, toujours loin sous la zone ; plan gardé. Mise à jour 21h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 8h Paris (27 nov.) : l'or rebondit vers 3 650 (plus haut vers 3 667), toujours sous la zone ; pas de clôture au-dessus du seuil d'annulation, plan gardé. Mise à jour 9h Paris (27 nov.) : pas de cours plus récent que 3 630–3 650, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (27 nov.) : l'or vers 3 672, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (27 nov.) : l'or vers 3 672, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris : l'or vers 3 678, zone non atteinte, plan gardé. Mise à jour 13h Paris : l'or vers 3 671–3 678, zone non atteinte, plan gardé."
+    },
+    {
+      "side": "sell",
+      "name": "Vente sur retour vers 4 000",
+      "status": "watch",
+      "zone": [
+        3995,
+        4005
+      ],
+      "trigger": "Attendre une remontée dans 3 995–4 005 (ancien plancher 4 000 devenu résistance, plus haut de la nuit 4 001,20) puis une bougie 1 h de rejet : longue mèche haute ou clôture baissière sous 3 995.",
+      "stop": 4025,
+      "tps": [
+        3945,
+        3905
+      ],
+      "invalidAbove": 4020,
+      "note": "Plan gardé : l'or est vers 3 624 (fin de matinée), environ 375 $ sous la zone, peu probable à court terme. Ancien plancher 4 000 devenu résistance. Objectif 1 vers 3 945, objectif 2 avant 3 900. Stop au-dessus de la ligne de tendance 4 022. Une clôture 1 h au-dessus de 4 020 annule le plan. Mise à jour 19h Paris : l'or vers 3 578, plan gardé. Mise à jour 20h Paris : pas de nouveau cours après 3 578, plan gardé. Mise à jour 21h Paris : l'or vers 3 560, plan gardé. Mise à jour 8h Paris (25 nov.) : l'or vers 3 525–3 545, loin sous la zone ; plan gardé. Mise à jour 9h Paris (25 nov.) : l'or vers 3 520–3 545, toujours loin sous la zone ; plan gardé. Mise à jour 10h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris (25 nov.) : l'or vers 3 527, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (25 nov.) : l'or vers 3 533, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (25 nov.) : l'or vers 3 531, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (25 nov.) : l'or vers 3 500 après le PCE et le PIB, plus bas vers 3 484 ; toujours loin sous la zone ; plan gardé. Mise à jour 16h Paris (25 nov.) : l'or vers 3 472–3 484, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (25 nov.) : pas de nouveau cours après 3 472–3 484, l'or reste sous la zone ; plan gardé. Mise à jour 18h Paris (25 nov.) : l'or vers 3 471–3 477, toujours sous la zone ; plan gardé. Mise à jour 19h Paris (25 nov.) : pas de nouveau cours net, l'or reste vers 3 471–3 484, sous la zone ; plan gardé. Mise à jour 20h Paris (25 nov.) : l'or vers 3 450 (plus bas vers 3 428), encore plus loin sous la zone ; plan gardé. Mise à jour 21h Paris (25 nov.) : l'or vers 3 455, toujours sous la zone ; plan gardé. Mise à jour 8h Paris (26 nov.) : l'or vers 3 567 après un rebond à 3 603 ; toujours sous la zone ; plan gardé. Mise à jour 9h Paris (26 nov.) : l'or vers 3 565, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 11h Paris (26 nov.) : pas de cours plus récent que 3 565–3 581, l'or reste sous la zone ; plan gardé. Mise à jour 12h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 13h Paris (26 nov.) : l'or vers 3 578, toujours loin sous la zone ; plan gardé. Mise à jour 14h Paris (26 nov.) : l'or vers 3 565, toujours loin sous la zone ; plan gardé. Mise à jour 15h Paris (26 nov.) : pas de cours plus récent que 3 560–3 569, l'or reste loin sous la zone ; plan gardé. Mise à jour 16h Paris (26 nov.) : l'or vers 3 568, toujours loin sous la zone ; plan gardé. Mise à jour 17h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 18h Paris (26 nov.) : l'or vers 3 565–3 572, toujours loin sous la zone ; plan gardé. Mise à jour 19h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 20h Paris (26 nov.) : l'or vers 3 571, toujours loin sous la zone ; plan gardé. Mise à jour 21h Paris (26 nov.) : l'or vers 3 570, toujours loin sous la zone ; plan gardé. Mise à jour 8h Paris (27 nov.) : l'or rebondit vers 3 650 (plus haut vers 3 667), toujours sous la zone ; pas de clôture au-dessus du seuil d'annulation, plan gardé. Mise à jour 9h Paris (27 nov.) : pas de cours plus récent que 3 630–3 650, toujours sous la zone ; plan gardé. Mise à jour 10h Paris (27 nov.) : l'or vers 3 672, toujours loin sous la zone ; plan gardé. Mise à jour 11h Paris (27 nov.) : l'or vers 3 672, toujours loin sous la zone ; plan gardé. Mise à jour 12h Paris : l'or vers 3 678, zone non atteinte, plan gardé. Mise à jour 13h Paris : l'or vers 3 671–3 678, zone non atteinte, plan gardé."
+    },
+    {
+      "side": "buy",
+      "name": "Achat sur retour vers 3 605",
+      "status": "watch",
+      "zone": [
+        3600,
+        3612
+      ],
+      "trigger": "Attendre un repli dans 3 600–3 612 (sortie de biseau 3 606 selon StoneX, retracement 50 % vers 3 608 selon FXBrokerTrust, ancienne résistance 3 600–3 620 selon Mitrade) puis une bougie 1 h haussière : longue mèche basse ou clôture au-dessus de 3 612.",
+      "stop": 3578,
+      "tps": [
+        3650,
+        3690
+      ],
+      "invalidBelow": 3585,
+      "note": "Nouveau plan (27 nov., 8h Paris), qui remplace la vente sur rejet de 3 600 : l'or a dépassé 3 635 (plus haut vers 3 667, 3 650 à 6h45 GMT), seuil d'annulation franchi et stop de 3 640 touché. Plan à contre-sens du biais, donc taille réduite : on joue seulement la cassure de 3 606 si elle tient en retest. Stop sous le plus bas de vendredi des contrats à terme (3 578,8) et sous la zone 3 600, à 3 578. Objectif 1 vers 3 650 (prix de ce matin), objectif 2 vers 3 690 (objectif StoneX, bas de la résistance 3 673–3 693 de Mitrade). Ratio gain/risque d'environ 3 sur l'objectif 2 depuis 3 606. Une clôture 1 h sous 3 585 annule le plan. Mise à jour 9h Paris (27 nov.) : pas de cours plus récent que 3 630–3 650, l'or n'est pas revenu dans la zone 3 600–3 612 ; plan gardé. Mise à jour 10h Paris (27 nov.) : l'or vers 3 672, au-dessus de la zone 3 600–3 612 ; pas de repli, plan gardé. Mise à jour 11h Paris (27 nov.) : pas de cours plus récent que 3 672, l'or reste au-dessus de la zone 3 600–3 612 ; plan gardé. Mise à jour 12h Paris : l'or vers 3 678, zone non atteinte, plan gardé. Mise à jour 13h Paris : l'or vers 3 671–3 678, au-dessus de la zone ; LiteFinance voit un support 4 h à 3 580,75 juste sous le seuil d'annulation 3 585 ; plan gardé."
+    }
+  ],
+  "levels": [
+    {
+      "p": 4225,
+      "kind": "res",
+      "label": "Résistance 4 187–4 227 (Mitrade), 4 200–4 230 (TradingKey), stop de la vente haute (4 235)"
+    },
+    {
+      "p": 4186,
+      "kind": "res",
+      "label": "Moyenne mobile 50 jours vers 4 186 (FXEmpire, 10 nov.), retracement 61,8 % à 4 197"
+    },
+    {
+      "p": 4185,
+      "kind": "res",
+      "label": "Zone de vente 4 180–4 200, retracement 38,2 % vers 4 180 (Tradingpedia), résistance 4 200 (Kitco)"
+    },
+    {
+      "p": 4150,
+      "kind": "res",
+      "label": "Résistance 4 147,6–4 150 (FXEmpire, TradingKey), 4 145–4 157 (Mitrade), plus haut récent 4 147 (Kitco), objectif 2 de l'achat"
+    },
+    {
+      "p": 4135,
+      "kind": "res",
+      "label": "Résistance 4 135 (bas de la zone 4 135–4 197, FXEmpire), plus haut de la semaine passée 4 138,8 (Forexuro)"
+    },
+    {
+      "p": 4103,
+      "kind": "res",
+      "label": "Moyenne 200 périodes 4 h vers 4 103 (Tradingpedia), seuil 4 100 : stop de la vente sur rebond au-dessus (4 115) ; R1 Forexuro 4 108,70"
+    },
+    {
+      "p": 4089,
+      "kind": "res",
+      "label": "Résistance 4 088 (FXEmpire), 4 074–4 082 (Mitrade), 4 070–4 100 (GoodReturns) : zone de vente 4 085–4 100 ; objectif LiteFinance 4 092"
+    },
+    {
+      "p": 4076,
+      "kind": "res",
+      "label": "Ancienne zone d'achat 4 070–4 082 (Mitrade), clôture de vendredi 4 070 : cassée après le CPI"
+    },
+    {
+      "p": 4051,
+      "kind": "res",
+      "label": "Pivot 4 051 (FXEmpire), moyenne 20 jours vers 4 061 (InvestingCube) : prix actuel vers 3 668, bien en dessous"
+    },
+    {
+      "p": 4050,
+      "kind": "sup",
+      "label": "Pivot 4 051 (FXEmpire), support 4 036–4 047 (LiteFinance), objectif 1 de la vente sur rebond"
+    },
+    {
+      "p": 4020,
+      "kind": "res",
+      "label": "Ligne de tendance 4 022 (FXEmpire), ancien plus bas 4 026 : stop de la vente sur retour au-dessus (4 025) ; retracement 61,8 % à 4 035,58 (FXEmpire)"
+    },
+    {
+      "p": 4000,
+      "kind": "res",
+      "label": "Ancien plancher 4 000 devenu résistance, plus haut du jour 4 001,20 (Kitco), pivot 3 992 (FXEmpire) : zone de vente 3 995–4 005"
+    },
+    {
+      "p": 3975,
+      "kind": "res",
+      "label": "Ancien support 3 970–3 980 (Mitrade), cassé dans la nuit"
+    },
+    {
+      "p": 3970,
+      "kind": "res",
+      "label": "Résistance 3 965 (StoneX), 3 950–3 970 (TradingKey), R1 3 970 (FXEmpire, TraderFactor)"
+    },
+    {
+      "p": 3945,
+      "kind": "res",
+      "label": "Ancien support 3 942–3 944 (FOREX.com, FXEmpire), pivot 3 943 (IC Markets), 3 947 (RoboForex) : résistance, objectif 1 de la vente"
+    },
+    {
+      "p": 3930,
+      "kind": "res",
+      "label": "Résistance 3 920 (StoneX, haut de la fourchette courte), 3 922 (RoboForex), 3 920–3 930 (Mitrade), 3 930 (TradingKey)"
+    },
+    {
+      "p": 3911,
+      "kind": "res",
+      "label": "Pivot 3 903–3 911 (FXEmpire), résistance 3 911 (TraderFactor) : au-dessus, la pression vendeuse se calme ; puis 3 934 (FXEmpire)"
+    },
+    {
+      "p": 3900,
+      "kind": "res",
+      "label": "Résistance 3 900 (FXStreet), plus haut du jour 3 891,60 (Kitco) ; plus hauts descendants 3 922 puis 3 888 (Mitrade) ; résistance 3 891 (ActionForex)"
+    },
+    {
+      "p": 3880,
+      "kind": "res",
+      "label": "Ancien support 3 880 (Kedia Advisory), pivot journalier 3 891,8 (FXEmpire) ; pivot et résistance 3 888 (FXEmpire)"
+    },
+    {
+      "p": 3870,
+      "kind": "res",
+      "label": "Ancien support 3 855–3 870 (Mitrade), support 4 h 3 870,24 (StoneX) : cassé ; résistance 3 867–3 876 (LiteFinance)"
+    },
+    {
+      "p": 3859,
+      "kind": "res",
+      "label": "Pivot journalier 3 859 (FXEmpire), résistance 3 859 (TraderFactor), seuil 3 850 à reprendre pour calmer la baisse : stop de la vente sur retour au-dessus (3 866)"
+    },
+    {
+      "p": 3840,
+      "kind": "res",
+      "label": "Ancien support 3 832–3 852 (plus bas de lundi 3 832,20, FXEmpire 3 852) devenu résistance, 3 830–3 850 (TraderFactor) : zone de vente 3 830–3 850 ; support cassé 3 830,74 (IC Markets), 3 815–3 835 (Mitrade) ; retracement 50 % à 3 826 (TradingPedia)"
+    },
+    {
+      "p": 3821,
+      "kind": "res",
+      "label": "Résistance 3 821 (FXEmpire), 3 827 (TraderFactor), S1 3 826,81 de mardi"
+    },
+    {
+      "p": 3802,
+      "kind": "res",
+      "label": "Résistance 3 790–3 800 (LiteFinance, zone de vente), 3 791 (FXEmpire), 3 780 (Kitco) ; résistance 3 805 (FXEmpire) ; objectif 1 de la vente vers 3 790"
+    },
+    {
+      "p": 3781,
+      "kind": "res",
+      "label": "Ancien support 3 781 (FXEmpire), 3 780 (TraderFactor) : cassé en fin de matinée"
+    },
+    {
+      "p": 3766,
+      "kind": "res",
+      "label": "Ancien support 3 766 (FXEmpire) : cassé vers 13h GMT"
+    },
+    {
+      "p": 3766,
+      "kind": "res",
+      "label": "Résistance 3 746–3 766 (Mitrade) : stop de la vente 3 700–3 730 au-dessus (3 770) ; objectifs InvestingCube 3 709 puis 3 780"
+    },
+    {
+      "p": 3760,
+      "kind": "res",
+      "label": "Support 4 h 3 730–3 760 sur une ligne de tendance baissière (FXEmpire), objectif 2 de la vente ; résistance Mitrade 3 750 en séance, bande de Bollinger basse vers 3 770 (KuCoin) ; supports 3 762 / 3 731 (ATFX) ; retracement 38,2 % à 3 750 (TradingPedia)"
+    },
+    {
+      "p": 3751,
+      "kind": "res",
+      "label": "Pivot et résistance 3 755 (FXEmpire), 3 750 (Kitco), haut de l'ancienne zone 3 737–3 747 cassée (LiteFinance)"
+    },
+    {
+      "p": 3742,
+      "kind": "sup",
+      "label": "Ancienne zone 3 737–3 747 cassée (LiteFinance), clôture précédente 3 742 (Rio Times), bas de la ligne de tendance 4 h 3 730 (FXEmpire)"
+    },
+    {
+      "p": 3700,
+      "kind": "res",
+      "label": "Seuil 3 700, résistance 3 685–3 700 (Mitrade), 3 695 (Trade Nation), 3 700–3 730 (Goodreturns), 3 729,82 (LiteFinance), ligne de tendance baissière vers 3 700 (FXEmpire) : zone de vente 3 700–3 730 ; plus haut du jour 3 690,20 (Kitco)"
+    },
+    {
+      "p": 3690,
+      "kind": "res",
+      "label": "Résistance 3 673–3 693 (Mitrade), objectif 3 690 de la sortie de biseau (StoneX) : objectif 2 de l'achat vers 3 605"
+    },
+    {
+      "p": 3667,
+      "kind": "res",
+      "label": "Ancien plus bas de 14 mois à 3 667, cassé à la hausse ce lundi : l'or y revient vers 3 669 ; résistance Kitco 3 678"
+    },
+    {
+      "p": 3665,
+      "kind": "res",
+      "label": "Moyenne 200 heures vers 3 665 (FXBrokerTrust), plus haut de vendredi matin vers 3 667 (Investing.com)"
+    },
+    {
+      "p": 3651,
+      "kind": "res",
+      "label": "Ancienne résistance 3 630–3 650 (Mitrade), 3 651 (Trade Nation, FXEmpire), 3 643 (LiteFinance) : franchie, devient support ; objectif 1 de la vente 3 700–3 730 ; résistance clé 3 648–3 662 (LiteFinance)"
+    },
+    {
+      "p": 3651,
+      "kind": "res",
+      "label": "Haut de la zone de base 3 651 (FXEmpire via FinanceFeeds), 3 634 qui a plafonné mardi (TradingNews) : stop de la vente vers 3 600 au-dessus (3 640)"
+    },
+    {
+      "p": 3606,
+      "kind": "sup",
+      "label": "Sortie de biseau 3 606 (StoneX), retracement 50 % vers 3 608 (FXBrokerTrust), ancienne résistance 3 600–3 620 (Mitrade) : zone d'achat 3 600–3 612"
+    },
+    {
+      "p": 3567,
+      "kind": "sup",
+      "label": "Clôture de jeudi vers 3 567 (CNBC via FinanceFeeds), plus bas de vendredi 3 558 (Investing.com)"
+    },
+    {
+      "p": 3552,
+      "kind": "sup",
+      "label": "Clôture de mardi 3 552,50 : objectif 1 de la vente vers 3 600"
+    },
+    {
+      "p": 3505,
+      "kind": "sup",
+      "label": "Support 3 500–3 520 (Mitrade), 3 503 bas de la zone de base (FXEmpire) : objectif 2 de la vente vers 3 600"
+    },
+    {
+      "p": 3475,
+      "kind": "sup",
+      "label": "Extension de Fibonacci 3 475 (FXEmpire), 3 450–3 475 (Mitrade), 3 447 testé plusieurs fois ; sous 3 518 en clôture, objectif 3 421 (FXEmpire) ; clôture hebdomadaire sous 3 500 : 3 300–3 400 possible (FXEmpire, The National)"
+    },
+    {
+      "p": 3446,
+      "kind": "sup",
+      "label": "Plus bas de mercredi vers 3 446 (FinanceFeeds, TradingNews), plus bas depuis août–septembre 2025 ; support 3 440–3 460 (Mitrade)"
+    },
+    {
+      "p": 3400,
+      "kind": "sup",
+      "label": "Support 3 380–3 400 (Mitrade), 3 400 seuil rond (TradingNews) ; puis 3 350–3 380"
+    }
+  ],
+  "factors": [
+    {
+      "name": "Fed et taux directeurs",
+      "impact": -1,
+      "text": "Taux à 3,75–4 %. La hausse d'un quart de point les 8–9 décembre est jugée presque certaine : 96,2 % (FXBrokerTrust) à 99,4 % (Mitrade) vendredi matin. Les marchés voient aussi 64,3 % de chances d'un taux à 4,25–4,50 % fin janvier (FXBrokerTrust)."
+    },
+    {
+      "name": "Rendement américain à 10 ans",
+      "impact": -1,
+      "text": "Le 10 ans est vers 4,92 % vendredi (FinanceFeeds, Investing.com). Des taux hauts pèsent sur l'or."
+    },
+    {
+      "name": "Banque d'Angleterre",
+      "impact": 0,
+      "text": "Hausse du taux de 3,75 % à 4 %, vote 8–1 (Catherine Mann voulait 4,25 %), première hausse depuis août 2023 (Trading Economics). L'or garde ses gains (Kitco) : effet limité."
+    },
+    {
+      "name": "Croissance et inflation US",
+      "impact": -2,
+      "text": "CPI d'octobre +0,4 % sur un mois (0,3 % attendu, 0,6 % en septembre), hors énergie et alimentation +0,3 % (0,2 % attendu) (StockTitan, Trading Economics). Pas de chiffre sur un an (shutdown). L'inflation de fond tourne vers 3,7 % en rythme annuel sur trois mois. PIB T3 à 3,4 %, PCE de septembre à 3,6 %. Ventes de logements anciens en baisse de 5,5 % en octobre, à 3,75 millions (Kitco). PPI d'octobre +0,3 % sur un mois (0,4 % attendu, septembre révisé à 1,4 %), 6,5 % sur un an (6,6 % attendu), plus haut depuis novembre 2022 ; hors alimentation, énergie et commerce +0,5 % pour le deuxième mois de suite, 4,9 % sur un an (ActionForex). Enquête Empire State de New York de novembre à 7,8 (17,6 attendu, 25,5 avant), sans rebond de l'or (Mitrade). Ventes au détail d'octobre +0,2 % sur un mois (0,1 à 0,2 % attendu), groupe de contrôle +0,6 % (0,4 % attendu), contrôle de septembre relevé à 0,5 % (Reuters via Investing.com, 17 nov.). Prix à l'importation +1,1 % (0,7 % attendu) et production industrielle -0,4 % en octobre (FXEmpire, TraderFactor). Indice de la Fed de Philadelphie de novembre à 6,3 (20 attendu, 20,9 avant), plus bas de six mois, mais prix payés en hausse à 58,2 contre 43,2 (Newsquawk) : activité plus faible, inflation toujours présente. Moral des ménages Michigan final de novembre à 51,5 (51,5 attendu, 48 en octobre), attentes d'inflation à un an en baisse de 4,7 % à 3,7 % et à long terme de 3,5 % à 3,3 % (Kitco) : un peu moins de pression sur l'inflation, sans effet sur l'or pour l'instant. PMI flash de novembre plus faibles que prévu : services 54,7 (55,7 attendu, 57,9 avant), industrie 54,5 (54,9 attendu), composite 54,6 (55,9 avant) ; les prix restent élevés selon S&P Global (investingLive). Mercredi 13h30 UTC : PCE d'octobre à 3,8 % sur un an, conforme (3,6 % avant, CoinGape) ; PCE de fond à 3,3 % sur un an, au-dessus des 3,2 % attendus (FXStreet) ; PIB du 3e trimestre révisé à 4,3 % contre 3,4 % (FXStreet, investingLive). Croissance forte et inflation de fond tenace : la hausse de la Fed en décembre est confortée. Commandes de biens durables d'octobre +0,2 % (0,4 % attendu), biens d'équipement hors défense et aviation +1,2 % (0,4 % attendu) ; ventes de logements neufs d'octobre +14,2 % à 701 000 (650 000 attendues) : l'or tombe à son plus bas de séance (Kitco)."
+    },
+    {
+      "name": "Emploi américain",
+      "impact": -1,
+      "text": "NFP d'octobre à 165 000 postes (65 000 attendus), septembre révisé de 29 000 à 60 000, août et septembre relevés de 84 000 au total. Chômage à 4,1 % (4,2 % attendu), salaire horaire +0,4 % sur un mois (+0,3 % attendu) (Trading Economics, Bloomberg). Inscriptions au chômage à 189 000, ADP à 86 000. Un marché du travail aussi solide justifie une hausse des taux. Inscriptions au chômage de la semaine à 200 000 (195 000 attendues, 191 000 révisé la semaine d'avant) ; inscriptions continues à 1,697 million (IndexBox). Jeudi 19 nov. : inscriptions au chômage à 203 000 (197 000 à 199 000 attendues, 202 000 révisé avant), inscriptions continues en forte hausse à 1,763 million (1,71 million attendu) (ActionForex, Newsquawk). Un peu de détente, sans effet sur l'or pour l'instant."
+    },
+    {
+      "name": "Dollar",
+      "impact": -1,
+      "text": "L'indice du dollar vers 103,7 (CNBC via FinanceFeeds) reste ferme (Mitrade). Un dollar fort freine le rebond de l'or."
+    },
+    {
+      "name": "Élections de mi-mandat",
+      "impact": 1,
+      "text": "Les démocrates gagnent les deux chambres du Congrès (FinanceFeeds, Mitrade). Moins de dépenses publiques attendues, dollar et rendements en baisse : l'or a pris 3,4 % mercredi, sa plus forte hausse depuis le 19 août, et continue ce jeudi."
+    },
+    {
+      "name": "Pétrole et Golfe",
+      "impact": 1,
+      "text": "Brent vers 92 $ et WTI vers 83 $ vendredi (Mitrade, Trading Economics). Le trafic dans le détroit d'Ormuz reste très perturbé après des attaques contre trois navires d'ADNOC, le blocus américain des ports iraniens continue et les discussions de paix n'avancent pas (Mitrade). Pas d'achat refuge sur l'or pour l'instant, mais un risque de hausse soudaine. Lundi : Donald Trump dit vouloir reprendre la guerre contre l'Iran au début de l'année prochaine faute d'accord, et les Gardiens de la révolution disent avoir abattu un drone américain au-dessus d'Ormuz (TradingPedia). Lundi soir : le pétrole recule, Brent vers 88 $ et WTI vers 80 $ (Eurasia Business News). Mardi matin : WTI vers 79,8 $ (ATFX), Brent vers 89,4 $ après -3,5 % lundi (Mitrade). Mercredi : attaques contre des navires près d'Ormuz et pourparlers États-Unis–Iran bloqués, ce qui soutient surtout le dollar (FXStreet via ANC). Mardi soir : WTI et Brent +2,3 % après l'attaque d'un pétrolier dans le détroit d'Ormuz (Mitrade). Jeudi : les Houthis revendiquent des attaques à Riyad et sur une raffinerie saoudienne, la coalition frappe Hodeidah ; effet surtout en soutien du dollar (Tradingpedia)."
+    },
+    {
+      "name": "Technique",
+      "impact": -1,
+      "text": "Vendredi matin, l'or rebondit vers 3 650 (plage 3 558–3 667, Investing.com) et sort du biseau baissier 4 h à 3 606 (StoneX, objectif 3 690). RSI 1 h vers 54 (Mitrade). Mais l'or reste sous la moyenne 200 heures vers 3 665 et sous 3 700 ; plus bas de 15 mois mercredi vers 3 427–3 446. La tendance de fond reste baissière. FXEmpire place la moyenne 200 heures dans 3 680–3 700 et la moyenne 50 jours vers 4 000 ; son tableau de signaux reste vendeur (15 vente, 5 achat)."
+    },
+    {
+      "name": "Achats des banques centrales",
+      "impact": 1,
+      "text": "Environ 170 tonnes achetées en 2026. La banque centrale chinoise a acheté environ 25,8 tonnes en octobre, sa plus forte hausse mensuelle depuis septembre 2023 (FXEmpire). Un soutien de fond sur les baisses. Kitco note que la Chine achète de l'or depuis deux ans d'affilée. Les banques centrales ont acheté 675 tonnes depuis le début de l'année, +6 % sur un an ; les achats ont tendance à reprendre sous 4 000 $ (Kitco, investingLive). La Chine a relevé ses réserves d'or pour le 24e mois de suite fin octobre (ad-hoc-news). Les exportations d'or suisses ont chuté de 34 % en octobre, à 109,7 tonnes (Reuters via Rallies). Les banques centrales ont acheté environ 321 t au 3e trimestre (FinanceFeeds, TradingNews)."
+    },
+    {
+      "name": "ETF sur l'or",
+      "impact": 1,
+      "text": "Record de 4 256 tonnes détenues fin septembre (World Gold Council), plus de 50 t entrées en septembre selon ANZ : les investisseurs de long terme n'ont pas vendu. Le World Gold Council a toutefois abaissé sa prévision de demande d'investissement pour 2026 à 200 t (contre 400 t), à cause de ventes de lingots et pièces plus faibles. ANZ prévient que ces avoirs ETF élevés laissent de la place à des ventes si la Fed durcit encore (Reuters via Rallies). Le fonds GLD a perdu 1,37 milliard de dollars de sorties sur 30 jours (TradingNews). Environ 20 t de sorties des ETF mondiaux la semaine dernière, menées par GLD (TradingNews)."
+    },
+    {
+      "name": "Chute des actions",
+      "impact": -1,
+      "text": "Jeudi, le Dow Jones a perdu 2,19 %, le S&P 500 2,02 % (sixième baisse de suite) et le Nasdaq 2,25 % (Mitrade) ; le Nikkei chute de 4,77 % vendredi (Investing.com). Des investisseurs vendent de l'or pour couvrir des appels de marge (Investing.com) : la chute des actions pèse sur l'or au lieu de le soutenir. Les pertes sur les valeurs de l'IA poussent des investisseurs à vendre de l'or pour couvrir d'autres pertes (Reuters via Cryptometer). Pepperstone parle d'une « tempête parfaite » de vents contraires et de liquidations forcées (The National). Le CME a relevé mardi soir la marge sur l'or de 5 % à 6 % (argent de 8 % à 9 %) : risque de nouvelles ventes forcées (ANC). Mercredi en séance : Nasdaq -4,01 %, S&P 500 -2,72 %, Dow -1,41 %, argent -5,7 % (Longbridge via KuCoin) : les ventes forcées continuent."
+    },
+    {
+      "name": "Sentiment",
+      "impact": 0,
+      "text": "Goldman Sachs vise 4 150 $ fin 2026 (contre 4 650). Pour Tai Wong, le CPI sera « un test décisif » pour le rebond ; selon FXStreet, le rebond manque encore d'élan (JournalArta). Blue Line voit une éventuelle cassure de 4 000 comme une dernière purge (FinanceFeeds). Standard Chartered voit au contraire un rebond vers 4 650 $ d'ici la fin d'année (Kitco). Goldman Sachs voit l'or revenir à 5 600 $ en 2028 (Kitco, 17 nov.). Pour Dilin Wu (Pepperstone), il faut rester prudent avant de parler de plancher : de nouvelles ventes forcées restent possibles (ANC)."
+    },
+    {
+      "name": "Droits de douane",
+      "impact": 1,
+      "text": "Washington prépare de nouveaux droits de douane sur la Chine, l'Union européenne et plus d'une dizaine d'autres pays (Bloomberg via BigGo et FinanceFeeds) ; rien n'est encore en vigueur (TraderFactor). Un regain de tensions commerciales peut soutenir l'or comme valeur refuge."
+    }
+  ],
+  "noTrade": [
+    "Ne pas acheter en pleine hausse vers 3 650–3 665 : attendre un repli vers 3 600–3 612 avec un signal haussier.",
+    "Ne pas vendre le rebond avant un signal de rejet dans 3 700–3 730 : une clôture 1 h au-dessus de 3 766 annule cette idée de vente.",
+    "Black Friday : séance courte aux États-Unis, liquidité faible, mouvements brusques possibles.",
+    "Risque maximum de 1 % du capital par trade, stop toujours posé dès l'entrée."
+  ],
+  "calendar": [
+    {
+      "at": "2026-11-04T13:15:00Z",
+      "event": "Emploi privé ADP d'octobre",
+      "importance": 2,
+      "why": "Avant-goût du NFP de vendredi. Consensus 69 000 (90 000 le mois dernier). Chiffre faible = bon pour l'or.",
+      "result": "86 000 postes (67 000 attendus) : plus fort que prévu, l'or tient vers 4 045 $"
+    },
+    {
+      "at": "2026-11-04T15:00:00Z",
+      "event": "Indice ISM des services d'octobre",
+      "importance": 2,
+      "why": "Surveillé par les marchés (Mitrade). Services solides et prix élevés = hausse de taux plus probable = pression sur l'or.",
+      "result": "54,5 (54,8 attendu), prix payés 73 : un peu plus faible que prévu, l'or tient vers 4 039 $"
+    },
+    {
+      "at": "2026-11-05T12:00:00Z",
+      "event": "Décision de la Banque d'Angleterre",
+      "importance": 1,
+      "why": "Hausse attendue de 3,75 % à 4 %, vote attendu 7–2 (1Trader). Effet indirect sur l'or via le dollar.",
+      "result": "Taux relevé à 4 %, vote 8–1 : conforme à l'attente de hausse, l'or tient vers 4 120 $"
+    },
+    {
+      "at": "2026-11-05T13:30:00Z",
+      "event": "Inscriptions hebdomadaires au chômage",
+      "importance": 2,
+      "why": "Dernier chiffre de l'emploi avant le NFP. Hausse des inscriptions = bon pour l'or. Consensus 196 000, 195 000 la semaine d'avant.",
+      "result": "189 000 (196 000 attendus) : emploi solide, l'or tient vers 4 126 $"
+    },
+    {
+      "at": "2026-11-06T13:30:00Z",
+      "event": "Rapport sur l'emploi (NFP)",
+      "importance": 3,
+      "why": "L'événement clé avant la Fed de décembre. Consensus 65 000 emplois (29 000 en septembre), chômage 4,2 %, salaire horaire +0,3 % sur un mois (Mitrade, TradingKey). Plus de 100 000 = test de 4 000 possible ; moins de 30 000 ou chômage à 4,3 % = hausse de l'or (Mitrade).",
+      "result": "165 000 postes (65 000 attendus), chômage 4,1 %, salaire +0,4 % : très fort, l'or recule vers 4 047 $"
+    },
+    {
+      "at": "2026-11-06T15:00:00Z",
+      "event": "Moral des ménages Michigan (novembre, première estimation)",
+      "importance": 2,
+      "why": "Attentes d'inflation des ménages surveillées par la Fed. Attentes en baisse = un peu moins de pression sur l'or.",
+      "result": "51, attentes d'inflation en baisse : l'or se stabilise vers 4 050 $"
+    },
+    {
+      "at": "2026-11-10T13:30:00Z",
+      "event": "Inflation CPI d'octobre",
+      "importance": 3,
+      "why": "Inflation chaude = hausse de taux plus probable = pression sur l'or. Attendu +0,3 % sur un mois et +0,2 % hors énergie et alimentation (TradingKey) ; septembre était à +0,6 %. Pas de chiffre sur un an (shutdown). Doux = 4 150 puis 4 200, chaud = 4 000.",
+      "result": "+0,4 % sur un mois (0,3 % attendu), +0,3 % hors énergie (0,2 % attendu) : plus chaud que prévu, l'or chute vers 4 020 $"
+    },
+    {
+      "at": "2026-11-12T13:30:00Z",
+      "event": "Inscriptions hebdomadaires au chômage",
+      "importance": 2,
+      "why": "Hausse des inscriptions = un peu bon pour l'or. Consensus 195 000.",
+      "result": "200 000 (195 000 attendues), 191 000 la semaine d'avant : un peu plus faible, mais l'or continue de chuter vers 3 890 $"
+    },
+    {
+      "at": "2026-11-13T13:30:00Z",
+      "event": "Prix à la production PPI",
+      "importance": 2,
+      "why": "Confirme ou non le CPI chaud. Attendu +0,4 % sur un mois (1,3 % en septembre) et +0,3 % hors énergie et alimentation (TradingKey, TraderFactor). Chiffre chaud = demi-point de la Fed plus probable = or vers 3 780 (FXEmpire) ; chiffre doux = rebond possible.",
+      "result": "+0,3 % sur un mois (0,4 % attendu), 6,5 % sur un an (6,6 % attendu), cœur hors commerce +0,5 % : mitigé, l'or ne rebondit pas et reste vers 3 880 $"
+    },
+    {
+      "at": "2026-11-16T17:00:00Z",
+      "event": "Discours de Kevin Warsh, président de la Fed (San Francisco)",
+      "importance": 2,
+      "why": "Ouverture d'une conférence de la Fed de San Francisco sur la productivité et l'emploi. Un ton dur sur l'inflation = pression sur l'or ; un ton prudent = rebond possible.",
+      "result": "Discours sur l'IA, aucun signal sur les taux (Reuters) : pas de réaction nette, l'or reste vers 3 855 $"
+    },
+    {
+      "at": "2026-11-17T13:30:00Z",
+      "event": "Ventes au détail et production industrielle d'octobre",
+      "importance": 2,
+      "why": "Santé du consommateur américain. Attendu +0,1 à +0,2 % sur un mois après +0,8 %, hors automobiles +0,4 % (Centrino, TradingKey). Chiffre fort = hausse de taux confortée = pression sur l'or (Forexuro).",
+      "result": "+0,2 % sur un mois (0,1 à 0,2 % attendu), groupe de contrôle +0,6 % (0,4 % attendu), septembre inchangé à +0,8 % (Reuters) : consommation solide, l'or reste faible vers 3 852 $"
+    },
+    {
+      "at": "2026-11-18T07:00:00Z",
+      "event": "Inflation CPI britannique d'octobre",
+      "importance": 1,
+      "why": "Effet indirect sur l'or via le dollar et la livre (Forexuro).",
+      "result": "Inflation britannique à 3,6 % sur un an en octobre (titre Investing.com), un peu sous les attentes selon Mitrade : effet limité, l'or reste vers 3 790 $"
+    },
+    {
+      "at": "2026-11-18T19:00:00Z",
+      "event": "Compte rendu de la Fed (minutes)",
+      "importance": 2,
+      "why": "Détaille le débat sur une hausse en décembre. Un ton dur peut pousser l'or vers 3 760 puis 3 730 ; un ton plus prudent peut lancer un rebond vers 3 830–3 850.",
+      "result": "Ton dur : presque tous les membres attendent une hausse en décembre, deux ont parlé d'un demi-point (Mitrade). L'or touche un plus bas de 14 mois vers 3 703–3 719 $ puis remonte vers 3 735 $"
+    },
+    {
+      "at": "2026-11-19T13:30:00Z",
+      "event": "Inscriptions hebdomadaires au chômage et indice de la Fed de Philadelphie",
+      "importance": 2,
+      "why": "Annoncés pour ce jeudi (Mitrade). Inscriptions attendues vers 197 000–200 000 (200 000 la semaine d'avant), Philadelphie vers 20–23 (20,9 avant) selon TraderFactor. Emploi et activité solides = hausse de taux confortée = pression sur l'or ; chiffres faibles = rebond possible.",
+      "result": "Inscriptions à 203 000 (197 000 à 199 000 attendues), continues 1,763 million ; Philadelphie à 6,3 (20 attendu), prix payés 58,2 : plutôt faible, mais l'or reste vers 3 715 $"
+    },
+    {
+      "at": "2026-11-20T15:00:00Z",
+      "event": "Moral des ménages Michigan (novembre, chiffre final) et discours de Waller et Cook (Fed)",
+      "importance": 2,
+      "why": "Moral des ménages à 10h heure de New York (FXEmpire) ; Waller et Cook parlent ce vendredi, heure non précisée. Attentes d'inflation en baisse ou ton plus prudent = rebond possible de l'or ; ton dur = pression sur l'or.",
+      "result": "Moral 51,5 (51,5 attendu, 48 avant), attentes d'inflation à un an à 3,7 % contre 4,7 % (Kitco) : conforme, l'or reste vers 3 569 $"
+    },
+    {
+      "at": "2026-11-23T14:45:00Z",
+      "event": "PMI flash américains de novembre (industrie et services)",
+      "importance": 2,
+      "why": "Activité solide = hausse de taux confortée = pression sur l'or ; chiffres faibles = rebond prolongé possible (ATFX, Mitrade).",
+      "result": "Services 54,7 (55,7 attendu), industrie 54,5 (54,9 attendu), composite 54,6 (55,9 avant) : plus faible que prévu, l'or monte vers 3 669 $"
+    },
+    {
+      "at": "2026-11-24T15:00:00Z",
+      "event": "Confiance des consommateurs (Conference Board) et indice de la Fed de Richmond",
+      "importance": 1,
+      "why": "Confiance attendue à 92,1 contre 91,7 avant (1Trader). Santé de l'économie américaine avant l'inflation PCE de mercredi (ATFX).",
+      "result": "Confiance à 103,3 (environ 92 attendu, 91,9 en octobre) : bien plus forte que prévu, l'or recule vers 3 602 $"
+    },
+    {
+      "at": "2026-11-25T13:30:00Z",
+      "event": "Inflation PCE d'octobre, PIB du 3e trimestre (2e estimation), commandes de biens durables et inscriptions au chômage",
+      "importance": 3,
+      "why": "PCE attendu à +0,3 % sur un mois et 3,8 % sur un an (3,6 % avant) ; PCE de fond +0,3 % sur un mois et 3,2 % sur un an (3,1 % avant), consensus CME/Econoday (TraderFactor). PIB du 3e trimestre : 3,4 % en première estimation. Plus fort que prévu = hausse de la Fed confortée = pression sur l'or ; plus faible = rebond possible vers 3 615 puis 3 680.",
+      "result": "PCE 3,8 % sur un an (conforme), PCE de fond 3,3 % (3,2 % attendu), PIB du 3e trimestre révisé à 4,3 % (3,4 % avant) : chiffres fermes, l'or passe brièvement sous 3 500 $ (plus bas vers 3 484) puis tourne vers 3 500 $ ; biens durables +0,2 % (0,4 % attendu), ventes de logements neufs +14,2 % à 701 000 : l'or tombe vers 3 428 (Kitco)"
+    },
+    {
+      "at": "2026-11-25T19:00:00Z",
+      "event": "Livre beige de la Fed",
+      "importance": 1,
+      "why": "Tableau de l'économie par région avant la réunion de décembre (TraderFactor). Ton prudent = petit soutien pour l'or."
+    },
+    {
+      "at": "2026-11-26T00:00:00Z",
+      "event": "Thanksgiving : marchés américains fermés",
+      "importance": 1,
+      "why": "Liquidité faible sur l'or toute la journée, séance courte vendredi."
+    },
+    {
+      "at": "2026-11-27T18:00:00Z",
+      "event": "Black Friday : séance courte aux États-Unis",
+      "importance": 1,
+      "why": "Marchés américains fermés plus tôt : liquidité faible sur l'or, mouvements brusques possibles (TraderFactor)."
+    },
+    {
+      "at": "2026-12-04T13:30:00Z",
+      "event": "Rapport sur l'emploi (NFP) de novembre",
+      "importance": 3,
+      "why": "Dernier grand chiffre avant la Fed (TradingNews). Emploi fort = hausse confortée = pression sur l'or ; emploi faible = rebond possible."
+    },
+    {
+      "at": "2026-12-09T19:00:00Z",
+      "event": "Décision de la Fed",
+      "importance": 3,
+      "why": "Réunion des 8–9 décembre. Hausse d'un quart de point jugée quasi certaine (93,9 % selon FXEmpire, 97,3 % selon Investing.com) : une surprise douce ferait bondir l'or."
+    }
+  ],
+  "sources": [
+    {
+      "title": "LiteFinance : l'or à 3 671,07 $, RSI 4 h à 55, résistances 3 643 et 3 729,82, support 3 580,75, hausse de la Fed à 93,5 % (27 nov.)",
+      "url": "https://www.litefinance.org/blog/analysts-opinions/gold-price-prediction-forecast/daily-and-weekly/"
+    },
+    {
+      "title": "The Hans India/Reuters : l'or rebondit de son plus bas de 15 mois, +2,7 % sur la semaine (27 nov.)",
+      "url": "https://www.thehansindia.com/business/gold-rebounds-from-15-month-low-as-precious-metals-rally-1146289"
+    },
+    {
+      "title": "Mitrade : l'or approche 3 700 $, 3 675,25 $ à 8h31 GMT, résistances 3 700 puis 3 800, supports 3 600 et 3 500 (27 nov.)",
+      "url": "https://www.mitrade.com/au/insights/commodity-analysis/gold-price/gold-price-nears-3700"
+    },
+    {
+      "title": "FXEmpire : l'or et l'argent rebondissent, moyenne 200 h vers 3 680–3 700, résistance 3 700, supports 3 500 et 3 430 (27 nov.)",
+      "url": "https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-silver-leads-rebound-as-ratio-falls-1647648"
+    },
+    {
+      "title": "Shafaq News/Reuters : l'or monte avec la pause des marchés américains (27 nov.)",
+      "url": "https://shafaq.com/en/Economy/Gold-prices-climb-as-US-holiday-eases-selloff"
+    },
+    {
+      "title": "FinanceFeeds : l'or à 3 650 $, 10 ans à 4,918 %, dollar à 103,73, PCE sous-jacent 3,3 % (27 nov.)",
+      "url": "https://financefeeds.com/gold-price-today-3650-friday-rebound-from-15-month-low-silver-up-6-percent-bull-3742-bear-3567/"
+    },
+    {
+      "title": "Tradingpedia : l'or bloqué sous 3 600, Fibonacci 3 595 et 3 701, moyenne 200 h vers 3 693 (26 nov.)",
+      "url": "https://www.tradingpedia.com/2026/11/26/gold-stalls-below-3600-on-strong-u-s-data-rate-bets/"
+    },
+    {
+      "title": "FXBrokerTrust : l'or vers 3 569 $, compte rendu ferme de la BCE, plus haut du jour 3 607, plus bas de l'après-midi 3 552 (26 nov.)",
+      "url": "https://www.fxbrokertrust.com/insights/spot-gold-rebounds-to-near-3570-as-hawkish-ecb-minutes-cap-gains"
+    },
+    {
+      "title": "FinScans : l'or à 3 569 $, hausse de la Fed à 97,5 %, supports 3 500 et 3 453 (26 nov.)",
+      "url": "https://finscans.com/news/2026/11/26/gold-stagnates-at-3569-as-fed-rate-hike-odds-hit-975-for"
+    },
+    {
+      "title": "ad-hoc-news : l'or rebondit de 4,4 % depuis son plus bas d'un an, 3 575 $ à 15h15, hausse de la Fed à 94,6 % (26 nov.)",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/gold-bounces-4-4-prozent-off-one-year-low-as-december-rate-fears-keep-a-lid-on-the-rebound/70558759"
+    },
+    {
+      "title": "FinanceFeeds : l'or à 3 650 $ vendredi, rebond depuis un plus bas de 15 mois, 10 ans à 4,92 % (27 nov.)",
+      "url": "https://financefeeds.com/gold-price-today-3650-friday-rebound-from-15-month-low-silver-up-6-percent-bull-3742-bear-3567/"
+    },
+    {
+      "title": "FXBrokerTrust : l'or repasse au-dessus de 3 600 $, moyenne 200 heures vers 3 665 (27 nov.)",
+      "url": "https://www.fxbrokertrust.com/insights/spot-gold-rises-above-3600-as-analyst-urges-caution"
+    },
+    {
+      "title": "Mitrade : niveaux de l'or, résistances 3 600–3 620 et 3 673–3 693, hausse de la Fed à 99,4 % (27 nov.)",
+      "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-dips-holiday-trading-recession-fears"
+    },
+    {
+      "title": "TraderFactor : l'or et le pétrole pour le Black Friday (27 nov.)",
+      "url": "https://traderfactor.com/forex-market-today-gold-oil-black-friday-trading/"
+    },
+    {
+      "title": "Investing.com/Reuters : l'or bondit de 3 % à 3 672 $ à 8h33 GMT, hausse de la Fed à 96,2 %, dollar à 103,81 (27 nov.)",
+      "url": "https://au.investing.com/news/commodities-news/gold-steadies-near-15month-low-as-fed-hike-bets-offset-techled-rally-4798147"
+    },
+    {
+      "title": "ANC : l'or à 3 640,84 $ à 6h09 GMT (Reuters), RHB voit résistance 3 750 et supports 3 500 puis 3 350 (27 nov.)",
+      "url": "https://ancstockinvestments.com/blog/2026/11/27/gold-heads-for-weekly-gain-after-one-year-low/"
+    }
+  ]
 }
